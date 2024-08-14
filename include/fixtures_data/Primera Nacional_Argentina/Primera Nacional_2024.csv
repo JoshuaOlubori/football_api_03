@@ -1,0 +1,723 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-02-03T20:30:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,0,0,San Miguel,Match Finished
+2024-02-03T20:30:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,1,0,Ferro Carril Oeste,Match Finished
+2024-02-03T20:00:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,2,0,Deportivo Maipu,Match Finished
+2024-02-03T23:00:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,1,0,Gimnasia Jujuy,Match Finished
+2024-02-04T20:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,1,1,Club Atlético Güemes,Match Finished
+2024-02-04T22:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,1,0,Alvarado,Match Finished
+2024-02-04T20:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,1,1,Racing Cordoba,Match Finished
+2024-02-02T20:10:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,1,0,Patronato,Match Finished
+2024-02-03T20:00:00+00:00,2024,Primera Nacional,Argentina,All Boys,1,0,Tristan Suarez,Match Finished
+2024-02-03T20:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,3,0,Brown DE Adrogue,Match Finished
+2024-02-03T22:10:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,1,0,Almagro,Match Finished
+2024-02-05T22:30:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,0,1,Defensores De Belgrano,Match Finished
+2024-02-03T00:30:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,1,0,San Telmo,Match Finished
+2024-02-03T23:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,0,1,Atletico DE Rafaela,Match Finished
+2024-02-04T23:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,1,0,Deportivo Madryn,Match Finished
+2024-02-04T00:10:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,2,1,Defensores Unidos,Match Finished
+2024-02-04T20:00:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,0,1,Atlanta,Match Finished
+2024-02-04T20:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,2,0,Chaco For Ever,Match Finished
+2024-02-03T22:05:00+00:00,2024,Primera Nacional,Argentina,Quilmes,2,0,Temperley,Match Finished
+2024-02-11T23:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,0,0,All Boys,Match Finished
+2024-02-11T22:00:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,1,3,Agropecuario,Match Finished
+2024-02-11T23:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,2,1,Guillermo Brown,Match Finished
+2024-02-11T20:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,1,0,San Martin S.J.,Match Finished
+2024-02-11T20:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,1,0,Arsenal Sarandi,Match Finished
+2024-02-11T21:30:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,0,2,San Martin Tucuman,Match Finished
+2024-02-09T22:10:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,0,2,Chacarita Juniors,Match Finished
+2024-02-10T20:00:00+00:00,2024,Primera Nacional,Argentina,San Miguel,0,0,CA Estudiantes,Match Finished
+2024-02-10T20:00:00+00:00,2024,Primera Nacional,Argentina,Quilmes,0,0,Talleres Remedios,Match Finished
+2024-02-11T20:00:00+00:00,2024,Primera Nacional,Argentina,Atlanta,0,0,Colon Santa Fe,Match Finished
+2024-02-11T20:00:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,1,0,Estudiantes de Rio Cuarto,Match Finished
+2024-02-10T20:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,0,2,Aldosivi,Match Finished
+2024-02-12T23:30:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,0,0,Atletico Mitre,Match Finished
+2024-02-10T20:00:00+00:00,2024,Primera Nacional,Argentina,San Telmo,1,1,Gimnasia Y Tiro,Match Finished
+2024-02-11T22:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,1,1,Gimnasia M.,Match Finished
+2024-02-11T20:00:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,1,0,Nueva Chicago,Match Finished
+2024-02-10T20:00:00+00:00,2024,Primera Nacional,Argentina,Almagro,2,1,Deportivo Moron,Match Finished
+2024-02-11T00:45:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,2,2,Temperley,Match Finished
+2024-02-11T00:15:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,1,2,Tristan Suarez,Match Finished
+2024-02-17T20:30:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,1,2,Quilmes,Match Finished
+2024-02-16T20:00:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,1,1,San Miguel,Match Finished
+2024-02-18T21:15:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,1,2,Ferro Carril Oeste,Match Finished
+2024-02-18T20:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,2,0,Deportivo Maipu,Match Finished
+2024-02-18T22:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,2,1,Gimnasia Jujuy,Match Finished
+2024-02-18T20:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,1,0,Club Atlético Güemes,Match Finished
+2024-02-17T23:00:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,1,1,Alvarado,Match Finished
+2024-02-19T23:00:00+00:00,2024,Primera Nacional,Argentina,All Boys,0,0,Racing Cordoba,Match Finished
+2024-02-17T20:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,0,1,Patronato,Match Finished
+2024-02-17T20:00:00+00:00,2024,Primera Nacional,Argentina,Temperley,4,1,Almagro,Match Finished
+2024-02-18T00:10:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,0,4,Defensores De Belgrano,Match Finished
+2024-03-05T22:00:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,2,0,Chaco For Ever,Match Finished
+2024-02-20T01:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,1,1,San Telmo,Match Finished
+2024-02-18T20:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,1,0,Atletico DE Rafaela,Match Finished
+2024-02-18T22:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,1,0,Deportivo Madryn,Match Finished
+2024-02-17T22:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,1,0,Defensores Unidos,Match Finished
+2024-02-18T23:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,1,2,Atlanta,Match Finished
+2024-02-18T23:10:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,2,1,Almirante Brown,Match Finished
+2024-02-17T20:30:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,2,0,Brown DE Adrogue,Match Finished
+2024-02-25T21:00:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,1,1,Tristan Suarez,Match Finished
+2024-02-25T23:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,1,0,All Boys,Match Finished
+2024-02-25T20:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,1,1,Agropecuario,Match Finished
+2024-02-25T20:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,1,0,Guillermo Brown,Match Finished
+2024-02-24T21:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,0,2,San Martin S.J.,Match Finished
+2024-02-25T00:45:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,1,1,Arsenal Sarandi,Match Finished
+2024-02-26T20:00:00+00:00,2024,Primera Nacional,Argentina,San Miguel,1,0,San Martin Tucuman,Match Finished
+2024-02-26T00:45:00+00:00,2024,Primera Nacional,Argentina,Quilmes,1,0,Chacarita Juniors,Match Finished
+2024-02-23T21:05:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,0,1,CA Estudiantes,Match Finished
+2024-04-17T19:40:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,0,3,Estudiantes de Rio Cuarto,Match Finished
+2024-02-28T00:10:00+00:00,2024,Primera Nacional,Argentina,Atlanta,0,2,Aldosivi,Match Finished
+2024-02-24T20:00:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,0,0,Atletico Mitre,Match Finished
+2024-02-24T20:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,0,0,Gimnasia Y Tiro,Match Finished
+2024-02-25T23:00:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,4,1,Gimnasia M.,Match Finished
+2024-02-25T20:00:00+00:00,2024,Primera Nacional,Argentina,San Telmo,1,0,Nueva Chicago,Match Finished
+2024-02-25T22:30:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,0,2,Deportivo Moron,Match Finished
+2024-02-24T00:10:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,0,0,Temperley,Match Finished
+2024-02-24T20:00:00+00:00,2024,Primera Nacional,Argentina,Almagro,0,0,Brown DE Adrogue,Match Finished
+2024-02-25T23:00:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,4,0,Patronato,Match Finished
+2024-03-03T20:00:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,0,1,Talleres Remedios,Match Finished
+2024-03-05T00:10:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,0,0,Quilmes,Match Finished
+2024-03-03T20:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,1,0,San Miguel,Match Finished
+2024-03-03T22:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,3,2,Ferro Carril Oeste,Match Finished
+2024-03-03T20:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,1,1,Deportivo Maipu,Match Finished
+2024-03-02T20:00:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,1,2,Gimnasia Jujuy,Match Finished
+2024-03-02T20:00:00+00:00,2024,Primera Nacional,Argentina,All Boys,0,0,Club Atlético Güemes,Match Finished
+2024-03-02T20:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,2,2,Alvarado,Match Finished
+2024-03-03T23:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,2,1,Racing Cordoba,Match Finished
+2024-03-02T22:15:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,0,3,Defensores De Belgrano,Match Finished
+2024-03-03T20:00:00+00:00,2024,Primera Nacional,Argentina,Temperley,1,1,Chaco For Ever,Match Finished
+2024-03-03T20:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,1,2,San Telmo,Match Finished
+2024-03-01T20:00:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,2,0,Atletico DE Rafaela,Match Finished
+2024-03-05T20:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,2,1,Deportivo Madryn,Match Finished
+2024-03-03T20:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,1,0,Defensores Unidos,Match Finished
+2024-03-03T20:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,0,0,Atlanta,Match Finished
+2024-03-03T20:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,0,0,Almirante Brown,Match Finished
+2024-03-04T00:30:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,1,2,Colon Santa Fe,Match Finished
+2024-03-02T20:00:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,1,1,Almagro,Match Finished
+2024-03-10T21:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,2,0,Patronato,Match Finished
+2024-03-10T20:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,2,2,Tristan Suarez,Match Finished
+2024-03-10T20:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,0,1,All Boys,Match Finished
+2024-03-10T20:30:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,1,2,Agropecuario,Match Finished
+2024-03-09T22:00:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,1,2,Guillermo Brown,Match Finished
+2024-03-09T20:00:00+00:00,2024,Primera Nacional,Argentina,San Miguel,1,1,San Martin S.J.,Match Finished
+2024-03-10T00:30:00+00:00,2024,Primera Nacional,Argentina,Quilmes,0,0,Arsenal Sarandi,Match Finished
+2024-03-10T22:10:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,1,3,San Martin Tucuman,Match Finished
+2024-03-09T20:00:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,0,0,Chacarita Juniors,Match Finished
+2024-03-10T22:10:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,1,1,Aldosivi,Match Finished
+2024-03-10T20:00:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,2,0,Atletico Mitre,Match Finished
+2024-03-12T00:10:00+00:00,2024,Primera Nacional,Argentina,Atlanta,1,1,Gimnasia Y Tiro,Match Finished
+2024-03-10T20:00:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,3,1,Gimnasia M.,Match Finished
+2024-03-09T20:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,0,0,Nueva Chicago,Match Finished
+2024-03-09T00:10:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,1,2,Deportivo Moron,Match Finished
+2024-03-11T20:00:00+00:00,2024,Primera Nacional,Argentina,San Telmo,3,0,Temperley,Match Finished
+2024-03-10T00:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,3,0,Brown DE Adrogue,Match Finished
+2024-03-09T20:00:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,0,0,Almagro,Match Finished
+2024-03-10T23:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,0,0,Racing Cordoba,Match Finished
+2024-03-17T21:00:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,2,0,CA Estudiantes,Match Finished
+2024-03-17T18:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,2,1,Talleres Remedios,Match Finished
+2024-03-16T00:30:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,0,3,Quilmes,Match Finished
+2024-03-17T19:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,1,1,San Miguel,Match Finished
+2024-03-19T00:45:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,1,2,Ferro Carril Oeste,Match Finished
+2024-03-16T20:35:00+00:00,2024,Primera Nacional,Argentina,All Boys,3,2,Deportivo Maipu,Match Finished
+2024-03-16T19:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,2,1,Gimnasia Jujuy,Match Finished
+2024-03-17T22:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,0,0,Club Atlético Güemes,Match Finished
+2024-03-17T19:30:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,2,0,Alvarado,Match Finished
+2024-03-17T19:00:00+00:00,2024,Primera Nacional,Argentina,Almagro,0,0,Chaco For Ever,Match Finished
+2024-03-15T22:40:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,0,0,San Telmo,Match Finished
+2024-03-15T22:10:00+00:00,2024,Primera Nacional,Argentina,Temperley,1,1,Atletico DE Rafaela,Match Finished
+2024-03-17T19:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,0,0,Deportivo Madryn,Match Finished
+2024-03-18T21:45:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,3,0,Defensores Unidos,Match Finished
+2024-03-18T21:30:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,2,1,Atlanta,Match Finished
+2024-03-19T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,0,0,Almirante Brown,Match Finished
+2024-03-17T20:15:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,2,2,Colon Santa Fe,Match Finished
+2024-03-16T21:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,1,1,Estudiantes de Rio Cuarto,Match Finished
+2024-03-16T18:30:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,1,4,Defensores De Belgrano,Match Finished
+2024-03-25T23:30:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,0,1,Racing Cordoba,Match Finished
+2024-03-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,1,1,Patronato,Match Finished
+2024-03-23T20:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,1,0,Tristan Suarez,Match Finished
+2024-03-25T22:00:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,2,2,All Boys,Match Finished
+2024-03-23T18:30:00+00:00,2024,Primera Nacional,Argentina,San Miguel,1,1,Agropecuario,Match Finished
+2024-03-23T20:40:00+00:00,2024,Primera Nacional,Argentina,Quilmes,1,0,Guillermo Brown,Match Finished
+2024-03-21T18:30:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,0,0,San Martin S.J.,Match Finished
+2024-03-23T18:30:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,1,0,Arsenal Sarandi,Match Finished
+2024-03-25T18:00:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,1,0,San Martin Tucuman,Match Finished
+2024-03-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,0,0,Atletico Mitre,Match Finished
+2024-03-26T00:45:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,1,0,Gimnasia Y Tiro,Match Finished
+2024-03-25T19:00:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,0,0,Gimnasia M.,Match Finished
+2024-03-25T23:50:00+00:00,2024,Primera Nacional,Argentina,Atlanta,0,0,Nueva Chicago,Match Finished
+2024-03-23T18:30:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,2,0,Deportivo Moron,Match Finished
+2024-03-23T19:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,0,1,Temperley,Match Finished
+2024-03-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,0,0,Brown DE Adrogue,Match Finished
+2024-03-23T19:00:00+00:00,2024,Primera Nacional,Argentina,San Telmo,4,1,Almagro,Match Finished
+2024-03-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,3,0,Defensores De Belgrano,Match Finished
+2024-03-23T18:35:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,0,0,Alvarado,Match Finished
+2024-03-30T16:05:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,3,1,Chacarita Juniors,Match Finished
+2024-04-01T22:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,0,0,CA Estudiantes,Match Finished
+2024-03-29T18:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,1,1,Talleres Remedios,Match Finished
+2024-03-29T22:05:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,1,1,Quilmes,Match Finished
+2024-03-31T20:45:00+00:00,2024,Primera Nacional,Argentina,All Boys,0,0,San Miguel,Match Finished
+2024-03-30T19:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,1,1,Ferro Carril Oeste,Match Finished
+2024-03-31T20:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,1,2,Deportivo Maipu,Match Finished
+2024-03-31T19:30:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,1,0,Gimnasia Jujuy,Match Finished
+2024-03-31T19:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,0,0,Club Atlético Güemes,Match Finished
+2024-04-01T18:30:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,0,1,San Telmo,Match Finished
+2024-03-30T19:00:00+00:00,2024,Primera Nacional,Argentina,Almagro,1,0,Atletico DE Rafaela,Match Finished
+2024-04-01T22:00:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,0,1,Deportivo Madryn,Match Finished
+2024-03-30T19:00:00+00:00,2024,Primera Nacional,Argentina,Temperley,0,0,Defensores Unidos,Match Finished
+2024-03-31T23:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,3,0,Atlanta,Match Finished
+2024-03-31T18:30:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,1,0,Almirante Brown,Match Finished
+2024-03-30T18:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,2,0,Colon Santa Fe,Match Finished
+2024-03-31T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,1,1,Estudiantes de Rio Cuarto,Match Finished
+2024-04-01T19:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,0,1,Aldosivi,Match Finished
+2024-04-02T00:10:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,1,0,Chaco For Ever,Match Finished
+2024-04-07T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,1,0,Alvarado,Match Finished
+2024-04-07T20:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,1,0,Racing Cordoba,Match Finished
+2024-04-07T22:00:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,1,1,Patronato,Match Finished
+2024-04-07T17:00:00+00:00,2024,Primera Nacional,Argentina,San Miguel,3,2,Tristan Suarez,Match Finished
+2024-04-07T19:05:00+00:00,2024,Primera Nacional,Argentina,Quilmes,1,0,All Boys,Match Finished
+2024-04-07T18:30:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,1,5,Agropecuario,Match Finished
+2024-04-07T18:30:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,2,1,Guillermo Brown,Match Finished
+2024-04-06T17:10:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,1,1,San Martin S.J.,Match Finished
+2024-04-07T00:10:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,3,0,Arsenal Sarandi,Match Finished
+2024-04-07T20:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,2,2,Gimnasia Y Tiro,Match Finished
+2024-04-07T21:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,1,1,Gimnasia M.,Match Finished
+2024-04-06T00:10:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,2,1,Nueva Chicago,Match Finished
+2024-04-06T17:30:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,1,1,Deportivo Moron,Match Finished
+2024-04-09T00:10:00+00:00,2024,Primera Nacional,Argentina,Atlanta,0,2,Temperley,Match Finished
+2024-04-06T18:30:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,1,1,Brown DE Adrogue,Match Finished
+2024-04-07T19:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,2,0,Almagro,Match Finished
+2024-04-07T21:10:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,0,1,Defensores De Belgrano,Match Finished
+2024-04-06T18:30:00+00:00,2024,Primera Nacional,Argentina,San Telmo,2,0,Chaco For Ever,Match Finished
+2024-04-07T20:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,2,0,Club Atlético Güemes,Match Finished
+2024-04-14T21:50:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,0,0,San Martin Tucuman,Match Finished
+2024-04-14T18:30:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,0,3,Chacarita Juniors,Match Finished
+2024-04-13T20:05:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,0,0,CA Estudiantes,Match Finished
+2024-04-14T22:10:00+00:00,2024,Primera Nacional,Argentina,All Boys,1,0,Talleres Remedios,Match Finished
+2024-04-14T17:30:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,1,3,Quilmes,Match Finished
+2024-05-08T20:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,0,1,San Miguel,Match Finished
+2024-04-14T19:00:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,1,1,Ferro Carril Oeste,Match Finished
+2024-04-14T22:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,0,1,Deportivo Maipu,Match Finished
+2024-04-14T21:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,1,1,Gimnasia Jujuy,Match Finished
+2024-04-13T20:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,2,0,Atletico DE Rafaela,Match Finished
+2024-04-15T00:00:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,2,3,Deportivo Madryn,Match Finished
+2024-04-13T18:30:00+00:00,2024,Primera Nacional,Argentina,Almagro,1,1,Defensores Unidos,Match Finished
+2024-04-13T18:00:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,2,3,Atlanta,Match Finished
+2024-04-13T18:05:00+00:00,2024,Primera Nacional,Argentina,Temperley,1,1,Almirante Brown,Match Finished
+2024-04-14T00:10:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,0,2,Colon Santa Fe,Match Finished
+2024-04-12T21:00:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,0,1,Estudiantes de Rio Cuarto,Match Finished
+2024-04-13T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,2,3,Aldosivi,Match Finished
+2024-04-14T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,1,0,Atletico Mitre,Match Finished
+2024-04-14T18:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,0,0,San Telmo,Match Finished
+2024-04-22T18:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,1,1,Club Atlético Güemes,Match Finished
+2024-04-23T22:00:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,3,0,Alvarado,Match Finished
+2024-04-21T16:00:00+00:00,2024,Primera Nacional,Argentina,San Miguel,2,0,Racing Cordoba,Match Finished
+2024-04-23T00:10:00+00:00,2024,Primera Nacional,Argentina,Quilmes,2,2,Patronato,Match Finished
+2024-04-20T23:00:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,1,0,Tristan Suarez,Match Finished
+2024-04-20T18:00:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,1,1,All Boys,Match Finished
+2024-04-21T18:30:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,2,1,Agropecuario,Match Finished
+2024-04-19T23:10:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,0,0,Guillermo Brown,Match Finished
+2024-04-21T16:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,0,0,San Martin S.J.,Match Finished
+2024-04-21T14:30:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,0,1,Gimnasia M.,Match Finished
+2024-04-21T19:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,0,0,Nueva Chicago,Match Finished
+2024-04-21T23:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,2,0,Deportivo Moron,Match Finished
+2024-04-20T22:05:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,0,0,Temperley,Match Finished
+2024-04-22T18:00:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,1,2,Brown DE Adrogue,Match Finished
+2024-04-20T16:35:00+00:00,2024,Primera Nacional,Argentina,Atlanta,3,0,Almagro,Match Finished
+2024-04-20T18:30:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,3,2,Defensores De Belgrano,Match Finished
+2024-04-21T16:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,1,0,Chaco For Ever,Match Finished
+2024-04-21T21:30:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,1,2,San Telmo,Match Finished
+2024-04-21T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,0,0,Gimnasia Jujuy,Match Finished
+2024-04-28T18:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,2,0,Arsenal Sarandi,Match Finished
+2024-04-27T21:40:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,0,1,San Martin Tucuman,Match Finished
+2024-04-28T22:10:00+00:00,2024,Primera Nacional,Argentina,All Boys,0,0,Chacarita Juniors,Match Finished
+2024-04-27T17:30:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,0,1,CA Estudiantes,Match Finished
+2024-04-27T19:35:00+00:00,2024,Primera Nacional,Argentina,Patronato,1,1,Talleres Remedios,Match Finished
+2024-04-29T00:10:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,1,0,Quilmes,Match Finished
+2024-04-28T18:30:00+00:00,2024,Primera Nacional,Argentina,Alvarado,1,0,San Miguel,Match Finished
+2024-04-28T19:30:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,1,3,Ferro Carril Oeste,Match Finished
+2024-04-28T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,2,0,Deportivo Maipu,Match Finished
+2024-04-28T18:30:00+00:00,2024,Primera Nacional,Argentina,San Telmo,2,1,Deportivo Madryn,Match Finished
+2024-04-28T19:30:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,3,0,Defensores Unidos,Match Finished
+2024-04-27T23:40:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,2,0,Atlanta,Match Finished
+2024-04-27T18:30:00+00:00,2024,Primera Nacional,Argentina,Almagro,1,0,Almirante Brown,Match Finished
+2024-04-28T16:10:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,0,4,Colon Santa Fe,Match Finished
+2024-04-28T18:30:00+00:00,2024,Primera Nacional,Argentina,Temperley,0,1,Estudiantes de Rio Cuarto,Match Finished
+2024-04-28T18:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,2,1,Aldosivi,Match Finished
+2024-04-27T21:00:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,1,0,Atletico Mitre,Match Finished
+2024-04-28T19:30:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,0,0,Gimnasia Y Tiro,Match Finished
+2024-04-28T19:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,2,1,Atletico DE Rafaela,Match Finished
+2024-05-05T20:00:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,2,0,Gimnasia Jujuy,Match Finished
+2024-05-04T18:30:00+00:00,2024,Primera Nacional,Argentina,San Miguel,1,0,Club Atlético Güemes,Match Finished
+2024-05-06T00:00:00+00:00,2024,Primera Nacional,Argentina,Quilmes,1,1,Alvarado,Match Finished
+2024-05-07T18:05:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,0,0,Racing Cordoba,Match Finished
+2024-05-04T18:30:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,0,0,Patronato,Match Finished
+2024-05-05T18:30:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,1,2,Tristan Suarez,Match Finished
+2024-05-04T22:40:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,0,0,All Boys,Match Finished
+2024-05-04T18:30:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,1,0,Agropecuario,Match Finished
+2024-05-04T19:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,1,0,Guillermo Brown,Match Finished
+2024-05-05T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,2,0,Nueva Chicago,Match Finished
+2024-05-04T19:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,0,0,Deportivo Moron,Match Finished
+2024-05-04T20:35:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,1,1,Temperley,Match Finished
+2024-05-04T00:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,2,1,Brown DE Adrogue,Match Finished
+2024-05-03T22:10:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,3,0,Almagro,Match Finished
+2024-05-04T18:30:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,0,2,Defensores De Belgrano,Match Finished
+2024-05-04T17:00:00+00:00,2024,Primera Nacional,Argentina,Atlanta,1,0,Chaco For Ever,Match Finished
+2024-05-04T16:30:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,2,2,San Telmo,Match Finished
+2024-05-04T18:30:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,1,1,Atletico DE Rafaela,Match Finished
+2024-05-04T18:30:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,0,1,Deportivo Maipu,Match Finished
+2024-05-11T20:30:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,0,1,San Martin S.J.,Match Finished
+2024-05-14T00:05:00+00:00,2024,Primera Nacional,Argentina,All Boys,1,0,Arsenal Sarandi,Match Finished
+2024-05-11T18:30:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,0,0,San Martin Tucuman,Match Finished
+2024-05-12T19:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,2,0,Chacarita Juniors,Match Finished
+2024-05-12T21:00:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,0,1,CA Estudiantes,Match Finished
+2024-05-12T18:30:00+00:00,2024,Primera Nacional,Argentina,Alvarado,2,0,Talleres Remedios,Match Finished
+2024-05-12T18:10:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,1,0,Quilmes,Match Finished
+2024-05-12T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,3,0,San Miguel,Match Finished
+2024-05-12T18:30:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,2,1,Ferro Carril Oeste,Match Finished
+2024-05-11T21:00:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,1,0,Defensores Unidos,Match Finished
+2024-05-12T16:10:00+00:00,2024,Primera Nacional,Argentina,San Telmo,0,1,Atlanta,Match Finished
+2024-05-11T19:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,0,0,Almirante Brown,Match Finished
+2024-05-14T00:10:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,1,0,Colon Santa Fe,Match Finished
+2024-05-13T18:30:00+00:00,2024,Primera Nacional,Argentina,Almagro,0,1,Estudiantes de Rio Cuarto,Match Finished
+2024-05-11T22:00:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,0,1,Aldosivi,Match Finished
+2024-05-10T23:00:00+00:00,2024,Primera Nacional,Argentina,Temperley,2,0,Atletico Mitre,Match Finished
+2024-05-11T17:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,0,0,Gimnasia Y Tiro,Match Finished
+2024-05-12T20:30:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,2,1,Gimnasia M.,Match Finished
+2024-05-12T18:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,0,1,Deportivo Madryn,Match Finished
+2024-05-18T18:30:00+00:00,2024,Primera Nacional,Argentina,San Miguel,2,1,Deportivo Maipu,Match Finished
+2024-05-18T22:00:00+00:00,2024,Primera Nacional,Argentina,Quilmes,2,1,Gimnasia Jujuy,Match Finished
+2024-05-18T18:30:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,0,0,Club Atlético Güemes,Match Finished
+2024-05-19T00:10:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,4,0,Alvarado,Match Finished
+2024-05-19T18:30:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,2,2,Racing Cordoba,Match Finished
+2024-05-21T00:10:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,2,0,Patronato,Match Finished
+2024-05-19T18:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,0,2,Tristan Suarez,Match Finished
+2024-05-19T19:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,3,0,All Boys,Match Finished
+2024-05-19T18:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,0,2,Agropecuario,Match Finished
+2024-05-19T18:30:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,2,1,Deportivo Moron,Match Finished
+2024-05-17T18:30:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,0,2,Temperley,Match Finished
+2024-05-21T00:30:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,1,0,Brown DE Adrogue,Match Finished
+2024-05-19T18:30:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,1,0,Almagro,Match Finished
+2024-05-19T21:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,1,1,Defensores De Belgrano,Match Finished
+2024-05-19T18:45:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,1,0,Chaco For Ever,Match Finished
+2024-05-20T18:30:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,0,0,San Telmo,Match Finished
+2024-05-19T16:45:00+00:00,2024,Primera Nacional,Argentina,Atlanta,2,0,Atletico DE Rafaela,Match Finished
+2024-05-19T18:30:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,0,0,Deportivo Madryn,Match Finished
+2024-05-21T19:05:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,3,1,Ferro Carril Oeste,Match Finished
+2024-05-26T18:30:00+00:00,2024,Primera Nacional,Argentina,All Boys,1,1,Guillermo Brown,Match Finished
+2024-05-25T16:30:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,0,1,San Martin S.J.,Match Finished
+2024-05-26T19:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,0,0,Arsenal Sarandi,Match Finished
+2024-05-26T20:30:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,0,1,San Martin Tucuman,Match Finished
+2024-05-26T18:30:00+00:00,2024,Primera Nacional,Argentina,Alvarado,2,1,Chacarita Juniors,Match Finished
+2024-05-26T18:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,1,0,CA Estudiantes,Match Finished
+2024-05-26T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,2,1,Talleres Remedios,Match Finished
+2024-05-26T18:30:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,1,1,Quilmes,Match Finished
+2024-05-26T16:10:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,1,0,San Miguel,Match Finished
+2024-05-26T18:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,3,0,Atlanta,Match Finished
+2024-05-25T21:00:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,1,2,Almirante Brown,Match Finished
+2024-05-25T15:45:00+00:00,2024,Primera Nacional,Argentina,San Telmo,2,0,Colon Santa Fe,Match Finished
+2024-05-26T19:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,3,0,Estudiantes de Rio Cuarto,Match Finished
+2024-05-27T21:00:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,0,2,Aldosivi,Match Finished
+2024-05-26T18:30:00+00:00,2024,Primera Nacional,Argentina,Almagro,0,0,Atletico Mitre,Match Finished
+2024-05-26T18:00:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,0,0,Gimnasia Y Tiro,Match Finished
+2024-05-28T00:10:00+00:00,2024,Primera Nacional,Argentina,Temperley,1,3,Gimnasia M.,Match Finished
+2024-05-26T18:20:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,1,0,Nueva Chicago,Match Finished
+2024-05-25T18:00:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,0,0,Defensores Unidos,Match Finished
+2024-06-02T21:00:00+00:00,2024,Primera Nacional,Argentina,Quilmes,1,4,Ferro Carril Oeste,Match Finished
+2024-06-01T22:10:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,2,3,Deportivo Maipu,Match Finished
+2024-06-02T18:00:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,1,0,Gimnasia Jujuy,Match Finished
+2024-06-01T18:30:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,2,0,Club Atlético Güemes,Match Finished
+2024-06-02T20:00:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,1,0,Alvarado,Match Finished
+2024-05-31T18:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,0,2,Racing Cordoba,Match Finished
+2024-06-02T19:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,1,0,Patronato,Match Finished
+2024-06-02T18:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,2,1,Tristan Suarez,Match Finished
+2024-06-04T00:10:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,2,1,All Boys,Match Finished
+2024-06-01T17:05:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,1,0,Temperley,Match Finished
+2024-06-02T18:30:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,3,1,Brown DE Adrogue,Match Finished
+2024-06-02T18:30:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,1,1,Almagro,Match Finished
+2024-06-02T19:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,2,0,Defensores De Belgrano,Match Finished
+2024-06-02T19:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,1,1,Chaco For Ever,Match Finished
+2024-06-02T20:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,0,1,San Telmo,Match Finished
+2024-06-01T00:10:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,1,0,Atletico DE Rafaela,Match Finished
+2024-06-02T00:10:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,0,1,Deportivo Madryn,Match Finished
+2024-06-03T20:35:00+00:00,2024,Primera Nacional,Argentina,Atlanta,1,1,Defensores Unidos,Match Finished
+2024-06-02T18:30:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,0,1,San Miguel,Match Finished
+2024-06-08T18:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,2,1,Agropecuario,Match Finished
+2024-06-09T19:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,0,0,Guillermo Brown,Match Finished
+2024-06-09T18:00:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,0,0,San Martin S.J.,Match Finished
+2024-06-09T18:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,2,1,Arsenal Sarandi,Match Finished
+2024-06-09T18:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,0,0,San Martin Tucuman,Match Finished
+2024-06-12T18:10:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,0,1,Chacarita Juniors,Match Finished
+2024-06-09T18:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,1,0,CA Estudiantes,Match Finished
+2024-06-09T19:00:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,0,1,Talleres Remedios,Match Finished
+2024-06-08T18:10:00+00:00,2024,Primera Nacional,Argentina,San Miguel,1,0,Quilmes,Match Finished
+2024-06-09T18:00:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,0,1,Almirante Brown,Match Finished
+2024-06-09T18:10:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,0,0,Colon Santa Fe,Match Finished
+2024-06-11T00:10:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,0,1,Estudiantes de Rio Cuarto,Match Finished
+2024-07-31T18:00:00+00:00,2024,Primera Nacional,Argentina,San Telmo,1,2,Aldosivi,Match Finished
+2024-06-09T19:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,1,1,Atletico Mitre,Match Finished
+2024-06-08T18:00:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,1,0,Gimnasia Y Tiro,Match Finished
+2024-06-08T18:00:00+00:00,2024,Primera Nacional,Argentina,Almagro,2,2,Gimnasia M.,Match Finished
+2024-06-09T00:30:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,0,0,Nueva Chicago,Match Finished
+2024-06-08T22:30:00+00:00,2024,Primera Nacional,Argentina,Temperley,3,0,Deportivo Moron,Match Finished
+2024-06-08T18:20:00+00:00,2024,Primera Nacional,Argentina,All Boys,1,0,Atlanta,Match Finished
+2024-06-22T18:00:00+00:00,2024,Primera Nacional,Argentina,San Miguel,0,0,Talleres Remedios,Match Finished
+2024-06-23T20:10:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,2,2,CA Estudiantes,Match Finished
+2024-06-23T18:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,0,2,Chacarita Juniors,Match Finished
+2024-06-23T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,2,0,San Martin Tucuman,Match Finished
+2024-06-23T19:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,0,1,Arsenal Sarandi,Match Finished
+2024-06-23T18:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,0,0,San Martin S.J.,Match Finished
+2024-06-23T18:00:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,1,2,Guillermo Brown,Match Finished
+2024-06-23T19:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,4,0,Agropecuario,Match Finished
+2024-06-22T18:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,1,0,All Boys,Match Finished
+2024-06-22T18:00:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,0,0,Deportivo Moron,Match Finished
+2024-06-22T18:00:00+00:00,2024,Primera Nacional,Argentina,Almagro,1,2,Nueva Chicago,Match Finished
+2024-06-22T18:00:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,0,1,Gimnasia M.,Match Finished
+2024-06-23T19:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,0,1,Gimnasia Y Tiro,Match Finished
+2024-06-23T18:00:00+00:00,2024,Primera Nacional,Argentina,San Telmo,0,0,Atletico Mitre,Match Finished
+2024-06-23T23:00:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,0,2,Aldosivi,Match Finished
+2024-06-22T18:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,1,0,Estudiantes de Rio Cuarto,Match Finished
+2024-06-23T18:10:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,2,1,Colon Santa Fe,Match Finished
+2024-06-24T21:10:00+00:00,2024,Primera Nacional,Argentina,Atlanta,1,0,Almirante Brown,Match Finished
+2024-06-22T18:15:00+00:00,2024,Primera Nacional,Argentina,Temperley,1,0,Quilmes,Match Finished
+2024-06-29T18:00:00+00:00,2024,Primera Nacional,Argentina,All Boys,1,0,Patronato,Match Finished
+2024-06-29T18:00:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,2,4,Racing Cordoba,Match Finished
+2024-06-30T18:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,0,0,Alvarado,Match Finished
+2024-06-30T19:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,1,0,Club Atlético Güemes,Match Finished
+2024-06-30T17:30:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,0,1,Gimnasia Jujuy,Match Finished
+2024-06-30T19:10:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,2,1,Deportivo Maipu,Match Finished
+2024-06-30T17:10:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,1,1,Ferro Carril Oeste,Match Finished
+2024-06-29T18:10:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,1,1,San Miguel,Match Finished
+2024-07-01T22:35:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,1,0,Quilmes,Match Finished
+2024-06-30T21:10:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,1,1,Atlanta,Match Finished
+2024-06-30T19:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,2,1,Defensores Unidos,Match Finished
+2024-06-30T18:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,1,0,Deportivo Madryn,Match Finished
+2024-06-30T19:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,2,0,Atletico DE Rafaela,Match Finished
+2024-06-30T18:30:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,0,3,San Telmo,Match Finished
+2024-06-29T18:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,1,0,Chaco For Ever,Match Finished
+2024-06-30T18:05:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,0,0,Defensores De Belgrano,Match Finished
+2024-06-30T18:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,0,0,Almagro,Match Finished
+2024-06-29T18:00:00+00:00,2024,Primera Nacional,Argentina,Temperley,1,0,Brown DE Adrogue,Match Finished
+2024-06-30T18:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,2,2,Almirante Brown,Match Finished
+2024-07-07T20:30:00+00:00,2024,Primera Nacional,Argentina,Quilmes,1,0,CA Estudiantes,Match Finished
+2024-07-07T18:05:00+00:00,2024,Primera Nacional,Argentina,San Miguel,2,1,Chacarita Juniors,Match Finished
+2024-07-07T22:10:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,3,1,San Martin Tucuman,Match Finished
+2024-07-07T18:30:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,1,0,Arsenal Sarandi,Match Finished
+2024-07-07T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,1,0,San Martin S.J.,Match Finished
+2024-07-07T18:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,1,1,Guillermo Brown,Match Finished
+2024-07-07T18:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,0,3,Agropecuario,Match Finished
+2024-07-07T18:00:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,1,0,All Boys,Match Finished
+2024-07-07T19:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,3,0,Tristan Suarez,Match Finished
+2024-07-06T18:05:00+00:00,2024,Primera Nacional,Argentina,Almagro,0,0,Temperley,Match Finished
+2024-07-07T18:00:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,0,0,Deportivo Moron,Match Finished
+2024-07-07T19:30:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,0,1,Nueva Chicago,Match Finished
+2024-07-07T16:05:00+00:00,2024,Primera Nacional,Argentina,San Telmo,0,0,Gimnasia M.,Match Finished
+2024-07-06T00:00:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,0,0,Gimnasia Y Tiro,Match Finished
+2024-07-06T18:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,1,0,Atletico Mitre,Match Finished
+2024-07-07T18:00:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,1,0,Aldosivi,Match Finished
+2024-07-06T18:00:00+00:00,2024,Primera Nacional,Argentina,Atlanta,1,1,Estudiantes de Rio Cuarto,Match Finished
+2024-07-07T20:10:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,0,0,Colon Santa Fe,Match Finished
+2024-07-06T18:00:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,0,0,Talleres Remedios,Match Finished
+2024-07-13T21:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,1,0,Racing Cordoba,Match Finished
+2024-07-13T18:30:00+00:00,2024,Primera Nacional,Argentina,All Boys,1,0,Alvarado,Match Finished
+2024-07-14T19:00:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,3,1,Club Atlético Güemes,Match Finished
+2024-07-14T18:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,0,0,Gimnasia Jujuy,Match Finished
+2024-07-14T21:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,1,0,Deportivo Maipu,Match Finished
+2024-07-14T17:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,0,0,Ferro Carril Oeste,Match Finished
+2024-07-14T19:00:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,1,0,San Miguel,Match Finished
+2024-07-13T17:10:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,0,4,Quilmes,Match Finished
+2024-07-13T18:00:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,2,1,Talleres Remedios,Match Finished
+2024-07-14T19:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,0,1,Almirante Brown,Match Finished
+2024-07-14T18:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,2,1,Atlanta,Match Finished
+2024-07-14T19:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,1,0,Defensores Unidos,Match Finished
+2024-07-14T18:30:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,0,0,Deportivo Madryn,Match Finished
+2024-07-13T18:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,2,1,Atletico DE Rafaela,Match Finished
+2024-07-14T17:00:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,0,3,San Telmo,Match Finished
+2024-07-13T15:05:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,1,0,Chaco For Ever,Match Finished
+2024-07-13T20:15:00+00:00,2024,Primera Nacional,Argentina,Temperley,0,0,Defensores De Belgrano,Match Finished
+2024-07-13T18:00:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,0,2,Almagro,Match Finished
+2024-07-14T19:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,1,0,Colon Santa Fe,Match Finished
+2024-07-21T20:30:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,2,1,Chacarita Juniors,Match Finished
+2024-07-22T23:10:00+00:00,2024,Primera Nacional,Argentina,Quilmes,1,2,San Martin Tucuman,Match Finished
+2024-07-20T18:00:00+00:00,2024,Primera Nacional,Argentina,San Miguel,3,0,Arsenal Sarandi,Match Finished
+2024-07-21T00:05:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,0,0,San Martin S.J.,Match Finished
+2024-07-21T18:30:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,1,0,Guillermo Brown,Match Finished
+2024-07-21T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,1,1,Agropecuario,Match Finished
+2024-07-20T18:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,2,1,All Boys,Match Finished
+2024-07-20T18:30:00+00:00,2024,Primera Nacional,Argentina,Alvarado,1,2,Tristan Suarez,Match Finished
+2024-07-21T20:00:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,1,0,Patronato,Match Finished
+2024-07-20T18:00:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,3,0,Brown DE Adrogue,Match Finished
+2024-07-19T23:10:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,0,1,Temperley,Match Finished
+2024-07-21T15:10:00+00:00,2024,Primera Nacional,Argentina,San Telmo,1,1,Deportivo Moron,Match Finished
+2024-07-19T21:10:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,1,5,Nueva Chicago,Match Finished
+2024-07-21T18:30:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,0,2,Gimnasia M.,Match Finished
+2024-07-21T18:00:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,0,1,Gimnasia Y Tiro,Match Finished
+2024-07-22T20:10:00+00:00,2024,Primera Nacional,Argentina,Atlanta,0,0,Atletico Mitre,Match Finished
+2024-07-20T18:00:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,1,0,Aldosivi,Match Finished
+2024-07-20T23:10:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,3,0,Estudiantes de Rio Cuarto,Match Finished
+2024-07-20T18:00:00+00:00,2024,Primera Nacional,Argentina,Almagro,1,0,CA Estudiantes,Match Finished
+2024-07-28T19:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,1,3,Alvarado,Match Finished
+2024-07-27T18:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,1,1,Club Atlético Güemes,Match Finished
+2024-07-28T18:00:00+00:00,2024,Primera Nacional,Argentina,All Boys,0,1,Gimnasia Jujuy,Match Finished
+2024-07-28T19:00:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,0,0,Deportivo Maipu,Match Finished
+2024-07-28T18:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,3,1,Ferro Carril Oeste,Match Finished
+2024-07-28T19:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,2,0,San Miguel,Match Finished
+2024-07-27T18:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,0,0,Quilmes,Match Finished
+2024-07-28T22:10:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,1,0,Talleres Remedios,Match Finished
+2024-07-27T18:00:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,1,1,CA Estudiantes,Match Finished
+2024-07-27T18:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,1,0,Colon Santa Fe,Match Finished
+2024-07-27T19:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,2,1,Almirante Brown,Match Finished
+2024-07-28T18:30:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,1,0,Atlanta,Match Finished
+2024-07-28T18:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,2,0,Defensores Unidos,Match Finished
+2024-07-27T18:00:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,1,1,Deportivo Madryn,Match Finished
+2024-07-27T22:10:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,1,1,Atletico DE Rafaela,Match Finished
+2024-07-26T23:45:00+00:00,2024,Primera Nacional,Argentina,Temperley,0,0,San Telmo,Match Finished
+2024-07-27T18:00:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,0,0,Chaco For Ever,Match Finished
+2024-07-26T18:00:00+00:00,2024,Primera Nacional,Argentina,Almagro,1,0,Defensores De Belgrano,Match Finished
+2024-07-28T19:30:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,0,1,Estudiantes de Rio Cuarto,Match Finished
+2024-08-03T18:00:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,1,3,San Martin Tucuman,Match Finished
+2024-08-04T00:10:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,0,0,Arsenal Sarandi,Match Finished
+2024-08-06T00:05:00+00:00,2024,Primera Nacional,Argentina,Quilmes,0,1,San Martin S.J.,Match Finished
+2024-08-03T18:00:00+00:00,2024,Primera Nacional,Argentina,San Miguel,1,0,Guillermo Brown,Match Finished
+2024-08-05T22:00:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,3,0,Agropecuario,Match Finished
+2024-08-04T18:30:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,1,2,All Boys,Match Finished
+2024-08-04T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,1,0,Tristan Suarez,Match Finished
+2024-08-03T18:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,2,1,Patronato,Match Finished
+2024-08-04T19:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,3,0,Racing Cordoba,Match Finished
+2024-08-03T20:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,1,1,Almagro,Match Finished
+2024-08-04T18:00:00+00:00,2024,Primera Nacional,Argentina,San Telmo,3,0,Brown DE Adrogue,Match Finished
+2024-08-06T00:00:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,1,0,Temperley,Match Finished
+2024-08-03T18:30:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,0,0,Deportivo Moron,Match Finished
+2024-08-03T18:30:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,1,2,Nueva Chicago,Match Finished
+2024-08-05T22:00:00+00:00,2024,Primera Nacional,Argentina,Atlanta,1,2,Gimnasia M.,Match Finished
+2024-08-03T22:10:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,0,0,Gimnasia Y Tiro,Match Finished
+2024-08-06T00:10:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,1,2,Atletico Mitre,Match Finished
+2024-08-05T22:10:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,2,2,Aldosivi,Match Finished
+2024-08-04T22:10:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,2,2,Chacarita Juniors,Match Finished
+2024-08-11T20:00:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,2,0,Club Atlético Güemes,Match Finished
+2024-08-11T19:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,1,0,Gimnasia Jujuy,Match Finished
+2024-08-10T22:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,1,2,Deportivo Maipu,Match Finished
+2024-08-11T23:00:00+00:00,2024,Primera Nacional,Argentina,All Boys,3,0,Ferro Carril Oeste,Match Finished
+2024-08-11T19:00:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,2,1,San Miguel,Match Finished
+2024-08-11T18:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,1,2,Quilmes,Match Finished
+2024-08-10T19:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,3,1,Talleres Remedios,Match Finished
+2024-08-10T18:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,1,1,CA Estudiantes,Match Finished
+2024-08-11T20:00:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,1,0,Chacarita Juniors,Match Finished
+2024-08-11T19:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,0,0,Estudiantes de Rio Cuarto,Match Finished
+2024-08-12T18:30:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,1,0,Colon Santa Fe,Match Finished
+2024-08-11T18:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,1,0,Almirante Brown,Match Finished
+2024-08-11T18:00:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,0,1,Atlanta,Match Finished
+2024-08-10T18:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,1,1,Defensores Unidos,Match Finished
+2024-08-13T00:10:00+00:00,2024,Primera Nacional,Argentina,Temperley,0,1,Deportivo Madryn,Match Finished
+2024-08-11T18:00:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,1,0,Atletico DE Rafaela,Match Finished
+2024-08-11T18:00:00+00:00,2024,Primera Nacional,Argentina,Almagro,1,1,San Telmo,Match Finished
+2024-08-11T18:00:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,0,0,Chaco For Ever,Match Finished
+2024-08-11T18:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,1,0,Aldosivi,Match Finished
+2024-08-18T18:00:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,,,Arsenal Sarandi,Not Started
+2024-08-17T16:00:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,,,San Martin S.J.,Not Started
+2024-08-19T20:05:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,,,Guillermo Brown,Not Started
+2024-08-20T00:05:00+00:00,2024,Primera Nacional,Argentina,Quilmes,,,Agropecuario,Not Started
+2024-08-17T18:00:00+00:00,2024,Primera Nacional,Argentina,San Miguel,,,All Boys,Not Started
+2024-08-17T18:00:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,,,Tristan Suarez,Not Started
+2024-08-18T18:30:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,,,Patronato,Not Started
+2024-08-18T19:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,,,Racing Cordoba,Not Started
+2024-08-17T18:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,,,Alvarado,Not Started
+2024-08-18T18:00:00+00:00,2024,Primera Nacional,Argentina,San Telmo,,,Defensores De Belgrano,Not Started
+2024-08-18T22:00:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,,,Almagro,Not Started
+2024-08-17T15:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,,,Brown DE Adrogue,Not Started
+2024-08-17T18:30:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,,,Temperley,Not Started
+2024-08-20T00:10:00+00:00,2024,Primera Nacional,Argentina,Atlanta,,,Deportivo Moron,Not Started
+2024-08-18T21:30:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,,,Nueva Chicago,Not Started
+2024-08-18T23:30:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,,,Gimnasia M.,Not Started
+2024-08-18T20:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,,,Gimnasia Y Tiro,Not Started
+2024-08-18T18:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,,,Atletico Mitre,Not Started
+2024-08-18T00:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,,,San Martin Tucuman,Not Started
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,,,Gimnasia Jujuy,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,,,Deportivo Maipu,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,,,Ferro Carril Oeste,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,,,San Miguel,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,All Boys,,,Quilmes,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,,,Talleres Remedios,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,,,CA Estudiantes,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,,,Chacarita Juniors,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,,,San Martin Tucuman,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,,,Aldosivi,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,,,Estudiantes de Rio Cuarto,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,,,Colon Santa Fe,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,,,Almirante Brown,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Temperley,,,Atlanta,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,,,Defensores Unidos,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Almagro,,,Deportivo Madryn,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,,,Atletico DE Rafaela,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,,,San Telmo,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,,,Atletico Mitre,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,,,San Martin S.J.,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,,,Guillermo Brown,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,,,Agropecuario,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,,,All Boys,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Quilmes,,,Tristan Suarez,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,San Miguel,,,Patronato,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,,,Racing Cordoba,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,,,Alvarado,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,,,Club Atlético Güemes,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,,,Chaco For Ever,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,,,Defensores De Belgrano,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,,,Almagro,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Atlanta,,,Brown DE Adrogue,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,,,Temperley,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,,,Deportivo Moron,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,,,Nueva Chicago,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,,,Gimnasia M.,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,,,Gimnasia Y Tiro,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Primera Nacional,Argentina,San Telmo,,,Arsenal Sarandi,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,,,Deportivo Maipu,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,,,Ferro Carril Oeste,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,,,San Miguel,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,,,Quilmes,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,,,Talleres Remedios,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,All Boys,,,CA Estudiantes,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,,,Chacarita Juniors,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,,,San Martin Tucuman,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,,,Arsenal Sarandi,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,,,Atletico Mitre,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,,,Aldosivi,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,,,Estudiantes de Rio Cuarto,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Temperley,,,Colon Santa Fe,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,,,Almirante Brown,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Almagro,,,Atlanta,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,,,Defensores Unidos,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,,,Deportivo Madryn,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,San Telmo,,,Atletico DE Rafaela,Time to be defined
+2024-09-07T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,,,Gimnasia Y Tiro,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,,,Guillermo Brown,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,,,Agropecuario,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,,,All Boys,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,,,Tristan Suarez,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,,,Patronato,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Quilmes,,,Racing Cordoba,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,San Miguel,,,Alvarado,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,,,Club Atlético Güemes,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,,,Gimnasia Jujuy,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,,,San Telmo,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,,,Chaco For Ever,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Atlanta,,,Defensores De Belgrano,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,,,Almagro,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,,,Brown DE Adrogue,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,,,Temperley,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,,,Deportivo Moron,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,,,Nueva Chicago,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,,,Gimnasia M.,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,,,San Martin S.J.,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,,,Ferro Carril Oeste,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,,,San Miguel,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,,,Quilmes,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,,,Talleres Remedios,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,,,CA Estudiantes,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,,,Chacarita Juniors,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,All Boys,,,San Martin Tucuman,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,,,Arsenal Sarandi,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,,,San Martin S.J.,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,,,Gimnasia Y Tiro,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,,,Atletico Mitre,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Temperley,,,Aldosivi,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,,,Estudiantes de Rio Cuarto,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Almagro,,,Colon Santa Fe,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,,,Almirante Brown,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,,,Atlanta,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,San Telmo,,,Defensores Unidos,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,,,Deportivo Madryn,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,,,Gimnasia M.,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,,,Agropecuario,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,,,All Boys,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,,,Tristan Suarez,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,,,Patronato,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,,,Racing Cordoba,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,,,Alvarado,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Quilmes,,,Club Atlético Güemes,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,San Miguel,,,Gimnasia Jujuy,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,,,Deportivo Maipu,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,,,Atletico DE Rafaela,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Atlanta,,,San Telmo,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,,,Chaco For Ever,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,,,Defensores De Belgrano,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,,,Almagro,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,,,Brown DE Adrogue,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,,,Temperley,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,,,Deportivo Moron,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,,,Nueva Chicago,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,,,Guillermo Brown,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,,,San Miguel,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,,,Quilmes,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,,,Talleres Remedios,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,,,CA Estudiantes,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,,,Chacarita Juniors,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,,,San Martin Tucuman,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,,,Arsenal Sarandi,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,All Boys,,,San Martin S.J.,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,,,Guillermo Brown,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,,,Gimnasia M.,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Temperley,,,Gimnasia Y Tiro,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,,,Atletico Mitre,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Almagro,,,Aldosivi,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,,,Estudiantes de Rio Cuarto,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,,,Colon Santa Fe,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,San Telmo,,,Almirante Brown,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,,,Atlanta,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,,,Defensores Unidos,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,,,Nueva Chicago,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,,,All Boys,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,,,Tristan Suarez,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,,,Patronato,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,,,Racing Cordoba,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,,,Alvarado,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,,,Club Atlético Güemes,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,,,Gimnasia Jujuy,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Quilmes,,,Deportivo Maipu,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,San Miguel,,,Ferro Carril Oeste,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Atlanta,,,Deportivo Madryn,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,,,Atletico DE Rafaela,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,,,San Telmo,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,,,Chaco For Ever,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,,,Defensores De Belgrano,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,,,Almagro,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,,,Brown DE Adrogue,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,,,Temperley,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,,,Deportivo Moron,Time to be defined
+2024-10-12T00:00:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,,,Agropecuario,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Ferro Carril Oeste,,,Quilmes,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Maipu,,,Talleres Remedios,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Jujuy,,,CA Estudiantes,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Club Atlético Güemes,,,Chacarita Juniors,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Alvarado,,,San Martin Tucuman,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Racing Cordoba,,,Arsenal Sarandi,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Patronato,,,San Martin S.J.,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Tristan Suarez,,,Guillermo Brown,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,All Boys,,,Agropecuario,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Temperley,,,Nueva Chicago,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Brown DE Adrogue,,,Gimnasia M.,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Almagro,,,Gimnasia Y Tiro,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Defensores De Belgrano,,,Atletico Mitre,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Chaco For Ever,,,Aldosivi,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,San Telmo,,,Estudiantes de Rio Cuarto,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Atletico DE Rafaela,,,Colon Santa Fe,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Madryn,,,Almirante Brown,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,Defensores Unidos,,,Atlanta,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Primera Nacional,Argentina,San Miguel,,,Deportivo Moron,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Agropecuario,,,Tristan Suarez,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Guillermo Brown,,,Patronato,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,San Martin S.J.,,,Racing Cordoba,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Arsenal Sarandi,,,Alvarado,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,San Martin Tucuman,,,Club Atlético Güemes,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Chacarita Juniors,,,Gimnasia Jujuy,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,CA Estudiantes,,,Deportivo Maipu,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Talleres Remedios,,,Ferro Carril Oeste,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Quilmes,,,San Miguel,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Almirante Brown,,,Defensores Unidos,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Colon Santa Fe,,,Deportivo Madryn,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Estudiantes de Rio Cuarto,,,Atletico DE Rafaela,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Aldosivi,,,San Telmo,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Atletico Mitre,,,Chaco For Ever,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia Y Tiro,,,Defensores De Belgrano,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Gimnasia M.,,,Almagro,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Nueva Chicago,,,Brown DE Adrogue,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Deportivo Moron,,,Temperley,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Primera Nacional,Argentina,Atlanta,,,All Boys,Time to be defined

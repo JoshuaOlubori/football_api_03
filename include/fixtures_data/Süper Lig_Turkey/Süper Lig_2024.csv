@@ -1,0 +1,343 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-10T16:15:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,2,3,Konyaspor,Match Finished
+2024-08-11T18:45:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,1,1,Eyüpspor,Match Finished
+2024-08-10T18:45:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,0,0,Goztepe,Match Finished
+2024-08-11T16:15:00+00:00,2024,Süper Lig,Turkey,Sivasspor,0,0,Trabzonspor,Match Finished
+2024-08-10T18:45:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,1,0,Adana Demirspor,Match Finished
+2024-08-11T18:45:00+00:00,2024,Süper Lig,Turkey,Samsunspor,0,2,Besiktas,Match Finished
+2024-08-09T18:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,2,1,Hatayspor,Match Finished
+2024-08-12T18:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,1,1,Istanbul Basaksehir,Match Finished
+2024-08-12T18:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,0,1,Gazişehir Gaziantep,Match Finished
+2024-08-17T18:45:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Fenerbahce,Not Started
+2024-08-18T18:45:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Samsunspor,Not Started
+2024-08-18T16:15:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Alanyaspor,Not Started
+2024-08-19T18:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,BB Bodrumspor,Not Started
+2024-08-16T18:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Galatasaray,Not Started
+2024-08-17T18:45:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Rizespor,Not Started
+2024-08-19T18:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Kasimpasa,Not Started
+2024-08-18T18:45:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Antalyaspor,Not Started
+2024-08-17T16:15:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Sivasspor,Not Started
+2024-08-25T16:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Hatayspor,Time to be defined
+2024-08-25T16:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Adana Demirspor,Time to be defined
+2024-08-25T16:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Goztepe,Time to be defined
+2024-08-25T16:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Eyüpspor,Time to be defined
+2024-08-25T16:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Istanbul Basaksehir,Time to be defined
+2024-08-25T16:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Kayserispor,Time to be defined
+2024-08-25T16:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Gazişehir Gaziantep,Time to be defined
+2024-08-25T16:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Fenerbahce,Time to be defined
+2024-08-25T16:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Konyaspor,Time to be defined
+2024-09-01T16:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,BB Bodrumspor,Time to be defined
+2024-09-01T16:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Antalyaspor,Time to be defined
+2024-09-01T16:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Kasimpasa,Time to be defined
+2024-09-01T16:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Trabzonspor,Time to be defined
+2024-09-01T16:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Galatasaray,Time to be defined
+2024-09-01T16:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Kayserispor,Time to be defined
+2024-09-01T16:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Samsunspor,Time to be defined
+2024-09-01T16:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Sivasspor,Time to be defined
+2024-09-01T16:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Alanyaspor,Time to be defined
+2024-09-15T16:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Gazişehir Gaziantep,Time to be defined
+2024-09-15T16:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Hatayspor,Time to be defined
+2024-09-15T16:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Fenerbahce,Time to be defined
+2024-09-15T16:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Adana Demirspor,Time to be defined
+2024-09-15T16:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Eyüpspor,Time to be defined
+2024-09-15T16:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Konyaspor,Time to be defined
+2024-09-15T16:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Besiktas,Time to be defined
+2024-09-15T16:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Rizespor,Time to be defined
+2024-09-15T16:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Istanbul Basaksehir,Time to be defined
+2024-09-22T16:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Trabzonspor,Time to be defined
+2024-09-22T16:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Kayserispor,Time to be defined
+2024-09-22T16:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Samsunspor,Time to be defined
+2024-09-22T16:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Galatasaray,Time to be defined
+2024-09-22T16:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Sivasspor,Time to be defined
+2024-09-22T16:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Alanyaspor,Time to be defined
+2024-09-22T16:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Antalyaspor,Time to be defined
+2024-09-22T16:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,BB Bodrumspor,Time to be defined
+2024-09-22T16:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Eyüpspor,Time to be defined
+2024-09-29T16:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Istanbul Basaksehir,Time to be defined
+2024-09-29T16:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Rizespor,Time to be defined
+2024-09-29T16:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Besiktas,Time to be defined
+2024-09-29T16:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Fenerbahce,Time to be defined
+2024-09-29T16:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Goztepe,Time to be defined
+2024-09-29T16:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Konyaspor,Time to be defined
+2024-09-29T16:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Kasimpasa,Time to be defined
+2024-09-29T16:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Gazişehir Gaziantep,Time to be defined
+2024-09-29T16:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Adana Demirspor,Time to be defined
+2024-10-06T16:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Sivasspor,Time to be defined
+2024-10-06T16:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Besiktas,Time to be defined
+2024-10-06T16:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Alanyaspor,Time to be defined
+2024-10-06T16:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Kayserispor,Time to be defined
+2024-10-06T16:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Antalyaspor,Time to be defined
+2024-10-06T16:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Samsunspor,Time to be defined
+2024-10-06T16:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Eyüpspor,Time to be defined
+2024-10-06T16:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,BB Bodrumspor,Time to be defined
+2024-10-06T16:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Trabzonspor,Time to be defined
+2024-10-20T16:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Konyaspor,Time to be defined
+2024-10-20T16:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Hatayspor,Time to be defined
+2024-10-20T16:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Kasimpasa,Time to be defined
+2024-10-20T16:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Galatasaray,Time to be defined
+2024-10-20T16:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Gazişehir Gaziantep,Time to be defined
+2024-10-20T16:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Fenerbahce,Time to be defined
+2024-10-20T16:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Istanbul Basaksehir,Time to be defined
+2024-10-20T16:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Goztepe,Time to be defined
+2024-10-20T16:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Rizespor,Time to be defined
+2024-10-27T16:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Trabzonspor,Time to be defined
+2024-10-27T16:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Konyaspor,Time to be defined
+2024-10-27T16:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Besiktas,Time to be defined
+2024-10-27T16:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Eyüpspor,Time to be defined
+2024-10-27T16:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Sivasspor,Time to be defined
+2024-10-27T16:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Antalyaspor,Time to be defined
+2024-10-27T16:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Samsunspor,Time to be defined
+2024-10-27T16:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Kayserispor,Time to be defined
+2024-10-27T16:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,BB Bodrumspor,Time to be defined
+2024-11-03T17:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Kasimpasa,Time to be defined
+2024-11-03T17:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Rizespor,Time to be defined
+2024-11-03T17:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Adana Demirspor,Time to be defined
+2024-11-03T17:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Istanbul Basaksehir,Time to be defined
+2024-11-03T17:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Fenerbahce,Time to be defined
+2024-11-03T17:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Antalyaspor,Time to be defined
+2024-11-03T17:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Hatayspor,Time to be defined
+2024-11-03T17:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Goztepe,Time to be defined
+2024-11-03T17:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Alanyaspor,Time to be defined
+2024-11-10T17:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Konyaspor,Time to be defined
+2024-11-10T17:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Samsunspor,Time to be defined
+2024-11-10T17:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Besiktas,Time to be defined
+2024-11-10T17:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Trabzonspor,Time to be defined
+2024-11-10T17:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Eyüpspor,Time to be defined
+2024-11-10T17:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,BB Bodrumspor,Time to be defined
+2024-11-10T17:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Kayserispor,Time to be defined
+2024-11-10T17:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Gazişehir Gaziantep,Time to be defined
+2024-11-10T17:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Sivasspor,Time to be defined
+2024-11-24T17:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Goztepe,Time to be defined
+2024-11-24T17:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Kasimpasa,Time to be defined
+2024-11-24T17:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Fenerbahce,Time to be defined
+2024-11-24T17:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Hatayspor,Time to be defined
+2024-11-24T17:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Alanyaspor,Time to be defined
+2024-11-24T17:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Adana Demirspor,Time to be defined
+2024-11-24T17:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Rizespor,Time to be defined
+2024-11-24T17:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Galatasaray,Time to be defined
+2024-11-24T17:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Istanbul Basaksehir,Time to be defined
+2024-12-01T17:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Eyüpspor,Time to be defined
+2024-12-01T17:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Goztepe,Time to be defined
+2024-12-01T17:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Kayserispor,Time to be defined
+2024-12-01T17:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,BB Bodrumspor,Time to be defined
+2024-12-01T17:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Konyaspor,Time to be defined
+2024-12-01T17:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Sivasspor,Time to be defined
+2024-12-01T17:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Trabzonspor,Time to be defined
+2024-12-01T17:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Besiktas,Time to be defined
+2024-12-01T17:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Gazişehir Gaziantep,Time to be defined
+2024-12-08T17:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Fenerbahce,Time to be defined
+2024-12-08T17:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Galatasaray,Time to be defined
+2024-12-08T17:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Alanyaspor,Time to be defined
+2024-12-08T17:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Antalyaspor,Time to be defined
+2024-12-08T17:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Kasimpasa,Time to be defined
+2024-12-08T17:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Samsunspor,Time to be defined
+2024-12-08T17:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Hatayspor,Time to be defined
+2024-12-08T17:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Rizespor,Time to be defined
+2024-12-08T17:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Adana Demirspor,Time to be defined
+2024-12-15T17:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Sivasspor,Time to be defined
+2024-12-15T17:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Konyaspor,Time to be defined
+2024-12-15T17:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Trabzonspor,Time to be defined
+2024-12-15T17:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Besiktas,Time to be defined
+2024-12-15T17:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Kayserispor,Time to be defined
+2024-12-15T17:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Gazişehir Gaziantep,Time to be defined
+2024-12-15T17:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Eyüpspor,Time to be defined
+2024-12-15T17:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Goztepe,Time to be defined
+2024-12-15T17:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Istanbul Basaksehir,Time to be defined
+2024-12-22T17:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Alanyaspor,Time to be defined
+2024-12-22T17:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Adana Demirspor,Time to be defined
+2024-12-22T17:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Samsunspor,Time to be defined
+2024-12-22T17:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Galatasaray,Time to be defined
+2024-12-22T17:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,BB Bodrumspor,Time to be defined
+2024-12-22T17:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Fenerbahce,Time to be defined
+2024-12-22T17:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Kasimpasa,Time to be defined
+2024-12-22T17:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Antalyaspor,Time to be defined
+2024-12-22T17:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Rizespor,Time to be defined
+2025-01-05T17:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Kayserispor,Time to be defined
+2025-01-05T17:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Goztepe,Time to be defined
+2025-01-05T17:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Besiktas,Time to be defined
+2025-01-05T17:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Trabzonspor,Time to be defined
+2025-01-05T17:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Istanbul Basaksehir,Time to be defined
+2025-01-05T17:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Eyüpspor,Time to be defined
+2025-01-05T17:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Gazişehir Gaziantep,Time to be defined
+2025-01-05T17:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Konyaspor,Time to be defined
+2025-01-05T17:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Hatayspor,Time to be defined
+2025-01-12T17:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,BB Bodrumspor,Time to be defined
+2025-01-12T17:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Alanyaspor,Time to be defined
+2025-01-12T17:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Rizespor,Time to be defined
+2025-01-12T17:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Samsunspor,Time to be defined
+2025-01-12T17:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Fenerbahce,Time to be defined
+2025-01-12T17:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Antalyaspor,Time to be defined
+2025-01-12T17:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Galatasaray,Time to be defined
+2025-01-12T17:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Adana Demirspor,Time to be defined
+2025-01-12T17:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Kasimpasa,Time to be defined
+2025-01-19T17:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Antalyaspor,Time to be defined
+2025-01-19T17:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,BB Bodrumspor,Time to be defined
+2025-01-19T17:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Rizespor,Time to be defined
+2025-01-19T17:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Alanyaspor,Time to be defined
+2025-01-19T17:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Sivasspor,Time to be defined
+2025-01-19T17:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Kasimpasa,Time to be defined
+2025-01-19T17:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Fenerbahce,Time to be defined
+2025-01-19T17:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Galatasaray,Time to be defined
+2025-01-19T17:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Samsunspor,Time to be defined
+2025-01-26T17:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Goztepe,Time to be defined
+2025-01-26T17:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Kayserispor,Time to be defined
+2025-01-26T17:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Besiktas,Time to be defined
+2025-01-26T17:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Istanbul Basaksehir,Time to be defined
+2025-01-26T17:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Hatayspor,Time to be defined
+2025-01-26T17:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Gazişehir Gaziantep,Time to be defined
+2025-01-26T17:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Konyaspor,Time to be defined
+2025-01-26T17:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Adana Demirspor,Time to be defined
+2025-01-26T17:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Eyüpspor,Time to be defined
+2025-02-02T17:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Galatasaray,Time to be defined
+2025-02-02T17:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Samsunspor,Time to be defined
+2025-02-02T17:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Alanyaspor,Time to be defined
+2025-02-02T17:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Sivasspor,Time to be defined
+2025-02-02T17:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Kasimpasa,Time to be defined
+2025-02-02T17:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,BB Bodrumspor,Time to be defined
+2025-02-02T17:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Trabzonspor,Time to be defined
+2025-02-02T17:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Antalyaspor,Time to be defined
+2025-02-02T17:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Rizespor,Time to be defined
+2025-02-09T17:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Besiktas,Time to be defined
+2025-02-09T17:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Konyaspor,Time to be defined
+2025-02-09T17:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Fenerbahce,Time to be defined
+2025-02-09T17:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Istanbul Basaksehir,Time to be defined
+2025-02-09T17:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Rizespor,Time to be defined
+2025-02-09T17:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Hatayspor,Time to be defined
+2025-02-09T17:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Eyüpspor,Time to be defined
+2025-02-09T17:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Adana Demirspor,Time to be defined
+2025-02-09T17:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Goztepe,Time to be defined
+2025-02-16T17:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Sivasspor,Time to be defined
+2025-02-16T17:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Kayserispor,Time to be defined
+2025-02-16T17:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,BB Bodrumspor,Time to be defined
+2025-02-16T17:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Galatasaray,Time to be defined
+2025-02-16T17:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Samsunspor,Time to be defined
+2025-02-16T17:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Antalyaspor,Time to be defined
+2025-02-16T17:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Alanyaspor,Time to be defined
+2025-02-16T17:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Kasimpasa,Time to be defined
+2025-02-16T17:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Trabzonspor,Time to be defined
+2025-02-23T17:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Konyaspor,Time to be defined
+2025-02-23T17:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Adana Demirspor,Time to be defined
+2025-02-23T17:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Kasimpasa,Time to be defined
+2025-02-23T17:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Goztepe,Time to be defined
+2025-02-23T17:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Rizespor,Time to be defined
+2025-02-23T17:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Gazişehir Gaziantep,Time to be defined
+2025-02-23T17:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Fenerbahce,Time to be defined
+2025-02-23T17:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Besiktas,Time to be defined
+2025-02-23T17:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Hatayspor,Time to be defined
+2025-03-02T17:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Samsunspor,Time to be defined
+2025-03-02T17:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Eyüpspor,Time to be defined
+2025-03-02T17:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,BB Bodrumspor,Time to be defined
+2025-03-02T17:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Alanyaspor,Time to be defined
+2025-03-02T17:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Sivasspor,Time to be defined
+2025-03-02T17:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Trabzonspor,Time to be defined
+2025-03-02T17:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Galatasaray,Time to be defined
+2025-03-02T17:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Kayserispor,Time to be defined
+2025-03-02T17:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Antalyaspor,Time to be defined
+2025-03-09T17:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Gazişehir Gaziantep,Time to be defined
+2025-03-09T17:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Goztepe,Time to be defined
+2025-03-09T17:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Istanbul Basaksehir,Time to be defined
+2025-03-09T17:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Galatasaray,Time to be defined
+2025-03-09T17:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Rizespor,Time to be defined
+2025-03-09T17:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Adana Demirspor,Time to be defined
+2025-03-09T17:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Hatayspor,Time to be defined
+2025-03-09T17:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Konyaspor,Time to be defined
+2025-03-09T17:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Kasimpasa,Time to be defined
+2025-03-16T17:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Kayserispor,Time to be defined
+2025-03-16T17:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Trabzonspor,Time to be defined
+2025-03-16T17:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Eyüpspor,Time to be defined
+2025-03-16T17:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,BB Bodrumspor,Time to be defined
+2025-03-16T17:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Antalyaspor,Time to be defined
+2025-03-16T17:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Samsunspor,Time to be defined
+2025-03-16T17:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Besiktas,Time to be defined
+2025-03-16T17:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Alanyaspor,Time to be defined
+2025-03-16T17:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Sivasspor,Time to be defined
+2025-03-30T17:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Adana Demirspor,Time to be defined
+2025-03-30T17:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Galatasaray,Time to be defined
+2025-03-30T17:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Alanyaspor,Time to be defined
+2025-03-30T17:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Hatayspor,Time to be defined
+2025-03-30T17:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Gazişehir Gaziantep,Time to be defined
+2025-03-30T17:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Goztepe,Time to be defined
+2025-03-30T17:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Kasimpasa,Time to be defined
+2025-03-30T17:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Istanbul Basaksehir,Time to be defined
+2025-03-30T17:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Fenerbahce,Time to be defined
+2025-04-06T16:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Gazişehir Gaziantep,Time to be defined
+2025-04-06T16:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Konyaspor,Time to be defined
+2025-04-06T16:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Sivasspor,Time to be defined
+2025-04-06T16:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Trabzonspor,Time to be defined
+2025-04-06T16:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Kayserispor,Time to be defined
+2025-04-06T16:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Samsunspor,Time to be defined
+2025-04-06T16:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,BB Bodrumspor,Time to be defined
+2025-04-06T16:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Besiktas,Time to be defined
+2025-04-06T16:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Eyüpspor,Time to be defined
+2025-04-13T16:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Fenerbahce,Time to be defined
+2025-04-13T16:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Istanbul Basaksehir,Time to be defined
+2025-04-13T16:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Kasimpasa,Time to be defined
+2025-04-13T16:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Goztepe,Time to be defined
+2025-04-13T16:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Galatasaray,Time to be defined
+2025-04-13T16:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Rizespor,Time to be defined
+2025-04-13T16:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Adana Demirspor,Time to be defined
+2025-04-13T16:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Hatayspor,Time to be defined
+2025-04-13T16:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Antalyaspor,Time to be defined
+2025-04-20T16:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Besiktas,Time to be defined
+2025-04-20T16:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Eyüpspor,Time to be defined
+2025-04-20T16:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Gazişehir Gaziantep,Time to be defined
+2025-04-20T16:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,BB Bodrumspor,Time to be defined
+2025-04-20T16:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Trabzonspor,Time to be defined
+2025-04-20T16:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Sivasspor,Time to be defined
+2025-04-20T16:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Samsunspor,Time to be defined
+2025-04-20T16:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Kayserispor,Time to be defined
+2025-04-20T16:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Konyaspor,Time to be defined
+2025-04-27T16:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,Antalyaspor,Time to be defined
+2025-04-27T16:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Hatayspor,Time to be defined
+2025-04-27T16:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Rizespor,Time to be defined
+2025-04-27T16:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Adana Demirspor,Time to be defined
+2025-04-27T16:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Alanyaspor,Time to be defined
+2025-04-27T16:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Galatasaray,Time to be defined
+2025-04-27T16:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Samsunspor,Time to be defined
+2025-04-27T16:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Istanbul Basaksehir,Time to be defined
+2025-04-27T16:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Fenerbahce,Time to be defined
+2025-05-04T16:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Sivasspor,Time to be defined
+2025-05-04T16:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Gazişehir Gaziantep,Time to be defined
+2025-05-04T16:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Eyüpspor,Time to be defined
+2025-05-04T16:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Goztepe,Time to be defined
+2025-05-04T16:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Konyaspor,Time to be defined
+2025-05-04T16:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Trabzonspor,Time to be defined
+2025-05-04T16:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Kayserispor,Time to be defined
+2025-05-04T16:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Besiktas,Time to be defined
+2025-05-04T16:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Istanbul Basaksehir,Time to be defined
+2025-05-11T16:00:00+00:00,2024,Süper Lig,Turkey,Sivasspor,,,BB Bodrumspor,Time to be defined
+2025-05-11T16:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Adana Demirspor,Time to be defined
+2025-05-11T16:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,Antalyaspor,Time to be defined
+2025-05-11T16:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Rizespor,Time to be defined
+2025-05-11T16:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Galatasaray,Time to be defined
+2025-05-11T16:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Fenerbahce,Time to be defined
+2025-05-11T16:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Kasimpasa,Time to be defined
+2025-05-11T16:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Hatayspor,Time to be defined
+2025-05-11T16:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Alanyaspor,Time to be defined
+2025-05-18T16:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Trabzonspor,Time to be defined
+2025-05-18T16:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Kayserispor,Time to be defined
+2025-05-18T16:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Goztepe,Time to be defined
+2025-05-18T16:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Sivasspor,Time to be defined
+2025-05-18T16:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Hatayspor,Time to be defined
+2025-05-18T16:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Gazişehir Gaziantep,Time to be defined
+2025-05-18T16:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Istanbul Basaksehir,Time to be defined
+2025-05-18T16:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Besiktas,Time to be defined
+2025-05-18T16:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Eyüpspor,Time to be defined
+2025-05-25T16:00:00+00:00,2024,Süper Lig,Turkey,Besiktas,,,Rizespor,Time to be defined
+2025-05-25T16:00:00+00:00,2024,Süper Lig,Turkey,Hatayspor,,,Fenerbahce,Time to be defined
+2025-05-25T16:00:00+00:00,2024,Süper Lig,Turkey,Kayserispor,,,BB Bodrumspor,Time to be defined
+2025-05-25T16:00:00+00:00,2024,Süper Lig,Turkey,Konyaspor,,,Alanyaspor,Time to be defined
+2025-05-25T16:00:00+00:00,2024,Süper Lig,Turkey,Trabzonspor,,,Samsunspor,Time to be defined
+2025-05-25T16:00:00+00:00,2024,Süper Lig,Turkey,Eyüpspor,,,Antalyaspor,Time to be defined
+2025-05-25T16:00:00+00:00,2024,Süper Lig,Turkey,Istanbul Basaksehir,,,Adana Demirspor,Time to be defined
+2025-05-25T16:00:00+00:00,2024,Süper Lig,Turkey,Gazişehir Gaziantep,,,Kasimpasa,Time to be defined
+2025-05-25T16:00:00+00:00,2024,Süper Lig,Turkey,Goztepe,,,Galatasaray,Time to be defined
+2025-06-01T16:00:00+00:00,2024,Süper Lig,Turkey,BB Bodrumspor,,,Besiktas,Time to be defined
+2025-06-01T16:00:00+00:00,2024,Süper Lig,Turkey,Galatasaray,,,Istanbul Basaksehir,Time to be defined
+2025-06-01T16:00:00+00:00,2024,Süper Lig,Turkey,Rizespor,,,Hatayspor,Time to be defined
+2025-06-01T16:00:00+00:00,2024,Süper Lig,Turkey,Fenerbahce,,,Konyaspor,Time to be defined
+2025-06-01T16:00:00+00:00,2024,Süper Lig,Turkey,Samsunspor,,,Kayserispor,Time to be defined
+2025-06-01T16:00:00+00:00,2024,Süper Lig,Turkey,Adana Demirspor,,,Gazişehir Gaziantep,Time to be defined
+2025-06-01T16:00:00+00:00,2024,Süper Lig,Turkey,Antalyaspor,,,Trabzonspor,Time to be defined
+2025-06-01T16:00:00+00:00,2024,Süper Lig,Turkey,Kasimpasa,,,Goztepe,Time to be defined
+2025-06-01T16:00:00+00:00,2024,Süper Lig,Turkey,Alanyaspor,,,Sivasspor,Time to be defined

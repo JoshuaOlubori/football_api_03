@@ -1,0 +1,133 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-20T16:00:00+00:00,2024,Super League,Switzerland,FC Lugano,2,1,Grasshoppers,Match Finished
+2024-07-20T16:00:00+00:00,2024,Super League,Switzerland,Yverdon Sport,0,2,FC Zurich,Match Finished
+2024-07-20T18:30:00+00:00,2024,Super League,Switzerland,FC Winterthur,1,0,FC ST. Gallen,Match Finished
+2024-07-21T12:15:00+00:00,2024,Super League,Switzerland,BSC Young Boys,1,2,FC Sion,Match Finished
+2024-07-21T14:30:00+00:00,2024,Super League,Switzerland,Lausanne,3,2,FC Basel 1893,Match Finished
+2024-07-21T14:30:00+00:00,2024,Super League,Switzerland,FC Luzern,1,2,Servette FC,Match Finished
+2024-07-27T16:00:00+00:00,2024,Super League,Switzerland,Grasshoppers,2,2,FC Luzern,Match Finished
+2024-07-27T16:00:00+00:00,2024,Super League,Switzerland,FC Sion,4,0,Lausanne,Match Finished
+2024-07-27T18:30:00+00:00,2024,Super League,Switzerland,FC Basel 1893,1,2,FC Lugano,Match Finished
+2024-07-28T12:15:00+00:00,2024,Super League,Switzerland,Servette FC,3,2,Yverdon Sport,Match Finished
+2024-07-28T14:30:00+00:00,2024,Super League,Switzerland,FC ST. Gallen,4,0,BSC Young Boys,Match Finished
+2024-07-28T14:30:00+00:00,2024,Super League,Switzerland,FC Zurich,4,2,FC Winterthur,Match Finished
+2024-08-03T16:00:00+00:00,2024,Super League,Switzerland,Grasshoppers,0,3,FC Basel 1893,Match Finished
+2024-08-03T16:00:00+00:00,2024,Super League,Switzerland,FC Lugano,3,1,Servette FC,Match Finished
+2024-08-03T18:30:00+00:00,2024,Super League,Switzerland,FC Luzern,1,0,FC Sion,Match Finished
+2024-08-04T12:15:00+00:00,2024,Super League,Switzerland,Lausanne,3,4,FC ST. Gallen,Match Finished
+2024-08-04T14:30:00+00:00,2024,Super League,Switzerland,FC Winterthur,0,0,Yverdon Sport,Match Finished
+2024-08-04T14:30:00+00:00,2024,Super League,Switzerland,BSC Young Boys,2,2,FC Zurich,Match Finished
+2024-08-11T14:30:00+00:00,2024,Super League,Switzerland,FC Lugano,2,3,FC Luzern,Match Finished
+2024-08-10T16:00:00+00:00,2024,Super League,Switzerland,FC Sion,2,0,FC Winterthur,Match Finished
+2024-08-10T18:30:00+00:00,2024,Super League,Switzerland,Yverdon Sport,2,2,BSC Young Boys,Match Finished
+2024-08-11T12:15:00+00:00,2024,Super League,Switzerland,FC ST. Gallen,1,0,Grasshoppers,Match Finished
+2024-08-11T14:30:00+00:00,2024,Super League,Switzerland,Servette FC,0,6,FC Basel 1893,Match Finished
+2024-08-11T14:30:00+00:00,2024,Super League,Switzerland,FC Zurich,2,0,Lausanne,Match Finished
+2024-07-24T18:30:00+00:00,2024,Super League,Switzerland,Servette FC,3,1,BSC Young Boys,Match Finished
+2024-08-24T16:00:00+00:00,2024,Super League,Switzerland,Lausanne,,,FC Lugano,Match Postponed
+2024-08-24T16:00:00+00:00,2024,Super League,Switzerland,FC Luzern,,,FC Winterthur,Not Started
+2024-08-24T18:30:00+00:00,2024,Super League,Switzerland,Grasshoppers,,,FC Sion,Not Started
+2024-08-25T14:30:00+00:00,2024,Super League,Switzerland,FC Basel 1893,,,Yverdon Sport,Not Started
+2024-08-25T14:30:00+00:00,2024,Super League,Switzerland,FC ST. Gallen,,,FC Zurich,Not Started
+2024-08-31T16:00:00+00:00,2024,Super League,Switzerland,FC Sion,,,FC Basel 1893,Not Started
+2024-08-31T16:00:00+00:00,2024,Super League,Switzerland,Yverdon Sport,,,Grasshoppers,Not Started
+2024-08-31T18:30:00+00:00,2024,Super League,Switzerland,BSC Young Boys,,,Lausanne,Not Started
+2024-09-01T12:15:00+00:00,2024,Super League,Switzerland,FC Winterthur,,,Servette FC,Not Started
+2024-09-01T14:30:00+00:00,2024,Super League,Switzerland,FC Lugano,,,FC ST. Gallen,Not Started
+2024-09-01T14:30:00+00:00,2024,Super League,Switzerland,FC Zurich,,,FC Luzern,Not Started
+2024-09-21T16:00:00+00:00,2024,Super League,Switzerland,Grasshoppers,,,Servette FC,Not Started
+2024-09-21T16:00:00+00:00,2024,Super League,Switzerland,FC ST. Gallen,,,FC Luzern,Not Started
+2024-09-21T18:30:00+00:00,2024,Super League,Switzerland,FC Basel 1893,,,FC Zurich,Not Started
+2024-09-22T12:15:00+00:00,2024,Super League,Switzerland,Lausanne,,,Yverdon Sport,Not Started
+2024-09-22T14:30:00+00:00,2024,Super League,Switzerland,FC Sion,,,FC Lugano,Not Started
+2024-09-22T14:30:00+00:00,2024,Super League,Switzerland,FC Winterthur,,,BSC Young Boys,Not Started
+2024-09-28T16:00:00+00:00,2024,Super League,Switzerland,Yverdon Sport,,,FC ST. Gallen,Not Started
+2024-09-29T00:00:00+00:00,2024,Super League,Switzerland,FC Lugano,,,FC Winterthur,Match Postponed
+2024-09-29T00:00:00+00:00,2024,Super League,Switzerland,Servette FC,,,Lausanne,Match Postponed
+2024-09-29T00:00:00+00:00,2024,Super League,Switzerland,BSC Young Boys,,,Grasshoppers,Match Postponed
+2024-09-29T00:00:00+00:00,2024,Super League,Switzerland,FC Zurich,,,FC Sion,Match Postponed
+2024-09-29T14:30:00+00:00,2024,Super League,Switzerland,FC Luzern,,,FC Basel 1893,Not Started
+2024-10-05T16:00:00+00:00,2024,Super League,Switzerland,FC Luzern,,,Lausanne,Not Started
+2024-10-05T16:00:00+00:00,2024,Super League,Switzerland,FC Sion,,,Yverdon Sport,Not Started
+2024-10-05T18:30:00+00:00,2024,Super League,Switzerland,FC Winterthur,,,Grasshoppers,Not Started
+2024-10-06T12:15:00+00:00,2024,Super League,Switzerland,FC Zurich,,,FC Lugano,Not Started
+2024-10-06T14:30:00+00:00,2024,Super League,Switzerland,FC Basel 1893,,,BSC Young Boys,Not Started
+2024-10-06T14:30:00+00:00,2024,Super League,Switzerland,FC ST. Gallen,,,Servette FC,Not Started
+2024-10-19T16:00:00+00:00,2024,Super League,Switzerland,Grasshoppers,,,FC Zurich,Not Started
+2024-10-19T16:00:00+00:00,2024,Super League,Switzerland,BSC Young Boys,,,FC Luzern,Not Started
+2024-10-19T18:30:00+00:00,2024,Super League,Switzerland,Servette FC,,,FC Sion,Not Started
+2024-10-20T14:30:00+00:00,2024,Super League,Switzerland,FC Basel 1893,,,FC ST. Gallen,Not Started
+2024-10-20T14:30:00+00:00,2024,Super League,Switzerland,Lausanne,,,FC Winterthur,Not Started
+2024-10-20T14:30:00+00:00,2024,Super League,Switzerland,Yverdon Sport,,,FC Lugano,Not Started
+2024-10-26T16:00:00+00:00,2024,Super League,Switzerland,Lausanne,,,Grasshoppers,Not Started
+2024-10-26T16:00:00+00:00,2024,Super League,Switzerland,FC Winterthur,,,FC Basel 1893,Not Started
+2024-10-26T18:30:00+00:00,2024,Super League,Switzerland,FC Luzern,,,Yverdon Sport,Not Started
+2024-10-27T12:15:00+00:00,2024,Super League,Switzerland,FC Sion,,,FC ST. Gallen,Not Started
+2024-10-27T14:30:00+00:00,2024,Super League,Switzerland,FC Lugano,,,BSC Young Boys,Not Started
+2024-10-27T14:30:00+00:00,2024,Super League,Switzerland,FC Zurich,,,Servette FC,Not Started
+2024-10-30T00:00:00+00:00,2024,Super League,Switzerland,Grasshoppers,,,FC Lugano,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Super League,Switzerland,Servette FC,,,FC Luzern,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Super League,Switzerland,FC Sion,,,FC Zurich,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Super League,Switzerland,FC ST. Gallen,,,FC Winterthur,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Super League,Switzerland,BSC Young Boys,,,FC Basel 1893,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Super League,Switzerland,Yverdon Sport,,,Lausanne,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Super League,Switzerland,FC Basel 1893,,,FC Winterthur,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Super League,Switzerland,Lausanne,,,Servette FC,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Super League,Switzerland,FC Lugano,,,Yverdon Sport,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Super League,Switzerland,FC Luzern,,,Grasshoppers,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Super League,Switzerland,FC ST. Gallen,,,FC Sion,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Super League,Switzerland,FC Zurich,,,BSC Young Boys,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Super League,Switzerland,Grasshoppers,,,FC ST. Gallen,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Super League,Switzerland,Servette FC,,,FC Zurich,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Super League,Switzerland,FC Sion,,,FC Luzern,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Super League,Switzerland,FC Winterthur,,,Lausanne,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Super League,Switzerland,BSC Young Boys,,,FC Lugano,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Super League,Switzerland,Yverdon Sport,,,FC Basel 1893,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Super League,Switzerland,FC Basel 1893,,,Servette FC,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Super League,Switzerland,Grasshoppers,,,FC Winterthur,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Super League,Switzerland,Lausanne,,,FC Sion,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Super League,Switzerland,FC Lugano,,,FC Zurich,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Super League,Switzerland,FC Luzern,,,BSC Young Boys,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Super League,Switzerland,FC ST. Gallen,,,Yverdon Sport,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Super League,Switzerland,FC Basel 1893,,,Lausanne,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Super League,Switzerland,Servette FC,,,FC Lugano,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Super League,Switzerland,FC Winterthur,,,FC Sion,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Super League,Switzerland,BSC Young Boys,,,FC ST. Gallen,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Super League,Switzerland,FC Zurich,,,Grasshoppers,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Super League,Switzerland,Yverdon Sport,,,FC Luzern,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Super League,Switzerland,Grasshoppers,,,Yverdon Sport,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Super League,Switzerland,Lausanne,,,FC Zurich,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Super League,Switzerland,FC Luzern,,,FC Lugano,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Super League,Switzerland,Servette FC,,,FC Winterthur,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Super League,Switzerland,FC Sion,,,BSC Young Boys,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Super League,Switzerland,FC ST. Gallen,,,FC Basel 1893,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Super League,Switzerland,FC Basel 1893,,,Grasshoppers,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Super League,Switzerland,FC Lugano,,,Lausanne,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Super League,Switzerland,FC Winterthur,,,FC Luzern,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Super League,Switzerland,BSC Young Boys,,,Servette FC,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Super League,Switzerland,FC Zurich,,,FC ST. Gallen,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Super League,Switzerland,Yverdon Sport,,,FC Sion,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Super League,Switzerland,Lausanne,,,FC Luzern,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Super League,Switzerland,FC Lugano,,,FC Basel 1893,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Super League,Switzerland,Servette FC,,,FC ST. Gallen,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Super League,Switzerland,FC Sion,,,Grasshoppers,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Super League,Switzerland,BSC Young Boys,,,FC Winterthur,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Super League,Switzerland,FC Zurich,,,Yverdon Sport,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Super League,Switzerland,FC Basel 1893,,,FC Sion,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Super League,Switzerland,Grasshoppers,,,BSC Young Boys,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Super League,Switzerland,FC Luzern,,,FC Zurich,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Super League,Switzerland,FC ST. Gallen,,,Lausanne,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Super League,Switzerland,FC Winterthur,,,FC Lugano,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Super League,Switzerland,Yverdon Sport,,,Servette FC,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Super League,Switzerland,Lausanne,,,BSC Young Boys,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Super League,Switzerland,FC Lugano,,,FC Sion,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Super League,Switzerland,FC Luzern,,,FC ST. Gallen,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Super League,Switzerland,Servette FC,,,Grasshoppers,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Super League,Switzerland,FC Zurich,,,FC Basel 1893,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Super League,Switzerland,Yverdon Sport,,,FC Winterthur,Time to be defined
+2025-02-04T00:00:00+00:00,2024,Super League,Switzerland,FC Basel 1893,,,FC Luzern,Time to be defined
+2025-02-04T00:00:00+00:00,2024,Super League,Switzerland,Grasshoppers,,,Lausanne,Time to be defined
+2025-02-04T00:00:00+00:00,2024,Super League,Switzerland,FC Sion,,,Servette FC,Time to be defined
+2025-02-04T00:00:00+00:00,2024,Super League,Switzerland,FC ST. Gallen,,,FC Lugano,Time to be defined
+2025-02-04T00:00:00+00:00,2024,Super League,Switzerland,FC Winterthur,,,FC Zurich,Time to be defined
+2025-02-04T00:00:00+00:00,2024,Super League,Switzerland,BSC Young Boys,,,Yverdon Sport,Time to be defined

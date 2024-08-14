@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-18T16:30:00+00:00,2024,Serie A,Italy,Bologna,,,Udinese,Not Started
+2024-08-18T18:45:00+00:00,2024,Serie A,Italy,Cagliari,,,AS Roma,Not Started
+2024-08-17T18:45:00+00:00,2024,Serie A,Italy,Empoli,,,Monza,Not Started
+2024-08-17T16:30:00+00:00,2024,Serie A,Italy,Genoa,,,Inter,Not Started
+2024-08-18T16:30:00+00:00,2024,Serie A,Italy,Verona,,,Napoli,Not Started
+2024-08-19T18:45:00+00:00,2024,Serie A,Italy,Juventus,,,Como,Not Started
+2024-08-18T18:45:00+00:00,2024,Serie A,Italy,Lazio,,,Venezia,Not Started
+2024-08-19T16:30:00+00:00,2024,Serie A,Italy,Lecce,,,Atalanta,Not Started
+2024-08-17T18:45:00+00:00,2024,Serie A,Italy,AC Milan,,,Torino,Not Started
+2024-08-17T16:30:00+00:00,2024,Serie A,Italy,Parma,,,Fiorentina,Not Started
+2024-08-26T16:30:00+00:00,2024,Serie A,Italy,Cagliari,,,Como,Not Started
+2024-08-25T16:30:00+00:00,2024,Serie A,Italy,Fiorentina,,,Venezia,Not Started
+2024-08-26T18:45:00+00:00,2024,Serie A,Italy,Verona,,,Juventus,Not Started
+2024-08-24T18:45:00+00:00,2024,Serie A,Italy,Inter,,,Lecce,Not Started
+2024-08-24T18:45:00+00:00,2024,Serie A,Italy,Monza,,,Genoa,Not Started
+2024-08-25T18:45:00+00:00,2024,Serie A,Italy,Napoli,,,Bologna,Not Started
+2024-08-24T16:30:00+00:00,2024,Serie A,Italy,Parma,,,AC Milan,Not Started
+2024-08-25T18:45:00+00:00,2024,Serie A,Italy,AS Roma,,,Empoli,Not Started
+2024-08-25T16:30:00+00:00,2024,Serie A,Italy,Torino,,,Atalanta,Not Started
+2024-08-24T16:30:00+00:00,2024,Serie A,Italy,Udinese,,,Lazio,Not Started
+2024-08-31T16:30:00+00:00,2024,Serie A,Italy,Bologna,,,Empoli,Not Started
+2024-09-01T16:30:00+00:00,2024,Serie A,Italy,Fiorentina,,,Monza,Not Started
+2024-09-01T16:30:00+00:00,2024,Serie A,Italy,Genoa,,,Verona,Not Started
+2024-08-30T18:45:00+00:00,2024,Serie A,Italy,Inter,,,Atalanta,Not Started
+2024-09-01T18:45:00+00:00,2024,Serie A,Italy,Juventus,,,AS Roma,Not Started
+2024-08-31T18:45:00+00:00,2024,Serie A,Italy,Lazio,,,AC Milan,Not Started
+2024-08-31T16:30:00+00:00,2024,Serie A,Italy,Lecce,,,Cagliari,Not Started
+2024-08-31T18:45:00+00:00,2024,Serie A,Italy,Napoli,,,Parma,Not Started
+2024-09-01T18:45:00+00:00,2024,Serie A,Italy,Udinese,,,Como,Not Started
+2024-08-30T16:30:00+00:00,2024,Serie A,Italy,Venezia,,,Torino,Not Started
+2024-09-15T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Fiorentina,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Napoli,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Italy,Como,,,Bologna,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Juventus,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,AS Roma,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Verona,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Venezia,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Inter,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Udinese,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Lecce,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Como,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Empoli,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Lazio,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Torino,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Italy,Inter,,,AC Milan,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Napoli,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Parma,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Bologna,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Udinese,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Genoa,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Atalanta,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Italy,Como,,,Verona,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Fiorentina,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Juventus,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Lecce,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Monza,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Cagliari,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Venezia,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Lazio,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Inter,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Genoa,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Parma,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,AC Milan,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Venezia,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Torino,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Cagliari,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Empoli,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Serie A,Italy,Monza,,,AS Roma,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Como,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Lecce,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Torino,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Italy,Como,,,Parma,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Napoli,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Bologna,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Monza,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Lazio,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Fiorentina,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Udinese,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Inter,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Atalanta,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Verona,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,AC Milan,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,AS Roma,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Juventus,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Genoa,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Venezia,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Lecce,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Empoli,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Como,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Cagliari,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Monza,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Bologna,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Serie A,Italy,Como,,,Lazio,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Inter,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Fiorentina,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Parma,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Verona,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Napoli,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Torino,Time to be defined
+2024-10-30T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Udinese,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Lecce,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Como,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Serie A,Italy,Verona,,,AS Roma,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Venezia,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Cagliari,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Serie A,Italy,Monza,,,AC Milan,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Atalanta,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Genoa,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Fiorentina,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Juventus,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Udinese,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,AC Milan,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Verona,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Como,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Napoli,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Torino,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Empoli,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Lazio,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Bologna,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Parma,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Italy,Como,,,Fiorentina,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Udinese,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Cagliari,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Inter,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Bologna,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Juventus,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,AS Roma,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Atalanta,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Monza,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Lecce,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Venezia,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Verona,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Italy,Como,,,Monza,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Inter,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Juventus,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Empoli,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Lazio,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Atalanta,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Napoli,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Genoa,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,AC Milan,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Cagliari,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Torino,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Empoli,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Parma,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Bologna,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Udinese,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Lazio,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Lecce,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Como,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Fiorentina,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Atalanta,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Serie A,Italy,Como,,,AS Roma,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Torino,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Venezia,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Inter,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Monza,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Genoa,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Verona,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Napoli,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Empoli,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Udinese,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Napoli,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Serie A,Italy,Verona,,,AC Milan,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Como,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Lazio,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Juventus,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Parma,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Bologna,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Cagliari,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Verona,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Inter,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie A,Italy,Como,,,Lecce,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Genoa,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Fiorentina,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Atalanta,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,AS Roma,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Venezia,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Monza,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Torino,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Juventus,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Serie A,Italy,Como,,,AC Milan,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Napoli,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Udinese,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Bologna,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Genoa,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Cagliari,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Lazio,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Parma,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Empoli,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,AS Roma,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Lecce,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Parma,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Como,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Cagliari,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Fiorentina,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Verona,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Juventus,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Atalanta,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Inter,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Napoli,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Monza,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Lecce,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Serie A,Italy,Como,,,Udinese,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Torino,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Lazio,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Empoli,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,AC Milan,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Venezia,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Genoa,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Serie A,Italy,Como,,,Atalanta,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Bologna,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Monza,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Fiorentina,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Inter,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Parma,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Juventus,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Cagliari,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,AS Roma,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Verona,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Torino,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Como,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Lazio,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Genoa,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Empoli,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Inter,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Verona,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Lecce,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Napoli,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Venezia,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Parma,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Serie A,Italy,Como,,,Juventus,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,AC Milan,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Atalanta,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Fiorentina,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Monza,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Bologna,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Udinese,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Genoa,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,AS Roma,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Cagliari,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Torino,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Como,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Venezia,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Inter,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Napoli,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Verona,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Lecce,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Serie A,Italy,Parma,,,AS Roma,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Empoli,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Juventus,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Serie A,Italy,Como,,,Napoli,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Atalanta,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Fiorentina,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Genoa,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Udinese,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Bologna,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Monza,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Serie A,Italy,Torino,,,AC Milan,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Lazio,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Venezia,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Cagliari,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Lecce,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Empoli,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Verona,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Lazio,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Torino,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Inter,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Como,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Parma,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Genoa,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Serie A,Italy,Como,,,Venezia,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,AS Roma,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Bologna,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Monza,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Atalanta,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Udinese,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,AC Milan,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Fiorentina,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Torino,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Inter,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Lazio,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Juventus,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Lecce,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Como,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Parma,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Cagliari,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Empoli,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Verona,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Napoli,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Monza,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Serie A,Italy,Como,,,Empoli,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Atalanta,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Parma,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Udinese,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Genoa,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Torino,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,AS Roma,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,AC Milan,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Bologna,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Lazio,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Napoli,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Cagliari,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Udinese,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Venezia,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Fiorentina,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Como,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Inter,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Juventus,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Verona,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Bologna,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Serie A,Italy,Como,,,Torino,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Parma,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Genoa,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Cagliari,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Lecce,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,AS Roma,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Empoli,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,AC Milan,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Monza,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Inter,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Fiorentina,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Venezia,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Lazio,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Como,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Atalanta,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Napoli,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Juventus,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Verona,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Udinese,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Lecce,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Serie A,Italy,Como,,,Genoa,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Empoli,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Cagliari,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Serie A,Italy,Inter,,,AS Roma,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Monza,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Parma,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Torino,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Bologna,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,AC Milan,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Juventus,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Udinese,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Lazio,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,AC Milan,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Verona,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Napoli,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Atalanta,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Como,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,Fiorentina,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Venezia,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,AS Roma,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Serie A,Italy,Como,,,Cagliari,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Parma,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Lecce,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Juventus,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Bologna,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Genoa,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Serie A,Italy,Torino,,,Inter,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Monza,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Fiorentina,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Serie A,Italy,Cagliari,,,Venezia,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Serie A,Italy,Fiorentina,,,Bologna,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Serie A,Italy,Genoa,,,Atalanta,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Serie A,Italy,Verona,,,Como,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Serie A,Italy,Inter,,,Lazio,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Serie A,Italy,Juventus,,,Udinese,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Serie A,Italy,Lecce,,,Torino,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Serie A,Italy,Monza,,,Empoli,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Serie A,Italy,Parma,,,Napoli,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Serie A,Italy,AS Roma,,,AC Milan,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Serie A,Italy,Atalanta,,,Parma,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Serie A,Italy,Bologna,,,Genoa,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Serie A,Italy,Como,,,Inter,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Serie A,Italy,Empoli,,,Verona,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Serie A,Italy,Lazio,,,Lecce,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Serie A,Italy,AC Milan,,,Monza,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Serie A,Italy,Napoli,,,Cagliari,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Serie A,Italy,Torino,,,AS Roma,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Serie A,Italy,Udinese,,,Fiorentina,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Serie A,Italy,Venezia,,,Juventus,Time to be defined

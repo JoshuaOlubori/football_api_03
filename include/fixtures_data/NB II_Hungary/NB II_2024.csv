@@ -1,0 +1,241 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-28T17:00:00+00:00,2024,NB II,Hungary,Csakvar,3,2,Kazincbarcikai,Match Finished
+2024-07-28T17:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,0,0,BVSC,Match Finished
+2024-07-28T17:00:00+00:00,2024,NB II,Hungary,Soroksar,1,2,Gyirmot SE,Match Finished
+2024-07-28T17:00:00+00:00,2024,NB II,Hungary,Ajka,0,1,Szentlőrinc SE,Match Finished
+2024-07-28T17:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,1,1,Bekescsaba 1912,Match Finished
+2024-07-28T17:00:00+00:00,2024,NB II,Hungary,Tatabánya,3,2,Szeged 2011,Match Finished
+2024-07-28T15:30:00+00:00,2024,NB II,Hungary,Budafoki LC,3,3,Budapest Honved,Match Finished
+2024-07-28T17:00:00+00:00,2024,NB II,Hungary,Vasas,3,1,Kisvarda FC,Match Finished
+2024-08-04T17:00:00+00:00,2024,NB II,Hungary,Budapest Honved,1,0,Tatabánya,Match Finished
+2024-08-04T17:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,3,0,Ajka,Match Finished
+2024-08-04T17:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,2,0,Mezokovesd-zsory,Match Finished
+2024-08-04T17:00:00+00:00,2024,NB II,Hungary,Csakvar,0,1,BVSC,Match Finished
+2025-02-16T17:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,,,Vasas,Time to be defined
+2024-08-04T15:30:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,3,1,Soroksar,Match Finished
+2024-08-04T17:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,1,2,Budafoki LC,Match Finished
+2025-02-16T17:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,Kozarmisleny FC,Time to be defined
+2024-08-11T17:00:00+00:00,2024,NB II,Hungary,Csakvar,1,2,Gyirmot SE,Match Finished
+2024-08-11T17:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,1,3,Szentlőrinc SE,Match Finished
+2024-08-11T17:00:00+00:00,2024,NB II,Hungary,Soroksar,0,0,Bekescsaba 1912,Match Finished
+2024-08-11T17:00:00+00:00,2024,NB II,Hungary,Ajka,0,0,Szeged 2011,Match Finished
+2024-08-11T17:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,2,0,Budapest Honved,Match Finished
+2024-08-11T17:00:00+00:00,2024,NB II,Hungary,Tatabánya,0,1,Kisvarda FC,Match Finished
+2024-08-12T18:00:00+00:00,2024,NB II,Hungary,Budafoki LC,0,1,Vasas,Match Finished
+2024-08-11T17:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,0,1,BVSC,Match Finished
+2024-08-18T15:30:00+00:00,2024,NB II,Hungary,Budafoki LC,,,Kazincbarcikai,Not Started
+2024-08-19T18:00:00+00:00,2024,NB II,Hungary,Vasas,,,Tatabánya,Not Started
+2024-08-18T17:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,,,Kozarmisleny FC,Not Started
+2024-08-18T17:00:00+00:00,2024,NB II,Hungary,Budapest Honved,,,Ajka,Not Started
+2024-08-18T17:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,Soroksar,Not Started
+2024-08-18T17:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,,,Mezokovesd-zsory,Not Started
+2024-08-18T15:30:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,,,Csakvar,Not Started
+2024-08-18T17:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,,,BVSC,Not Started
+2024-08-25T17:00:00+00:00,2024,NB II,Hungary,Csakvar,,,Bekescsaba 1912,Not Started
+2024-08-26T18:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,,,Szeged 2011,Not Started
+2024-08-25T17:00:00+00:00,2024,NB II,Hungary,Soroksar,,,Budapest Honved,Not Started
+2024-08-25T17:00:00+00:00,2024,NB II,Hungary,Ajka,,,Kisvarda FC,Not Started
+2024-08-25T17:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,,,Vasas,Not Started
+2024-08-25T17:00:00+00:00,2024,NB II,Hungary,Tatabánya,,,Budafoki LC,Not Started
+2024-08-25T15:30:00+00:00,2024,NB II,Hungary,BVSC,,,Szentlőrinc SE,Not Started
+2024-08-25T17:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,,,Gyirmot SE,Not Started
+2024-09-01T14:00:00+00:00,2024,NB II,Hungary,Tatabánya,,,Kazincbarcikai,Not Started
+2024-09-01T14:00:00+00:00,2024,NB II,Hungary,Budafoki LC,,,Kozarmisleny FC,Not Started
+2024-09-01T15:00:00+00:00,2024,NB II,Hungary,Vasas,,,Ajka,Not Started
+2024-09-01T15:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,,,Soroksar,Not Started
+2024-09-01T15:00:00+00:00,2024,NB II,Hungary,Budapest Honved,,,Mezokovesd-zsory,Not Started
+2024-09-01T15:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,Csakvar,Not Started
+2024-09-01T15:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,,,BVSC,Not Started
+2024-09-01T14:00:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,,,Gyirmot SE,Not Started
+2024-09-22T15:00:00+00:00,2024,NB II,Hungary,Csakvar,,,Budapest Honved,Not Started
+2024-09-22T14:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,,,Kisvarda FC,Not Started
+2024-09-22T15:00:00+00:00,2024,NB II,Hungary,Soroksar,,,Vasas,Not Started
+2024-09-22T15:00:00+00:00,2024,NB II,Hungary,Ajka,,,Budafoki LC,Not Started
+2024-09-22T15:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,,,Tatabánya,Not Started
+2024-09-22T15:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,,,Bekescsaba 1912,Not Started
+2024-09-22T14:00:00+00:00,2024,NB II,Hungary,BVSC,,,Szeged 2011,Not Started
+2024-09-22T14:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,,,Szentlőrinc SE,Not Started
+2024-09-29T15:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,,,Kazincbarcikai,Not Started
+2024-09-29T14:00:00+00:00,2024,NB II,Hungary,Tatabánya,,,Ajka,Not Started
+2024-09-29T14:00:00+00:00,2024,NB II,Hungary,Budafoki LC,,,Soroksar,Not Started
+2024-09-29T15:00:00+00:00,2024,NB II,Hungary,Vasas,,,Mezokovesd-zsory,Not Started
+2024-09-29T15:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,,,Csakvar,Not Started
+2024-09-29T15:00:00+00:00,2024,NB II,Hungary,Budapest Honved,,,BVSC,Not Started
+2024-09-29T15:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,Gyirmot SE,Not Started
+2024-09-29T15:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,,,Szentlőrinc SE,Not Started
+2024-10-06T15:00:00+00:00,2024,NB II,Hungary,Csakvar,,,Vasas,Not Started
+2024-10-06T11:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,,,Budafoki LC,Not Started
+2024-10-06T15:00:00+00:00,2024,NB II,Hungary,Soroksar,,,Tatabánya,Not Started
+2024-10-06T15:00:00+00:00,2024,NB II,Hungary,Ajka,,,Kozarmisleny FC,Not Started
+2024-10-06T11:00:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,,,Szeged 2011,Not Started
+2024-10-06T15:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,,,Budapest Honved,Not Started
+2024-10-06T11:00:00+00:00,2024,NB II,Hungary,BVSC,,,Kisvarda FC,Not Started
+2024-10-06T15:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,,,Bekescsaba 1912,Not Started
+2024-10-20T15:00:00+00:00,2024,NB II,Hungary,Ajka,,,Kazincbarcikai,Not Started
+2024-10-20T15:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,,,Soroksar,Not Started
+2024-10-20T11:00:00+00:00,2024,NB II,Hungary,Tatabánya,,,Mezokovesd-zsory,Not Started
+2024-10-20T11:00:00+00:00,2024,NB II,Hungary,Budafoki LC,,,Csakvar,Not Started
+2024-10-20T15:00:00+00:00,2024,NB II,Hungary,Vasas,,,BVSC,Not Started
+2024-10-20T11:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,,,Gyirmot SE,Not Started
+2024-10-20T15:00:00+00:00,2024,NB II,Hungary,Budapest Honved,,,Szentlőrinc SE,Not Started
+2024-10-20T15:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,Bekescsaba 1912,Not Started
+2024-10-27T15:00:00+00:00,2024,NB II,Hungary,Csakvar,,,Tatabánya,Not Started
+2024-10-27T11:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,,,Kozarmisleny FC,Not Started
+2024-10-27T15:00:00+00:00,2024,NB II,Hungary,Soroksar,,,Ajka,Not Started
+2024-10-27T11:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,,,Budapest Honved,Not Started
+2024-10-27T11:00:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,,,Kisvarda FC,Not Started
+2024-10-27T15:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,,,Vasas,Not Started
+2024-10-27T11:00:00+00:00,2024,NB II,Hungary,BVSC,,,Budafoki LC,Not Started
+2024-10-27T11:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,,,Szeged 2011,Not Started
+2024-11-03T16:00:00+00:00,2024,NB II,Hungary,Soroksar,,,Kazincbarcikai,Not Started
+2024-11-03T16:00:00+00:00,2024,NB II,Hungary,Ajka,,,Mezokovesd-zsory,Not Started
+2024-11-03T12:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,,,Csakvar,Not Started
+2024-11-03T12:00:00+00:00,2024,NB II,Hungary,Tatabánya,,,BVSC,Not Started
+2024-11-03T12:00:00+00:00,2024,NB II,Hungary,Budafoki LC,,,Gyirmot SE,Not Started
+2024-11-03T16:00:00+00:00,2024,NB II,Hungary,Vasas,,,Szentlőrinc SE,Not Started
+2024-11-03T12:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,,,Bekescsaba 1912,Not Started
+2024-11-03T16:00:00+00:00,2024,NB II,Hungary,Budapest Honved,,,Szeged 2011,Not Started
+2024-11-10T16:00:00+00:00,2024,NB II,Hungary,Csakvar,,,Ajka,Not Started
+2024-11-10T12:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,,,Soroksar,Not Started
+2024-11-10T16:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,Kisvarda FC,Not Started
+2024-11-10T12:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,,,Vasas,Not Started
+2024-11-10T12:00:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,,,Budafoki LC,Not Started
+2024-11-10T16:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,,,Tatabánya,Not Started
+2024-11-10T12:00:00+00:00,2024,NB II,Hungary,BVSC,,,Kozarmisleny FC,Not Started
+2024-11-10T12:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,,,Budapest Honved,Not Started
+2024-11-24T12:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,,,Kazincbarcikai,Not Started
+2024-11-24T16:00:00+00:00,2024,NB II,Hungary,Soroksar,,,Csakvar,Not Started
+2024-11-24T16:00:00+00:00,2024,NB II,Hungary,Ajka,,,BVSC,Not Started
+2024-11-24T12:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,,,Gyirmot SE,Not Started
+2024-11-24T12:00:00+00:00,2024,NB II,Hungary,Tatabánya,,,Szentlőrinc SE,Not Started
+2024-11-24T12:00:00+00:00,2024,NB II,Hungary,Budafoki LC,,,Bekescsaba 1912,Not Started
+2024-11-24T16:00:00+00:00,2024,NB II,Hungary,Vasas,,,Szeged 2011,Not Started
+2024-11-24T12:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,,,Budapest Honved,Not Started
+2024-12-01T16:00:00+00:00,2024,NB II,Hungary,Csakvar,,,Mezokovesd-zsory,Not Started
+2024-12-01T16:00:00+00:00,2024,NB II,Hungary,Budapest Honved,,,Vasas,Not Started
+2024-12-01T16:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,Budafoki LC,Not Started
+2024-12-01T12:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,,,Tatabánya,Not Started
+2024-12-01T12:00:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,,,Kozarmisleny FC,Not Started
+2024-12-01T16:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,,,Ajka,Not Started
+2024-12-01T12:00:00+00:00,2024,NB II,Hungary,BVSC,,,Soroksar,Not Started
+2024-12-01T12:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,,,Kisvarda FC,Not Started
+2025-02-09T00:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,,,Csakvar,Time to be defined
+2025-02-09T00:00:00+00:00,2024,NB II,Hungary,BVSC,,,Mezokovesd-zsory,Time to be defined
+2025-02-09T00:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,,,Soroksar,Time to be defined
+2025-02-09T00:00:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,,,Ajka,Time to be defined
+2025-02-09T00:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,,,Kozarmisleny FC,Time to be defined
+2025-02-09T00:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,Tatabánya,Time to be defined
+2025-02-09T00:00:00+00:00,2024,NB II,Hungary,Budapest Honved,,,Budafoki LC,Time to be defined
+2025-02-09T00:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,,,Vasas,Time to be defined
+2025-02-16T00:00:00+00:00,2024,NB II,Hungary,Budafoki LC,,,Kisvarda FC,Time to be defined
+2025-02-16T00:00:00+00:00,2024,NB II,Hungary,Tatabánya,,,Budapest Honved,Time to be defined
+2024-08-04T17:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,0,0,Szeged 2011,Match Finished
+2025-02-16T00:00:00+00:00,2024,NB II,Hungary,Ajka,,,Bekescsaba 1912,Time to be defined
+2025-02-16T00:00:00+00:00,2024,NB II,Hungary,Soroksar,,,Szentlőrinc SE,Time to be defined
+2025-02-16T00:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,,,Gyirmot SE,Time to be defined
+2025-02-16T00:00:00+00:00,2024,NB II,Hungary,Csakvar,,,BVSC,Time to be defined
+2024-08-04T17:00:00+00:00,2024,NB II,Hungary,Vasas,2,2,Kazincbarcikai,Match Finished
+2025-02-23T00:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,,,Csakvar,Time to be defined
+2025-02-23T00:00:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,,,Mezokovesd-zsory,Time to be defined
+2025-02-23T00:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,,,Soroksar,Time to be defined
+2025-02-23T00:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,Ajka,Time to be defined
+2025-02-23T00:00:00+00:00,2024,NB II,Hungary,Budapest Honved,,,Kozarmisleny FC,Time to be defined
+2025-02-23T00:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,,,Tatabánya,Time to be defined
+2025-02-23T00:00:00+00:00,2024,NB II,Hungary,Vasas,,,Budafoki LC,Time to be defined
+2025-02-23T00:00:00+00:00,2024,NB II,Hungary,BVSC,,,Kazincbarcikai,Time to be defined
+2025-03-02T00:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,,,Budafoki LC,Time to be defined
+2025-03-02T00:00:00+00:00,2024,NB II,Hungary,Tatabánya,,,Vasas,Time to be defined
+2025-03-02T00:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,,,Kisvarda FC,Time to be defined
+2025-03-02T00:00:00+00:00,2024,NB II,Hungary,Ajka,,,Budapest Honved,Time to be defined
+2025-03-02T00:00:00+00:00,2024,NB II,Hungary,Soroksar,,,Szeged 2011,Time to be defined
+2025-03-02T00:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,,,Bekescsaba 1912,Time to be defined
+2025-03-02T00:00:00+00:00,2024,NB II,Hungary,Csakvar,,,Szentlőrinc SE,Time to be defined
+2025-03-02T00:00:00+00:00,2024,NB II,Hungary,BVSC,,,Gyirmot SE,Time to be defined
+2025-03-09T00:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,,,Csakvar,Time to be defined
+2025-03-09T00:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,Mezokovesd-zsory,Time to be defined
+2025-03-09T00:00:00+00:00,2024,NB II,Hungary,Budapest Honved,,,Soroksar,Time to be defined
+2025-03-09T00:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,,,Ajka,Time to be defined
+2025-03-09T00:00:00+00:00,2024,NB II,Hungary,Vasas,,,Kozarmisleny FC,Time to be defined
+2025-03-09T00:00:00+00:00,2024,NB II,Hungary,Budafoki LC,,,Tatabánya,Time to be defined
+2025-03-09T00:00:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,,,BVSC,Time to be defined
+2025-03-09T00:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,,,Kazincbarcikai,Time to be defined
+2025-03-16T00:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,,,Tatabánya,Time to be defined
+2025-03-16T00:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,,,Budafoki LC,Time to be defined
+2025-03-16T00:00:00+00:00,2024,NB II,Hungary,Ajka,,,Vasas,Time to be defined
+2025-03-16T00:00:00+00:00,2024,NB II,Hungary,Soroksar,,,Kisvarda FC,Time to be defined
+2025-03-16T00:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,,,Budapest Honved,Time to be defined
+2025-03-16T00:00:00+00:00,2024,NB II,Hungary,Csakvar,,,Szeged 2011,Time to be defined
+2025-03-16T00:00:00+00:00,2024,NB II,Hungary,BVSC,,,Bekescsaba 1912,Time to be defined
+2025-03-16T00:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,,,Szentlőrinc SE,Time to be defined
+2025-03-30T00:00:00+00:00,2024,NB II,Hungary,Budapest Honved,,,Csakvar,Time to be defined
+2025-03-30T00:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,,,Mezokovesd-zsory,Time to be defined
+2025-03-30T00:00:00+00:00,2024,NB II,Hungary,Vasas,,,Soroksar,Time to be defined
+2025-03-30T00:00:00+00:00,2024,NB II,Hungary,Budafoki LC,,,Ajka,Time to be defined
+2025-03-30T00:00:00+00:00,2024,NB II,Hungary,Tatabánya,,,Kozarmisleny FC,Time to be defined
+2025-03-30T00:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,,,Gyirmot SE,Time to be defined
+2025-03-30T00:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,BVSC,Time to be defined
+2025-03-30T00:00:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,,,Kazincbarcikai,Time to be defined
+2025-04-06T00:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,,,Kozarmisleny FC,Time to be defined
+2025-04-06T00:00:00+00:00,2024,NB II,Hungary,Ajka,,,Tatabánya,Time to be defined
+2025-04-06T00:00:00+00:00,2024,NB II,Hungary,Soroksar,,,Budafoki LC,Time to be defined
+2025-04-06T00:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,,,Vasas,Time to be defined
+2025-04-06T00:00:00+00:00,2024,NB II,Hungary,Csakvar,,,Kisvarda FC,Time to be defined
+2025-04-06T00:00:00+00:00,2024,NB II,Hungary,BVSC,,,Budapest Honved,Time to be defined
+2025-04-06T00:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,,,Szeged 2011,Time to be defined
+2025-04-06T00:00:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,,,Bekescsaba 1912,Time to be defined
+2025-04-13T00:00:00+00:00,2024,NB II,Hungary,Vasas,,,Csakvar,Time to be defined
+2025-04-13T00:00:00+00:00,2024,NB II,Hungary,Budafoki LC,,,Mezokovesd-zsory,Time to be defined
+2025-04-13T00:00:00+00:00,2024,NB II,Hungary,Tatabánya,,,Soroksar,Time to be defined
+2025-04-13T00:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,,,Ajka,Time to be defined
+2025-04-13T00:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,Szentlőrinc SE,Time to be defined
+2025-04-13T00:00:00+00:00,2024,NB II,Hungary,Budapest Honved,,,Gyirmot SE,Time to be defined
+2025-04-13T00:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,,,BVSC,Time to be defined
+2025-04-13T00:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,,,Kazincbarcikai,Time to be defined
+2025-04-20T00:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,,,Ajka,Time to be defined
+2025-04-20T00:00:00+00:00,2024,NB II,Hungary,Soroksar,,,Kozarmisleny FC,Time to be defined
+2025-04-20T00:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,,,Tatabánya,Time to be defined
+2025-04-20T00:00:00+00:00,2024,NB II,Hungary,Csakvar,,,Budafoki LC,Time to be defined
+2025-04-20T00:00:00+00:00,2024,NB II,Hungary,BVSC,,,Vasas,Time to be defined
+2025-04-20T00:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,,,Kisvarda FC,Time to be defined
+2025-04-20T00:00:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,,,Budapest Honved,Time to be defined
+2025-04-20T00:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,,,Szeged 2011,Time to be defined
+2025-04-27T00:00:00+00:00,2024,NB II,Hungary,Tatabánya,,,Csakvar,Time to be defined
+2025-04-27T00:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,,,Mezokovesd-zsory,Time to be defined
+2025-04-27T00:00:00+00:00,2024,NB II,Hungary,Ajka,,,Soroksar,Time to be defined
+2025-04-27T00:00:00+00:00,2024,NB II,Hungary,Budapest Honved,,,Bekescsaba 1912,Time to be defined
+2025-04-27T00:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,,,Szentlőrinc SE,Time to be defined
+2025-04-27T00:00:00+00:00,2024,NB II,Hungary,Vasas,,,Gyirmot SE,Time to be defined
+2025-04-27T00:00:00+00:00,2024,NB II,Hungary,Budafoki LC,,,BVSC,Time to be defined
+2025-04-27T00:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,Kazincbarcikai,Time to be defined
+2025-05-04T00:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,,,Soroksar,Time to be defined
+2025-05-04T00:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,,,Ajka,Time to be defined
+2025-05-04T00:00:00+00:00,2024,NB II,Hungary,Csakvar,,,Kozarmisleny FC,Time to be defined
+2025-05-04T00:00:00+00:00,2024,NB II,Hungary,BVSC,,,Tatabánya,Time to be defined
+2025-05-04T00:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,,,Budafoki LC,Time to be defined
+2025-05-04T00:00:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,,,Vasas,Time to be defined
+2025-05-04T00:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,,,Kisvarda FC,Time to be defined
+2025-05-04T00:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,Budapest Honved,Time to be defined
+2025-05-11T00:00:00+00:00,2024,NB II,Hungary,Ajka,,,Csakvar,Time to be defined
+2025-05-11T00:00:00+00:00,2024,NB II,Hungary,Soroksar,,,Mezokovesd-zsory,Time to be defined
+2025-05-11T00:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,,,Szeged 2011,Time to be defined
+2025-05-11T00:00:00+00:00,2024,NB II,Hungary,Vasas,,,Bekescsaba 1912,Time to be defined
+2025-05-11T00:00:00+00:00,2024,NB II,Hungary,Budafoki LC,,,Szentlőrinc SE,Time to be defined
+2025-05-11T00:00:00+00:00,2024,NB II,Hungary,Tatabánya,,,Gyirmot SE,Time to be defined
+2025-05-11T00:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,,,BVSC,Time to be defined
+2025-05-11T00:00:00+00:00,2024,NB II,Hungary,Budapest Honved,,,Kazincbarcikai,Time to be defined
+2025-05-18T00:00:00+00:00,2024,NB II,Hungary,Kazincbarcikai,,,Mezokovesd-zsory,Time to be defined
+2025-05-18T00:00:00+00:00,2024,NB II,Hungary,Csakvar,,,Soroksar,Time to be defined
+2025-05-18T00:00:00+00:00,2024,NB II,Hungary,BVSC,,,Ajka,Time to be defined
+2025-05-18T00:00:00+00:00,2024,NB II,Hungary,Gyirmot SE,,,Kozarmisleny FC,Time to be defined
+2025-05-18T00:00:00+00:00,2024,NB II,Hungary,Szentlőrinc SE,,,Tatabánya,Time to be defined
+2025-05-18T00:00:00+00:00,2024,NB II,Hungary,Bekescsaba 1912,,,Budafoki LC,Time to be defined
+2025-05-18T00:00:00+00:00,2024,NB II,Hungary,Szeged 2011,,,Vasas,Time to be defined
+2025-05-18T00:00:00+00:00,2024,NB II,Hungary,Budapest Honved,,,Kisvarda FC,Time to be defined
+2025-05-25T00:00:00+00:00,2024,NB II,Hungary,Mezokovesd-zsory,,,Csakvar,Time to be defined
+2025-05-25T00:00:00+00:00,2024,NB II,Hungary,Vasas,,,Budapest Honved,Time to be defined
+2025-05-25T00:00:00+00:00,2024,NB II,Hungary,Budafoki LC,,,Szeged 2011,Time to be defined
+2025-05-25T00:00:00+00:00,2024,NB II,Hungary,Tatabánya,,,Bekescsaba 1912,Time to be defined
+2025-05-25T00:00:00+00:00,2024,NB II,Hungary,Kozarmisleny FC,,,Szentlőrinc SE,Time to be defined
+2025-05-25T00:00:00+00:00,2024,NB II,Hungary,Ajka,,,Gyirmot SE,Time to be defined
+2025-05-25T00:00:00+00:00,2024,NB II,Hungary,Soroksar,,,BVSC,Time to be defined
+2025-05-25T00:00:00+00:00,2024,NB II,Hungary,Kisvarda FC,,,Kazincbarcikai,Time to be defined

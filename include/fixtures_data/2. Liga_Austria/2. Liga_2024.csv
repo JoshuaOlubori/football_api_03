@@ -1,0 +1,241 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-02T16:00:00+00:00,2024,2. Liga,Austria,FC Liefering,0,1,First Vienna,Match Finished
+2024-08-02T16:00:00+00:00,2024,2. Liga,Austria,Voitsberg,1,2,SKU Amstetten,Match Finished
+2024-08-02T16:00:00+00:00,2024,2. Liga,Austria,Stripfing,0,1,Ried,Match Finished
+2024-08-04T08:30:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,2,0,SKN ST. Polten,Match Finished
+2024-08-02T16:00:00+00:00,2024,2. Liga,Austria,SV Horn,2,3,Rapid Wien II,Match Finished
+2024-08-03T12:30:00+00:00,2024,2. Liga,Austria,Austria Lustenau,0,0,SV Lafnitz,Match Finished
+2024-08-02T16:00:00+00:00,2024,2. Liga,Austria,Admira Wacker,0,1,SV Kapfenberg,Match Finished
+2024-08-03T18:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,0,0,Schwarz-Weiß Bregenz,Match Finished
+2024-08-09T16:00:00+00:00,2024,2. Liga,Austria,SKU Amstetten,1,0,Stripfing,Match Finished
+2024-08-09T16:00:00+00:00,2024,2. Liga,Austria,SV Lafnitz,4,5,FC Liefering,Match Finished
+2024-08-10T12:30:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,2,1,Voitsberg,Match Finished
+2024-08-09T16:00:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,3,1,Floridsdorfer AC,Match Finished
+2024-08-10T18:00:00+00:00,2024,2. Liga,Austria,Rapid Wien II,4,2,Sturm Graz II,Match Finished
+2024-08-09T16:00:00+00:00,2024,2. Liga,Austria,Ried,4,0,SV Horn,Match Finished
+2024-08-09T18:30:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,0,0,Austria Lustenau,Match Finished
+2024-08-11T08:30:00+00:00,2024,2. Liga,Austria,First Vienna,0,2,Admira Wacker,Match Finished
+2024-08-16T16:00:00+00:00,2024,2. Liga,Austria,FC Liefering,,,Schwarz-Weiß Bregenz,Not Started
+2024-08-16T16:00:00+00:00,2024,2. Liga,Austria,Voitsberg,,,SV Horn,Not Started
+2024-08-16T16:00:00+00:00,2024,2. Liga,Austria,Stripfing,,,First Vienna,Not Started
+2024-08-16T16:00:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,,,Ried,Not Started
+2024-08-16T16:00:00+00:00,2024,2. Liga,Austria,Austria Lustenau,,,Rapid Wien II,Not Started
+2024-08-18T08:30:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,,,SKU Amstetten,Not Started
+2024-08-16T18:30:00+00:00,2024,2. Liga,Austria,Admira Wacker,,,SV Lafnitz,Not Started
+2024-08-17T18:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,,,SV Kapfenberg,Not Started
+2024-08-23T16:00:00+00:00,2024,2. Liga,Austria,SKU Amstetten,,,Sturm Graz II,Not Started
+2024-08-23T16:00:00+00:00,2024,2. Liga,Austria,SV Lafnitz,,,Stripfing,Not Started
+2024-08-23T16:00:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,,,Admira Wacker,Not Started
+2024-08-24T18:00:00+00:00,2024,2. Liga,Austria,Rapid Wien II,,,Voitsberg,Not Started
+2024-08-23T16:00:00+00:00,2024,2. Liga,Austria,SV Horn,,,Austria Lustenau,Not Started
+2024-08-23T16:00:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,,,SKN ST. Polten,Not Started
+2024-08-24T12:30:00+00:00,2024,2. Liga,Austria,Ried,,,FC Liefering,Not Started
+2024-08-23T18:30:00+00:00,2024,2. Liga,Austria,First Vienna,,,Floridsdorfer AC,Not Started
+2024-08-30T16:00:00+00:00,2024,2. Liga,Austria,FC Liefering,,,Sturm Graz II,Not Started
+2024-09-01T08:30:00+00:00,2024,2. Liga,Austria,Voitsberg,,,SV Kapfenberg,Not Started
+2024-08-30T16:00:00+00:00,2024,2. Liga,Austria,SKU Amstetten,,,Schwarz-Weiß Bregenz,Not Started
+2024-08-31T12:30:00+00:00,2024,2. Liga,Austria,Stripfing,,,SV Horn,Not Started
+2024-08-31T12:30:00+00:00,2024,2. Liga,Austria,SV Lafnitz,,,Ried,Not Started
+2024-08-30T16:00:00+00:00,2024,2. Liga,Austria,Austria Lustenau,,,Floridsdorfer AC,Not Started
+2024-08-30T16:00:00+00:00,2024,2. Liga,Austria,Admira Wacker,,,Rapid Wien II,Not Started
+2024-08-30T18:30:00+00:00,2024,2. Liga,Austria,First Vienna,,,SKN ST. Polten,Not Started
+2024-09-14T12:30:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,,,SV Lafnitz,Not Started
+2024-09-14T00:00:00+00:00,2024,2. Liga,Austria,Rapid Wien II,,,SKU Amstetten,Time to be defined
+2024-09-15T08:30:00+00:00,2024,2. Liga,Austria,SV Horn,,,First Vienna,Not Started
+2024-09-14T12:30:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,,,FC Liefering,Not Started
+2024-09-14T00:00:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,,,Austria Lustenau,Time to be defined
+2024-09-14T00:00:00+00:00,2024,2. Liga,Austria,Ried,,,Voitsberg,Time to be defined
+2024-09-14T00:00:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,,,Admira Wacker,Time to be defined
+2024-09-14T18:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,,,Stripfing,Not Started
+2024-09-22T10:30:00+00:00,2024,2. Liga,Austria,FC Liefering,,,SV Horn,Not Started
+2024-09-21T00:00:00+00:00,2024,2. Liga,Austria,Voitsberg,,,SKN ST. Polten,Time to be defined
+2024-09-22T08:30:00+00:00,2024,2. Liga,Austria,SKU Amstetten,,,Ried,Not Started
+2024-09-21T00:00:00+00:00,2024,2. Liga,Austria,Stripfing,,,Schwarz-Weiß Bregenz,Time to be defined
+2024-09-21T00:00:00+00:00,2024,2. Liga,Austria,SV Lafnitz,,,SV Kapfenberg,Time to be defined
+2024-09-21T12:30:00+00:00,2024,2. Liga,Austria,Austria Lustenau,,,Sturm Graz II,Not Started
+2024-09-21T00:00:00+00:00,2024,2. Liga,Austria,Admira Wacker,,,Floridsdorfer AC,Time to be defined
+2024-09-21T00:00:00+00:00,2024,2. Liga,Austria,First Vienna,,,Rapid Wien II,Time to be defined
+2024-09-27T16:00:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,,,First Vienna,Not Started
+2024-09-27T16:00:00+00:00,2024,2. Liga,Austria,SV Horn,,,SKU Amstetten,Not Started
+2024-09-29T08:30:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,,,SV Lafnitz,Not Started
+2024-09-27T16:00:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,,,FC Liefering,Not Started
+2024-09-28T00:00:00+00:00,2024,2. Liga,Austria,Ried,,,Rapid Wien II,Time to be defined
+2024-09-28T12:30:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,,,Stripfing,Not Started
+2024-09-27T16:00:00+00:00,2024,2. Liga,Austria,Admira Wacker,,,Austria Lustenau,Not Started
+2024-09-28T18:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,,,Voitsberg,Not Started
+2024-10-06T10:30:00+00:00,2024,2. Liga,Austria,FC Liefering,,,Austria Lustenau,Not Started
+2024-10-04T16:00:00+00:00,2024,2. Liga,Austria,Voitsberg,,,SV Lafnitz,Not Started
+2024-10-04T16:00:00+00:00,2024,2. Liga,Austria,SKU Amstetten,,,SV Kapfenberg,Not Started
+2024-10-04T16:00:00+00:00,2024,2. Liga,Austria,Stripfing,,,Admira Wacker,Not Started
+2024-10-04T16:00:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,,,SV Horn,Not Started
+2024-10-05T12:30:00+00:00,2024,2. Liga,Austria,Rapid Wien II,,,Floridsdorfer AC,Not Started
+2024-10-04T16:00:00+00:00,2024,2. Liga,Austria,Ried,,,SKN ST. Polten,Not Started
+2024-10-04T16:00:00+00:00,2024,2. Liga,Austria,First Vienna,,,Sturm Graz II,Not Started
+2024-10-18T16:00:00+00:00,2024,2. Liga,Austria,Stripfing,,,Voitsberg,Not Started
+2024-10-18T16:00:00+00:00,2024,2. Liga,Austria,SV Lafnitz,,,First Vienna,Not Started
+2024-10-18T16:00:00+00:00,2024,2. Liga,Austria,SV Horn,,,Sturm Graz II,Not Started
+2024-10-18T16:00:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,,,Schwarz-Weiß Bregenz,Not Started
+2024-10-18T16:00:00+00:00,2024,2. Liga,Austria,Austria Lustenau,,,Ried,Not Started
+2024-10-18T16:00:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,,,Rapid Wien II,Not Started
+2024-10-18T16:00:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,,,FC Liefering,Not Started
+2024-10-18T16:00:00+00:00,2024,2. Liga,Austria,Admira Wacker,,,SKU Amstetten,Not Started
+2024-10-26T12:30:00+00:00,2024,2. Liga,Austria,FC Liefering,,,Stripfing,Not Started
+2024-10-25T16:00:00+00:00,2024,2. Liga,Austria,SKU Amstetten,,,Floridsdorfer AC,Not Started
+2024-10-25T16:00:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,,,Austria Lustenau,Not Started
+2024-10-26T12:30:00+00:00,2024,2. Liga,Austria,Rapid Wien II,,,SV Lafnitz,Not Started
+2024-10-25T16:00:00+00:00,2024,2. Liga,Austria,SV Horn,,,SKN ST. Polten,Not Started
+2024-10-25T16:00:00+00:00,2024,2. Liga,Austria,Ried,,,SV Kapfenberg,Not Started
+2024-10-25T16:00:00+00:00,2024,2. Liga,Austria,First Vienna,,,Voitsberg,Not Started
+2024-10-26T18:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,,,Admira Wacker,Not Started
+2024-11-01T17:00:00+00:00,2024,2. Liga,Austria,Voitsberg,,,FC Liefering,Not Started
+2024-11-01T17:00:00+00:00,2024,2. Liga,Austria,SV Lafnitz,,,SV Horn,Not Started
+2024-11-02T13:30:00+00:00,2024,2. Liga,Austria,Rapid Wien II,,,Schwarz-Weiß Bregenz,Not Started
+2024-11-01T17:00:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,,,Stripfing,Not Started
+2024-11-02T13:30:00+00:00,2024,2. Liga,Austria,Austria Lustenau,,,SKU Amstetten,Not Started
+2024-11-02T13:30:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,,,First Vienna,Not Started
+2024-11-01T17:00:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,,,Sturm Graz II,Not Started
+2024-11-01T17:00:00+00:00,2024,2. Liga,Austria,Admira Wacker,,,Ried,Not Started
+2024-11-09T13:30:00+00:00,2024,2. Liga,Austria,FC Liefering,,,Rapid Wien II,Not Started
+2024-11-08T17:00:00+00:00,2024,2. Liga,Austria,Voitsberg,,,Admira Wacker,Not Started
+2024-11-08T17:00:00+00:00,2024,2. Liga,Austria,SKU Amstetten,,,SV Lafnitz,Not Started
+2024-11-08T17:00:00+00:00,2024,2. Liga,Austria,Stripfing,,,SV Kapfenberg,Not Started
+2024-11-08T17:00:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,,,SKN ST. Polten,Not Started
+2024-11-08T17:00:00+00:00,2024,2. Liga,Austria,SV Horn,,,Floridsdorfer AC,Not Started
+2024-11-08T17:00:00+00:00,2024,2. Liga,Austria,First Vienna,,,Austria Lustenau,Not Started
+2024-11-09T19:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,,,Ried,Not Started
+2024-11-22T17:00:00+00:00,2024,2. Liga,Austria,SKU Amstetten,,,First Vienna,Not Started
+2024-11-22T17:00:00+00:00,2024,2. Liga,Austria,SV Lafnitz,,,Sturm Graz II,Not Started
+2024-11-22T17:00:00+00:00,2024,2. Liga,Austria,Rapid Wien II,,,SKN ST. Polten,Not Started
+2024-11-22T17:00:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,,,Voitsberg,Not Started
+2024-11-22T17:00:00+00:00,2024,2. Liga,Austria,Austria Lustenau,,,Stripfing,Not Started
+2024-11-23T13:30:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,,,SV Horn,Not Started
+2024-11-22T17:00:00+00:00,2024,2. Liga,Austria,Ried,,,Schwarz-Weiß Bregenz,Not Started
+2024-11-23T13:30:00+00:00,2024,2. Liga,Austria,Admira Wacker,,,FC Liefering,Not Started
+2024-11-30T13:30:00+00:00,2024,2. Liga,Austria,FC Liefering,,,SKU Amstetten,Not Started
+2024-11-29T17:00:00+00:00,2024,2. Liga,Austria,Voitsberg,,,Austria Lustenau,Not Started
+2024-11-29T17:00:00+00:00,2024,2. Liga,Austria,Stripfing,,,Rapid Wien II,Not Started
+2024-11-29T17:00:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,,,SV Kapfenberg,Not Started
+2024-11-29T17:00:00+00:00,2024,2. Liga,Austria,SV Horn,,,Admira Wacker,Not Started
+2024-11-29T17:00:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,,,SV Lafnitz,Not Started
+2024-11-29T17:00:00+00:00,2024,2. Liga,Austria,First Vienna,,,Ried,Not Started
+2024-11-30T19:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,,,Floridsdorfer AC,Not Started
+2024-12-06T17:00:00+00:00,2024,2. Liga,Austria,SKU Amstetten,,,Voitsberg,Not Started
+2024-12-07T13:30:00+00:00,2024,2. Liga,Austria,SV Lafnitz,,,Austria Lustenau,Not Started
+2024-12-07T13:30:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,,,Sturm Graz II,Not Started
+2024-12-06T17:00:00+00:00,2024,2. Liga,Austria,Rapid Wien II,,,SV Horn,Not Started
+2024-12-07T13:30:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,,,Admira Wacker,Not Started
+2024-12-06T17:00:00+00:00,2024,2. Liga,Austria,Ried,,,Stripfing,Not Started
+2024-12-06T17:00:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,,,Floridsdorfer AC,Not Started
+2024-12-06T17:00:00+00:00,2024,2. Liga,Austria,First Vienna,,,FC Liefering,Not Started
+2025-02-22T00:00:00+00:00,2024,2. Liga,Austria,FC Liefering,,,SV Lafnitz,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Liga,Austria,Voitsberg,,,Schwarz-Weiß Bregenz,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Liga,Austria,Stripfing,,,SKU Amstetten,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Liga,Austria,SV Horn,,,Ried,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,,,SV Kapfenberg,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Liga,Austria,Austria Lustenau,,,SKN ST. Polten,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Liga,Austria,Admira Wacker,,,First Vienna,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,,,Rapid Wien II,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Liga,Austria,SKU Amstetten,,,SKN ST. Polten,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Liga,Austria,SV Lafnitz,,,Admira Wacker,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,,,FC Liefering,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Liga,Austria,Rapid Wien II,,,Austria Lustenau,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Liga,Austria,SV Horn,,,Voitsberg,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,,,Sturm Graz II,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Liga,Austria,Ried,,,Floridsdorfer AC,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Liga,Austria,First Vienna,,,Stripfing,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Liga,Austria,FC Liefering,,,Ried,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Liga,Austria,Voitsberg,,,Rapid Wien II,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Liga,Austria,Stripfing,,,SV Lafnitz,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,,,First Vienna,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Liga,Austria,Austria Lustenau,,,SV Horn,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,,,SV Kapfenberg,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Liga,Austria,Admira Wacker,,,Schwarz-Weiß Bregenz,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,,,SKU Amstetten,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,,,SKU Amstetten,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Liga,Austria,Rapid Wien II,,,Admira Wacker,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Liga,Austria,SV Horn,,,Stripfing,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,,,Austria Lustenau,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,,,Voitsberg,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Liga,Austria,Ried,,,SV Lafnitz,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,,,First Vienna,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,,,FC Liefering,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Liga,Austria,FC Liefering,,,Floridsdorfer AC,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Liga,Austria,Voitsberg,,,Ried,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Liga,Austria,SKU Amstetten,,,Rapid Wien II,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Liga,Austria,Stripfing,,,Sturm Graz II,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Liga,Austria,SV Lafnitz,,,Schwarz-Weiß Bregenz,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Liga,Austria,Austria Lustenau,,,SV Kapfenberg,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Liga,Austria,Admira Wacker,,,SKN ST. Polten,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Liga,Austria,First Vienna,,,SV Horn,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,,,Stripfing,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Liga,Austria,Rapid Wien II,,,First Vienna,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Liga,Austria,SV Horn,,,FC Liefering,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,,,Admira Wacker,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,,,SV Lafnitz,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Liga,Austria,Ried,,,SKU Amstetten,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,,,Voitsberg,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,,,Austria Lustenau,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Liga,Austria,FC Liefering,,,SV Kapfenberg,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Liga,Austria,Voitsberg,,,Sturm Graz II,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Liga,Austria,SKU Amstetten,,,SV Horn,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Liga,Austria,Stripfing,,,SKN ST. Polten,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Liga,Austria,SV Lafnitz,,,Floridsdorfer AC,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Liga,Austria,Rapid Wien II,,,Ried,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Liga,Austria,Austria Lustenau,,,Admira Wacker,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Liga,Austria,First Vienna,,,Schwarz-Weiß Bregenz,Time to be defined
+2025-04-18T00:00:00+00:00,2024,2. Liga,Austria,SV Lafnitz,,,Voitsberg,Time to be defined
+2025-04-18T00:00:00+00:00,2024,2. Liga,Austria,SV Horn,,,Schwarz-Weiß Bregenz,Time to be defined
+2025-04-18T00:00:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,,,Rapid Wien II,Time to be defined
+2025-04-18T00:00:00+00:00,2024,2. Liga,Austria,Austria Lustenau,,,FC Liefering,Time to be defined
+2025-04-18T00:00:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,,,SKU Amstetten,Time to be defined
+2025-04-18T00:00:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,,,Ried,Time to be defined
+2025-04-18T00:00:00+00:00,2024,2. Liga,Austria,Admira Wacker,,,Stripfing,Time to be defined
+2025-04-18T00:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,,,First Vienna,Time to be defined
+2025-04-21T00:00:00+00:00,2024,2. Liga,Austria,FC Liefering,,,SKN ST. Polten,Time to be defined
+2025-04-21T00:00:00+00:00,2024,2. Liga,Austria,Voitsberg,,,Stripfing,Time to be defined
+2025-04-21T00:00:00+00:00,2024,2. Liga,Austria,SKU Amstetten,,,Admira Wacker,Time to be defined
+2025-04-21T00:00:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,,,Floridsdorfer AC,Time to be defined
+2025-04-21T00:00:00+00:00,2024,2. Liga,Austria,Rapid Wien II,,,SV Kapfenberg,Time to be defined
+2025-04-21T00:00:00+00:00,2024,2. Liga,Austria,Ried,,,Austria Lustenau,Time to be defined
+2025-04-21T00:00:00+00:00,2024,2. Liga,Austria,First Vienna,,,SV Lafnitz,Time to be defined
+2025-04-21T00:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,,,SV Horn,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Liga,Austria,Voitsberg,,,First Vienna,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Liga,Austria,Stripfing,,,FC Liefering,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Liga,Austria,SV Lafnitz,,,Rapid Wien II,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,,,SKU Amstetten,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Liga,Austria,Austria Lustenau,,,Schwarz-Weiß Bregenz,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,,,Ried,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,,,SV Horn,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Liga,Austria,Admira Wacker,,,Sturm Graz II,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Liga,Austria,FC Liefering,,,Voitsberg,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Liga,Austria,SKU Amstetten,,,Austria Lustenau,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Liga,Austria,Stripfing,,,Floridsdorfer AC,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,,,Rapid Wien II,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Liga,Austria,SV Horn,,,SV Lafnitz,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Liga,Austria,Ried,,,Admira Wacker,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Liga,Austria,First Vienna,,,SV Kapfenberg,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,,,SKN ST. Polten,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Liga,Austria,SV Lafnitz,,,SKU Amstetten,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Liga,Austria,Rapid Wien II,,,FC Liefering,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,,,SV Horn,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Liga,Austria,Austria Lustenau,,,First Vienna,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,,,Stripfing,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Liga,Austria,Ried,,,Sturm Graz II,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,,,Schwarz-Weiß Bregenz,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Liga,Austria,Admira Wacker,,,Voitsberg,Time to be defined
+2025-05-16T00:00:00+00:00,2024,2. Liga,Austria,FC Liefering,,,Admira Wacker,Time to be defined
+2025-05-16T00:00:00+00:00,2024,2. Liga,Austria,Voitsberg,,,Floridsdorfer AC,Time to be defined
+2025-05-16T00:00:00+00:00,2024,2. Liga,Austria,Stripfing,,,Austria Lustenau,Time to be defined
+2025-05-16T00:00:00+00:00,2024,2. Liga,Austria,Schwarz-Weiß Bregenz,,,Ried,Time to be defined
+2025-05-16T00:00:00+00:00,2024,2. Liga,Austria,SV Horn,,,SV Kapfenberg,Time to be defined
+2025-05-16T00:00:00+00:00,2024,2. Liga,Austria,SKN ST. Polten,,,Rapid Wien II,Time to be defined
+2025-05-16T00:00:00+00:00,2024,2. Liga,Austria,First Vienna,,,SKU Amstetten,Time to be defined
+2025-05-16T00:00:00+00:00,2024,2. Liga,Austria,Sturm Graz II,,,SV Lafnitz,Time to be defined
+2025-05-25T00:00:00+00:00,2024,2. Liga,Austria,SKU Amstetten,,,FC Liefering,Time to be defined
+2025-05-25T00:00:00+00:00,2024,2. Liga,Austria,SV Lafnitz,,,SKN ST. Polten,Time to be defined
+2025-05-25T00:00:00+00:00,2024,2. Liga,Austria,Rapid Wien II,,,Stripfing,Time to be defined
+2025-05-25T00:00:00+00:00,2024,2. Liga,Austria,Floridsdorfer AC,,,Sturm Graz II,Time to be defined
+2025-05-25T00:00:00+00:00,2024,2. Liga,Austria,Austria Lustenau,,,Voitsberg,Time to be defined
+2025-05-25T00:00:00+00:00,2024,2. Liga,Austria,SV Kapfenberg,,,Schwarz-Weiß Bregenz,Time to be defined
+2025-05-25T00:00:00+00:00,2024,2. Liga,Austria,Ried,,,First Vienna,Time to be defined
+2025-05-25T00:00:00+00:00,2024,2. Liga,Austria,Admira Wacker,,,SV Horn,Time to be defined

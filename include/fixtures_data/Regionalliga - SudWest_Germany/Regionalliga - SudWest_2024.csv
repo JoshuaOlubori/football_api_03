@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-26T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,4,1,FC 08 Homburg,Match Finished
+2024-07-27T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,2,2,Kickers Offenbach,Match Finished
+2024-07-27T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,2,1,Eintracht Frankfurt II,Match Finished
+2024-07-27T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,1,1,FC 08 Villingen,Match Finished
+2024-07-27T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,0,1,FC Gießen,Match Finished
+2024-07-27T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,2,2,FC Astoria Walldorf,Match Finished
+2024-07-27T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,2,2,Göppinger SV,Match Finished
+2024-07-27T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,1,1,TSV Steinbach,Match Finished
+2024-07-28T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,3,0,Hessen Kassel,Match Finished
+2024-08-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,0,2,SGV Freiberg,Match Finished
+2024-08-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,3,4,Hoffenheim II,Match Finished
+2024-08-02T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,2,0,Bahlinger SC,Match Finished
+2024-08-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,2,2,Barockstadt Fulda-Lehn.,Match Finished
+2024-08-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,0,2,Eintracht Trier,Match Finished
+2024-08-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,1,1,Stuttgarter Kickers,Match Finished
+2024-08-02T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,0,0,FSV Mainz 05 II,Match Finished
+2024-08-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,1,3,Freiburg II,Match Finished
+2024-08-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,5,0,FSV Frankfurt,Match Finished
+2024-08-11T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,0,3,FSV Frankfurt,Match Finished
+2024-08-10T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,1,0,FC 08 Villingen,Match Finished
+2024-08-10T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,0,0,FC Gießen,Match Finished
+2024-08-10T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,2,1,FC Astoria Walldorf,Match Finished
+2024-08-10T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,1,0,Göppinger SV,Match Finished
+2024-08-11T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,1,1,TSV Steinbach,Match Finished
+2024-08-10T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,0,0,Kickers Offenbach,Match Finished
+2024-08-09T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,2,0,Eintracht Frankfurt II,Match Finished
+2024-08-11T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,0,0,FC 08 Homburg,Match Finished
+2024-08-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,Bahlinger SC,Not Started
+2024-08-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,Barockstadt Fulda-Lehn.,Not Started
+2024-08-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,Eintracht Trier,Not Started
+2024-08-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,Stuttgarter Kickers,Not Started
+2024-08-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,Hessen Kassel,Not Started
+2024-08-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,Freiburg II,Not Started
+2024-08-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,SGV Freiberg,Not Started
+2024-08-20T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,FSV Mainz 05 II,Not Started
+2024-08-28T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,Hoffenheim II,Not Started
+2024-08-25T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,SGV Freiberg,Not Started
+2024-08-24T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,FC Astoria Walldorf,Not Started
+2024-08-24T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,Göppinger SV,Not Started
+2024-08-24T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,TSV Steinbach,Not Started
+2024-08-25T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,Kickers Offenbach,Not Started
+2024-08-23T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,FSV Frankfurt,Not Started
+2024-08-23T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,FC 08 Homburg,Not Started
+2024-08-24T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,FC 08 Villingen,Not Started
+2024-08-25T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,FC Gießen,Not Started
+2024-08-30T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,Eintracht Trier,Not Started
+2024-08-30T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,Stuttgarter Kickers,Not Started
+2024-08-31T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,FSV Mainz 05 II,Not Started
+2024-08-31T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,Hessen Kassel,Not Started
+2024-08-31T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,Eintracht Frankfurt II,Not Started
+2024-08-30T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,Freiburg II,Not Started
+2024-08-31T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,Hoffenheim II,Not Started
+2024-08-31T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,Bahlinger SC,Not Started
+2024-09-01T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,Barockstadt Fulda-Lehn.,Not Started
+2024-09-07T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,Hoffenheim II,Not Started
+2024-09-07T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,TSV Steinbach,Not Started
+2024-09-08T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,Kickers Offenbach,Not Started
+2024-09-07T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,FSV Frankfurt,Not Started
+2024-09-07T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,SGV Freiberg,Not Started
+2024-09-07T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,FC 08 Villingen,Not Started
+2024-09-07T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,FC Gießen,Not Started
+2024-09-07T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,FC Astoria Walldorf,Not Started
+2024-09-08T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,Göppinger SV,Not Started
+2024-09-14T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,FSV Mainz 05 II,Not Started
+2024-09-15T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,Hessen Kassel,Not Started
+2024-09-14T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,Eintracht Frankfurt II,Not Started
+2024-09-14T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,FC 08 Homburg,Not Started
+2024-09-14T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,Freiburg II,Not Started
+2024-09-15T14:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,Bahlinger SC,Not Started
+2024-09-14T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,Barockstadt Fulda-Lehn.,Not Started
+2024-09-14T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,Eintracht Trier,Not Started
+2024-09-13T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,Stuttgarter Kickers,Not Started
+2024-09-20T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,Bahlinger SC,Not Started
+2024-09-21T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,FSV Frankfurt,Not Started
+2024-09-21T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,SGV Freiberg,Not Started
+2024-09-21T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,Hoffenheim II,Not Started
+2024-09-21T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,FC Gießen,Not Started
+2024-09-21T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,FC Astoria Walldorf,Not Started
+2024-09-20T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,Göppinger SV,Not Started
+2024-09-21T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,TSV Steinbach,Not Started
+2024-09-20T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,Kickers Offenbach,Not Started
+2024-09-28T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,Eintracht Frankfurt II,Not Started
+2024-09-28T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,FC 08 Homburg,Not Started
+2024-09-28T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,FC 08 Villingen,Not Started
+2024-09-28T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,Freiburg II,Not Started
+2024-09-28T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,Barockstadt Fulda-Lehn.,Not Started
+2024-09-28T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,Eintracht Trier,Not Started
+2024-09-28T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,Stuttgarter Kickers,Not Started
+2024-09-28T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,FSV Mainz 05 II,Not Started
+2024-09-28T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,Hessen Kassel,Not Started
+2024-10-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,Barockstadt Fulda-Lehn.,Not Started
+2024-10-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,Hoffenheim II,Not Started
+2024-10-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,Bahlinger SC,Not Started
+2024-10-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,FC Astoria Walldorf,Not Started
+2024-10-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,Göppinger SV,Not Started
+2024-10-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,TSV Steinbach,Not Started
+2024-10-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,Kickers Offenbach,Not Started
+2024-10-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,FSV Frankfurt,Not Started
+2024-10-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,SGV Freiberg,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,FC 08 Villingen,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,FC Gießen,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,Freiburg II,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,Eintracht Trier,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,Stuttgarter Kickers,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,FSV Mainz 05 II,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,Hessen Kassel,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,Eintracht Frankfurt II,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,FC 08 Homburg,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,Eintracht Trier,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,Barockstadt Fulda-Lehn.,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,Göppinger SV,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,TSV Steinbach,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,Kickers Offenbach,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,FSV Frankfurt,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,SGV Freiberg,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,Hoffenheim II,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,Bahlinger SC,Not Started
+2024-10-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,FC Astoria Walldorf,Not Started
+2024-10-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,Freiburg II,Not Started
+2024-10-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,Stuttgarter Kickers,Not Started
+2024-10-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,FSV Mainz 05 II,Not Started
+2024-10-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,Hessen Kassel,Not Started
+2024-10-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,Eintracht Frankfurt II,Not Started
+2024-10-26T00:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,FC 08 Homburg,Match Postponed
+2024-10-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,FC 08 Villingen,Not Started
+2024-10-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,FC Gießen,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,Stuttgarter Kickers,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,TSV Steinbach,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,Kickers Offenbach,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,FSV Frankfurt,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,SGV Freiberg,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,Hoffenheim II,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,Bahlinger SC,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,Barockstadt Fulda-Lehn.,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,Eintracht Trier,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,TSV Steinbach,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,FSV Mainz 05 II,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,Hessen Kassel,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,Eintracht Frankfurt II,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,FC 08 Homburg,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,FC 08 Villingen,Not Started
+2024-11-09T00:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,FC Gießen,Match Postponed
+2024-11-09T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,FC Astoria Walldorf,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,Göppinger SV,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,Kickers Offenbach,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,FSV Frankfurt,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,SGV Freiberg,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,Hoffenheim II,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,Bahlinger SC,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,Barockstadt Fulda-Lehn.,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,Eintracht Trier,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,Stuttgarter Kickers,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,Freiburg II,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,Freiburg II,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,Stuttgarter Kickers,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,Eintracht Trier,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,Barockstadt Fulda-Lehn.,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,Bahlinger SC,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,Hoffenheim II,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,SGV Freiberg,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,FSV Frankfurt,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,FSV Mainz 05 II,Not Started
+2024-11-30T00:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,TSV Steinbach,Match Postponed
+2024-11-30T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,Göppinger SV,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,FC Astoria Walldorf,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,FC Gießen,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,FC 08 Villingen,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,FC 08 Homburg,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,Eintracht Frankfurt II,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,Hessen Kassel,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,Kickers Offenbach,Not Started
+2024-12-07T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,Freiburg II,Not Started
+2024-12-07T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,Stuttgarter Kickers,Not Started
+2024-12-07T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,Eintracht Trier,Not Started
+2024-12-07T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,Barockstadt Fulda-Lehn.,Not Started
+2024-12-07T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,Bahlinger SC,Not Started
+2024-12-07T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,Hoffenheim II,Not Started
+2024-12-07T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,SGV Freiberg,Not Started
+2024-12-07T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,Hessen Kassel,Not Started
+2024-12-07T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,FSV Mainz 05 II,Not Started
+2025-02-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,TSV Steinbach,Not Started
+2025-02-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,Göppinger SV,Not Started
+2025-02-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,FC Astoria Walldorf,Not Started
+2025-02-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,FC Gießen,Not Started
+2025-02-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,FC 08 Villingen,Not Started
+2025-02-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,FC 08 Homburg,Not Started
+2025-02-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,Eintracht Frankfurt II,Not Started
+2025-02-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,FSV Frankfurt,Not Started
+2025-02-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,Kickers Offenbach,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,Freiburg II,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,Stuttgarter Kickers,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,Eintracht Trier,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,Barockstadt Fulda-Lehn.,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,Bahlinger SC,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,Hoffenheim II,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,Eintracht Frankfurt II,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,Hessen Kassel,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,FSV Mainz 05 II,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,TSV Steinbach,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,Göppinger SV,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,FC Astoria Walldorf,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,FC Gießen,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,FC 08 Villingen,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,FC 08 Homburg,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,SGV Freiberg,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,FSV Frankfurt,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,Kickers Offenbach,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,Freiburg II,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,Stuttgarter Kickers,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,Eintracht Trier,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,Barockstadt Fulda-Lehn.,Not Started
+2025-03-15T00:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,Bahlinger SC,Match Postponed
+2025-03-15T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,FC 08 Homburg,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,Eintracht Frankfurt II,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,Hessen Kassel,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,FSV Mainz 05 II,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,TSV Steinbach,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,Göppinger SV,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,FC Astoria Walldorf,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,FC Gießen,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,FC 08 Villingen,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,Hoffenheim II,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,SGV Freiberg,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,FSV Frankfurt,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,Kickers Offenbach,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,Freiburg II,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,Stuttgarter Kickers,Not Started
+2025-03-29T00:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,Eintracht Trier,Match Postponed
+2025-03-29T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,Barockstadt Fulda-Lehn.,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,FC 08 Villingen,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,FC 08 Homburg,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,Eintracht Frankfurt II,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,Hessen Kassel,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,FSV Mainz 05 II,Not Started
+2025-04-01T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,TSV Steinbach,Not Started
+2025-04-01T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,Göppinger SV,Not Started
+2025-04-01T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,FC Astoria Walldorf,Not Started
+2025-04-01T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,FC Gießen,Not Started
+2025-04-01T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,Bahlinger SC,Not Started
+2025-04-01T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,Hoffenheim II,Not Started
+2025-04-01T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,SGV Freiberg,Not Started
+2025-04-01T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,FSV Frankfurt,Not Started
+2025-04-01T17:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,Kickers Offenbach,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,Freiburg II,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,Stuttgarter Kickers,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,Eintracht Trier,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,FC Gießen,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,FC 08 Villingen,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,FC 08 Homburg,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,Eintracht Frankfurt II,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,Hessen Kassel,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,FSV Mainz 05 II,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,TSV Steinbach,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,Göppinger SV,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,FC Astoria Walldorf,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,Barockstadt Fulda-Lehn.,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,Bahlinger SC,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,Hoffenheim II,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,SGV Freiberg,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,FSV Frankfurt,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,Kickers Offenbach,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,Freiburg II,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,Stuttgarter Kickers,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,FC Astoria Walldorf,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,FC Gießen,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,FC 08 Villingen,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,FC 08 Homburg,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,Eintracht Frankfurt II,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,Hessen Kassel,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,FSV Mainz 05 II,Not Started
+2025-04-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,TSV Steinbach,Not Started
+2025-04-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,Göppinger SV,Not Started
+2025-04-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,Eintracht Trier,Not Started
+2025-04-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,Barockstadt Fulda-Lehn.,Not Started
+2025-04-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,Bahlinger SC,Not Started
+2025-04-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,Hoffenheim II,Not Started
+2025-04-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,SGV Freiberg,Not Started
+2025-04-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,FSV Frankfurt,Not Started
+2025-04-26T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,Kickers Offenbach,Not Started
+2025-05-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,Freiburg II,Not Started
+2025-05-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,Göppinger SV,Not Started
+2025-05-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,FC Astoria Walldorf,Not Started
+2025-05-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,FC Gießen,Not Started
+2025-05-03T00:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,FC 08 Villingen,Match Postponed
+2025-05-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,FC 08 Homburg,Not Started
+2025-05-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,Eintracht Frankfurt II,Not Started
+2025-05-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,Hessen Kassel,Not Started
+2025-05-03T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,FSV Mainz 05 II,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,TSV Steinbach,,,Freiburg II,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,Stuttgarter Kickers,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hessen Kassel,,,Eintracht Trier,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,Barockstadt Fulda-Lehn.,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Homburg,,,Bahlinger SC,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC 08 Villingen,,,Hoffenheim II,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Gießen,,,SGV Freiberg,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,FSV Frankfurt,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Göppinger SV,,,Kickers Offenbach,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Kickers Offenbach,,,TSV Steinbach,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,FSV Frankfurt,,,Göppinger SV,Not Started
+2025-05-17T00:00:00+00:00,2024,Regionalliga - SudWest,Germany,SGV Freiberg,,,FC Astoria Walldorf,Match Postponed
+2025-05-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Hoffenheim II,,,FC Gießen,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Bahlinger SC,,,FC 08 Villingen,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,FC 08 Homburg,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Eintracht Trier,,,Eintracht Frankfurt II,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,Hessen Kassel,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - SudWest,Germany,Freiburg II,,,FSV Mainz 05 II,Not Started

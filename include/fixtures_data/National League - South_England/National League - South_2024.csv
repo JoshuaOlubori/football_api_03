@@ -1,0 +1,553 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-10T14:00:00+00:00,2024,National League - South,England,Boreham Wood,1,0,Bath City,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - South,England,Chippenham Town,1,2,Farnborough,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - South,England,Eastbourne Borough,1,1,Chesham United,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - South,England,Hampton & Richmond,1,3,AFC Hornchurch,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,2,2,Salisbury,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - South,England,Slough Town,2,1,Chelmsford City,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - South,England,St Albans City,0,1,Maidstone Utd,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - South,England,Tonbridge Angels,3,2,Weymouth,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - South,England,Torquay,2,1,Enfield Town,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - South,England,Truro City,1,2,Dorking Wanderers,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - South,England,Welling United,1,0,Aveley,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - South,England,Weston-super-Mare,3,4,Worthing,Match Finished
+2024-08-17T14:00:00+00:00,2024,National League - South,England,Aveley,,,Tonbridge Angels,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - South,England,Bath City,,,Welling United,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Hampton & Richmond,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - South,England,Chesham United,,,Boreham Wood,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Chippenham Town,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - South,England,Enfield Town,,,Weston-super-Mare,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - South,England,Farnborough,,,Torquay,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Eastbourne Borough,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Truro City,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - South,England,Salisbury,,,Slough Town,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - South,England,St Albans City,,,Worthing,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - South,England,Weymouth,,,Hemel Hempstead Town,Not Started
+2024-08-19T18:45:00+00:00,2024,National League - South,England,Aveley,,,Hemel Hempstead Town,Not Started
+2024-08-19T18:45:00+00:00,2024,National League - South,England,Chelmsford City,,,Tonbridge Angels,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - South,England,Bath City,,,Torquay,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - South,England,Chesham United,,,Weston-super-Mare,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Boreham Wood,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - South,England,Enfield Town,,,Slough Town,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - South,England,Farnborough,,,Eastbourne Borough,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - South,England,AFC Hornchurch,,,St Albans City,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - South,England,Maidstone Utd,,,Hampton & Richmond,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - South,England,Salisbury,,,Truro City,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - South,England,Weymouth,,,Chippenham Town,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Weymouth,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Maidstone Utd,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Aveley,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Salisbury,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Worthing,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - South,England,Slough Town,,,AFC Hornchurch,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - South,England,St Albans City,,,Chesham United,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Bath City,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - South,England,Torquay,,,Dorking Wanderers,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - South,England,Truro City,,,Enfield Town,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - South,England,Welling United,,,Farnborough,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Chelmsford City,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - South,England,Aveley,,,Slough Town,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - South,England,Bath City,,,Hampton & Richmond,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Chippenham Town,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - South,England,Chesham United,,,Torquay,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,St Albans City,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - South,England,Enfield Town,,,Hemel Hempstead Town,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - South,England,Farnborough,,,Tonbridge Angels,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Welling United,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Weston-super-Mare,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - South,England,Salisbury,,,Boreham Wood,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - South,England,Weymouth,,,Eastbourne Borough,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - South,England,Worthing,,,Truro City,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Maidstone Utd,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Enfield Town,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Dorking Wanderers,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Worthing,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Bath City,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - South,England,Slough Town,,,Weymouth,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - South,England,St Albans City,,,Farnborough,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Salisbury,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - South,England,Torquay,,,Aveley,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - South,England,Truro City,,,Chelmsford City,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - South,England,Welling United,,,Chesham United,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,AFC Hornchurch,Not Started
+2024-09-02T18:45:00+00:00,2024,National League - South,England,Aveley,,,Dorking Wanderers,Not Started
+2024-09-02T18:45:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Welling United,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - South,England,Bath City,,,Truro City,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Enfield Town,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Farnborough,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - South,England,Maidstone Utd,,,Chelmsford City,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - South,England,Salisbury,,,Chesham United,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - South,England,Tonbridge Angels,,,St Albans City,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - South,England,Torquay,,,Chippenham Town,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Slough Town,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - South,England,Weymouth,,,Hampton & Richmond,Not Started
+2024-09-02T18:45:00+00:00,2024,National League - South,England,Boreham Wood,,,Worthing,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Bath City,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - South,England,Chesham United,,,Aveley,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Tonbridge Angels,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Weymouth,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - South,England,Enfield Town,,,Maidstone Utd,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - South,England,Farnborough,,,Salisbury,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Boreham Wood,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - South,England,Slough Town,,,Hemel Hempstead Town,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - South,England,St Albans City,,,Weston-super-Mare,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - South,England,Truro City,,,Eastbourne Borough,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - South,England,Welling United,,,Torquay,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - South,England,Worthing,,,AFC Hornchurch,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - South,England,Aveley,,,Truro City,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - South,England,Bath City,,,Enfield Town,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Welling United,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Slough Town,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Farnborough,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Chelmsford City,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Chesham United,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - South,England,Salisbury,,,Chippenham Town,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Hampton & Richmond,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - South,England,Torquay,,,St Albans City,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Dorking Wanderers,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - South,England,Weymouth,,,Worthing,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Eastbourne Borough,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - South,England,Chesham United,,,Bath City,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Boreham Wood,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,AFC Hornchurch,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - South,England,Enfield Town,,,Weymouth,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - South,England,Farnborough,,,Aveley,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Torquay,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - South,England,Slough Town,,,Tonbridge Angels,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - South,England,St Albans City,,,Salisbury,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - South,England,Truro City,,,Hemel Hempstead Town,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - South,England,Welling United,,,Weston-super-Mare,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - South,England,Worthing,,,Maidstone Utd,Not Started
+2024-10-08T18:45:00+00:00,2024,National League - South,England,Worthing,,,Welling United,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - South,England,Aveley,,,Chippenham Town,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - South,England,Bath City,,,Worthing,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Truro City,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - South,England,Chesham United,,,Chelmsford City,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - South,England,Farnborough,,,Enfield Town,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,St Albans City,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Weston-super-Mare,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - South,England,Salisbury,,,AFC Hornchurch,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - South,England,Slough Town,,,Dorking Wanderers,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Eastbourne Borough,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - South,England,Torquay,,,Maidstone Utd,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - South,England,Welling United,,,Weymouth,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Farnborough,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Hemel Hempstead Town,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Salisbury,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Torquay,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - South,England,Enfield Town,,,Aveley,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Bath City,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Slough Town,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - South,England,St Albans City,,,Welling United,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - South,England,Truro City,,,Hampton & Richmond,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Boreham Wood,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - South,England,Weymouth,,,Chesham United,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - South,England,Worthing,,,Tonbridge Angels,Not Started
+2024-10-21T18:45:00+00:00,2024,National League - South,England,Aveley,,,Maidstone Utd,Not Started
+2024-10-21T18:45:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Chelmsford City,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - South,England,Bath City,,,Weymouth,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - South,England,Chesham United,,,Chippenham Town,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - South,England,Farnborough,,,Truro City,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Eastbourne Borough,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - South,England,Salisbury,,,Weston-super-Mare,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - South,England,Slough Town,,,St Albans City,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Dorking Wanderers,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - South,England,Torquay,,,Worthing,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - South,England,Welling United,,,Enfield Town,Not Started
+2024-10-23T18:45:00+00:00,2024,National League - South,England,Boreham Wood,,,AFC Hornchurch,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Salisbury,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Hampton & Richmond,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Welling United,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Boreham Wood,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - South,England,Enfield Town,,,Chesham United,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Torquay,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Hemel Hempstead Town,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - South,England,St Albans City,,,Bath City,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - South,England,Truro City,,,Tonbridge Angels,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Aveley,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - South,England,Weymouth,,,Farnborough,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - South,England,Worthing,,,Slough Town,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - South,England,Aveley,,,Weymouth,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - South,England,Bath City,,,Maidstone Utd,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - South,England,Boreham Wood,,,St Albans City,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - South,England,Chesham United,,,AFC Hornchurch,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - South,England,Farnborough,,,Dorking Wanderers,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Weston-super-Mare,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Eastbourne Borough,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - South,England,Salisbury,,,Worthing,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - South,England,Slough Town,,,Truro City,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Enfield Town,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - South,England,Torquay,,,Chelmsford City,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - South,England,Welling United,,,Chippenham Town,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Maidstone Utd,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Welling United,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Enfield Town,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Hemel Hempstead Town,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - South,England,Salisbury,,,Torquay,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - South,England,Slough Town,,,Bath City,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - South,England,St Albans City,,,Chelmsford City,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Chesham United,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - South,England,Truro City,,,Chippenham Town,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Weymouth,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - South,England,Worthing,,,Aveley,Not Started
+2024-11-06T19:45:00+00:00,2024,National League - South,England,Boreham Wood,,,Farnborough,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - South,England,Aveley,,,Boreham Wood,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - South,England,Bath City,,,Weston-super-Mare,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Dorking Wanderers,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - South,England,Chesham United,,,Worthing,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Eastbourne Borough,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - South,England,Enfield Town,,,Salisbury,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - South,England,Farnborough,,,Slough Town,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Hampton & Richmond,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,AFC Hornchurch,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - South,England,Torquay,,,Tonbridge Angels,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - South,England,Welling United,,,Truro City,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - South,England,Weymouth,,,St Albans City,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Torquay,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Enfield Town,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Bath City,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Aveley,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Weymouth,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - South,England,Salisbury,,,Maidstone Utd,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - South,England,Slough Town,,,Welling United,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - South,England,St Albans City,,,Chippenham Town,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Hemel Hempstead Town,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - South,England,Truro City,,,Chesham United,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Farnborough,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - South,England,Worthing,,,Chelmsford City,Not Started
+2024-11-25T19:45:00+00:00,2024,National League - South,England,Aveley,,,St Albans City,Not Started
+2024-11-25T19:45:00+00:00,2024,National League - South,England,Chelmsford City,,,Boreham Wood,Not Started
+2024-11-25T19:45:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Dorking Wanderers,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - South,England,Bath City,,,Salisbury,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - South,England,Chesham United,,,Hampton & Richmond,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - South,England,Chippenham Town,,,Slough Town,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - South,England,Enfield Town,,,AFC Hornchurch,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - South,England,Farnborough,,,Worthing,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - South,England,Maidstone Utd,,,Eastbourne Borough,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - South,England,Torquay,,,Weston-super-Mare,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - South,England,Welling United,,,Tonbridge Angels,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - South,England,Weymouth,,,Truro City,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - South,England,Aveley,,,Welling United,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - South,England,Bath City,,,Boreham Wood,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Slough Town,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - South,England,Chesham United,,,Eastbourne Borough,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Truro City,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - South,England,Enfield Town,,,Torquay,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - South,England,Farnborough,,,Chippenham Town,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Hampton & Richmond,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,St Albans City,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - South,England,Salisbury,,,Hemel Hempstead Town,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - South,England,Weymouth,,,Tonbridge Angels,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - South,England,Worthing,,,Weston-super-Mare,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Chesham United,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Dorking Wanderers,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,AFC Hornchurch,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Chelmsford City,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Weymouth,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - South,England,Slough Town,,,Salisbury,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Aveley,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - South,England,Torquay,,,Farnborough,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - South,England,Truro City,,,Maidstone Utd,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - South,England,Welling United,,,Bath City,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Enfield Town,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - South,England,Worthing,,,St Albans City,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - South,England,Bath City,,,Aveley,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Tonbridge Angels,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Weymouth,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - South,England,Chesham United,,,Dorking Wanderers,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Slough Town,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Chippenham Town,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Farnborough,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - South,England,Salisbury,,,Welling United,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - South,England,St Albans City,,,Truro City,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - South,England,Torquay,,,Hemel Hempstead Town,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Eastbourne Borough,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - South,England,Worthing,,,Enfield Town,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - South,England,Aveley,,,AFC Hornchurch,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Bath City,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Worthing,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Salisbury,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - South,England,Enfield Town,,,Boreham Wood,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - South,England,Farnborough,,,Hampton & Richmond,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,St Albans City,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - South,England,Slough Town,,,Chesham United,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Maidstone Utd,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - South,England,Truro City,,,Weston-super-Mare,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - South,England,Welling United,,,Chelmsford City,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - South,England,Weymouth,,,Torquay,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - South,England,Bath City,,,Farnborough,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Slough Town,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Aveley,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - South,England,Chesham United,,,Hemel Hempstead Town,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Dorking Wanderers,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Tonbridge Angels,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Welling United,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - South,England,Salisbury,,,Weymouth,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - South,England,St Albans City,,,Enfield Town,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - South,England,Torquay,,,Truro City,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Chippenham Town,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - South,England,Worthing,,,Eastbourne Borough,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - South,England,Aveley,,,Salisbury,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Worthing,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Bath City,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,St Albans City,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - South,England,Enfield Town,,,Chelmsford City,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - South,England,Farnborough,,,Chesham United,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Boreham Wood,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - South,England,Slough Town,,,Torquay,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Weston-super-Mare,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - South,England,Truro City,,,AFC Hornchurch,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - South,England,Welling United,,,Hampton & Richmond,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - South,England,Weymouth,,,Maidstone Utd,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - South,England,Aveley,,,Chesham United,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - South,England,Bath City,,,Chelmsford City,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Hampton & Richmond,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Truro City,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Slough Town,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Worthing,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Enfield Town,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - South,England,Salisbury,,,Farnborough,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Chippenham Town,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - South,England,Torquay,,,Welling United,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,St Albans City,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - South,England,Weymouth,,,Dorking Wanderers,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - South,England,Chelmsford City,,,AFC Hornchurch,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - South,England,Chesham United,,,Maidstone Utd,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Salisbury,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Weston-super-Mare,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - South,England,Enfield Town,,,Bath City,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - South,England,Farnborough,,,Hemel Hempstead Town,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Tonbridge Angels,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - South,England,Slough Town,,,Eastbourne Borough,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - South,England,St Albans City,,,Torquay,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - South,England,Truro City,,,Aveley,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - South,England,Welling United,,,Boreham Wood,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - South,England,Worthing,,,Weymouth,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - South,England,Aveley,,,Farnborough,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - South,England,Bath City,,,Chesham United,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Chippenham Town,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Chelmsford City,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Truro City,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Dorking Wanderers,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Worthing,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - South,England,Salisbury,,,St Albans City,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Slough Town,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - South,England,Torquay,,,Hampton & Richmond,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Welling United,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - South,England,Weymouth,,,Enfield Town,Not Started
+2025-01-27T19:45:00+00:00,2024,National League - South,England,Chelmsford City,,,Maidstone Utd,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - South,England,Chesham United,,,Salisbury,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - South,England,Chippenham Town,,,Torquay,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Aveley,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - South,England,Enfield Town,,,Eastbourne Borough,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - South,England,Farnborough,,,AFC Hornchurch,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Weymouth,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - South,England,Slough Town,,,Weston-super-Mare,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - South,England,St Albans City,,,Tonbridge Angels,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - South,England,Truro City,,,Bath City,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - South,England,Welling United,,,Hemel Hempstead Town,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - South,England,Worthing,,,Boreham Wood,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Chesham United,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Aveley,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Slough Town,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Tonbridge Angels,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - South,England,Enfield Town,,,Farnborough,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Salisbury,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Torquay,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - South,England,St Albans City,,,Hampton & Richmond,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - South,England,Truro City,,,Boreham Wood,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Hemel Hempstead Town,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - South,England,Weymouth,,,Welling United,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - South,England,Worthing,,,Bath City,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - South,England,Aveley,,,Enfield Town,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - South,England,Bath City,,,AFC Hornchurch,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Weston-super-Mare,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - South,England,Chesham United,,,Weymouth,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - South,England,Farnborough,,,Chelmsford City,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Truro City,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Chippenham Town,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - South,England,Salisbury,,,Dorking Wanderers,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - South,England,Slough Town,,,Maidstone Utd,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Worthing,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - South,England,Torquay,,,Eastbourne Borough,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - South,England,Welling United,,,St Albans City,Not Started
+2025-02-10T19:45:00+00:00,2024,National League - South,England,Chelmsford City,,,Hemel Hempstead Town,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - South,England,Chippenham Town,,,Chesham United,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Tonbridge Angels,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Hampton & Richmond,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - South,England,Enfield Town,,,Welling United,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Boreham Wood,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - South,England,Maidstone Utd,,,Aveley,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - South,England,St Albans City,,,Slough Town,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - South,England,Truro City,,,Farnborough,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Salisbury,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - South,England,Weymouth,,,Bath City,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - South,England,Worthing,,,Torquay,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - South,England,Aveley,,,Weston-super-Mare,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - South,England,Bath City,,,St Albans City,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Eastbourne Borough,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - South,England,Chesham United,,,Enfield Town,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - South,England,Farnborough,,,Weymouth,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Chippenham Town,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Maidstone Utd,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - South,England,Salisbury,,,Chelmsford City,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - South,England,Slough Town,,,Worthing,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Truro City,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - South,England,Torquay,,,AFC Hornchurch,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - South,England,Welling United,,,Dorking Wanderers,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Torquay,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Welling United,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Farnborough,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Hemel Hempstead Town,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - South,England,Enfield Town,,,Tonbridge Angels,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Chesham United,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Bath City,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - South,England,St Albans City,,,Boreham Wood,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - South,England,Truro City,,,Slough Town,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Hampton & Richmond,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - South,England,Weymouth,,,Aveley,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - South,England,Worthing,,,Salisbury,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Hemel Hempstead Town,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Maidstone Utd,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Chesham United,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Enfield Town,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - South,England,Salisbury,,,Bath City,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - South,England,Slough Town,,,Chippenham Town,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - South,England,St Albans City,,,Aveley,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Welling United,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - South,England,Truro City,,,Weymouth,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Torquay,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - South,England,Worthing,,,Farnborough,Not Started
+2025-02-26T19:45:00+00:00,2024,National League - South,England,Boreham Wood,,,Chelmsford City,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - South,England,Aveley,,,Hampton & Richmond,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - South,England,Bath City,,,Eastbourne Borough,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Worthing,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - South,England,Chesham United,,,Truro City,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - South,England,Chippenham Town,,,St Albans City,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - South,England,Enfield Town,,,Dorking Wanderers,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - South,England,Farnborough,,,Weston-super-Mare,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Tonbridge Angels,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Salisbury,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - South,England,Torquay,,,Boreham Wood,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - South,England,Welling United,,,Slough Town,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - South,England,Weymouth,,,AFC Hornchurch,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Aveley,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Chelmsford City,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Chippenham Town,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Hemel Hempstead Town,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Maidstone Utd,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - South,England,Salisbury,,,Enfield Town,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - South,England,Slough Town,,,Farnborough,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - South,England,St Albans City,,,Weymouth,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Torquay,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - South,England,Truro City,,,Welling United,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Bath City,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - South,England,Worthing,,,Chesham United,Not Started
+2025-03-10T19:45:00+00:00,2024,National League - South,England,Aveley,,,Worthing,Not Started
+2025-03-10T19:45:00+00:00,2024,National League - South,England,Chelmsford City,,,St Albans City,Not Started
+2025-03-10T19:45:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,AFC Hornchurch,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - South,England,Bath City,,,Slough Town,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - South,England,Chesham United,,,Tonbridge Angels,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - South,England,Chippenham Town,,,Truro City,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - South,England,Enfield Town,,,Hampton & Richmond,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - South,England,Farnborough,,,Boreham Wood,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - South,England,Maidstone Utd,,,Dorking Wanderers,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - South,England,Torquay,,,Salisbury,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - South,England,Welling United,,,Eastbourne Borough,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - South,England,Weymouth,,,Weston-super-Mare,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - South,England,Aveley,,,Eastbourne Borough,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - South,England,Bath City,,,Tonbridge Angels,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Weston-super-Mare,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - South,England,Chesham United,,,St Albans City,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Torquay,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - South,England,Enfield Town,,,Truro City,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - South,England,Farnborough,,,Welling United,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Slough Town,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Chippenham Town,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - South,England,Salisbury,,,Hampton & Richmond,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - South,England,Weymouth,,,Boreham Wood,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - South,England,Worthing,,,Hemel Hempstead Town,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Dorking Wanderers,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Weymouth,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Farnborough,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Maidstone Utd,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Aveley,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - South,England,Slough Town,,,Enfield Town,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - South,England,St Albans City,,,AFC Hornchurch,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Chelmsford City,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - South,England,Torquay,,,Bath City,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - South,England,Truro City,,,Salisbury,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - South,England,Welling United,,,Worthing,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Chesham United,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - South,England,Aveley,,,Torquay,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - South,England,Bath City,,,Hemel Hempstead Town,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Truro City,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - South,England,Chesham United,,,Welling United,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Eastbourne Borough,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - South,England,Enfield Town,,,Chippenham Town,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - South,England,Farnborough,,,St Albans City,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Weston-super-Mare,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Boreham Wood,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - South,England,Salisbury,,,Tonbridge Angels,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - South,England,Weymouth,,,Slough Town,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - South,England,Worthing,,,Hampton & Richmond,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Salisbury,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Chelmsford City,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Weymouth,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Bath City,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Enfield Town,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - South,England,Slough Town,,,Aveley,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - South,England,St Albans City,,,Dorking Wanderers,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Farnborough,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - South,England,Torquay,,,Chesham United,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - South,England,Truro City,,,Worthing,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - South,England,Welling United,,,AFC Hornchurch,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Maidstone Utd,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - South,England,Bath City,,,Dorking Wanderers,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Hemel Hempstead Town,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Enfield Town,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - South,England,Chesham United,,,Farnborough,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Welling United,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Truro City,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Weymouth,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - South,England,Salisbury,,,Aveley,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - South,England,St Albans City,,,Eastbourne Borough,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - South,England,Torquay,,,Slough Town,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Tonbridge Angels,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - South,England,Worthing,,,Chippenham Town,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - South,England,Aveley,,,Chelmsford City,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - South,England,Chippenham Town,,,Weston-super-Mare,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Hampton & Richmond,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Worthing,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - South,England,Enfield Town,,,St Albans City,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - South,England,Farnborough,,,Bath City,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Chesham United,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - South,England,Slough Town,,,Boreham Wood,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,AFC Hornchurch,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - South,England,Truro City,,,Torquay,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - South,England,Welling United,,,Maidstone Utd,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - South,England,Weymouth,,,Salisbury,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - South,England,Bath City,,,Chippenham Town,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - South,England,Boreham Wood,,,Enfield Town,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - South,England,Chelmsford City,,,Welling United,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - South,England,Chesham United,,,Slough Town,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - South,England,Hampton & Richmond,,,Farnborough,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - South,England,AFC Hornchurch,,,Aveley,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - South,England,Maidstone Utd,,,Tonbridge Angels,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - South,England,Salisbury,,,Eastbourne Borough,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - South,England,St Albans City,,,Hemel Hempstead Town,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - South,England,Torquay,,,Weymouth,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - South,England,Weston-super-Mare,,,Truro City,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - South,England,Worthing,,,Dorking Wanderers,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - South,England,Aveley,,,Bath City,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - South,England,Chippenham Town,,,AFC Hornchurch,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - South,England,Dorking Wanderers,,,Chesham United,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - South,England,Eastbourne Borough,,,Weston-super-Mare,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - South,England,Enfield Town,,,Worthing,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - South,England,Farnborough,,,Maidstone Utd,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - South,England,Hemel Hempstead Town,,,Torquay,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - South,England,Slough Town,,,Hampton & Richmond,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - South,England,Tonbridge Angels,,,Boreham Wood,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - South,England,Truro City,,,St Albans City,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - South,England,Welling United,,,Salisbury,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - South,England,Weymouth,,,Chelmsford City,Not Started

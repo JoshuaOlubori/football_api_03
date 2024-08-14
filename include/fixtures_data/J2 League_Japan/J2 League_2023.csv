@@ -1,0 +1,466 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-02-18T05:00:00+00:00,2023,J2 League,Japan,Iwaki,2,3,Fujieda MYFC,Match Finished
+2023-02-19T07:00:00+00:00,2023,J2 League,Japan,Tochigi SC,1,1,Roasso Kumamoto,Match Finished
+2023-02-18T05:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,0,0,Blaublitz Akita,Match Finished
+2023-02-19T05:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,1,0,Kanazawa,Match Finished
+2023-02-19T05:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,0,0,Vegalta Sendai,Match Finished
+2023-02-18T04:05:00+00:00,2023,J2 League,Japan,Ventforet Kofu,1,2,Montedio Yamagata,Match Finished
+2023-02-18T05:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,0,0,Mito Hollyhock,Match Finished
+2023-02-18T05:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,2,3,Fagiano Okayama,Match Finished
+2023-02-18T05:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,1,0,Omiya Ardija,Match Finished
+2023-02-19T05:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,1,2,Oita Trinita,Match Finished
+2023-02-18T05:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,0,1,JEF United Chiba,Match Finished
+2023-02-25T04:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,1,1,Tokushima Vortis,Match Finished
+2023-02-25T05:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,2,0,Kanazawa,Match Finished
+2023-02-25T05:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,1,3,Montedio Yamagata,Match Finished
+2023-02-25T05:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,2,0,V-varen Nagasaki,Match Finished
+2023-02-26T04:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,0,0,Shimizu S-pulse,Match Finished
+2023-02-26T04:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,0,1,Blaublitz Akita,Match Finished
+2023-02-26T04:05:00+00:00,2023,J2 League,Japan,Vegalta Sendai,1,0,Tochigi SC,Match Finished
+2023-02-26T04:10:00+00:00,2023,J2 League,Japan,Oita Trinita,1,0,Tokyo Verdy,Match Finished
+2023-02-26T04:15:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,1,1,Jubilo Iwata,Match Finished
+2023-02-26T05:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,2,0,Thespakusatsu Gunma,Match Finished
+2023-02-26T06:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,2,2,Iwaki,Match Finished
+2023-03-04T05:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,2,1,Montedio Yamagata,Match Finished
+2023-03-04T05:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,0,1,Blaublitz Akita,Match Finished
+2023-03-04T05:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,1,1,Vegalta Sendai,Match Finished
+2023-03-04T05:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,1,1,Shimizu S-pulse,Match Finished
+2023-03-05T04:00:00+00:00,2023,J2 League,Japan,Iwaki,0,1,Renofa Yamaguchi,Match Finished
+2023-03-05T04:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,3,0,Omiya Ardija,Match Finished
+2023-03-05T05:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,2,2,Thespakusatsu Gunma,Match Finished
+2023-03-05T05:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,0,0,Ventforet Kofu,Match Finished
+2023-03-05T05:00:00+00:00,2023,J2 League,Japan,Kanazawa,1,2,Machida Zelvia,Match Finished
+2023-03-05T05:00:00+00:00,2023,J2 League,Japan,Oita Trinita,1,0,Tochigi SC,Match Finished
+2023-03-05T06:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,1,1,Fagiano Okayama,Match Finished
+2023-03-11T04:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,2,1,Fujieda MYFC,Match Finished
+2023-03-11T05:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,1,0,Jubilo Iwata,Match Finished
+2023-03-11T05:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,1,3,Roasso Kumamoto,Match Finished
+2023-03-12T05:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,0,1,Iwaki,Match Finished
+2023-03-12T05:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,1,0,JEF United Chiba,Match Finished
+2023-03-12T05:00:00+00:00,2023,J2 League,Japan,Tochigi SC,0,0,V-varen Nagasaki,Match Finished
+2023-03-12T05:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,3,0,Mito Hollyhock,Match Finished
+2023-03-12T05:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,0,0,Oita Trinita,Match Finished
+2023-03-12T05:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,3,0,Kanazawa,Match Finished
+2023-03-12T05:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,0,2,Tokyo Verdy,Match Finished
+2023-03-12T08:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,1,0,Montedio Yamagata,Match Finished
+2023-03-18T05:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,2,2,Shimizu S-pulse,Match Finished
+2023-03-19T05:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,1,1,Mito Hollyhock,Match Finished
+2023-03-19T05:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,0,3,Machida Zelvia,Match Finished
+2023-03-19T05:00:00+00:00,2023,J2 League,Japan,Iwaki,1,0,Tokushima Vortis,Match Finished
+2023-03-19T05:00:00+00:00,2023,J2 League,Japan,Tochigi SC,2,1,Omiya Ardija,Match Finished
+2023-03-19T05:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,1,2,Vegalta Sendai,Match Finished
+2023-03-19T05:00:00+00:00,2023,J2 League,Japan,Kanazawa,5,2,Renofa Yamaguchi,Match Finished
+2023-03-19T05:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,0,5,Tokyo Verdy,Match Finished
+2023-03-19T05:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,2,3,Ventforet Kofu,Match Finished
+2023-03-19T05:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,0,2,V-varen Nagasaki,Match Finished
+2023-03-19T05:00:00+00:00,2023,J2 League,Japan,Oita Trinita,2,1,JEF United Chiba,Match Finished
+2023-03-25T05:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,2,3,Kanazawa,Match Finished
+2023-03-25T05:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,3,0,Oita Trinita,Match Finished
+2023-03-25T05:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,1,1,Fagiano Okayama,Match Finished
+2023-03-25T05:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,0,0,Blaublitz Akita,Match Finished
+2023-03-25T05:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,3,2,Montedio Yamagata,Match Finished
+2023-03-25T06:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,3,0,Roasso Kumamoto,Match Finished
+2023-03-26T05:00:00+00:00,2023,J2 League,Japan,Iwaki,0,1,Machida Zelvia,Match Finished
+2023-03-26T05:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,0,3,Fujieda MYFC,Match Finished
+2023-03-26T06:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,2,4,Ventforet Kofu,Match Finished
+2023-03-29T10:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,1,3,Thespakusatsu Gunma,Match Finished
+2023-03-29T10:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,2,0,Tochigi SC,Match Finished
+2023-04-01T04:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,1,0,Shimizu S-pulse,Match Finished
+2023-04-01T05:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,0,1,V-varen Nagasaki,Match Finished
+2023-04-01T05:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,0,1,Renofa Yamaguchi,Match Finished
+2023-04-01T05:00:00+00:00,2023,J2 League,Japan,Oita Trinita,2,1,Jubilo Iwata,Match Finished
+2023-04-01T06:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,1,0,Omiya Ardija,Match Finished
+2023-04-02T04:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,1,1,Tokushima Vortis,Match Finished
+2023-04-02T05:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,0,1,Mito Hollyhock,Match Finished
+2023-04-02T05:00:00+00:00,2023,J2 League,Japan,Tochigi SC,1,2,Thespakusatsu Gunma,Match Finished
+2023-04-02T05:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,1,0,Fujieda MYFC,Match Finished
+2023-04-02T05:00:00+00:00,2023,J2 League,Japan,Kanazawa,2,0,JEF United Chiba,Match Finished
+2023-04-02T05:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,1,1,Iwaki,Match Finished
+2023-04-08T04:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,0,3,Vegalta Sendai,Match Finished
+2023-04-08T05:00:00+00:00,2023,J2 League,Japan,Iwaki,1,3,Oita Trinita,Match Finished
+2023-04-08T05:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,1,0,V-varen Nagasaki,Match Finished
+2023-04-08T05:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,2,1,Montedio Yamagata,Match Finished
+2023-04-08T05:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,2,2,Tokushima Vortis,Match Finished
+2023-04-08T05:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,0,1,Blaublitz Akita,Match Finished
+2023-04-08T05:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,2,1,Tokyo Verdy,Match Finished
+2023-04-08T05:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,2,2,Fagiano Okayama,Match Finished
+2023-04-08T05:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,1,1,Tochigi SC,Match Finished
+2023-04-08T08:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,1,5,Jubilo Iwata,Match Finished
+2023-04-09T06:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,3,1,Kanazawa,Match Finished
+2023-04-12T10:00:00+00:00,2023,J2 League,Japan,Tochigi SC,2,1,Montedio Yamagata,Match Finished
+2023-04-12T10:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,0,1,Thespakusatsu Gunma,Match Finished
+2023-04-12T10:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,2,1,Blaublitz Akita,Match Finished
+2023-04-12T10:00:00+00:00,2023,J2 League,Japan,Kanazawa,3,0,Iwaki,Match Finished
+2023-04-12T10:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,1,1,Vegalta Sendai,Match Finished
+2023-04-12T10:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,1,1,Machida Zelvia,Match Finished
+2023-04-12T10:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,3,1,JEF United Chiba,Match Finished
+2023-04-12T10:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,0,0,Roasso Kumamoto,Match Finished
+2023-04-12T10:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,0,2,Mito Hollyhock,Match Finished
+2023-04-12T10:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,2,1,Ventforet Kofu,Match Finished
+2023-04-12T10:00:00+00:00,2023,J2 League,Japan,Oita Trinita,3,1,Renofa Yamaguchi,Match Finished
+2023-04-16T04:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,1,0,Tochigi SC,Match Finished
+2023-04-16T05:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,1,1,Fagiano Okayama,Match Finished
+2023-04-16T05:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,2,1,Omiya Ardija,Match Finished
+2023-04-16T05:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,0,1,Kanazawa,Match Finished
+2023-04-16T05:00:00+00:00,2023,J2 League,Japan,Iwaki,2,1,Thespakusatsu Gunma,Match Finished
+2023-04-16T05:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,1,0,Tokyo Verdy,Match Finished
+2023-04-16T05:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,3,1,Oita Trinita,Match Finished
+2023-04-16T05:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,0,6,Shimizu S-pulse,Match Finished
+2023-04-16T05:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,0,4,V-varen Nagasaki,Match Finished
+2023-04-16T06:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,1,4,Fujieda MYFC,Match Finished
+2023-04-16T07:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,1,1,Roasso Kumamoto,Match Finished
+2023-04-21T10:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,2,2,JEF United Chiba,Match Finished
+2023-04-22T05:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,0,3,Shimizu S-pulse,Match Finished
+2023-04-22T05:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,1,0,Machida Zelvia,Match Finished
+2023-04-22T05:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,1,1,Renofa Yamaguchi,Match Finished
+2023-04-22T05:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,4,2,Blaublitz Akita,Match Finished
+2023-04-22T06:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,1,2,Montedio Yamagata,Match Finished
+2023-04-23T05:00:00+00:00,2023,J2 League,Japan,Tochigi SC,1,0,Iwaki,Match Finished
+2023-04-23T05:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,0,0,Tokushima Vortis,Match Finished
+2023-04-23T05:00:00+00:00,2023,J2 League,Japan,Kanazawa,1,2,Jubilo Iwata,Match Finished
+2023-04-23T05:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,3,2,Vegalta Sendai,Match Finished
+2023-04-23T05:00:00+00:00,2023,J2 League,Japan,Oita Trinita,0,1,Mito Hollyhock,Match Finished
+2023-04-29T05:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,1,0,Oita Trinita,Match Finished
+2023-04-29T05:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,0,1,Fagiano Okayama,Match Finished
+2023-04-29T05:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,1,1,Renofa Yamaguchi,Match Finished
+2023-04-29T05:00:00+00:00,2023,J2 League,Japan,Iwaki,0,1,V-varen Nagasaki,Match Finished
+2023-04-29T05:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,2,1,Ventforet Kofu,Match Finished
+2023-04-29T05:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,2,1,Roasso Kumamoto,Match Finished
+2023-04-29T05:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,2,0,Tochigi SC,Match Finished
+2023-04-29T05:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,2,3,Tokushima Vortis,Match Finished
+2023-04-29T06:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,1,0,Omiya Ardija,Match Finished
+2023-04-29T08:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,0,2,Tokyo Verdy,Match Finished
+2023-04-30T05:00:00+00:00,2023,J2 League,Japan,Kanazawa,1,1,Fujieda MYFC,Match Finished
+2023-05-03T04:50:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,2,0,Thespakusatsu Gunma,Match Finished
+2023-05-03T05:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,2,2,Blaublitz Akita,Match Finished
+2023-05-03T05:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,0,1,Machida Zelvia,Match Finished
+2023-05-03T05:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,1,0,Iwaki,Match Finished
+2023-05-03T05:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,0,2,Oita Trinita,Match Finished
+2023-05-03T05:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,2,0,Montedio Yamagata,Match Finished
+2023-05-03T05:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,1,1,JEF United Chiba,Match Finished
+2023-05-03T05:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,1,1,Shimizu S-pulse,Match Finished
+2023-05-03T05:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,4,0,Mito Hollyhock,Match Finished
+2023-05-03T07:00:00+00:00,2023,J2 League,Japan,Tochigi SC,4,0,Kanazawa,Match Finished
+2023-05-03T08:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,0,0,Jubilo Iwata,Match Finished
+2023-05-07T04:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,2,0,Ventforet Kofu,Match Finished
+2023-05-07T05:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,2,1,Tochigi SC,Match Finished
+2023-05-07T05:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,3,2,Fujieda MYFC,Match Finished
+2023-05-07T05:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,2,1,Renofa Yamaguchi,Match Finished
+2023-05-07T05:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,1,3,Tokushima Vortis,Match Finished
+2023-05-07T05:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,1,1,Fagiano Okayama,Match Finished
+2023-05-07T05:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,9,1,Iwaki,Match Finished
+2023-05-07T05:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,1,2,Tokyo Verdy,Match Finished
+2023-05-07T05:00:00+00:00,2023,J2 League,Japan,Oita Trinita,4,3,Kanazawa,Match Finished
+2023-05-07T06:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,1,0,Vegalta Sendai,Match Finished
+2023-05-07T10:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,0,1,Jubilo Iwata,Match Finished
+2023-05-13T04:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,1,1,Omiya Ardija,Match Finished
+2023-05-13T04:15:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,2,2,Tokushima Vortis,Match Finished
+2023-05-13T05:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,2,1,Montedio Yamagata,Match Finished
+2023-05-13T05:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,0,1,JEF United Chiba,Match Finished
+2023-05-13T05:00:00+00:00,2023,J2 League,Japan,Kanazawa,2,0,V-varen Nagasaki,Match Finished
+2023-05-13T05:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,5,0,Fujieda MYFC,Match Finished
+2023-05-13T05:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,4,2,Thespakusatsu Gunma,Match Finished
+2023-05-13T06:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,0,1,Machida Zelvia,Match Finished
+2023-05-13T06:00:00+00:00,2023,J2 League,Japan,Oita Trinita,1,1,Roasso Kumamoto,Match Finished
+2023-05-13T08:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,2,2,Tochigi SC,Match Finished
+2023-05-14T04:30:00+00:00,2023,J2 League,Japan,Iwaki,0,1,Blaublitz Akita,Match Finished
+2023-05-17T04:30:00+00:00,2023,J2 League,Japan,Montedio Yamagata,5,0,Oita Trinita,Match Finished
+2023-05-17T10:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,0,1,Ventforet Kofu,Match Finished
+2023-05-17T10:00:00+00:00,2023,J2 League,Japan,Iwaki,2,1,Omiya Ardija,Match Finished
+2023-05-17T10:00:00+00:00,2023,J2 League,Japan,Tochigi SC,0,2,Tokyo Verdy,Match Finished
+2023-05-17T10:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,2,1,Mito Hollyhock,Match Finished
+2023-05-17T10:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,1,0,Shimizu S-pulse,Match Finished
+2023-05-17T10:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,2,0,Renofa Yamaguchi,Match Finished
+2023-05-17T10:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,0,1,Jubilo Iwata,Match Finished
+2023-05-17T10:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,2,0,Kanazawa,Match Finished
+2023-05-17T10:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,0,0,Fagiano Okayama,Match Finished
+2023-05-17T10:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,0,1,Vegalta Sendai,Match Finished
+2023-05-21T05:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,2,1,Blaublitz Akita,Match Finished
+2023-05-21T05:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,1,1,Vegalta Sendai,Match Finished
+2023-05-21T05:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,1,0,Tochigi SC,Match Finished
+2023-05-21T05:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,2,1,Shimizu S-pulse,Match Finished
+2023-05-21T05:00:00+00:00,2023,J2 League,Japan,Kanazawa,0,1,Ventforet Kofu,Match Finished
+2023-05-21T05:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,3,0,Tokushima Vortis,Match Finished
+2023-05-21T05:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,0,2,Tokyo Verdy,Match Finished
+2023-05-21T05:00:00+00:00,2023,J2 League,Japan,Oita Trinita,1,1,V-varen Nagasaki,Match Finished
+2023-05-21T06:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,0,3,Roasso Kumamoto,Match Finished
+2023-05-21T07:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,1,1,Iwaki,Match Finished
+2023-05-21T10:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,2,1,Thespakusatsu Gunma,Match Finished
+2023-05-27T05:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,5,1,Omiya Ardija,Match Finished
+2023-05-27T05:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,2,1,Jubilo Iwata,Match Finished
+2023-05-28T05:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,2,1,JEF United Chiba,Match Finished
+2023-05-28T05:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,0,0,Oita Trinita,Match Finished
+2023-05-28T05:00:00+00:00,2023,J2 League,Japan,Tochigi SC,2,1,Fagiano Okayama,Match Finished
+2023-05-28T05:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,0,0,Fujieda MYFC,Match Finished
+2023-05-28T05:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,0,0,Iwaki,Match Finished
+2023-05-28T05:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,3,0,Kanazawa,Match Finished
+2023-05-28T05:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,2,1,Machida Zelvia,Match Finished
+2023-05-28T05:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,0,3,Montedio Yamagata,Match Finished
+2023-05-28T06:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,0,1,Renofa Yamaguchi,Match Finished
+2023-06-03T04:00:00+00:00,2023,J2 League,Japan,Iwaki,0,4,Roasso Kumamoto,Match Finished
+2023-06-03T05:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,2,1,Shimizu S-pulse,Match Finished
+2023-06-03T05:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,1,2,Mito Hollyhock,Match Finished
+2023-06-03T05:00:00+00:00,2023,J2 League,Japan,Kanazawa,1,1,Thespakusatsu Gunma,Match Finished
+2023-06-03T08:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,1,1,Tochigi SC,Match Finished
+2023-06-03T05:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,1,1,V-varen Nagasaki,Match Finished
+2023-06-03T07:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,2,0,Blaublitz Akita,Match Finished
+2023-06-03T09:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,0,2,Machida Zelvia,Match Finished
+2023-06-03T10:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,2,0,Tokushima Vortis,Match Finished
+2023-06-04T05:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,0,2,Vegalta Sendai,Match Finished
+2023-06-04T05:00:00+00:00,2023,J2 League,Japan,Oita Trinita,2,1,Ventforet Kofu,Match Finished
+2023-06-11T04:05:00+00:00,2023,J2 League,Japan,Vegalta Sendai,2,3,Jubilo Iwata,Match Finished
+2023-06-11T05:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,0,0,Kanazawa,Match Finished
+2023-06-11T05:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,3,0,Iwaki,Match Finished
+2023-06-11T05:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,4,1,V-varen Nagasaki,Match Finished
+2023-06-11T07:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,4,1,JEF United Chiba,Match Finished
+2023-06-11T07:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,4,0,Renofa Yamaguchi,Match Finished
+2023-06-11T07:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,1,0,Tochigi SC,Match Finished
+2023-06-11T09:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,0,1,Oita Trinita,Match Finished
+2023-06-11T09:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,2,3,Fujieda MYFC,Match Finished
+2023-06-11T10:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,1,2,Tokyo Verdy,Match Finished
+2023-06-11T10:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,0,1,Shimizu S-pulse,Match Finished
+2023-06-17T05:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,0,4,Roasso Kumamoto,Match Finished
+2023-06-17T09:00:00+00:00,2023,J2 League,Japan,Kanazawa,2,1,Mito Hollyhock,Match Finished
+2023-06-17T10:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,1,1,Montedio Yamagata,Match Finished
+2023-06-17T10:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,2,0,Omiya Ardija,Match Finished
+2023-06-17T10:00:00+00:00,2023,J2 League,Japan,Oita Trinita,1,0,Fagiano Okayama,Match Finished
+2023-06-18T05:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,2,0,Vegalta Sendai,Match Finished
+2023-06-18T07:00:00+00:00,2023,J2 League,Japan,Iwaki,0,0,JEF United Chiba,Match Finished
+2023-06-18T09:00:00+00:00,2023,J2 League,Japan,Tochigi SC,1,1,Machida Zelvia,Match Finished
+2023-06-18T09:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,2,2,Thespakusatsu Gunma,Match Finished
+2023-06-28T10:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,0,1,Blaublitz Akita,Match Finished
+2023-06-28T10:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,1,1,Ventforet Kofu,Match Finished
+2023-06-24T05:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,1,3,Fujieda MYFC,Match Finished
+2023-06-24T09:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,1,1,Machida Zelvia,Match Finished
+2023-06-24T09:00:00+00:00,2023,J2 League,Japan,Tochigi SC,0,0,Renofa Yamaguchi,Match Finished
+2023-06-24T09:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,1,5,Iwaki,Match Finished
+2023-06-24T09:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,0,0,Fagiano Okayama,Match Finished
+2023-06-24T10:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,0,2,Tokyo Verdy,Match Finished
+2023-06-24T10:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,1,1,Oita Trinita,Match Finished
+2023-06-24T10:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,5,1,Kanazawa,Match Finished
+2023-06-25T09:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,1,1,Tokushima Vortis,Match Finished
+2023-06-25T10:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,0,2,Jubilo Iwata,Match Finished
+2023-06-25T10:30:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,1,1,Shimizu S-pulse,Match Finished
+2023-07-01T09:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,3,2,Omiya Ardija,Match Finished
+2023-07-01T09:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,3,2,V-varen Nagasaki,Match Finished
+2023-07-01T10:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,2,1,Ventforet Kofu,Match Finished
+2023-07-01T10:00:00+00:00,2023,J2 League,Japan,Kanazawa,0,1,Tochigi SC,Match Finished
+2023-07-01T10:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,1,1,Oita Trinita,Match Finished
+2023-07-01T10:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,0,0,Renofa Yamaguchi,Match Finished
+2023-07-01T10:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,1,0,Mito Hollyhock,Match Finished
+2023-07-01T10:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,0,0,Thespakusatsu Gunma,Match Finished
+2023-07-01T10:30:00+00:00,2023,J2 League,Japan,Montedio Yamagata,4,1,Vegalta Sendai,Match Finished
+2023-07-02T09:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,1,1,Iwaki,Match Finished
+2023-07-02T10:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,0,1,Tokyo Verdy,Match Finished
+2023-07-05T10:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,0,3,Shimizu S-pulse,Match Finished
+2023-07-05T10:00:00+00:00,2023,J2 League,Japan,Iwaki,1,0,Tochigi SC,Match Finished
+2023-07-05T10:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,3,1,Tokushima Vortis,Match Finished
+2023-07-05T10:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,1,1,Roasso Kumamoto,Match Finished
+2023-07-05T10:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,2,1,JEF United Chiba,Match Finished
+2023-07-05T10:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,1,2,V-varen Nagasaki,Match Finished
+2023-07-05T10:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,5,1,Blaublitz Akita,Match Finished
+2023-07-05T10:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,2,1,Kanazawa,Match Finished
+2023-07-05T10:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,2,3,Fujieda MYFC,Match Finished
+2023-07-05T10:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,1,0,Montedio Yamagata,Match Finished
+2023-07-05T10:00:00+00:00,2023,J2 League,Japan,Oita Trinita,0,3,Machida Zelvia,Match Finished
+2023-07-09T09:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,1,1,Roasso Kumamoto,Match Finished
+2023-07-09T09:00:00+00:00,2023,J2 League,Japan,Iwaki,4,3,Mito Hollyhock,Match Finished
+2023-07-09T09:00:00+00:00,2023,J2 League,Japan,Tochigi SC,2,2,Vegalta Sendai,Match Finished
+2023-07-09T09:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,2,2,Tokyo Verdy,Match Finished
+2023-07-09T09:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,1,4,Ventforet Kofu,Match Finished
+2023-07-09T09:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,0,1,Renofa Yamaguchi,Match Finished
+2023-07-09T10:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,1,3,Jubilo Iwata,Match Finished
+2023-07-09T10:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,2,0,Omiya Ardija,Match Finished
+2023-07-09T10:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,1,0,Kanazawa,Match Finished
+2023-07-09T10:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,1,1,Fagiano Okayama,Match Finished
+2023-07-09T10:00:00+00:00,2023,J2 League,Japan,Oita Trinita,1,2,Shimizu S-pulse,Match Finished
+2023-07-15T09:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,0,0,Tokushima Vortis,Match Finished
+2023-07-15T10:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,0,0,Iwaki,Match Finished
+2023-07-16T10:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,1,3,Oita Trinita,Match Finished
+2023-10-14T05:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,1,2,Machida Zelvia,Match Finished
+2023-07-16T09:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,3,1,Montedio Yamagata,Match Finished
+2023-07-16T09:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,0,3,Thespakusatsu Gunma,Match Finished
+2023-07-16T09:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,2,2,JEF United Chiba,Match Finished
+2023-07-16T09:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,2,2,V-varen Nagasaki,Match Finished
+2023-07-16T10:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,0,0,Tochigi SC,Match Finished
+2023-07-16T10:00:00+00:00,2023,J2 League,Japan,Kanazawa,2,1,Vegalta Sendai,Match Finished
+2023-07-16T10:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,4,1,Fujieda MYFC,Match Finished
+2023-07-22T09:00:00+00:00,2023,J2 League,Japan,Tochigi SC,1,1,Shimizu S-pulse,Match Finished
+2023-07-22T09:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,1,3,JEF United Chiba,Match Finished
+2023-07-22T10:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,5,1,V-varen Nagasaki,Match Finished
+2023-07-22T10:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,1,1,Kanazawa,Match Finished
+2023-07-22T10:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,1,2,Blaublitz Akita,Match Finished
+2023-07-22T10:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,1,2,Ventforet Kofu,Match Finished
+2023-07-22T10:00:00+00:00,2023,J2 League,Japan,Oita Trinita,1,2,Iwaki,Match Finished
+2023-07-23T09:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,0,0,Omiya Ardija,Match Finished
+2023-07-23T10:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,3,4,Tokyo Verdy,Match Finished
+2023-07-23T10:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,1,1,Jubilo Iwata,Match Finished
+2023-07-24T10:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,1,2,Fagiano Okayama,Match Finished
+2023-07-29T09:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,0,0,Thespakusatsu Gunma,Match Finished
+2023-07-29T09:00:00+00:00,2023,J2 League,Japan,Iwaki,0,1,Jubilo Iwata,Match Finished
+2023-07-29T09:00:00+00:00,2023,J2 League,Japan,Tochigi SC,3,0,Ventforet Kofu,Match Finished
+2023-07-29T09:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,0,0,Mito Hollyhock,Match Finished
+2023-07-29T09:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,2,1,Tokushima Vortis,Match Finished
+2023-07-29T09:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,1,0,Fagiano Okayama,Match Finished
+2023-07-29T10:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,1,1,Fujieda MYFC,Match Finished
+2023-07-29T10:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,4,0,Renofa Yamaguchi,Match Finished
+2023-07-29T10:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,4,1,Roasso Kumamoto,Match Finished
+2023-07-29T10:00:00+00:00,2023,J2 League,Japan,Oita Trinita,0,1,Montedio Yamagata,Match Finished
+2023-07-30T10:00:00+00:00,2023,J2 League,Japan,Kanazawa,1,2,Omiya Ardija,Match Finished
+2023-08-05T10:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,1,2,Montedio Yamagata,Match Finished
+2023-08-05T10:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,1,3,Machida Zelvia,Match Finished
+2023-08-06T09:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,0,1,Shimizu S-pulse,Match Finished
+2023-08-06T09:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,0,2,Kanazawa,Match Finished
+2023-08-06T09:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,0,0,Iwaki,Match Finished
+2023-08-06T10:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,1,0,Tochigi SC,Match Finished
+2023-08-06T10:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,1,0,Blaublitz Akita,Match Finished
+2023-08-06T10:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,4,1,Vegalta Sendai,Match Finished
+2023-08-06T10:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,2,2,Oita Trinita,Match Finished
+2023-08-06T10:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,3,3,JEF United Chiba,Match Finished
+2023-08-06T10:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,0,0,Mito Hollyhock,Match Finished
+2023-08-12T09:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,3,3,V-varen Nagasaki,Match Finished
+2023-08-12T09:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,2,1,Jubilo Iwata,Match Finished
+2023-08-12T09:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,1,0,Renofa Yamaguchi,Match Finished
+2023-08-12T10:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,1,0,JEF United Chiba,Match Finished
+2023-08-12T10:00:00+00:00,2023,J2 League,Japan,Kanazawa,1,1,Roasso Kumamoto,Match Finished
+2023-08-12T10:00:00+00:00,2023,J2 League,Japan,Oita Trinita,1,0,Fujieda MYFC,Match Finished
+2023-08-13T09:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,0,1,Tokyo Verdy,Match Finished
+2023-08-13T09:00:00+00:00,2023,J2 League,Japan,Iwaki,1,1,Ventforet Kofu,Match Finished
+2023-08-13T10:00:00+00:00,2023,J2 League,Japan,Tochigi SC,2,2,Tokushima Vortis,Match Finished
+2023-08-13T10:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,0,2,Thespakusatsu Gunma,Match Finished
+2023-08-13T10:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,1,1,Fagiano Okayama,Match Finished
+2023-08-19T09:00:00+00:00,2023,J2 League,Japan,Iwaki,0,0,Tokyo Verdy,Match Finished
+2023-08-19T09:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,1,1,Blaublitz Akita,Match Finished
+2023-08-19T09:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,0,1,Jubilo Iwata,Match Finished
+2023-08-19T09:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,3,2,Machida Zelvia,Match Finished
+2023-08-19T10:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,1,0,Omiya Ardija,Match Finished
+2023-08-19T10:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,2,0,Roasso Kumamoto,Match Finished
+2023-08-19T10:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,3,2,Fujieda MYFC,Match Finished
+2023-08-19T10:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,1,0,Oita Trinita,Match Finished
+2023-08-19T10:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,1,2,Tochigi SC,Match Finished
+2023-09-27T10:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,1,1,Kanazawa,Match Finished
+2023-08-20T10:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,2,0,Renofa Yamaguchi,Match Finished
+2023-08-26T09:00:00+00:00,2023,J2 League,Japan,Tochigi SC,2,2,Mito Hollyhock,Match Finished
+2023-08-26T09:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,2,3,Fagiano Okayama,Match Finished
+2023-08-26T09:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,5,0,Montedio Yamagata,Match Finished
+2023-08-26T10:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,0,4,V-varen Nagasaki,Match Finished
+2023-08-26T10:00:00+00:00,2023,J2 League,Japan,Kanazawa,0,1,Tokushima Vortis,Match Finished
+2023-08-26T10:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,2,3,JEF United Chiba,Match Finished
+2023-10-14T08:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,5,1,Thespakusatsu Gunma,Match Finished
+2023-08-26T10:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,3,2,Ventforet Kofu,Match Finished
+2023-08-26T10:00:00+00:00,2023,J2 League,Japan,Oita Trinita,2,3,Vegalta Sendai,Match Finished
+2023-08-27T09:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,1,1,Shimizu S-pulse,Match Finished
+2023-08-27T10:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,2,4,Iwaki,Match Finished
+2023-09-02T10:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,1,1,Jubilo Iwata,Match Finished
+2023-09-02T10:00:00+00:00,2023,J2 League,Japan,Kanazawa,0,3,Tokyo Verdy,Match Finished
+2023-09-03T10:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,0,0,Ventforet Kofu,Match Finished
+2023-09-03T10:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,1,1,Omiya Ardija,Match Finished
+2023-09-03T09:00:00+00:00,2023,J2 League,Japan,Iwaki,1,2,Fagiano Okayama,Match Finished
+2023-09-03T10:00:00+00:00,2023,J2 League,Japan,Tochigi SC,2,0,Fujieda MYFC,Match Finished
+2023-09-03T10:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,0,0,Machida Zelvia,Match Finished
+2023-09-03T10:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,1,0,Roasso Kumamoto,Match Finished
+2023-09-03T09:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,0,0,Tokushima Vortis,Match Finished
+2023-09-03T10:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,1,2,Mito Hollyhock,Match Finished
+2023-09-03T08:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,2,2,Oita Trinita,Match Finished
+2023-09-09T09:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,3,0,Kanazawa,Match Finished
+2023-09-09T10:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,2,1,Blaublitz Akita,Match Finished
+2023-09-09T09:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,2,0,Renofa Yamaguchi,Match Finished
+2023-09-09T09:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,0,1,Tochigi SC,Match Finished
+2023-09-09T09:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,3,2,Oita Trinita,Match Finished
+2023-09-09T10:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,1,0,Vegalta Sendai,Match Finished
+2023-09-09T10:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,2,1,Thespakusatsu Gunma,Match Finished
+2023-09-10T10:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,2,0,Iwaki,Match Finished
+2023-09-10T09:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,0,2,Fujieda MYFC,Match Finished
+2023-09-09T09:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,3,0,Montedio Yamagata,Match Finished
+2023-09-09T10:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,3,2,Omiya Ardija,Match Finished
+2023-09-16T09:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,0,1,Mito Hollyhock,Match Finished
+2023-09-16T05:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,0,0,V-varen Nagasaki,Match Finished
+2023-09-16T09:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,2,0,Fagiano Okayama,Match Finished
+2023-09-16T10:00:00+00:00,2023,J2 League,Japan,Tochigi SC,0,1,JEF United Chiba,Match Finished
+2023-09-16T09:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,0,3,Roasso Kumamoto,Match Finished
+2023-09-15T10:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,1,1,Tokyo Verdy,Match Finished
+2023-09-16T10:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,0,0,Renofa Yamaguchi,Match Finished
+2023-09-16T10:00:00+00:00,2023,J2 League,Japan,Oita Trinita,3,3,Tokushima Vortis,Match Finished
+2023-09-17T10:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,1,0,Iwaki,Match Finished
+2023-09-17T09:00:00+00:00,2023,J2 League,Japan,Kanazawa,0,3,Shimizu S-pulse,Match Finished
+2023-09-17T09:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,0,0,Machida Zelvia,Match Finished
+2023-09-23T05:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,1,1,Montedio Yamagata,Match Finished
+2023-09-23T09:00:00+00:00,2023,J2 League,Japan,Iwaki,1,0,Kanazawa,Match Finished
+2023-09-23T05:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,0,1,Oita Trinita,Match Finished
+2023-09-23T09:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,3,1,Vegalta Sendai,Match Finished
+2023-09-24T04:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,0,0,Ventforet Kofu,Match Finished
+2023-09-23T10:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,1,0,Thespakusatsu Gunma,Match Finished
+2023-09-23T08:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,0,6,Machida Zelvia,Match Finished
+2023-09-24T07:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,2,2,Fujieda MYFC,Match Finished
+2023-09-24T04:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,2,1,Jubilo Iwata,Match Finished
+2023-09-24T07:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,0,1,Omiya Ardija,Match Finished
+2023-09-24T10:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,3,0,Tochigi SC,Match Finished
+2023-09-30T04:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,1,0,Roasso Kumamoto,Match Finished
+2023-09-30T05:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,2,1,Mito Hollyhock,Match Finished
+2023-09-30T04:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,2,0,Shimizu S-pulse,Match Finished
+2023-09-30T09:00:00+00:00,2023,J2 League,Japan,Oita Trinita,0,1,Omiya Ardija,Match Finished
+2023-10-01T05:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,0,1,Tokushima Vortis,Match Finished
+2023-10-01T05:00:00+00:00,2023,J2 League,Japan,Tochigi SC,1,2,Blaublitz Akita,Match Finished
+2023-10-01T08:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,0,0,Tokyo Verdy,Match Finished
+2023-10-01T05:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,2,3,Iwaki,Match Finished
+2023-10-01T05:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,1,0,V-varen Nagasaki,Match Finished
+2023-10-01T05:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,0,5,JEF United Chiba,Match Finished
+2023-10-01T05:00:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,3,2,Kanazawa,Match Finished
+2023-10-07T05:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,2,1,Renofa Yamaguchi,Match Finished
+2023-10-07T06:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,1,0,Oita Trinita,Match Finished
+2023-10-07T05:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,1,0,Jubilo Iwata,Match Finished
+2023-10-07T08:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,5,1,Fujieda MYFC,Match Finished
+2023-10-08T05:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,2,0,Tochigi SC,Match Finished
+2023-10-08T05:00:00+00:00,2023,J2 League,Japan,Iwaki,2,2,Vegalta Sendai,Match Finished
+2023-10-08T10:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,0,0,Fagiano Okayama,Match Finished
+2023-10-08T05:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,1,1,Mito Hollyhock,Match Finished
+2023-10-08T05:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,3,3,Ventforet Kofu,Match Finished
+2023-10-08T05:00:00+00:00,2023,J2 League,Japan,Kanazawa,0,2,Blaublitz Akita,Match Finished
+2023-09-27T10:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,0,1,Roasso Kumamoto,Match Finished
+2023-10-20T10:00:00+00:00,2023,J2 League,Japan,Ventforet Kofu,1,1,V-varen Nagasaki,Match Finished
+2023-10-21T04:00:00+00:00,2023,J2 League,Japan,Iwaki,1,7,Shimizu S-pulse,Match Finished
+2023-10-22T05:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,0,1,Vegalta Sendai,Match Finished
+2023-10-22T05:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,1,2,Thespakusatsu Gunma,Match Finished
+2023-10-22T05:00:00+00:00,2023,J2 League,Japan,Tochigi SC,1,1,Oita Trinita,Match Finished
+2023-10-22T05:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,3,2,JEF United Chiba,Match Finished
+2023-10-22T05:00:00+00:00,2023,J2 League,Japan,Kanazawa,0,1,Montedio Yamagata,Match Finished
+2023-10-22T05:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,2,3,Omiya Ardija,Match Finished
+2023-10-22T03:30:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,2,2,Fagiano Okayama,Match Finished
+2023-10-22T05:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,0,3,Jubilo Iwata,Match Finished
+2023-10-22T04:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,0,3,Machida Zelvia,Match Finished
+2023-10-28T05:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,1,1,Renofa Yamaguchi,Match Finished
+2023-10-28T04:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,1,3,Roasso Kumamoto,Match Finished
+2023-10-28T05:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,1,1,Tokyo Verdy,Match Finished
+2023-10-28T05:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,1,0,Mito Hollyhock,Match Finished
+2023-10-28T05:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,1,2,Tokushima Vortis,Match Finished
+2023-10-29T05:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,2,1,Thespakusatsu Gunma,Match Finished
+2023-10-29T05:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,0,2,Ventforet Kofu,Match Finished
+2023-10-29T05:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,1,0,Iwaki,Match Finished
+2023-10-29T05:00:00+00:00,2023,J2 League,Japan,Machida Zelvia,1,0,Kanazawa,Match Finished
+2023-10-29T05:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,1,1,Tochigi SC,Match Finished
+2023-10-29T04:00:00+00:00,2023,J2 League,Japan,Oita Trinita,2,1,Blaublitz Akita,Match Finished
+2023-11-03T04:05:00+00:00,2023,J2 League,Japan,Ventforet Kofu,2,0,Roasso Kumamoto,Match Finished
+2023-11-04T05:00:00+00:00,2023,J2 League,Japan,Iwaki,1,3,Montedio Yamagata,Match Finished
+2023-11-04T04:55:00+00:00,2023,J2 League,Japan,Kanazawa,2,2,Oita Trinita,Match Finished
+2023-11-04T05:00:00+00:00,2023,J2 League,Japan,Tokushima Vortis,0,0,Fujieda MYFC,Match Finished
+2023-11-04T05:00:00+00:00,2023,J2 League,Japan,V-varen Nagasaki,2,1,Vegalta Sendai,Match Finished
+2023-11-05T05:00:00+00:00,2023,J2 League,Japan,Thespakusatsu Gunma,1,2,JEF United Chiba,Match Finished
+2023-11-05T05:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,1,0,Tochigi SC,Match Finished
+2023-11-05T05:00:00+00:00,2023,J2 League,Japan,Fagiano Okayama,0,2,Blaublitz Akita,Match Finished
+2023-11-05T04:05:00+00:00,2023,J2 League,Japan,Renofa Yamaguchi,0,2,Machida Zelvia,Match Finished
+2023-11-04T05:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,4,0,Omiya Ardija,Match Finished
+2023-11-04T05:00:00+00:00,2023,J2 League,Japan,Jubilo Iwata,5,0,Mito Hollyhock,Match Finished
+2023-11-12T04:00:00+00:00,2023,J2 League,Japan,Vegalta Sendai,1,3,Machida Zelvia,Match Finished
+2023-11-12T04:00:00+00:00,2023,J2 League,Japan,Blaublitz Akita,1,1,Tokushima Vortis,Match Finished
+2023-11-12T04:00:00+00:00,2023,J2 League,Japan,Montedio Yamagata,2,1,Ventforet Kofu,Match Finished
+2023-11-12T04:00:00+00:00,2023,J2 League,Japan,Mito Hollyhock,1,1,Shimizu S-pulse,Match Finished
+2023-11-12T04:00:00+00:00,2023,J2 League,Japan,Tochigi SC,1,2,Jubilo Iwata,Match Finished
+2023-11-12T04:00:00+00:00,2023,J2 League,Japan,Omiya Ardija,0,2,Tokyo Verdy,Match Finished
+2023-11-12T04:00:00+00:00,2023,J2 League,Japan,JEF United Chiba,1,3,V-varen Nagasaki,Match Finished
+2023-11-12T04:00:00+00:00,2023,J2 League,Japan,Kanazawa,1,1,Fagiano Okayama,Match Finished
+2023-11-12T04:00:00+00:00,2023,J2 League,Japan,Fujieda MYFC,2,4,Iwaki,Match Finished
+2023-11-12T04:00:00+00:00,2023,J2 League,Japan,Roasso Kumamoto,3,1,Renofa Yamaguchi,Match Finished
+2023-11-12T04:00:00+00:00,2023,J2 League,Japan,Oita Trinita,2,1,Thespakusatsu Gunma,Match Finished
+2023-11-25T04:00:00+00:00,2023,J2 League,Japan,Shimizu S-pulse,0,0,Montedio Yamagata,Match Finished
+2023-11-26T06:00:00+00:00,2023,J2 League,Japan,Tokyo Verdy,2,1,JEF United Chiba,Match Finished
+2023-12-02T05:05:00+00:00,2023,J2 League,Japan,Tokyo Verdy,1,1,Shimizu S-pulse,Match Finished

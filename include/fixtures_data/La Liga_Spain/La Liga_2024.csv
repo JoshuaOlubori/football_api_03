@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-15T17:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Getafe,Not Started
+2024-08-15T19:30:00+00:00,2024,La Liga,Spain,Real Betis,,,Girona,Not Started
+2024-08-18T19:30:00+00:00,2024,La Liga,Spain,Mallorca,,,Real Madrid,Not Started
+2024-08-16T19:30:00+00:00,2024,La Liga,Spain,Las Palmas,,,Sevilla,Not Started
+2024-08-19T19:30:00+00:00,2024,La Liga,Spain,Villarreal,,,Atletico Madrid,Not Started
+2024-08-17T19:30:00+00:00,2024,La Liga,Spain,Valencia,,,Barcelona,Not Started
+2024-08-18T17:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Rayo Vallecano,Not Started
+2024-08-16T17:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Alaves,Not Started
+2024-08-17T17:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Leganes,Not Started
+2024-08-25T19:30:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Girona,Not Started
+2024-08-23T17:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Valencia,Not Started
+2024-08-24T19:30:00+00:00,2024,La Liga,Spain,Getafe,,,Rayo Vallecano,Not Started
+2024-08-25T15:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Valladolid,Not Started
+2024-08-23T19:30:00+00:00,2024,La Liga,Spain,Sevilla,,,Villarreal,Not Started
+2024-08-25T17:15:00+00:00,2024,La Liga,Spain,Alaves,,,Real Betis,Not Started
+2024-08-25T17:00:00+00:00,2024,La Liga,Spain,Leganes,,,Las Palmas,Not Started
+2024-08-24T17:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Athletic Club,Not Started
+2024-08-24T15:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Mallorca,Not Started
+2024-08-28T17:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Valencia,Not Started
+2024-08-28T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Getafe,Match Postponed
+2024-08-29T17:00:00+00:00,2024,La Liga,Spain,Girona,,,Osasuna,Not Started
+2024-08-27T17:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Sevilla,Not Started
+2024-08-29T19:30:00+00:00,2024,La Liga,Spain,Las Palmas,,,Real Madrid,Not Started
+2024-08-27T19:30:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Barcelona,Not Started
+2024-08-26T19:30:00+00:00,2024,La Liga,Spain,Villarreal,,,Celta Vigo,Not Started
+2024-08-28T19:30:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Alaves,Not Started
+2024-08-28T17:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Leganes,Not Started
+2024-08-31T17:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Atletico Madrid,Not Started
+2024-08-31T15:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Valladolid,Not Started
+2024-09-01T17:15:00+00:00,2024,La Liga,Spain,Getafe,,,Real Sociedad,Not Started
+2024-08-31T19:30:00+00:00,2024,La Liga,Spain,Valencia,,,Villarreal,Not Started
+2024-09-01T15:00:00+00:00,2024,La Liga,Spain,Alaves,,,Las Palmas,Not Started
+2024-08-31T19:30:00+00:00,2024,La Liga,Spain,Leganes,,,Mallorca,Not Started
+2024-09-01T19:30:00+00:00,2024,La Liga,Spain,Real Madrid,,,Real Betis,Not Started
+2024-09-01T15:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Celta Vigo,Not Started
+2024-09-01T17:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Girona,Not Started
+2024-09-15T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Valencia,Time to be defined
+2024-09-15T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Leganes,Time to be defined
+2024-09-15T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Valladolid,Time to be defined
+2024-09-15T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Villarreal,Time to be defined
+2024-09-15T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Athletic Club,Time to be defined
+2024-09-15T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Barcelona,Time to be defined
+2024-09-15T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Getafe,Time to be defined
+2024-09-15T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Osasuna,Time to be defined
+2024-09-15T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Real Madrid,Time to be defined
+2024-09-22T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Celta Vigo,Time to be defined
+2024-09-22T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Mallorca,Time to be defined
+2024-09-22T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Leganes,Time to be defined
+2024-09-22T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Sevilla,Time to be defined
+2024-09-22T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Atletico Madrid,Time to be defined
+2024-09-22T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Barcelona,Time to be defined
+2024-09-22T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Girona,Time to be defined
+2024-09-22T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Real Sociedad,Time to be defined
+2024-09-22T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Las Palmas,Time to be defined
+2024-09-25T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Getafe,Time to be defined
+2024-09-25T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Rayo Vallecano,Time to be defined
+2024-09-25T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Real Sociedad,Time to be defined
+2024-09-25T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Valladolid,Time to be defined
+2024-09-25T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Athletic Club,Time to be defined
+2024-09-25T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Atletico Madrid,Time to be defined
+2024-09-25T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Real Betis,Time to be defined
+2024-09-25T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Osasuna,Time to be defined
+2024-09-25T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Alaves,Time to be defined
+2024-09-29T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Sevilla,Time to be defined
+2024-09-29T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Real Madrid,Time to be defined
+2024-09-29T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Girona,Time to be defined
+2024-09-29T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Valencia,Time to be defined
+2024-09-29T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Barcelona,Time to be defined
+2024-09-29T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Mallorca,Time to be defined
+2024-09-29T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Las Palmas,Time to be defined
+2024-09-29T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Alaves,Time to be defined
+2024-09-29T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Leganes,Time to be defined
+2024-10-06T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Osasuna,Time to be defined
+2024-10-06T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Villarreal,Time to be defined
+2024-10-06T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Barcelona,Time to be defined
+2024-10-06T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Valencia,Time to be defined
+2024-10-06T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Athletic Club,Time to be defined
+2024-10-06T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Atletico Madrid,Time to be defined
+2024-10-06T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Real Betis,Time to be defined
+2024-10-06T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Celta Vigo,Time to be defined
+2024-10-06T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Rayo Vallecano,Time to be defined
+2024-10-20T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Leganes,Time to be defined
+2024-10-20T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Sevilla,Time to be defined
+2024-10-20T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Real Madrid,Time to be defined
+2024-10-20T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Real Sociedad,Time to be defined
+2024-10-20T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Rayo Vallecano,Time to be defined
+2024-10-20T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Valladolid,Time to be defined
+2024-10-20T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Real Betis,Time to be defined
+2024-10-20T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Getafe,Time to be defined
+2024-10-20T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Las Palmas,Time to be defined
+2024-10-27T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Valencia,Time to be defined
+2024-10-27T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Athletic Club,Time to be defined
+2024-10-27T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Atletico Madrid,Time to be defined
+2024-10-27T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Barcelona,Time to be defined
+2024-10-27T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Celta Vigo,Time to be defined
+2024-10-27T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Girona,Time to be defined
+2024-10-27T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Osasuna,Time to be defined
+2024-10-27T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Villarreal,Time to be defined
+2024-10-27T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Alaves,Time to be defined
+2024-11-03T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Real Betis,Time to be defined
+2024-11-03T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Las Palmas,Time to be defined
+2024-11-03T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Getafe,Time to be defined
+2024-11-03T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Leganes,Time to be defined
+2024-11-03T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Valladolid,Time to be defined
+2024-11-03T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Mallorca,Time to be defined
+2024-11-03T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Rayo Vallecano,Time to be defined
+2024-11-03T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Real Madrid,Time to be defined
+2024-11-03T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Real Sociedad,Time to be defined
+2024-11-10T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Celta Vigo,Time to be defined
+2024-11-10T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Girona,Time to be defined
+2024-11-10T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Sevilla,Time to be defined
+2024-11-10T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Athletic Club,Time to be defined
+2024-11-10T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Atletico Madrid,Time to be defined
+2024-11-10T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Barcelona,Time to be defined
+2024-11-10T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Osasuna,Time to be defined
+2024-11-10T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Las Palmas,Time to be defined
+2024-11-10T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Alaves,Time to be defined
+2024-11-24T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Real Sociedad,Time to be defined
+2024-11-24T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Valladolid,Time to be defined
+2024-11-24T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Villarreal,Time to be defined
+2024-11-24T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Mallorca,Time to be defined
+2024-11-24T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Real Madrid,Time to be defined
+2024-11-24T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Barcelona,Time to be defined
+2024-11-24T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Real Betis,Time to be defined
+2024-11-24T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Rayo Vallecano,Time to be defined
+2024-11-24T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Alaves,Time to be defined
+2024-12-01T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Las Palmas,Time to be defined
+2024-12-01T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Valencia,Time to be defined
+2024-12-01T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Leganes,Time to be defined
+2024-12-01T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Athletic Club,Time to be defined
+2024-12-01T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Atletico Madrid,Time to be defined
+2024-12-01T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Real Betis,Time to be defined
+2024-12-01T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Getafe,Time to be defined
+2024-12-01T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Girona,Time to be defined
+2024-12-01T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Osasuna,Time to be defined
+2024-12-08T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Villarreal,Time to be defined
+2024-12-08T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Sevilla,Time to be defined
+2024-12-08T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Mallorca,Time to be defined
+2024-12-08T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Real Madrid,Time to be defined
+2024-12-08T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Valladolid,Time to be defined
+2024-12-08T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Real Sociedad,Time to be defined
+2024-12-08T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Barcelona,Time to be defined
+2024-12-08T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Rayo Vallecano,Time to be defined
+2024-12-08T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Alaves,Time to be defined
+2024-12-15T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Getafe,Time to be defined
+2024-12-15T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Leganes,Time to be defined
+2024-12-15T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Real Madrid,Time to be defined
+2024-12-15T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Athletic Club,Time to be defined
+2024-12-15T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Real Betis,Time to be defined
+2024-12-15T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Celta Vigo,Time to be defined
+2024-12-15T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Girona,Time to be defined
+2024-12-15T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Valencia,Time to be defined
+2024-12-15T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Las Palmas,Time to be defined
+2024-12-22T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Rayo Vallecano,Time to be defined
+2024-12-22T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Real Sociedad,Time to be defined
+2024-12-22T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Mallorca,Time to be defined
+2024-12-22T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Valladolid,Time to be defined
+2024-12-22T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Sevilla,Time to be defined
+2024-12-22T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Villarreal,Time to be defined
+2024-12-22T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Athletic Club,Time to be defined
+2024-12-22T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Atletico Madrid,Time to be defined
+2024-12-22T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Alaves,Time to be defined
+2025-01-11T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Real Madrid,Time to be defined
+2025-01-11T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Osasuna,Time to be defined
+2025-01-11T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Villarreal,Time to be defined
+2025-01-11T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Valencia,Time to be defined
+2025-01-11T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Girona,Time to be defined
+2025-01-11T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Barcelona,Time to be defined
+2025-01-11T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Real Betis,Time to be defined
+2025-01-11T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Celta Vigo,Time to be defined
+2025-01-11T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Getafe,Time to be defined
+2025-01-19T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Sevilla,Time to be defined
+2025-01-19T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Rayo Vallecano,Time to be defined
+2025-01-19T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Athletic Club,Time to be defined
+2025-01-19T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Atletico Madrid,Time to be defined
+2025-01-19T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Barcelona,Time to be defined
+2025-01-19T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Mallorca,Time to be defined
+2025-01-19T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Real Sociedad,Time to be defined
+2025-01-19T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Las Palmas,Time to be defined
+2025-01-19T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Alaves,Time to be defined
+2025-01-26T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Leganes,Time to be defined
+2025-01-26T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Villarreal,Time to be defined
+2025-01-26T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Valencia,Time to be defined
+2025-01-26T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Osasuna,Time to be defined
+2025-01-26T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Celta Vigo,Time to be defined
+2025-01-26T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Real Betis,Time to be defined
+2025-01-26T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Getafe,Time to be defined
+2025-01-26T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Girona,Time to be defined
+2025-01-26T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Real Madrid,Time to be defined
+2025-02-02T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Mallorca,Time to be defined
+2025-02-02T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Sevilla,Time to be defined
+2025-02-02T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Las Palmas,Time to be defined
+2025-02-02T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Real Sociedad,Time to be defined
+2025-02-02T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Valladolid,Time to be defined
+2025-02-02T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Rayo Vallecano,Time to be defined
+2025-02-02T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Athletic Club,Time to be defined
+2025-02-02T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Celta Vigo,Time to be defined
+2025-02-02T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Alaves,Time to be defined
+2025-02-09T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Girona,Time to be defined
+2025-02-09T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Osasuna,Time to be defined
+2025-02-09T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Valladolid,Time to be defined
+2025-02-09T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Villarreal,Time to be defined
+2025-02-09T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Getafe,Time to be defined
+2025-02-09T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Atletico Madrid,Time to be defined
+2025-02-09T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Barcelona,Time to be defined
+2025-02-09T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Real Betis,Time to be defined
+2025-02-09T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Leganes,Time to be defined
+2025-02-16T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Celta Vigo,Time to be defined
+2025-02-16T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Rayo Vallecano,Time to be defined
+2025-02-16T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Real Sociedad,Time to be defined
+2025-02-16T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Real Madrid,Time to be defined
+2025-02-16T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Getafe,Time to be defined
+2025-02-16T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Sevilla,Time to be defined
+2025-02-16T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Valencia,Time to be defined
+2025-02-16T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Las Palmas,Time to be defined
+2025-02-16T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Alaves,Time to be defined
+2025-02-23T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Valladolid,Time to be defined
+2025-02-23T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Osasuna,Time to be defined
+2025-02-23T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Villarreal,Time to be defined
+2025-02-23T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Atletico Madrid,Time to be defined
+2025-02-23T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Barcelona,Time to be defined
+2025-02-23T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Real Betis,Time to be defined
+2025-02-23T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Girona,Time to be defined
+2025-02-23T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Mallorca,Time to be defined
+2025-02-23T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Leganes,Time to be defined
+2025-03-02T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Real Sociedad,Time to be defined
+2025-03-02T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Real Madrid,Time to be defined
+2025-03-02T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Valencia,Time to be defined
+2025-03-02T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Sevilla,Time to be defined
+2025-03-02T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Athletic Club,Time to be defined
+2025-03-02T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Celta Vigo,Time to be defined
+2025-03-02T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Getafe,Time to be defined
+2025-03-02T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Las Palmas,Time to be defined
+2025-03-02T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Alaves,Time to be defined
+2025-03-09T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Mallorca,Time to be defined
+2025-03-09T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Osasuna,Time to be defined
+2025-03-09T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Las Palmas,Time to be defined
+2025-03-09T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Leganes,Time to be defined
+2025-03-09T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Sevilla,Time to be defined
+2025-03-09T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Valladolid,Time to be defined
+2025-03-09T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Villarreal,Time to be defined
+2025-03-09T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Atletico Madrid,Time to be defined
+2025-03-09T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Rayo Vallecano,Time to be defined
+2025-03-16T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Barcelona,Time to be defined
+2025-03-16T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Valencia,Time to be defined
+2025-03-16T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Real Sociedad,Time to be defined
+2025-03-16T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Athletic Club,Time to be defined
+2025-03-16T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Real Betis,Time to be defined
+2025-03-16T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Celta Vigo,Time to be defined
+2025-03-16T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Getafe,Time to be defined
+2025-03-16T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Real Madrid,Time to be defined
+2025-03-16T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Alaves,Time to be defined
+2025-03-30T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Osasuna,Time to be defined
+2025-03-30T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Girona,Time to be defined
+2025-03-30T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Sevilla,Time to be defined
+2025-03-30T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Las Palmas,Time to be defined
+2025-03-30T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Villarreal,Time to be defined
+2025-03-30T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Valladolid,Time to be defined
+2025-03-30T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Rayo Vallecano,Time to be defined
+2025-03-30T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Mallorca,Time to be defined
+2025-03-30T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Leganes,Time to be defined
+2025-04-06T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Real Betis,Time to be defined
+2025-04-06T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Valencia,Time to be defined
+2025-04-06T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Real Sociedad,Time to be defined
+2025-04-06T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Osasuna,Time to be defined
+2025-04-06T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Athletic Club,Time to be defined
+2025-04-06T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Atletico Madrid,Time to be defined
+2025-04-06T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Celta Vigo,Time to be defined
+2025-04-06T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Getafe,Time to be defined
+2025-04-06T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Alaves,Time to be defined
+2025-04-13T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Rayo Vallecano,Time to be defined
+2025-04-13T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Valladolid,Time to be defined
+2025-04-13T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Villarreal,Time to be defined
+2025-04-13T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Las Palmas,Time to be defined
+2025-04-13T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Real Madrid,Time to be defined
+2025-04-13T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Barcelona,Time to be defined
+2025-04-13T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Girona,Time to be defined
+2025-04-13T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Mallorca,Time to be defined
+2025-04-13T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Sevilla,Time to be defined
+2025-04-20T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Celta Vigo,Time to be defined
+2025-04-20T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Valencia,Time to be defined
+2025-04-20T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Athletic Club,Time to be defined
+2025-04-20T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Atletico Madrid,Time to be defined
+2025-04-20T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Real Betis,Time to be defined
+2025-04-20T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Osasuna,Time to be defined
+2025-04-20T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Real Sociedad,Time to be defined
+2025-04-20T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Alaves,Time to be defined
+2025-04-20T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Leganes,Time to be defined
+2025-04-23T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Las Palmas,Time to be defined
+2025-04-23T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Rayo Vallecano,Time to be defined
+2025-04-23T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Mallorca,Time to be defined
+2025-04-23T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Valladolid,Time to be defined
+2025-04-23T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Villarreal,Time to be defined
+2025-04-23T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Real Madrid,Time to be defined
+2025-04-23T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Sevilla,Time to be defined
+2025-04-23T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Real Sociedad,Time to be defined
+2025-04-23T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Girona,Time to be defined
+2025-05-04T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Mallorca,Time to be defined
+2025-05-04T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Valencia,Time to be defined
+2025-05-04T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Atletico Madrid,Time to be defined
+2025-05-04T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Athletic Club,Time to be defined
+2025-05-04T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Barcelona,Time to be defined
+2025-05-04T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Celta Vigo,Time to be defined
+2025-05-04T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Getafe,Time to be defined
+2025-05-04T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Osasuna,Time to be defined
+2025-05-04T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Leganes,Time to be defined
+2025-05-11T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Real Sociedad,Time to be defined
+2025-05-11T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Real Madrid,Time to be defined
+2025-05-11T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Osasuna,Time to be defined
+2025-05-11T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Sevilla,Time to be defined
+2025-05-11T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Villarreal,Time to be defined
+2025-05-11T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Valladolid,Time to be defined
+2025-05-11T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Rayo Vallecano,Time to be defined
+2025-05-11T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Getafe,Time to be defined
+2025-05-11T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Alaves,Time to be defined
+2025-05-14T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Valencia,Time to be defined
+2025-05-14T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Athletic Club,Time to be defined
+2025-05-14T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Atletico Madrid,Time to be defined
+2025-05-14T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Real Betis,Time to be defined
+2025-05-14T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Celta Vigo,Time to be defined
+2025-05-14T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Girona,Time to be defined
+2025-05-14T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Mallorca,Time to be defined
+2025-05-14T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Las Palmas,Time to be defined
+2025-05-14T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Leganes,Time to be defined
+2025-05-18T00:00:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Real Betis,Time to be defined
+2025-05-18T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Villarreal,Time to be defined
+2025-05-18T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Rayo Vallecano,Time to be defined
+2025-05-18T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Athletic Club,Time to be defined
+2025-05-18T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Getafe,Time to be defined
+2025-05-18T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Girona,Time to be defined
+2025-05-18T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Real Madrid,Time to be defined
+2025-05-18T00:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Alaves,Time to be defined
+2025-05-18T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Leganes,Time to be defined
+2025-05-25T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Barcelona,Time to be defined
+2025-05-25T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Valencia,Time to be defined
+2025-05-25T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Real Sociedad,Time to be defined
+2025-05-25T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Osasuna,Time to be defined
+2025-05-25T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Valladolid,Time to be defined
+2025-05-25T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Atletico Madrid,Time to be defined
+2025-05-25T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Celta Vigo,Time to be defined
+2025-05-25T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Mallorca,Time to be defined
+2025-05-25T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Sevilla,Time to be defined
+2024-08-19T17:00:00+00:00,2024,La Liga,Spain,Valladolid,,,Espanyol,Not Started
+2024-08-24T19:30:00+00:00,2024,La Liga,Spain,Espanyol,,,Real Sociedad,Not Started
+2024-08-28T19:30:00+00:00,2024,La Liga,Spain,Atletico Madrid,,,Espanyol,Not Started
+2024-08-31T17:15:00+00:00,2024,La Liga,Spain,Espanyol,,,Rayo Vallecano,Not Started
+2024-09-15T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Alaves,Time to be defined
+2024-09-22T00:00:00+00:00,2024,La Liga,Spain,Real Madrid,,,Espanyol,Time to be defined
+2024-09-25T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Villarreal,Time to be defined
+2024-09-29T00:00:00+00:00,2024,La Liga,Spain,Real Betis,,,Espanyol,Time to be defined
+2024-10-06T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Mallorca,Time to be defined
+2024-10-20T00:00:00+00:00,2024,La Liga,Spain,Athletic Club,,,Espanyol,Time to be defined
+2024-10-27T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Sevilla,Time to be defined
+2024-11-03T00:00:00+00:00,2024,La Liga,Spain,Barcelona,,,Espanyol,Time to be defined
+2024-11-10T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Valencia,Time to be defined
+2024-11-24T00:00:00+00:00,2024,La Liga,Spain,Girona,,,Espanyol,Time to be defined
+2024-12-01T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Celta Vigo,Time to be defined
+2024-12-08T00:00:00+00:00,2024,La Liga,Spain,Getafe,,,Espanyol,Time to be defined
+2024-12-15T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Osasuna,Time to be defined
+2024-12-22T00:00:00+00:00,2024,La Liga,Spain,Las Palmas,,,Espanyol,Time to be defined
+2025-01-11T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Leganes,Time to be defined
+2025-01-19T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Valladolid,Time to be defined
+2025-01-26T00:00:00+00:00,2024,La Liga,Spain,Sevilla,,,Espanyol,Time to be defined
+2025-02-02T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Real Madrid,Time to be defined
+2025-02-09T00:00:00+00:00,2024,La Liga,Spain,Real Sociedad,,,Espanyol,Time to be defined
+2025-02-16T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Athletic Club,Time to be defined
+2025-02-23T00:00:00+00:00,2024,La Liga,Spain,Alaves,,,Espanyol,Time to be defined
+2025-03-02T00:00:00+00:00,2024,La Liga,Spain,Villarreal,,,Espanyol,Time to be defined
+2025-03-09T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Girona,Time to be defined
+2025-03-16T00:00:00+00:00,2024,La Liga,Spain,Mallorca,,,Espanyol,Time to be defined
+2025-03-30T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Atletico Madrid,Time to be defined
+2025-04-06T00:00:00+00:00,2024,La Liga,Spain,Rayo Vallecano,,,Espanyol,Time to be defined
+2025-04-13T00:00:00+00:00,2024,La Liga,Spain,Celta Vigo,,,Espanyol,Time to be defined
+2025-04-20T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Getafe,Time to be defined
+2025-04-23T00:00:00+00:00,2024,La Liga,Spain,Valencia,,,Espanyol,Time to be defined
+2025-05-04T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Real Betis,Time to be defined
+2025-05-11T00:00:00+00:00,2024,La Liga,Spain,Leganes,,,Espanyol,Time to be defined
+2025-05-14T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Barcelona,Time to be defined
+2025-05-18T00:00:00+00:00,2024,La Liga,Spain,Osasuna,,,Espanyol,Time to be defined
+2025-05-25T00:00:00+00:00,2024,La Liga,Spain,Espanyol,,,Las Palmas,Time to be defined

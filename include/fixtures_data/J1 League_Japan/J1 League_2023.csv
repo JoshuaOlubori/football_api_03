@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-02-17T10:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,1,2,Yokohama F. Marinos,Match Finished
+2023-02-18T06:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,2,2,Gamba Osaka,Match Finished
+2023-02-18T05:00:00+00:00,2023,J1 League,Japan,FC Tokyo,2,0,Urawa,Match Finished
+2023-02-18T05:00:00+00:00,2023,J1 League,Japan,Yokohama FC,0,1,Nagoya Grampus,Match Finished
+2023-02-18T05:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,0,2,Kashima,Match Finished
+2023-02-18T05:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,2,2,Albirex Niigata,Match Finished
+2023-02-18T05:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,1,0,Avispa Fukuoka,Match Finished
+2023-02-18T05:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,0,0,Consadole Sapporo,Match Finished
+2023-02-18T06:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,1,5,Shonan Bellmare,Match Finished
+2023-02-24T10:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,2,2,Yokohama FC,Match Finished
+2023-02-25T05:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,2,0,Urawa,Match Finished
+2023-02-25T06:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,1,3,Vissel Kobe,Match Finished
+2023-02-25T06:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,1,1,Sagan Tosu,Match Finished
+2023-02-25T06:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,2,1,Cerezo Osaka,Match Finished
+2023-02-25T07:00:00+00:00,2023,J1 League,Japan,Kashima,1,2,Kawasaki Frontale,Match Finished
+2023-02-25T07:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,1,0,Kyoto Sanga,Match Finished
+2023-02-26T05:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,1,2,Albirex Niigata,Match Finished
+2023-02-26T06:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,1,1,FC Tokyo,Match Finished
+2023-03-03T10:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,1,1,Sanfrecce Hiroshima,Match Finished
+2023-03-04T04:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,1,1,Shonan Bellmare,Match Finished
+2023-03-04T05:00:00+00:00,2023,J1 League,Japan,Yokohama FC,1,3,Kashima,Match Finished
+2023-03-04T05:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,2,2,Consadole Sapporo,Match Finished
+2023-03-04T05:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,2,0,FC Tokyo,Match Finished
+2023-03-04T05:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,4,0,Gamba Osaka,Match Finished
+2023-03-04T06:00:00+00:00,2023,J1 League,Japan,Urawa,2,1,Cerezo Osaka,Match Finished
+2023-03-04T06:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,1,0,Kashiwa Reysol,Match Finished
+2023-03-04T06:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,1,0,Nagoya Grampus,Match Finished
+2023-03-11T05:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,1,0,Kawasaki Frontale,Match Finished
+2023-03-11T05:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,0,1,Urawa,Match Finished
+2023-03-12T05:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,2,1,Sagan Tosu,Match Finished
+2023-03-12T06:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,2,0,Yokohama F. Marinos,Match Finished
+2023-03-12T06:00:00+00:00,2023,J1 League,Japan,Kashima,0,0,Avispa Fukuoka,Match Finished
+2023-03-12T06:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,0,3,Nagoya Grampus,Match Finished
+2023-03-12T06:00:00+00:00,2023,J1 League,Japan,FC Tokyo,3,1,Yokohama FC,Match Finished
+2023-03-12T06:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,0,2,Kyoto Sanga,Match Finished
+2023-03-12T07:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,1,2,Sanfrecce Hiroshima,Match Finished
+2023-03-18T05:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,2,1,Kashima,Match Finished
+2023-03-18T05:00:00+00:00,2023,J1 League,Japan,Yokohama FC,1,4,Kyoto Sanga,Match Finished
+2023-03-18T05:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,0,0,FC Tokyo,Match Finished
+2023-03-18T06:00:00+00:00,2023,J1 League,Japan,Urawa,2,1,Albirex Niigata,Match Finished
+2023-03-18T06:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,2,2,Consadole Sapporo,Match Finished
+2023-03-18T06:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,0,1,Vissel Kobe,Match Finished
+2023-03-18T07:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,0,0,Cerezo Osaka,Match Finished
+2023-03-19T05:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,1,0,Kashiwa Reysol,Match Finished
+2023-03-19T05:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,2,1,Shonan Bellmare,Match Finished
+2023-03-31T10:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,0,3,Urawa,Match Finished
+2023-04-01T05:00:00+00:00,2023,J1 League,Japan,Yokohama FC,1,1,Avispa Fukuoka,Match Finished
+2023-04-01T05:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,1,3,Nagoya Grampus,Match Finished
+2023-04-01T05:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,0,3,Vissel Kobe,Match Finished
+2023-04-01T06:00:00+00:00,2023,J1 League,Japan,Kashima,1,2,Sanfrecce Hiroshima,Match Finished
+2023-04-01T06:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,4,1,Gamba Osaka,Match Finished
+2023-04-01T06:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,1,0,FC Tokyo,Match Finished
+2023-04-01T07:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,2,1,Yokohama F. Marinos,Match Finished
+2023-04-01T10:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,3,4,Kawasaki Frontale,Match Finished
+2023-04-08T10:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,5,0,Yokohama FC,Match Finished
+2023-04-09T05:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,2,3,Consadole Sapporo,Match Finished
+2023-04-09T05:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,0,0,Albirex Niigata,Match Finished
+2023-04-09T05:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,1,0,Sagan Tosu,Match Finished
+2023-04-09T06:00:00+00:00,2023,J1 League,Japan,FC Tokyo,2,2,Shonan Bellmare,Match Finished
+2023-04-09T06:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,0,0,Urawa,Match Finished
+2023-04-09T06:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,2,0,Kawasaki Frontale,Match Finished
+2023-04-09T06:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,2,1,Kyoto Sanga,Match Finished
+2023-04-09T10:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,1,0,Kashima,Match Finished
+2023-04-15T05:00:00+00:00,2023,J1 League,Japan,Yokohama FC,0,3,Sanfrecce Hiroshima,Match Finished
+2023-04-15T05:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,3,2,Avispa Fukuoka,Match Finished
+2023-04-15T06:00:00+00:00,2023,J1 League,Japan,Urawa,4,1,Consadole Sapporo,Match Finished
+2023-04-15T06:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,1,2,Nagoya Grampus,Match Finished
+2023-04-15T06:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,1,1,Yokohama F. Marinos,Match Finished
+2023-04-15T06:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,1,1,Kashiwa Reysol,Match Finished
+2023-04-15T07:00:00+00:00,2023,J1 League,Japan,Kashima,1,5,Vissel Kobe,Match Finished
+2023-04-15T07:00:00+00:00,2023,J1 League,Japan,FC Tokyo,1,2,Cerezo Osaka,Match Finished
+2023-04-15T07:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,2,1,Gamba Osaka,Match Finished
+2023-04-22T05:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,1,2,FC Tokyo,Match Finished
+2023-04-22T10:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,2,3,Yokohama F. Marinos,Match Finished
+2023-04-23T05:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,2,2,Avispa Fukuoka,Match Finished
+2023-04-23T05:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,0,2,Kashima,Match Finished
+2023-04-23T05:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,2,3,Sagan Tosu,Match Finished
+2023-04-23T05:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,1,0,Kashiwa Reysol,Match Finished
+2023-04-23T06:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,2,2,Shonan Bellmare,Match Finished
+2023-04-23T07:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,1,1,Urawa,Match Finished
+2023-04-23T07:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,1,1,Yokohama FC,Match Finished
+2023-04-29T05:00:00+00:00,2023,J1 League,Japan,Yokohama FC,1,4,Consadole Sapporo,Match Finished
+2023-04-29T05:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,0,1,Sanfrecce Hiroshima,Match Finished
+2023-04-29T05:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,2,0,Shonan Bellmare,Match Finished
+2023-04-29T06:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,1,1,Kyoto Sanga,Match Finished
+2023-04-29T06:00:00+00:00,2023,J1 League,Japan,FC Tokyo,2,1,Albirex Niigata,Match Finished
+2023-04-29T06:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,1,1,Nagoya Grampus,Match Finished
+2023-04-29T08:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,1,3,Kawasaki Frontale,Match Finished
+2023-04-29T10:00:00+00:00,2023,J1 League,Japan,Kashima,4,0,Gamba Osaka,Match Finished
+2023-05-10T10:30:00+00:00,2023,J1 League,Japan,Urawa,0,2,Sagan Tosu,Match Finished
+2023-05-03T05:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,0,1,Kashima,Match Finished
+2023-05-03T05:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,0,1,Kawasaki Frontale,Match Finished
+2023-05-03T05:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,1,2,Cerezo Osaka,Match Finished
+2023-05-03T06:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,1,2,Kashiwa Reysol,Match Finished
+2023-05-03T06:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,2,2,Vissel Kobe,Match Finished
+2023-05-03T06:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,1,0,FC Tokyo,Match Finished
+2023-05-03T06:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,1,3,Yokohama F. Marinos,Match Finished
+2023-05-03T10:00:00+00:00,2023,J1 League,Japan,Yokohama FC,1,0,Albirex Niigata,Match Finished
+2023-05-31T10:30:00+00:00,2023,J1 League,Japan,Urawa,2,1,Sanfrecce Hiroshima,Match Finished
+2023-05-06T05:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,5,1,FC Tokyo,Match Finished
+2023-05-06T10:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,1,0,Gamba Osaka,Match Finished
+2023-05-07T04:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,3,1,Avispa Fukuoka,Match Finished
+2023-05-07T05:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,4,1,Kyoto Sanga,Match Finished
+2023-05-07T05:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,0,0,Kashiwa Reysol,Match Finished
+2023-05-07T05:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,0,1,Kashima,Match Finished
+2023-05-07T05:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,3,0,Yokohama FC,Match Finished
+2023-05-07T06:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,1,0,Sagan Tosu,Match Finished
+2023-06-28T10:30:00+00:00,2023,J1 League,Japan,Urawa,4,1,Shonan Bellmare,Match Finished
+2023-05-12T10:30:00+00:00,2023,J1 League,Japan,FC Tokyo,2,1,Kawasaki Frontale,Match Finished
+2023-05-13T05:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,2,0,Sanfrecce Hiroshima,Match Finished
+2023-05-13T06:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,2,4,Consadole Sapporo,Match Finished
+2023-05-13T07:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,0,1,Yokohama FC,Match Finished
+2023-05-14T04:30:00+00:00,2023,J1 League,Japan,Kashima,2,0,Nagoya Grampus,Match Finished
+2023-05-14T04:30:00+00:00,2023,J1 League,Japan,Albirex Niigata,2,1,Yokohama F. Marinos,Match Finished
+2023-05-14T04:30:00+00:00,2023,J1 League,Japan,Kyoto Sanga,0,1,Cerezo Osaka,Match Finished
+2023-05-14T04:30:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,0,0,Sagan Tosu,Match Finished
+2023-05-14T07:00:00+00:00,2023,J1 League,Japan,Urawa,3,1,Gamba Osaka,Match Finished
+2023-05-19T10:30:00+00:00,2023,J1 League,Japan,Consadole Sapporo,2,1,Kyoto Sanga,Match Finished
+2023-05-20T04:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,0,0,Urawa,Match Finished
+2023-05-20T06:00:00+00:00,2023,J1 League,Japan,Kashima,1,1,FC Tokyo,Match Finished
+2023-05-20T06:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,0,2,Cerezo Osaka,Match Finished
+2023-05-20T06:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,2,1,Sanfrecce Hiroshima,Match Finished
+2023-05-20T07:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,1,1,Vissel Kobe,Match Finished
+2023-05-20T07:00:00+00:00,2023,J1 League,Japan,Yokohama FC,2,1,Kawasaki Frontale,Match Finished
+2023-05-20T08:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,2,0,Albirex Niigata,Match Finished
+2023-05-20T10:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,0,2,Yokohama F. Marinos,Match Finished
+2023-05-27T04:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,1,2,Nagoya Grampus,Match Finished
+2023-05-27T05:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,3,2,FC Tokyo,Match Finished
+2023-05-27T05:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,1,0,Shonan Bellmare,Match Finished
+2023-05-27T08:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,2,2,Kashima,Match Finished
+2023-05-27T10:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,0,2,Urawa,Match Finished
+2023-05-28T05:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,2,0,Avispa Fukuoka,Match Finished
+2023-05-28T05:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,1,3,Gamba Osaka,Match Finished
+2023-05-28T05:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,2,0,Yokohama FC,Match Finished
+2023-05-28T08:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,2,0,Kashiwa Reysol,Match Finished
+2023-07-22T10:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,2,2,Kawasaki Frontale,Match Finished
+2023-06-03T06:00:00+00:00,2023,J1 League,Japan,FC Tokyo,2,3,Yokohama F. Marinos,Match Finished
+2023-06-03T06:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,2,2,Albirex Niigata,Match Finished
+2023-06-03T07:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,3,1,Cerezo Osaka,Match Finished
+2023-06-03T09:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,1,2,Gamba Osaka,Match Finished
+2023-06-03T09:30:00+00:00,2023,J1 League,Japan,Yokohama FC,1,2,Sagan Tosu,Match Finished
+2023-06-03T10:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,4,5,Consadole Sapporo,Match Finished
+2023-06-04T05:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,3,1,Kyoto Sanga,Match Finished
+2023-06-04T08:00:00+00:00,2023,J1 League,Japan,Urawa,0,0,Kashima,Match Finished
+2023-06-10T07:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,4,3,Kashiwa Reysol,Match Finished
+2023-06-10T10:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,2,1,Vissel Kobe,Match Finished
+2023-06-10T10:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,1,1,Consadole Sapporo,Match Finished
+2023-06-11T05:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,1,3,Kyoto Sanga,Match Finished
+2023-06-11T07:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,2,1,Avispa Fukuoka,Match Finished
+2023-06-11T09:00:00+00:00,2023,J1 League,Japan,Kashima,1,0,Shonan Bellmare,Match Finished
+2023-06-11T09:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,3,1,FC Tokyo,Match Finished
+2023-06-11T09:30:00+00:00,2023,J1 League,Japan,Yokohama FC,0,0,Urawa,Match Finished
+2023-06-11T10:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,1,0,Sanfrecce Hiroshima,Match Finished
+2023-06-24T05:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,1,4,Cerezo Osaka,Match Finished
+2023-06-24T10:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,0,0,Albirex Niigata,Match Finished
+2023-06-24T10:00:00+00:00,2023,J1 League,Japan,FC Tokyo,2,0,Nagoya Grampus,Match Finished
+2023-06-24T10:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,0,6,Sagan Tosu,Match Finished
+2023-06-24T10:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,2,1,Yokohama FC,Match Finished
+2023-06-24T10:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,2,1,Kashima,Match Finished
+2023-06-24T10:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,0,1,Yokohama F. Marinos,Match Finished
+2023-06-24T10:30:00+00:00,2023,J1 League,Japan,Urawa,1,1,Kawasaki Frontale,Match Finished
+2023-06-25T10:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,0,3,Vissel Kobe,Match Finished
+2023-06-30T10:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,0,1,Avispa Fukuoka,Match Finished
+2023-07-01T09:00:00+00:00,2023,J1 League,Japan,Kashima,0,0,Kyoto Sanga,Match Finished
+2023-07-01T09:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,2,0,Sanfrecce Hiroshima,Match Finished
+2023-07-01T09:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,2,0,Kawasaki Frontale,Match Finished
+2023-07-01T09:30:00+00:00,2023,J1 League,Japan,Yokohama FC,0,0,Gamba Osaka,Match Finished
+2023-07-01T10:00:00+00:00,2023,J1 League,Japan,FC Tokyo,1,0,Kashiwa Reysol,Match Finished
+2023-07-01T10:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,1,1,Consadole Sapporo,Match Finished
+2023-07-01T10:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,1,2,Urawa,Match Finished
+2023-07-02T10:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,4,1,Shonan Bellmare,Match Finished
+2023-07-07T10:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,0,1,Vissel Kobe,Match Finished
+2023-07-08T09:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,2,2,Yokohama F. Marinos,Match Finished
+2023-07-08T09:30:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,1,1,Kashima,Match Finished
+2023-07-08T10:00:00+00:00,2023,J1 League,Japan,Urawa,0,0,FC Tokyo,Match Finished
+2023-07-08T10:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,1,1,Shonan Bellmare,Match Finished
+2023-07-08T10:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,3,0,Yokohama FC,Match Finished
+2023-07-08T10:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,1,0,Kyoto Sanga,Match Finished
+2023-07-08T10:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,2,1,Consadole Sapporo,Match Finished
+2023-07-08T10:30:00+00:00,2023,J1 League,Japan,Sagan Tosu,2,1,Cerezo Osaka,Match Finished
+2023-07-15T04:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,0,1,Albirex Niigata,Match Finished
+2023-07-15T10:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,0,1,Kawasaki Frontale,Match Finished
+2023-07-16T09:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,1,1,Yokohama FC,Match Finished
+2023-07-16T10:00:00+00:00,2023,J1 League,Japan,FC Tokyo,1,3,Kashima,Match Finished
+2023-07-16T10:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,0,1,Avispa Fukuoka,Match Finished
+2023-07-16T10:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,2,1,Nagoya Grampus,Match Finished
+2023-07-16T10:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,3,1,Kashiwa Reysol,Match Finished
+2023-07-16T10:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,2,0,Urawa,Match Finished
+2023-07-16T10:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,2,1,Sagan Tosu,Match Finished
+2023-08-05T10:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,1,0,Sanfrecce Hiroshima,Match Finished
+2023-08-05T10:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,1,0,Albirex Niigata,Match Finished
+2023-08-06T09:00:00+00:00,2023,J1 League,Japan,Kashima,3,0,Consadole Sapporo,Match Finished
+2023-08-06T09:30:00+00:00,2023,J1 League,Japan,Yokohama FC,2,0,Vissel Kobe,Match Finished
+2023-08-06T10:00:00+00:00,2023,J1 League,Japan,Urawa,0,0,Yokohama F. Marinos,Match Finished
+2023-08-06T10:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,3,4,Gamba Osaka,Match Finished
+2023-08-06T10:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,0,1,Kashiwa Reysol,Match Finished
+2023-08-06T10:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,0,1,FC Tokyo,Match Finished
+2023-08-06T10:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,0,1,Avispa Fukuoka,Match Finished
+2023-08-12T05:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,1,1,Sagan Tosu,Match Finished
+2023-08-12T09:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,2,2,Shonan Bellmare,Match Finished
+2023-08-12T10:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,1,1,Cerezo Osaka,Match Finished
+2023-08-12T10:00:00+00:00,2023,J1 League,Japan,FC Tokyo,2,0,Kyoto Sanga,Match Finished
+2023-08-12T10:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,0,1,Vissel Kobe,Match Finished
+2023-08-12T10:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,2,0,Yokohama FC,Match Finished
+2023-08-12T10:30:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,2,1,Gamba Osaka,Match Finished
+2023-08-13T09:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,1,0,Kashima,Match Finished
+2023-08-13T09:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,2,1,Urawa,Match Finished
+2023-08-18T10:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,0,1,Albirex Niigata,Match Finished
+2023-08-19T09:00:00+00:00,2023,J1 League,Japan,Kashima,2,1,Sagan Tosu,Match Finished
+2023-08-18T10:30:00+00:00,2023,J1 League,Japan,Urawa,1,0,Nagoya Grampus,Match Finished
+2023-08-19T10:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,3,0,Consadole Sapporo,Match Finished
+2023-08-19T10:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,2,1,Shonan Bellmare,Match Finished
+2023-08-19T10:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,1,1,Kashiwa Reysol,Match Finished
+2023-08-19T10:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,3,2,Kawasaki Frontale,Match Finished
+2023-08-19T10:30:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,2,1,FC Tokyo,Match Finished
+2023-08-20T09:30:00+00:00,2023,J1 League,Japan,Yokohama FC,0,1,Cerezo Osaka,Match Finished
+2023-08-25T10:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,0,1,Urawa,Match Finished
+2023-08-26T09:00:00+00:00,2023,J1 League,Japan,Kashima,2,0,Albirex Niigata,Match Finished
+2023-08-26T09:30:00+00:00,2023,J1 League,Japan,Yokohama FC,4,1,Yokohama F. Marinos,Match Finished
+2023-08-26T10:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,0,0,Sanfrecce Hiroshima,Match Finished
+2023-08-26T10:00:00+00:00,2023,J1 League,Japan,FC Tokyo,2,2,Vissel Kobe,Match Finished
+2023-08-26T10:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,2,2,Consadole Sapporo,Match Finished
+2023-08-26T10:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,2,0,Avispa Fukuoka,Match Finished
+2023-08-26T10:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,3,1,Nagoya Grampus,Match Finished
+2023-08-26T10:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,1,1,Gamba Osaka,Match Finished
+2023-09-02T04:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,4,0,Gamba Osaka,Match Finished
+2023-09-02T10:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,2,0,Yokohama F. Marinos,Match Finished
+2023-09-03T10:00:00+00:00,2023,J1 League,Japan,FC Tokyo,1,2,Avispa Fukuoka,Match Finished
+2023-09-02T10:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,2,2,Kashima,Match Finished
+2023-09-02T09:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,1,1,Urawa,Match Finished
+2023-09-02T09:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,1,1,Yokohama FC,Match Finished
+2023-09-02T10:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,3,0,Kawasaki Frontale,Match Finished
+2023-09-03T10:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,2,1,Kyoto Sanga,Match Finished
+2023-09-02T10:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,0,2,Sanfrecce Hiroshima,Match Finished
+2023-09-16T10:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,0,1,Shonan Bellmare,Match Finished
+2023-09-16T09:00:00+00:00,2023,J1 League,Japan,Kashima,1,0,Cerezo Osaka,Match Finished
+2023-09-15T10:30:00+00:00,2023,J1 League,Japan,Urawa,0,0,Kyoto Sanga,Match Finished
+2023-09-15T10:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,1,0,FC Tokyo,Match Finished
+2023-09-15T10:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,1,1,Sagan Tosu,Match Finished
+2023-09-17T09:30:00+00:00,2023,J1 League,Japan,Yokohama FC,1,2,Kashiwa Reysol,Match Finished
+2023-09-17T10:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,1,1,Albirex Niigata,Match Finished
+2023-09-16T10:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,2,0,Vissel Kobe,Match Finished
+2023-09-16T10:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,1,0,Nagoya Grampus,Match Finished
+2023-09-24T06:00:00+00:00,2023,J1 League,Japan,Kashima,1,2,Yokohama F. Marinos,Match Finished
+2023-09-23T10:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,1,3,Avispa Fukuoka,Match Finished
+2023-09-23T06:00:00+00:00,2023,J1 League,Japan,FC Tokyo,3,2,Sagan Tosu,Match Finished
+2023-09-24T07:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,0,2,Kawasaki Frontale,Match Finished
+2023-09-23T05:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,3,1,Yokohama FC,Match Finished
+2023-09-23T07:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,1,1,Consadole Sapporo,Match Finished
+2023-09-23T10:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,1,0,Sanfrecce Hiroshima,Match Finished
+2023-09-24T08:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,1,3,Urawa,Match Finished
+2023-09-23T10:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,1,0,Cerezo Osaka,Match Finished
+2023-09-30T04:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,1,2,Kashiwa Reysol,Match Finished
+2023-09-29T10:30:00+00:00,2023,J1 League,Japan,Urawa,1,1,Yokohama FC,Match Finished
+2023-10-01T06:00:00+00:00,2023,J1 League,Japan,FC Tokyo,3,0,Gamba Osaka,Match Finished
+2023-09-29T10:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,2,3,Albirex Niigata,Match Finished
+2023-09-29T10:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,0,2,Vissel Kobe,Match Finished
+2023-09-30T09:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,0,2,Shonan Bellmare,Match Finished
+2023-09-30T10:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,3,1,Nagoya Grampus,Match Finished
+2023-09-30T06:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,0,0,Kashima,Match Finished
+2023-09-30T10:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,3,2,Kyoto Sanga,Match Finished
+2023-10-20T10:30:00+00:00,2023,J1 League,Japan,Urawa,2,0,Kashiwa Reysol,Match Finished
+2023-10-20T10:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,4,2,Avispa Fukuoka,Match Finished
+2023-10-21T05:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,4,1,Consadole Sapporo,Match Finished
+2023-10-21T05:00:00+00:00,2023,J1 League,Japan,Yokohama FC,1,0,FC Tokyo,Match Finished
+2023-10-21T04:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,1,1,Sagan Tosu,Match Finished
+2023-10-21T06:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,0,1,Shonan Bellmare,Match Finished
+2023-10-21T05:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,0,1,Nagoya Grampus,Match Finished
+2023-10-21T05:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,3,1,Kashima,Match Finished
+2023-10-21T07:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,0,0,Cerezo Osaka,Match Finished
+2023-10-28T04:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,2,1,Yokohama FC,Match Finished
+2023-10-28T05:00:00+00:00,2023,J1 League,Japan,Kashima,0,0,Urawa,Match Finished
+2023-10-29T06:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,1,1,Kawasaki Frontale,Match Finished
+2023-10-28T06:00:00+00:00,2023,J1 League,Japan,FC Tokyo,1,2,Sanfrecce Hiroshima,Match Finished
+2023-10-28T05:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,1,1,Vissel Kobe,Match Finished
+2023-10-27T10:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,1,1,Sagan Tosu,Match Finished
+2023-10-28T05:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,0,1,Albirex Niigata,Match Finished
+2023-10-28T05:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,1,0,Gamba Osaka,Match Finished
+2023-10-28T05:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,0,4,Yokohama F. Marinos,Match Finished
+2023-11-11T05:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,0,0,Sanfrecce Hiroshima,Match Finished
+2023-11-11T06:00:00+00:00,2023,J1 League,Japan,Kashima,1,1,Kashiwa Reysol,Match Finished
+2023-11-12T06:00:00+00:00,2023,J1 League,Japan,Urawa,1,2,Vissel Kobe,Match Finished
+2023-11-12T05:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,3,3,Kyoto Sanga,Match Finished
+2023-11-12T05:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,2,0,Cerezo Osaka,Match Finished
+2023-11-11T05:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,2,1,Nagoya Grampus,Match Finished
+2023-11-11T05:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,0,0,FC Tokyo,Match Finished
+2023-11-11T06:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,1,2,Avispa Fukuoka,Match Finished
+2023-11-11T06:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,1,3,Yokohama FC,Match Finished
+2023-11-25T05:00:00+00:00,2023,J1 League,Japan,Urawa,2,3,Avispa Fukuoka,Match Finished
+2023-11-25T05:00:00+00:00,2023,J1 League,Japan,Kashiwa Reysol,2,2,Sagan Tosu,Match Finished
+2023-11-25T05:00:00+00:00,2023,J1 League,Japan,FC Tokyo,1,3,Consadole Sapporo,Match Finished
+2023-11-24T10:00:00+00:00,2023,J1 League,Japan,Kawasaki Frontale,3,0,Kashima,Match Finished
+2023-11-24T10:00:00+00:00,2023,J1 League,Japan,Yokohama F. Marinos,0,0,Albirex Niigata,Match Finished
+2023-11-25T05:00:00+00:00,2023,J1 League,Japan,Yokohama FC,0,1,Shonan Bellmare,Match Finished
+2023-11-25T05:00:00+00:00,2023,J1 League,Japan,Cerezo Osaka,0,1,Kyoto Sanga,Match Finished
+2023-11-25T05:00:00+00:00,2023,J1 League,Japan,Vissel Kobe,2,1,Nagoya Grampus,Match Finished
+2023-11-25T05:00:00+00:00,2023,J1 League,Japan,Sanfrecce Hiroshima,3,0,Gamba Osaka,Match Finished
+2023-12-03T05:00:00+00:00,2023,J1 League,Japan,Consadole Sapporo,0,2,Urawa,Match Finished
+2023-12-03T05:00:00+00:00,2023,J1 League,Japan,Kashima,2,1,Yokohama FC,Match Finished
+2023-12-03T05:00:00+00:00,2023,J1 League,Japan,Shonan Bellmare,0,1,FC Tokyo,Match Finished
+2023-12-03T05:00:00+00:00,2023,J1 League,Japan,Albirex Niigata,1,0,Cerezo Osaka,Match Finished
+2023-12-03T05:00:00+00:00,2023,J1 League,Japan,Nagoya Grampus,1,1,Kashiwa Reysol,Match Finished
+2023-12-03T05:00:00+00:00,2023,J1 League,Japan,Kyoto Sanga,3,1,Yokohama F. Marinos,Match Finished
+2023-12-03T05:00:00+00:00,2023,J1 League,Japan,Gamba Osaka,0,1,Vissel Kobe,Match Finished
+2023-12-03T05:00:00+00:00,2023,J1 League,Japan,Avispa Fukuoka,0,1,Sanfrecce Hiroshima,Match Finished
+2023-12-03T05:00:00+00:00,2023,J1 League,Japan,Sagan Tosu,0,1,Kawasaki Frontale,Match Finished

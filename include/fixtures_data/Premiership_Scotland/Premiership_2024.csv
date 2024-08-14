@@ -1,0 +1,199 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-03T11:30:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,0,0,Rangers,Match Finished
+2024-08-03T14:00:00+00:00,2024,Premiership,Scotland,Motherwell,0,0,Ross County,Match Finished
+2024-08-04T12:30:00+00:00,2024,Premiership,Scotland,Dundee Utd,2,2,Dundee,Match Finished
+2024-08-04T14:00:00+00:00,2024,Premiership,Scotland,ST Mirren,3,0,Hibernian,Match Finished
+2024-08-04T15:30:00+00:00,2024,Premiership,Scotland,Celtic,4,0,Kilmarnock,Match Finished
+2024-08-05T19:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,1,2,Aberdeen,Match Finished
+2024-08-11T14:00:00+00:00,2024,Premiership,Scotland,Aberdeen,3,1,ST Mirren,Match Finished
+2024-08-11T14:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,0,3,ST Johnstone,Match Finished
+2024-08-10T14:00:00+00:00,2024,Premiership,Scotland,Rangers,2,1,Motherwell,Match Finished
+2024-08-10T14:00:00+00:00,2024,Premiership,Scotland,Ross County,1,1,Dundee Utd,Match Finished
+2024-08-10T16:30:00+00:00,2024,Premiership,Scotland,Dundee,3,1,Heart Of Midlothian,Match Finished
+2024-08-11T11:30:00+00:00,2024,Premiership,Scotland,Hibernian,0,2,Celtic,Match Finished
+2024-08-24T14:00:00+00:00,2024,Premiership,Scotland,Aberdeen,,,Kilmarnock,Not Started
+2024-08-24T14:00:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,ST Johnstone,Not Started
+2024-08-24T14:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,Dundee,Not Started
+2024-08-25T14:00:00+00:00,2024,Premiership,Scotland,Motherwell,,,Heart Of Midlothian,Not Started
+2024-08-24T14:00:00+00:00,2024,Premiership,Scotland,Rangers,,,Ross County,Not Started
+2024-08-25T11:00:00+00:00,2024,Premiership,Scotland,ST Mirren,,,Celtic,Not Started
+2024-09-01T11:30:00+00:00,2024,Premiership,Scotland,Celtic,,,Rangers,Not Started
+2024-08-31T14:00:00+00:00,2024,Premiership,Scotland,Dundee,,,ST Mirren,Not Started
+2024-09-01T14:00:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,Dundee Utd,Not Started
+2024-08-31T14:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,Hibernian,Not Started
+2024-08-31T16:45:00+00:00,2024,Premiership,Scotland,Ross County,,,Aberdeen,Not Started
+2024-08-31T14:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,Motherwell,Not Started
+2024-09-14T14:00:00+00:00,2024,Premiership,Scotland,Aberdeen,,,Motherwell,Not Started
+2024-09-14T14:00:00+00:00,2024,Premiership,Scotland,Celtic,,,Heart Of Midlothian,Not Started
+2024-09-14T14:00:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,Rangers,Not Started
+2024-09-14T14:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,ST Johnstone,Not Started
+2024-09-14T14:00:00+00:00,2024,Premiership,Scotland,Ross County,,,Dundee,Not Started
+2024-09-14T14:00:00+00:00,2024,Premiership,Scotland,ST Mirren,,,Kilmarnock,Not Started
+2024-09-28T14:00:00+00:00,2024,Premiership,Scotland,Dundee,,,Aberdeen,Not Started
+2024-09-28T14:00:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,Ross County,Not Started
+2024-09-28T14:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,Dundee Utd,Not Started
+2024-09-28T14:00:00+00:00,2024,Premiership,Scotland,Motherwell,,,ST Mirren,Not Started
+2024-09-28T14:00:00+00:00,2024,Premiership,Scotland,Rangers,,,Hibernian,Not Started
+2024-09-28T14:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,Celtic,Not Started
+2024-10-05T14:00:00+00:00,2024,Premiership,Scotland,Aberdeen,,,Heart Of Midlothian,Not Started
+2024-10-05T14:00:00+00:00,2024,Premiership,Scotland,Dundee,,,Kilmarnock,Not Started
+2024-10-05T14:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,Motherwell,Not Started
+2024-10-05T14:00:00+00:00,2024,Premiership,Scotland,Rangers,,,ST Johnstone,Not Started
+2024-10-05T14:00:00+00:00,2024,Premiership,Scotland,Ross County,,,Celtic,Not Started
+2024-10-05T14:00:00+00:00,2024,Premiership,Scotland,ST Mirren,,,Dundee Utd,Not Started
+2024-10-19T14:00:00+00:00,2024,Premiership,Scotland,Celtic,,,Aberdeen,Not Started
+2024-10-19T14:00:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,Hibernian,Not Started
+2024-10-19T14:00:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,ST Mirren,Not Started
+2024-10-19T14:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,Rangers,Not Started
+2024-10-19T14:00:00+00:00,2024,Premiership,Scotland,Motherwell,,,Dundee,Not Started
+2024-10-19T14:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,Ross County,Not Started
+2024-10-26T14:00:00+00:00,2024,Premiership,Scotland,Aberdeen,,,Dundee Utd,Not Started
+2024-10-26T14:00:00+00:00,2024,Premiership,Scotland,Dundee,,,ST Johnstone,Not Started
+2024-10-26T14:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,Heart Of Midlothian,Not Started
+2024-10-26T14:00:00+00:00,2024,Premiership,Scotland,Motherwell,,,Celtic,Not Started
+2024-10-26T14:00:00+00:00,2024,Premiership,Scotland,Rangers,,,ST Mirren,Not Started
+2024-10-26T14:00:00+00:00,2024,Premiership,Scotland,Ross County,,,Kilmarnock,Not Started
+2024-10-30T19:45:00+00:00,2024,Premiership,Scotland,Aberdeen,,,Rangers,Not Started
+2024-10-30T19:45:00+00:00,2024,Premiership,Scotland,Celtic,,,Dundee,Not Started
+2024-10-30T19:45:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,Motherwell,Not Started
+2024-10-30T19:45:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,Kilmarnock,Not Started
+2024-10-30T19:45:00+00:00,2024,Premiership,Scotland,Ross County,,,Hibernian,Not Started
+2024-10-30T19:45:00+00:00,2024,Premiership,Scotland,ST Mirren,,,ST Johnstone,Not Started
+2024-11-02T15:00:00+00:00,2024,Premiership,Scotland,Celtic,,,Dundee Utd,Not Started
+2024-11-02T15:00:00+00:00,2024,Premiership,Scotland,Dundee,,,Rangers,Not Started
+2024-11-02T15:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,Aberdeen,Not Started
+2024-11-02T15:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,Motherwell,Not Started
+2024-11-02T15:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,Heart Of Midlothian,Not Started
+2024-11-02T15:00:00+00:00,2024,Premiership,Scotland,ST Mirren,,,Ross County,Not Started
+2024-11-09T15:00:00+00:00,2024,Premiership,Scotland,Aberdeen,,,Dundee,Not Started
+2024-11-09T15:00:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,Ross County,Not Started
+2024-11-09T15:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,ST Mirren,Not Started
+2024-11-09T15:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,Celtic,Not Started
+2024-11-09T15:00:00+00:00,2024,Premiership,Scotland,Motherwell,,,ST Johnstone,Not Started
+2024-11-09T15:00:00+00:00,2024,Premiership,Scotland,Rangers,,,Heart Of Midlothian,Not Started
+2024-11-23T15:00:00+00:00,2024,Premiership,Scotland,Dundee,,,Hibernian,Not Started
+2024-11-23T15:00:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,Celtic,Not Started
+2024-11-23T15:00:00+00:00,2024,Premiership,Scotland,Rangers,,,Dundee Utd,Not Started
+2024-11-23T15:00:00+00:00,2024,Premiership,Scotland,Ross County,,,Motherwell,Not Started
+2024-11-23T15:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,Kilmarnock,Not Started
+2024-11-23T15:00:00+00:00,2024,Premiership,Scotland,ST Mirren,,,Aberdeen,Not Started
+2024-11-30T15:00:00+00:00,2024,Premiership,Scotland,Celtic,,,Ross County,Not Started
+2024-11-30T15:00:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,ST Mirren,Not Started
+2024-11-30T15:00:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,Aberdeen,Not Started
+2024-11-30T15:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,Dundee,Not Started
+2024-11-30T15:00:00+00:00,2024,Premiership,Scotland,Motherwell,,,Hibernian,Not Started
+2024-11-30T15:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,Rangers,Not Started
+2024-12-04T19:45:00+00:00,2024,Premiership,Scotland,Aberdeen,,,Celtic,Not Started
+2024-12-04T19:45:00+00:00,2024,Premiership,Scotland,Dundee,,,Motherwell,Not Started
+2024-12-04T19:45:00+00:00,2024,Premiership,Scotland,Hibernian,,,Dundee Utd,Not Started
+2024-12-04T19:45:00+00:00,2024,Premiership,Scotland,Rangers,,,Kilmarnock,Not Started
+2024-12-04T19:45:00+00:00,2024,Premiership,Scotland,Ross County,,,ST Johnstone,Not Started
+2024-12-04T19:45:00+00:00,2024,Premiership,Scotland,ST Mirren,,,Heart Of Midlothian,Not Started
+2024-12-07T15:00:00+00:00,2024,Premiership,Scotland,Aberdeen,,,ST Johnstone,Not Started
+2024-12-07T15:00:00+00:00,2024,Premiership,Scotland,Celtic,,,Hibernian,Not Started
+2024-12-07T15:00:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,Kilmarnock,Not Started
+2024-12-07T15:00:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,Dundee,Not Started
+2024-12-07T15:00:00+00:00,2024,Premiership,Scotland,Ross County,,,Rangers,Not Started
+2024-12-07T15:00:00+00:00,2024,Premiership,Scotland,ST Mirren,,,Motherwell,Not Started
+2024-12-14T15:00:00+00:00,2024,Premiership,Scotland,Dundee,,,Celtic,Not Started
+2024-12-14T15:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,Ross County,Not Started
+2024-12-14T15:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,Heart Of Midlothian,Not Started
+2024-12-14T15:00:00+00:00,2024,Premiership,Scotland,Motherwell,,,Dundee Utd,Not Started
+2024-12-14T15:00:00+00:00,2024,Premiership,Scotland,Rangers,,,Aberdeen,Not Started
+2024-12-14T15:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,ST Mirren,Not Started
+2024-12-21T15:00:00+00:00,2024,Premiership,Scotland,Aberdeen,,,Hibernian,Not Started
+2024-12-21T15:00:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,Celtic,Not Started
+2024-12-21T15:00:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,ST Johnstone,Not Started
+2024-12-21T15:00:00+00:00,2024,Premiership,Scotland,Motherwell,,,Kilmarnock,Not Started
+2024-12-21T15:00:00+00:00,2024,Premiership,Scotland,Rangers,,,Dundee,Not Started
+2024-12-21T15:00:00+00:00,2024,Premiership,Scotland,Ross County,,,ST Mirren,Not Started
+2024-12-26T12:30:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,Hibernian,Not Started
+2024-12-26T15:00:00+00:00,2024,Premiership,Scotland,Celtic,,,Motherwell,Not Started
+2024-12-26T15:00:00+00:00,2024,Premiership,Scotland,Dundee,,,Ross County,Not Started
+2024-12-26T15:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,Aberdeen,Not Started
+2024-12-26T15:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,Dundee Utd,Not Started
+2024-12-26T15:00:00+00:00,2024,Premiership,Scotland,ST Mirren,,,Rangers,Not Started
+2024-12-29T15:00:00+00:00,2024,Premiership,Scotland,Celtic,,,ST Johnstone,Not Started
+2024-12-29T15:00:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,Aberdeen,Not Started
+2024-12-29T15:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,Kilmarnock,Not Started
+2024-12-29T15:00:00+00:00,2024,Premiership,Scotland,Motherwell,,,Rangers,Not Started
+2024-12-29T15:00:00+00:00,2024,Premiership,Scotland,Ross County,,,Heart Of Midlothian,Not Started
+2024-12-29T15:00:00+00:00,2024,Premiership,Scotland,ST Mirren,,,Dundee,Not Started
+2025-01-02T15:00:00+00:00,2024,Premiership,Scotland,Aberdeen,,,Ross County,Not Started
+2025-01-02T15:00:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,Motherwell,Not Started
+2025-01-02T15:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,ST Mirren,Not Started
+2025-01-02T15:00:00+00:00,2024,Premiership,Scotland,Rangers,,,Celtic,Not Started
+2025-01-02T15:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,Hibernian,Not Started
+2025-01-02T17:30:00+00:00,2024,Premiership,Scotland,Dundee,,,Dundee Utd,Not Started
+2025-01-05T15:00:00+00:00,2024,Premiership,Scotland,Celtic,,,ST Mirren,Not Started
+2025-01-05T15:00:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,Heart Of Midlothian,Not Started
+2025-01-05T15:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,Rangers,Not Started
+2025-01-05T15:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,Ross County,Not Started
+2025-01-05T15:00:00+00:00,2024,Premiership,Scotland,Motherwell,,,Aberdeen,Not Started
+2025-01-05T15:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,Dundee,Not Started
+2025-01-11T15:00:00+00:00,2024,Premiership,Scotland,Aberdeen,,,Heart Of Midlothian,Not Started
+2025-01-11T15:00:00+00:00,2024,Premiership,Scotland,Dundee,,,Kilmarnock,Not Started
+2025-01-11T15:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,Motherwell,Not Started
+2025-01-11T15:00:00+00:00,2024,Premiership,Scotland,Rangers,,,ST Johnstone,Not Started
+2025-01-11T15:00:00+00:00,2024,Premiership,Scotland,Ross County,,,Celtic,Not Started
+2025-01-11T15:00:00+00:00,2024,Premiership,Scotland,ST Mirren,,,Dundee Utd,Not Started
+2025-01-25T15:00:00+00:00,2024,Premiership,Scotland,Aberdeen,,,ST Mirren,Not Started
+2025-01-25T15:00:00+00:00,2024,Premiership,Scotland,Celtic,,,Dundee,Not Started
+2025-01-25T15:00:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,Rangers,Not Started
+2025-01-25T15:00:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,Kilmarnock,Not Started
+2025-01-25T15:00:00+00:00,2024,Premiership,Scotland,Ross County,,,Hibernian,Not Started
+2025-01-25T15:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,Motherwell,Not Started
+2025-02-01T15:00:00+00:00,2024,Premiership,Scotland,Dundee,,,Heart Of Midlothian,Not Started
+2025-02-01T15:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,Aberdeen,Not Started
+2025-02-01T15:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,Dundee Utd,Not Started
+2025-02-01T15:00:00+00:00,2024,Premiership,Scotland,Motherwell,,,Celtic,Not Started
+2025-02-01T15:00:00+00:00,2024,Premiership,Scotland,Rangers,,,Ross County,Not Started
+2025-02-01T15:00:00+00:00,2024,Premiership,Scotland,ST Mirren,,,ST Johnstone,Not Started
+2025-02-15T15:00:00+00:00,2024,Premiership,Scotland,Celtic,,,Dundee Utd,Not Started
+2025-02-15T15:00:00+00:00,2024,Premiership,Scotland,Dundee,,,Aberdeen,Not Started
+2025-02-15T15:00:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,Rangers,Not Started
+2025-02-15T15:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,ST Johnstone,Not Started
+2025-02-15T15:00:00+00:00,2024,Premiership,Scotland,Motherwell,,,Ross County,Not Started
+2025-02-15T15:00:00+00:00,2024,Premiership,Scotland,ST Mirren,,,Hibernian,Not Started
+2025-02-22T15:00:00+00:00,2024,Premiership,Scotland,Aberdeen,,,Kilmarnock,Not Started
+2025-02-22T15:00:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,Motherwell,Not Started
+2025-02-22T15:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,Celtic,Not Started
+2025-02-22T15:00:00+00:00,2024,Premiership,Scotland,Rangers,,,ST Mirren,Not Started
+2025-02-22T15:00:00+00:00,2024,Premiership,Scotland,Ross County,,,Dundee,Not Started
+2025-02-22T15:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,Heart Of Midlothian,Not Started
+2025-02-26T19:45:00+00:00,2024,Premiership,Scotland,Celtic,,,Aberdeen,Not Started
+2025-02-26T19:45:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,Hibernian,Not Started
+2025-02-26T19:45:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,ST Mirren,Not Started
+2025-02-26T19:45:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,Rangers,Not Started
+2025-02-26T19:45:00+00:00,2024,Premiership,Scotland,Motherwell,,,Dundee,Not Started
+2025-02-26T19:45:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,Ross County,Not Started
+2025-03-01T15:00:00+00:00,2024,Premiership,Scotland,Aberdeen,,,Dundee Utd,Not Started
+2025-03-01T15:00:00+00:00,2024,Premiership,Scotland,Dundee,,,ST Johnstone,Not Started
+2025-03-01T15:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,Heart Of Midlothian,Not Started
+2025-03-01T15:00:00+00:00,2024,Premiership,Scotland,Rangers,,,Motherwell,Not Started
+2025-03-01T15:00:00+00:00,2024,Premiership,Scotland,Ross County,,,Kilmarnock,Not Started
+2025-03-01T15:00:00+00:00,2024,Premiership,Scotland,ST Mirren,,,Celtic,Not Started
+2025-03-15T15:00:00+00:00,2024,Premiership,Scotland,Celtic,,,Rangers,Not Started
+2025-03-15T15:00:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,Dundee,Not Started
+2025-03-15T15:00:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,Ross County,Not Started
+2025-03-15T15:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,Hibernian,Not Started
+2025-03-15T15:00:00+00:00,2024,Premiership,Scotland,Motherwell,,,ST Mirren,Not Started
+2025-03-15T15:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,Aberdeen,Not Started
+2025-03-29T15:00:00+00:00,2024,Premiership,Scotland,Aberdeen,,,Motherwell,Not Started
+2025-03-29T15:00:00+00:00,2024,Premiership,Scotland,Celtic,,,Heart Of Midlothian,Not Started
+2025-03-29T15:00:00+00:00,2024,Premiership,Scotland,Dundee,,,Rangers,Not Started
+2025-03-29T15:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,ST Johnstone,Not Started
+2025-03-29T15:00:00+00:00,2024,Premiership,Scotland,Ross County,,,Dundee Utd,Not Started
+2025-03-29T15:00:00+00:00,2024,Premiership,Scotland,ST Mirren,,,Kilmarnock,Not Started
+2025-04-05T14:00:00+00:00,2024,Premiership,Scotland,Dundee,,,ST Mirren,Not Started
+2025-04-05T14:00:00+00:00,2024,Premiership,Scotland,Heart Of Midlothian,,,Dundee Utd,Not Started
+2025-04-05T14:00:00+00:00,2024,Premiership,Scotland,Kilmarnock,,,Motherwell,Not Started
+2025-04-05T14:00:00+00:00,2024,Premiership,Scotland,Rangers,,,Hibernian,Not Started
+2025-04-05T14:00:00+00:00,2024,Premiership,Scotland,Ross County,,,Aberdeen,Not Started
+2025-04-05T14:00:00+00:00,2024,Premiership,Scotland,ST Johnstone,,,Celtic,Not Started
+2025-04-12T14:00:00+00:00,2024,Premiership,Scotland,Aberdeen,,,Rangers,Not Started
+2025-04-12T14:00:00+00:00,2024,Premiership,Scotland,Celtic,,,Kilmarnock,Not Started
+2025-04-12T14:00:00+00:00,2024,Premiership,Scotland,Dundee Utd,,,ST Johnstone,Not Started
+2025-04-12T14:00:00+00:00,2024,Premiership,Scotland,Hibernian,,,Dundee,Not Started
+2025-04-12T14:00:00+00:00,2024,Premiership,Scotland,Motherwell,,,Heart Of Midlothian,Not Started
+2025-04-12T14:00:00+00:00,2024,Premiership,Scotland,ST Mirren,,,Ross County,Not Started

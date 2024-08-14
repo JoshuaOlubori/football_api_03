@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-21T12:45:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,1,1,Piast Gliwice,Match Finished
+2024-07-20T12:45:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,1,2,Radomiak Radom,Match Finished
+2024-07-19T16:00:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,2,0,Puszcza Niepołomice,Match Finished
+2024-07-21T15:30:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,2,0,Gornik Zabrze,Match Finished
+2024-07-20T18:15:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,2,0,Zaglebie Lubin,Match Finished
+2024-07-21T18:15:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,0,2,Raków Częstochowa,Match Finished
+2024-07-20T15:30:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,3,0,Korona Kielce,Match Finished
+2024-07-22T17:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,1,1,Widzew Łódź,Match Finished
+2024-07-19T18:30:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,1,1,Lechia Gdansk,Match Finished
+2024-07-28T12:45:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,2,2,Pogon Szczecin,Match Finished
+2024-07-28T18:15:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,0,1,Legia Warszawa,Match Finished
+2024-07-26T18:30:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,0,2,Motor Lublin,Match Finished
+2024-07-28T15:30:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,2,0,Slask Wroclaw,Match Finished
+2024-07-26T16:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,2,2,Gornik Zabrze,Match Finished
+2024-07-27T15:30:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,2,3,Jagiellonia,Match Finished
+2024-07-29T17:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,0,1,Cracovia Krakow,Match Finished
+2024-07-27T12:45:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,0,1,GKS Katowice,Match Finished
+2024-07-27T18:15:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,2,1,Lech Poznan,Match Finished
+2024-08-05T17:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,1,3,Widzew Łódź,Match Finished
+2024-08-03T12:45:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,0,1,Raków Częstochowa,Match Finished
+2024-08-02T18:30:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,1,0,Pogon Szczecin,Match Finished
+2024-08-03T15:30:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,2,0,Stal Mielec,Match Finished
+2024-08-02T16:00:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,1,0,Puszcza Niepołomice,Match Finished
+2024-08-03T18:15:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,3,1,Lechia Gdansk,Match Finished
+2024-08-04T18:15:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,1,2,Piast Gliwice,Match Finished
+2024-08-04T12:45:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,1,1,Korona Kielce,Match Finished
+2024-08-04T15:30:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Radomiak Radom,Match Postponed
+2024-08-10T15:30:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,0,2,Cracovia Krakow,Match Finished
+2024-08-11T12:45:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,1,1,Zaglebie Lubin,Match Finished
+2024-12-14T12:45:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,Jagiellonia,Time to be defined
+2024-08-12T17:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,2,2,GKS Katowice,Match Finished
+2024-08-10T18:15:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,1,0,Stal Mielec,Match Finished
+2024-08-11T15:30:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,2,2,Legia Warszawa,Match Finished
+2024-08-09T16:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,1,2,Gornik Zabrze,Match Finished
+2024-08-09T18:30:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,0,0,Lech Poznan,Match Finished
+2024-08-11T18:15:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,0,0,Slask Wroclaw,Match Finished
+2024-08-16T18:30:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Motor Lublin,Not Started
+2024-08-18T18:15:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Raków Częstochowa,Not Started
+2024-08-17T12:45:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,Cracovia Krakow,Not Started
+2024-08-17T15:30:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,Lech Poznan,Not Started
+2024-08-18T15:30:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,Radomiak Radom,Not Started
+2024-08-17T18:15:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,Widzew Łódź,Not Started
+2024-08-16T16:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,Lechia Gdansk,Not Started
+2024-08-19T17:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Piast Gliwice,Not Started
+2024-08-18T12:45:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Korona Kielce,Not Started
+2024-08-24T15:30:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,Gornik Zabrze,Not Started
+2024-08-24T18:15:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Jagiellonia,Not Started
+2024-08-26T17:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,Stal Mielec,Not Started
+2024-08-25T15:30:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,Pogon Szczecin,Not Started
+2024-08-23T18:30:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,Raków Częstochowa,Not Started
+2024-08-24T12:45:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,Puszcza Niepołomice,Not Started
+2024-08-25T12:45:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Zaglebie Lubin,Not Started
+2024-08-23T16:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,Radomiak Radom,Not Started
+2024-08-25T18:15:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Legia Warszawa,Not Started
+2024-09-01T10:15:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Lechia Gdansk,Not Started
+2024-09-01T18:15:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,Widzew Łódź,Not Started
+2024-08-31T15:30:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,GKS Katowice,Not Started
+2024-09-01T12:45:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,Motor Lublin,Not Started
+2024-09-01T15:30:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,Slask Wroclaw,Not Started
+2024-08-31T12:45:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,Korona Kielce,Not Started
+2024-08-31T18:15:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,Cracovia Krakow,Not Started
+2024-08-30T16:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,Piast Gliwice,Not Started
+2024-08-30T18:30:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Lech Poznan,Not Started
+2024-09-14T00:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,Pogon Szczecin,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Widzew Łódź,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,Zaglebie Lubin,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,Jagiellonia,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,Radomiak Radom,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,Raków Częstochowa,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,Gornik Zabrze,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Puszcza Niepołomice,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Stal Mielec,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,GKS Katowice,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,Lechia Gdansk,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,Slask Wroclaw,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,Legia Warszawa,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,Cracovia Krakow,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,Korona Kielce,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,Zaglebie Lubin,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Motor Lublin,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,Piast Gliwice,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,Stal Mielec,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Pogon Szczecin,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,Radomiak Radom,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,Lech Poznan,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,Widzew Łódź,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,Gornik Zabrze,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,Slask Wroclaw,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Jagiellonia,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,Puszcza Niepołomice,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Zaglebie Lubin,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,Legia Warszawa,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,Motor Lublin,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,Piast Gliwice,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,GKS Katowice,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,Raków Częstochowa,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Lechia Gdansk,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,Korona Kielce,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Cracovia Krakow,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,Lech Poznan,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Slask Wroclaw,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Stal Mielec,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,Jagiellonia,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,Piast Gliwice,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,Legia Warszawa,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,Widzew Łódź,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,Puszcza Niepołomice,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,Pogon Szczecin,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,Motor Lublin,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,Korona Kielce,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,Radomiak Radom,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,GKS Katowice,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Lechia Gdansk,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,Puszcza Niepołomice,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Zaglebie Lubin,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,Gornik Zabrze,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Raków Częstochowa,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Korona Kielce,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Jagiellonia,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,Slask Wroclaw,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,Cracovia Krakow,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,Widzew Łódź,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,Pogon Szczecin,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,Lech Poznan,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,Piast Gliwice,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,Stal Mielec,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,GKS Katowice,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,Raków Częstochowa,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,Lechia Gdansk,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,Legia Warszawa,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Motor Lublin,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,Radomiak Radom,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Puszcza Niepołomice,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,Zaglebie Lubin,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Gornik Zabrze,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Piast Gliwice,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,Slask Wroclaw,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,Motor Lublin,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,GKS Katowice,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,Pogon Szczecin,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,Cracovia Krakow,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,Widzew Łódź,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,Stal Mielec,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,Korona Kielce,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,Zaglebie Lubin,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Lechia Gdansk,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,Gornik Zabrze,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,Radomiak Radom,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Lech Poznan,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,Jagiellonia,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Legia Warszawa,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,Raków Częstochowa,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Puszcza Niepołomice,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Lech Poznan,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,Legia Warszawa,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,Pogon Szczecin,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,Slask Wroclaw,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Cracovia Krakow,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,Jagiellonia,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,GKS Katowice,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,Motor Lublin,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,Stal Mielec,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,Raków Częstochowa,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Stal Mielec,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Puszcza Niepołomice,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,Radomiak Radom,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,Widzew Łódź,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,Korona Kielce,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,Lechia Gdansk,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,Zaglebie Lubin,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Piast Gliwice,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,Motor Lublin,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,Lech Poznan,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Legia Warszawa,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,Gornik Zabrze,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,Zaglebie Lubin,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,Slask Wroclaw,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,GKS Katowice,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Jagiellonia,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,Cracovia Krakow,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,Korona Kielce,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Piast Gliwice,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Radomiak Radom,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,Motor Lublin,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,Lechia Gdansk,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,Raków Częstochowa,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,Puszcza Niepołomice,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Pogon Szczecin,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Widzew Łódź,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,Jagiellonia,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,Slask Wroclaw,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,Zaglebie Lubin,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,Puszcza Niepołomice,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,GKS Katowice,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Stal Mielec,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,Legia Warszawa,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,Gornik Zabrze,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,Pogon Szczecin,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Cracovia Krakow,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,GKS Katowice,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,Piast Gliwice,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,Slask Wroclaw,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,Lech Poznan,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,Motor Lublin,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,Widzew Łódź,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,Lechia Gdansk,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Korona Kielce,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,Radomiak Radom,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Zaglebie Lubin,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,Puszcza Niepołomice,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,Stal Mielec,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,Gornik Zabrze,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,Legia Warszawa,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Raków Częstochowa,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,Jagiellonia,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Pogon Szczecin,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Motor Lublin,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,Lech Poznan,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,Korona Kielce,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,Cracovia Krakow,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,Piast Gliwice,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,Lechia Gdansk,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,Legia Warszawa,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Slask Wroclaw,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,GKS Katowice,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,Puszcza Niepołomice,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Gornik Zabrze,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,Raków Częstochowa,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,Radomiak Radom,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,Jagiellonia,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,Pogon Szczecin,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,Stal Mielec,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Widzew Łódź,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Lech Poznan,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Legia Warszawa,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,Piast Gliwice,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,Korona Kielce,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,GKS Katowice,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,Raków Częstochowa,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,Zaglebie Lubin,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Cracovia Krakow,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,Lechia Gdansk,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Motor Lublin,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,Slask Wroclaw,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Puszcza Niepołomice,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,Gornik Zabrze,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,Widzew Łódź,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,Stal Mielec,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,Jagiellonia,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,Lech Poznan,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Pogon Szczecin,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,Radomiak Radom,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,Zaglebie Lubin,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,Cracovia Krakow,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,Lechia Gdansk,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Korona Kielce,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,Raków Częstochowa,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,Radomiak Radom,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Gornik Zabrze,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,Motor Lublin,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,GKS Katowice,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Legia Warszawa,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Widzew Łódź,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,Stal Mielec,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,Jagiellonia,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,Piast Gliwice,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,Cracovia Krakow,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,Pogon Szczecin,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,Lech Poznan,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,Slask Wroclaw,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,Lechia Gdansk,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,Gornik Zabrze,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,GKS Katowice,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,Puszcza Niepołomice,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Radomiak Radom,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,Motor Lublin,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Raków Częstochowa,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,Legia Warszawa,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Zaglebie Lubin,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Cracovia Krakow,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Slask Wroclaw,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,Widzew Łódź,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,Korona Kielce,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,Lech Poznan,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,Piast Gliwice,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,Stal Mielec,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,Pogon Szczecin,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,Jagiellonia,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Ekstraklasa,Poland,Cracovia Krakow,,,Legia Warszawa,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Ekstraklasa,Poland,GKS Katowice,,,Lech Poznan,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Ekstraklasa,Poland,Korona Kielce,,,Raków Częstochowa,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Ekstraklasa,Poland,Motor Lublin,,,Zaglebie Lubin,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Ekstraklasa,Poland,Piast Gliwice,,,Gornik Zabrze,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Ekstraklasa,Poland,Pogon Szczecin,,,Lechia Gdansk,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Ekstraklasa,Poland,Stal Mielec,,,Radomiak Radom,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Ekstraklasa,Poland,Widzew Łódź,,,Puszcza Niepołomice,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Ekstraklasa,Poland,Slask Wroclaw,,,Jagiellonia,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Ekstraklasa,Poland,Gornik Zabrze,,,Korona Kielce,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Ekstraklasa,Poland,Jagiellonia,,,Pogon Szczecin,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Ekstraklasa,Poland,Zaglebie Lubin,,,Cracovia Krakow,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Ekstraklasa,Poland,Lech Poznan,,,Piast Gliwice,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Ekstraklasa,Poland,Lechia Gdansk,,,GKS Katowice,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Ekstraklasa,Poland,Legia Warszawa,,,Stal Mielec,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Ekstraklasa,Poland,Puszcza Niepołomice,,,Slask Wroclaw,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Ekstraklasa,Poland,Radomiak Radom,,,Motor Lublin,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Ekstraklasa,Poland,Raków Częstochowa,,,Widzew Łódź,Time to be defined

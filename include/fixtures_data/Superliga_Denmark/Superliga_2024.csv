@@ -1,0 +1,133 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-19T16:00:00+00:00,2024,Superliga,Denmark,Aarhus,1,1,FC Midtjylland,Match Finished
+2024-07-19T18:00:00+00:00,2024,Superliga,Denmark,FC Nordsjaelland,3,0,Aalborg,Match Finished
+2024-07-21T12:00:00+00:00,2024,Superliga,Denmark,Silkeborg,1,0,Sonderjyske,Match Finished
+2024-07-21T14:00:00+00:00,2024,Superliga,Denmark,Vejle,2,3,Randers FC,Match Finished
+2024-07-21T16:00:00+00:00,2024,Superliga,Denmark,Viborg,3,3,Brondby,Match Finished
+2024-07-22T17:00:00+00:00,2024,Superliga,Denmark,Lyngby,0,2,FC Copenhagen,Match Finished
+2024-07-26T17:00:00+00:00,2024,Superliga,Denmark,Sonderjyske,1,1,Lyngby,Match Finished
+2024-07-27T14:00:00+00:00,2024,Superliga,Denmark,FC Nordsjaelland,2,2,FC Midtjylland,Match Finished
+2024-07-28T12:00:00+00:00,2024,Superliga,Denmark,Randers FC,3,1,Viborg,Match Finished
+2024-07-28T14:00:00+00:00,2024,Superliga,Denmark,Aalborg,2,1,Silkeborg,Match Finished
+2024-07-28T16:00:00+00:00,2024,Superliga,Denmark,FC Copenhagen,3,2,Aarhus,Match Finished
+2024-07-29T17:00:00+00:00,2024,Superliga,Denmark,Brondby,2,1,Vejle,Match Finished
+2024-08-03T14:00:00+00:00,2024,Superliga,Denmark,FC Midtjylland,2,0,Aalborg,Match Finished
+2024-08-02T17:00:00+00:00,2024,Superliga,Denmark,Aarhus,4,0,Sonderjyske,Match Finished
+2024-08-04T12:00:00+00:00,2024,Superliga,Denmark,Silkeborg,3,2,Viborg,Match Finished
+2024-08-04T14:00:00+00:00,2024,Superliga,Denmark,FC Copenhagen,1,1,Randers FC,Match Finished
+2024-08-04T16:00:00+00:00,2024,Superliga,Denmark,Lyngby,0,2,Brondby,Match Finished
+2024-08-05T17:00:00+00:00,2024,Superliga,Denmark,Vejle,0,1,FC Nordsjaelland,Match Finished
+2024-08-09T17:00:00+00:00,2024,Superliga,Denmark,FC Midtjylland,2,0,Vejle,Match Finished
+2024-08-11T12:00:00+00:00,2024,Superliga,Denmark,Randers FC,0,2,Silkeborg,Match Finished
+2024-08-11T12:00:00+00:00,2024,Superliga,Denmark,FC Nordsjaelland,1,1,Lyngby,Match Finished
+2024-08-11T14:00:00+00:00,2024,Superliga,Denmark,Brondby,0,1,Aarhus,Match Finished
+2024-08-11T16:00:00+00:00,2024,Superliga,Denmark,Sonderjyske,0,2,FC Copenhagen,Match Finished
+2024-08-12T17:00:00+00:00,2024,Superliga,Denmark,Viborg,2,3,Aalborg,Match Finished
+2024-08-16T17:00:00+00:00,2024,Superliga,Denmark,Lyngby,,,FC Midtjylland,Not Started
+2024-08-18T12:00:00+00:00,2024,Superliga,Denmark,Randers FC,,,Sonderjyske,Not Started
+2024-08-18T12:00:00+00:00,2024,Superliga,Denmark,Silkeborg,,,FC Nordsjaelland,Not Started
+2024-08-18T14:00:00+00:00,2024,Superliga,Denmark,FC Copenhagen,,,Viborg,Not Started
+2024-08-18T16:00:00+00:00,2024,Superliga,Denmark,Aalborg,,,Brondby,Not Started
+2024-08-19T17:00:00+00:00,2024,Superliga,Denmark,Aarhus,,,Vejle,Not Started
+2024-08-24T14:00:00+00:00,2024,Superliga,Denmark,FC Midtjylland,,,Sonderjyske,Not Started
+2024-08-23T17:00:00+00:00,2024,Superliga,Denmark,Aalborg,,,Aarhus,Not Started
+2024-08-25T12:00:00+00:00,2024,Superliga,Denmark,Vejle,,,Silkeborg,Not Started
+2024-08-25T14:00:00+00:00,2024,Superliga,Denmark,FC Nordsjaelland,,,FC Copenhagen,Not Started
+2024-08-25T16:00:00+00:00,2024,Superliga,Denmark,Brondby,,,Randers FC,Not Started
+2024-08-26T17:00:00+00:00,2024,Superliga,Denmark,Viborg,,,Lyngby,Not Started
+2024-08-30T17:00:00+00:00,2024,Superliga,Denmark,Lyngby,,,Vejle,Not Started
+2024-08-31T14:00:00+00:00,2024,Superliga,Denmark,Aarhus,,,FC Nordsjaelland,Not Started
+2024-09-01T12:00:00+00:00,2024,Superliga,Denmark,Sonderjyske,,,Viborg,Not Started
+2024-09-01T12:00:00+00:00,2024,Superliga,Denmark,FC Copenhagen,,,Brondby,Not Started
+2024-09-01T14:00:00+00:00,2024,Superliga,Denmark,Silkeborg,,,FC Midtjylland,Not Started
+2024-09-01T16:00:00+00:00,2024,Superliga,Denmark,Randers FC,,,Aalborg,Not Started
+2024-09-15T12:00:00+00:00,2024,Superliga,Denmark,Aarhus,,,Silkeborg,Not Started
+2024-09-15T16:00:00+00:00,2024,Superliga,Denmark,Brondby,,,Sonderjyske,Not Started
+2024-09-16T17:00:00+00:00,2024,Superliga,Denmark,FC Nordsjaelland,,,Randers FC,Not Started
+2024-09-15T14:00:00+00:00,2024,Superliga,Denmark,Vejle,,,Viborg,Not Started
+2024-09-13T17:00:00+00:00,2024,Superliga,Denmark,Aalborg,,,Lyngby,Not Started
+2024-09-14T16:00:00+00:00,2024,Superliga,Denmark,FC Midtjylland,,,FC Copenhagen,Not Started
+2024-09-22T12:00:00+00:00,2024,Superliga,Denmark,Sonderjyske,,,Vejle,Not Started
+2024-09-22T14:00:00+00:00,2024,Superliga,Denmark,Lyngby,,,Aarhus,Not Started
+2024-09-22T16:00:00+00:00,2024,Superliga,Denmark,Silkeborg,,,Brondby,Not Started
+2024-09-22T12:00:00+00:00,2024,Superliga,Denmark,Randers FC,,,FC Midtjylland,Not Started
+2024-09-20T17:00:00+00:00,2024,Superliga,Denmark,Viborg,,,FC Nordsjaelland,Not Started
+2024-09-23T17:00:00+00:00,2024,Superliga,Denmark,FC Copenhagen,,,Aalborg,Not Started
+2024-09-28T14:00:00+00:00,2024,Superliga,Denmark,Aarhus,,,Randers FC,Not Started
+2024-09-28T16:00:00+00:00,2024,Superliga,Denmark,FC Midtjylland,,,Viborg,Not Started
+2024-09-29T14:00:00+00:00,2024,Superliga,Denmark,Lyngby,,,Silkeborg,Not Started
+2024-09-29T12:00:00+00:00,2024,Superliga,Denmark,Aalborg,,,Sonderjyske,Not Started
+2024-09-30T17:00:00+00:00,2024,Superliga,Denmark,FC Nordsjaelland,,,Brondby,Not Started
+2024-09-29T16:00:00+00:00,2024,Superliga,Denmark,Vejle,,,FC Copenhagen,Not Started
+2024-10-06T16:00:00+00:00,2024,Superliga,Denmark,Brondby,,,FC Midtjylland,Not Started
+2024-10-06T14:00:00+00:00,2024,Superliga,Denmark,Viborg,,,Aarhus,Not Started
+2024-10-06T18:00:00+00:00,2024,Superliga,Denmark,Silkeborg,,,FC Copenhagen,Not Started
+2024-10-06T12:00:00+00:00,2024,Superliga,Denmark,Sonderjyske,,,FC Nordsjaelland,Not Started
+2024-10-06T12:00:00+00:00,2024,Superliga,Denmark,Randers FC,,,Lyngby,Not Started
+2024-10-04T17:00:00+00:00,2024,Superliga,Denmark,Vejle,,,Aalborg,Not Started
+2024-10-20T00:00:00+00:00,2024,Superliga,Denmark,Aarhus,,,Brondby,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Superliga,Denmark,FC Copenhagen,,,Vejle,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Superliga,Denmark,FC Nordsjaelland,,,Silkeborg,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Superliga,Denmark,Lyngby,,,Viborg,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Superliga,Denmark,Aalborg,,,Randers FC,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Superliga,Denmark,Sonderjyske,,,FC Midtjylland,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Superliga,Denmark,Brondby,,,FC Copenhagen,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Superliga,Denmark,FC Midtjylland,,,Aarhus,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Superliga,Denmark,Randers FC,,,FC Nordsjaelland,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Superliga,Denmark,Vejle,,,Lyngby,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Superliga,Denmark,Viborg,,,Sonderjyske,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Superliga,Denmark,Silkeborg,,,Aalborg,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Superliga,Denmark,Aarhus,,,Lyngby,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Superliga,Denmark,FC Copenhagen,,,Silkeborg,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Superliga,Denmark,FC Nordsjaelland,,,Viborg,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Superliga,Denmark,Aalborg,,,Vejle,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Superliga,Denmark,FC Midtjylland,,,Brondby,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Superliga,Denmark,Sonderjyske,,,Randers FC,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Superliga,Denmark,Aarhus,,,FC Copenhagen,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Superliga,Denmark,Brondby,,,FC Nordsjaelland,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Superliga,Denmark,Viborg,,,FC Midtjylland,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Superliga,Denmark,Silkeborg,,,Randers FC,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Superliga,Denmark,Vejle,,,Sonderjyske,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Superliga,Denmark,Lyngby,,,Aalborg,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Superliga,Denmark,FC Copenhagen,,,Lyngby,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Superliga,Denmark,FC Midtjylland,,,Silkeborg,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Superliga,Denmark,Randers FC,,,Vejle,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Superliga,Denmark,Aalborg,,,Viborg,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Superliga,Denmark,FC Nordsjaelland,,,Aarhus,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Superliga,Denmark,Sonderjyske,,,Brondby,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Superliga,Denmark,FC Copenhagen,,,FC Nordsjaelland,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Superliga,Denmark,Lyngby,,,Sonderjyske,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Superliga,Denmark,Silkeborg,,,Aarhus,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Superliga,Denmark,Vejle,,,FC Midtjylland,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Superliga,Denmark,Viborg,,,Randers FC,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Superliga,Denmark,Brondby,,,Aalborg,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Superliga,Denmark,Brondby,,,Viborg,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Superliga,Denmark,Silkeborg,,,Vejle,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Superliga,Denmark,Aalborg,,,FC Nordsjaelland,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Superliga,Denmark,Sonderjyske,,,Aarhus,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Superliga,Denmark,Randers FC,,,FC Copenhagen,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Superliga,Denmark,FC Midtjylland,,,Lyngby,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Superliga,Denmark,FC Copenhagen,,,FC Midtjylland,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Superliga,Denmark,FC Nordsjaelland,,,Sonderjyske,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Superliga,Denmark,Lyngby,,,Randers FC,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Superliga,Denmark,Vejle,,,Brondby,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Superliga,Denmark,Viborg,,,Silkeborg,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Superliga,Denmark,Aarhus,,,Aalborg,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Superliga,Denmark,Brondby,,,Lyngby,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Superliga,Denmark,FC Midtjylland,,,FC Nordsjaelland,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Superliga,Denmark,Aalborg,,,FC Copenhagen,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Superliga,Denmark,Randers FC,,,Aarhus,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Superliga,Denmark,Sonderjyske,,,Silkeborg,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Superliga,Denmark,Viborg,,,Vejle,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Superliga,Denmark,Aarhus,,,Viborg,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Superliga,Denmark,FC Copenhagen,,,Sonderjyske,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Superliga,Denmark,FC Nordsjaelland,,,Vejle,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Superliga,Denmark,Aalborg,,,FC Midtjylland,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Superliga,Denmark,Randers FC,,,Brondby,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Superliga,Denmark,Silkeborg,,,Lyngby,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Superliga,Denmark,Brondby,,,Silkeborg,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Superliga,Denmark,FC Midtjylland,,,Randers FC,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Superliga,Denmark,Lyngby,,,FC Nordsjaelland,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Superliga,Denmark,Vejle,,,Aarhus,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Superliga,Denmark,Viborg,,,FC Copenhagen,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Superliga,Denmark,Sonderjyske,,,Aalborg,Time to be defined

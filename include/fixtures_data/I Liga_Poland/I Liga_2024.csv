@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-19T18:30:00+00:00,2024,I Liga,Poland,Odra Opole,0,2,Ruch Chorzów,Match Finished
+2024-07-20T15:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,1,2,Chrobry Głogów,Match Finished
+2024-07-20T12:30:00+00:00,2024,I Liga,Poland,Nieciecza,3,0,Warta Poznań,Match Finished
+2024-07-21T10:00:00+00:00,2024,I Liga,Poland,Wisla Plock,1,1,Kotwica Kołobrzeg,Match Finished
+2024-07-21T12:30:00+00:00,2024,I Liga,Poland,Tychy 71,2,2,Miedz Legnica,Match Finished
+2024-07-20T17:35:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,0,1,Górnik Łęczna,Match Finished
+2024-07-22T17:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,1,0,Arka Gdynia,Match Finished
+2024-07-21T12:30:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Wisla Krakow,Match Postponed
+2024-07-19T16:00:00+00:00,2024,I Liga,Poland,Polonia Warszawa,0,1,Znicz Pruszków,Match Finished
+2024-07-28T15:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,0,0,Znicz Pruszków,Match Finished
+2024-07-28T12:30:00+00:00,2024,I Liga,Poland,Wisla Krakow,0,0,Polonia Warszawa,Match Finished
+2024-07-29T18:30:00+00:00,2024,I Liga,Poland,Arka Gdynia,2,1,ŁKS Łódź,Match Finished
+2024-07-27T15:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,2,1,Stal Rzeszów,Match Finished
+2024-07-26T16:00:00+00:00,2024,I Liga,Poland,Miedz Legnica,4,2,Stal Stalowa Wola,Match Finished
+2024-07-26T18:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,0,0,Tychy 71,Match Finished
+2024-07-27T17:35:00+00:00,2024,I Liga,Poland,Warta Poznań,1,2,Wisla Plock,Match Finished
+2024-07-27T12:30:00+00:00,2024,I Liga,Poland,Chrobry Głogów,0,4,Nieciecza,Match Finished
+2024-07-28T10:00:00+00:00,2024,I Liga,Poland,Odra Opole,4,1,Pogoń Siedlce,Match Finished
+2024-08-02T18:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,1,1,Pogoń Siedlce,Match Finished
+2024-08-04T15:00:00+00:00,2024,I Liga,Poland,Nieciecza,3,0,Odra Opole,Match Finished
+2024-08-03T15:00:00+00:00,2024,I Liga,Poland,Wisla Plock,2,1,Chrobry Głogów,Match Finished
+2024-08-02T16:00:00+00:00,2024,I Liga,Poland,Tychy 71,1,1,Warta Poznań,Match Finished
+2024-08-03T12:30:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,0,2,Kotwica Kołobrzeg,Match Finished
+2024-08-04T10:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,1,0,Miedz Legnica,Match Finished
+2024-08-05T18:30:00+00:00,2024,I Liga,Poland,ŁKS Łódź,1,1,Górnik Łęczna,Match Finished
+2024-08-03T17:35:00+00:00,2024,I Liga,Poland,Polonia Warszawa,0,3,Arka Gdynia,Match Finished
+2024-08-04T12:30:00+00:00,2024,I Liga,Poland,Znicz Pruszków,2,1,Wisla Krakow,Match Finished
+2024-08-12T17:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,3,1,Ruch Chorzów,Match Finished
+2024-08-09T18:30:00+00:00,2024,I Liga,Poland,Arka Gdynia,1,1,Znicz Pruszków,Match Finished
+2024-08-10T12:30:00+00:00,2024,I Liga,Poland,Górnik Łęczna,3,1,Polonia Warszawa,Match Finished
+2024-08-10T17:35:00+00:00,2024,I Liga,Poland,Miedz Legnica,1,0,ŁKS Łódź,Match Finished
+2024-08-11T15:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,1,3,Stal Rzeszów,Match Finished
+2024-08-10T15:00:00+00:00,2024,I Liga,Poland,Warta Poznań,1,0,Stal Stalowa Wola,Match Finished
+2024-08-09T16:00:00+00:00,2024,I Liga,Poland,Chrobry Głogów,0,0,Tychy 71,Match Finished
+2024-08-11T12:30:00+00:00,2024,I Liga,Poland,Odra Opole,1,2,Wisla Plock,Match Finished
+2024-08-11T10:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,1,2,Nieciecza,Match Finished
+2024-08-18T12:30:00+00:00,2024,I Liga,Poland,Nieciecza,,,Ruch Chorzów,Not Started
+2024-08-18T15:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,Pogoń Siedlce,Not Started
+2024-08-17T17:35:00+00:00,2024,I Liga,Poland,Tychy 71,,,Odra Opole,Not Started
+2024-08-16T16:00:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,Chrobry Głogów,Not Started
+2024-08-17T15:30:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,Warta Poznań,Not Started
+2024-08-16T18:30:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Kotwica Kołobrzeg,Not Started
+2024-08-17T12:30:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,Miedz Legnica,Not Started
+2024-08-18T10:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Górnik Łęczna,Not Started
+2024-08-19T17:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,Arka Gdynia,Not Started
+2024-08-22T17:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Ruch Chorzów,Not Started
+2024-08-22T17:35:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,Wisla Krakow,Not Started
+2024-08-22T15:30:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Znicz Pruszków,Not Started
+2024-08-20T16:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,Polonia Warszawa,Not Started
+2024-08-20T18:30:00+00:00,2024,I Liga,Poland,Warta Poznań,,,ŁKS Łódź,Not Started
+2024-08-20T18:30:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,Stal Rzeszów,Not Started
+2024-08-21T18:30:00+00:00,2024,I Liga,Poland,Odra Opole,,,Stal Stalowa Wola,Not Started
+2024-08-21T18:30:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,Tychy 71,Not Started
+2024-08-21T16:00:00+00:00,2024,I Liga,Poland,Nieciecza,,,Wisla Plock,Not Started
+2024-08-26T17:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,Ruch Chorzów,Not Started
+2024-08-24T17:35:00+00:00,2024,I Liga,Poland,Tychy 71,,,Nieciecza,Not Started
+2024-08-24T12:30:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,Pogoń Siedlce,Not Started
+2024-08-24T15:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,Odra Opole,Not Started
+2024-08-25T15:00:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Chrobry Głogów,Not Started
+2024-08-23T18:30:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,Warta Poznań,Not Started
+2024-08-25T10:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Kotwica Kołobrzeg,Not Started
+2024-08-25T12:30:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,Miedz Legnica,Not Started
+2024-08-25T15:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Górnik Łęczna,Not Started
+2024-08-31T17:35:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,Górnik Łęczna,Not Started
+2024-08-30T18:30:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Arka Gdynia,Not Started
+2024-09-01T12:30:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,Wisla Krakow,Not Started
+2024-08-31T12:30:00+00:00,2024,I Liga,Poland,Warta Poznań,,,Znicz Pruszków,Not Started
+2024-08-30T18:30:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,Polonia Warszawa,Not Started
+2024-08-30T16:00:00+00:00,2024,I Liga,Poland,Odra Opole,,,ŁKS Łódź,Not Started
+2024-09-01T15:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,Stal Rzeszów,Not Started
+2024-09-01T10:00:00+00:00,2024,I Liga,Poland,Nieciecza,,,Stal Stalowa Wola,Not Started
+2024-08-31T15:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,Tychy 71,Not Started
+2024-09-14T00:00:00+00:00,2024,I Liga,Poland,Tychy 71,,,Ruch Chorzów,Time to be defined
+2024-09-14T00:00:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,Wisla Plock,Time to be defined
+2024-09-14T00:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,Nieciecza,Time to be defined
+2024-09-14T00:00:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Pogoń Siedlce,Time to be defined
+2024-09-14T00:00:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,Odra Opole,Time to be defined
+2024-09-14T00:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Chrobry Głogów,Time to be defined
+2024-09-14T00:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,Warta Poznań,Time to be defined
+2024-09-14T00:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Kotwica Kołobrzeg,Time to be defined
+2024-09-14T00:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,Miedz Legnica,Time to be defined
+2024-09-21T00:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,Miedz Legnica,Time to be defined
+2024-09-21T00:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,Górnik Łęczna,Time to be defined
+2024-09-21T00:00:00+00:00,2024,I Liga,Poland,Warta Poznań,,,Arka Gdynia,Time to be defined
+2024-09-21T00:00:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,Wisla Krakow,Time to be defined
+2024-09-21T00:00:00+00:00,2024,I Liga,Poland,Odra Opole,,,Znicz Pruszków,Time to be defined
+2024-09-21T00:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,Polonia Warszawa,Time to be defined
+2024-09-21T00:00:00+00:00,2024,I Liga,Poland,Nieciecza,,,ŁKS Łódź,Time to be defined
+2024-09-21T00:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,Stal Rzeszów,Time to be defined
+2024-09-21T00:00:00+00:00,2024,I Liga,Poland,Tychy 71,,,Stal Stalowa Wola,Time to be defined
+2024-09-28T00:00:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,Ruch Chorzów,Time to be defined
+2024-09-28T00:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,Tychy 71,Time to be defined
+2024-09-28T00:00:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Wisla Plock,Time to be defined
+2024-09-28T00:00:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,Nieciecza,Time to be defined
+2024-09-28T00:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Pogoń Siedlce,Time to be defined
+2024-09-28T00:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,Odra Opole,Time to be defined
+2024-09-28T00:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Chrobry Głogów,Time to be defined
+2024-09-28T00:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,Warta Poznań,Time to be defined
+2024-09-28T00:00:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Kotwica Kołobrzeg,Time to be defined
+2024-10-05T00:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,Kotwica Kołobrzeg,Time to be defined
+2024-10-05T00:00:00+00:00,2024,I Liga,Poland,Warta Poznań,,,Miedz Legnica,Time to be defined
+2024-10-05T00:00:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,Górnik Łęczna,Time to be defined
+2024-10-05T00:00:00+00:00,2024,I Liga,Poland,Odra Opole,,,Arka Gdynia,Time to be defined
+2024-10-05T00:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,Wisla Krakow,Time to be defined
+2024-10-05T00:00:00+00:00,2024,I Liga,Poland,Nieciecza,,,Znicz Pruszków,Time to be defined
+2024-10-05T00:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,Polonia Warszawa,Time to be defined
+2024-10-05T00:00:00+00:00,2024,I Liga,Poland,Tychy 71,,,ŁKS Łódź,Time to be defined
+2024-10-05T00:00:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,Stal Rzeszów,Time to be defined
+2024-10-19T00:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,Ruch Chorzów,Time to be defined
+2024-10-19T00:00:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Stal Stalowa Wola,Time to be defined
+2024-10-19T00:00:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,Tychy 71,Time to be defined
+2024-10-19T00:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Wisla Plock,Time to be defined
+2024-10-19T00:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,Nieciecza,Time to be defined
+2024-10-19T00:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Pogoń Siedlce,Time to be defined
+2024-10-19T00:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,Odra Opole,Time to be defined
+2024-10-19T00:00:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Chrobry Głogów,Time to be defined
+2024-10-19T00:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,Warta Poznań,Time to be defined
+2024-10-26T00:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,Warta Poznań,Time to be defined
+2024-10-26T00:00:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,Kotwica Kołobrzeg,Time to be defined
+2024-10-26T00:00:00+00:00,2024,I Liga,Poland,Odra Opole,,,Miedz Legnica,Time to be defined
+2024-10-26T00:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,Górnik Łęczna,Time to be defined
+2024-10-26T00:00:00+00:00,2024,I Liga,Poland,Nieciecza,,,Arka Gdynia,Time to be defined
+2024-10-26T00:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,Wisla Krakow,Time to be defined
+2024-10-26T00:00:00+00:00,2024,I Liga,Poland,Tychy 71,,,Znicz Pruszków,Time to be defined
+2024-10-26T00:00:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,Polonia Warszawa,Time to be defined
+2024-10-26T00:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,ŁKS Łódź,Time to be defined
+2024-11-02T00:00:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Ruch Chorzów,Time to be defined
+2024-11-02T00:00:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,Stal Rzeszów,Time to be defined
+2024-11-02T00:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Stal Stalowa Wola,Time to be defined
+2024-11-02T00:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,Tychy 71,Time to be defined
+2024-11-02T00:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Wisla Plock,Time to be defined
+2024-11-02T00:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,Nieciecza,Time to be defined
+2024-11-02T00:00:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Pogoń Siedlce,Time to be defined
+2024-11-02T00:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,Odra Opole,Time to be defined
+2024-11-02T00:00:00+00:00,2024,I Liga,Poland,Warta Poznań,,,Chrobry Głogów,Time to be defined
+2024-11-09T00:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,Chrobry Głogów,Time to be defined
+2024-11-09T00:00:00+00:00,2024,I Liga,Poland,Odra Opole,,,Warta Poznań,Time to be defined
+2024-11-09T00:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,Kotwica Kołobrzeg,Time to be defined
+2024-11-09T00:00:00+00:00,2024,I Liga,Poland,Nieciecza,,,Miedz Legnica,Time to be defined
+2024-11-09T00:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,Górnik Łęczna,Time to be defined
+2024-11-09T00:00:00+00:00,2024,I Liga,Poland,Tychy 71,,,Arka Gdynia,Time to be defined
+2024-11-09T00:00:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,Wisla Krakow,Time to be defined
+2024-11-09T00:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,Znicz Pruszków,Time to be defined
+2024-11-09T00:00:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Polonia Warszawa,Time to be defined
+2024-11-23T00:00:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,Ruch Chorzów,Time to be defined
+2024-11-23T00:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,ŁKS Łódź,Time to be defined
+2024-11-23T00:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,Stal Rzeszów,Time to be defined
+2024-11-23T00:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Stal Stalowa Wola,Time to be defined
+2024-11-23T00:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,Tychy 71,Time to be defined
+2024-11-23T00:00:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Wisla Plock,Time to be defined
+2024-11-23T00:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,Nieciecza,Time to be defined
+2024-11-23T00:00:00+00:00,2024,I Liga,Poland,Warta Poznań,,,Pogoń Siedlce,Time to be defined
+2024-11-23T00:00:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,Odra Opole,Time to be defined
+2024-11-30T00:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,Odra Opole,Time to be defined
+2024-11-30T00:00:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,Pogoń Siedlce,Time to be defined
+2024-11-30T00:00:00+00:00,2024,I Liga,Poland,Warta Poznań,,,Nieciecza,Time to be defined
+2024-11-30T00:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,Wisla Plock,Time to be defined
+2024-11-30T00:00:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Tychy 71,Time to be defined
+2024-11-30T00:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,Stal Stalowa Wola,Time to be defined
+2024-11-30T00:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Stal Rzeszów,Time to be defined
+2024-11-30T00:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,ŁKS Łódź,Time to be defined
+2024-11-30T00:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Polonia Warszawa,Time to be defined
+2024-12-07T00:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Ruch Chorzów,Time to be defined
+2024-12-07T00:00:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,Wisla Krakow,Time to be defined
+2024-12-07T00:00:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Arka Gdynia,Time to be defined
+2024-12-07T00:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,Górnik Łęczna,Time to be defined
+2024-12-07T00:00:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,Miedz Legnica,Time to be defined
+2024-12-07T00:00:00+00:00,2024,I Liga,Poland,Tychy 71,,,Kotwica Kołobrzeg,Time to be defined
+2024-12-07T00:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,Warta Poznań,Time to be defined
+2024-12-07T00:00:00+00:00,2024,I Liga,Poland,Nieciecza,,,Chrobry Głogów,Time to be defined
+2024-12-07T00:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,Odra Opole,Time to be defined
+2025-02-15T00:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,Ruch Chorzów,Time to be defined
+2025-02-15T00:00:00+00:00,2024,I Liga,Poland,Odra Opole,,,Nieciecza,Time to be defined
+2025-02-15T00:00:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,Wisla Plock,Time to be defined
+2025-02-15T00:00:00+00:00,2024,I Liga,Poland,Warta Poznań,,,Tychy 71,Time to be defined
+2025-02-15T00:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,Stal Stalowa Wola,Time to be defined
+2025-02-15T00:00:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Stal Rzeszów,Time to be defined
+2025-02-15T00:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,ŁKS Łódź,Time to be defined
+2025-02-15T00:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Polonia Warszawa,Time to be defined
+2025-02-15T00:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,Znicz Pruszków,Time to be defined
+2025-02-22T00:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,Wisla Krakow,Time to be defined
+2025-02-22T00:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Arka Gdynia,Time to be defined
+2025-02-22T00:00:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,Górnik Łęczna,Time to be defined
+2025-02-22T00:00:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Miedz Legnica,Time to be defined
+2025-02-22T00:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,Kotwica Kołobrzeg,Time to be defined
+2025-02-22T00:00:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,Warta Poznań,Time to be defined
+2025-02-22T00:00:00+00:00,2024,I Liga,Poland,Tychy 71,,,Chrobry Głogów,Time to be defined
+2025-02-22T00:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,Odra Opole,Time to be defined
+2025-02-22T00:00:00+00:00,2024,I Liga,Poland,Nieciecza,,,Pogoń Siedlce,Time to be defined
+2025-03-01T00:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,Nieciecza,Time to be defined
+2025-03-01T00:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,Wisla Plock,Time to be defined
+2025-03-01T00:00:00+00:00,2024,I Liga,Poland,Odra Opole,,,Tychy 71,Time to be defined
+2025-03-01T00:00:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,Stal Stalowa Wola,Time to be defined
+2025-03-01T00:00:00+00:00,2024,I Liga,Poland,Warta Poznań,,,Stal Rzeszów,Time to be defined
+2025-03-01T00:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,ŁKS Łódź,Time to be defined
+2025-03-01T00:00:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Polonia Warszawa,Time to be defined
+2025-03-01T00:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,Znicz Pruszków,Time to be defined
+2025-03-01T00:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Wisla Krakow,Time to be defined
+2025-03-08T00:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,Arka Gdynia,Time to be defined
+2025-03-08T00:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,Górnik Łęczna,Time to be defined
+2025-03-08T00:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Miedz Legnica,Time to be defined
+2025-03-08T00:00:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,Kotwica Kołobrzeg,Time to be defined
+2025-03-08T00:00:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Warta Poznań,Time to be defined
+2025-03-08T00:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,Chrobry Głogów,Time to be defined
+2025-03-08T00:00:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,Odra Opole,Time to be defined
+2025-03-08T00:00:00+00:00,2024,I Liga,Poland,Tychy 71,,,Pogoń Siedlce,Time to be defined
+2025-03-08T00:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,Nieciecza,Time to be defined
+2025-03-15T00:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,Wisla Plock,Time to be defined
+2025-03-15T00:00:00+00:00,2024,I Liga,Poland,Nieciecza,,,Tychy 71,Time to be defined
+2025-03-15T00:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,Stal Stalowa Wola,Time to be defined
+2025-03-15T00:00:00+00:00,2024,I Liga,Poland,Odra Opole,,,Stal Rzeszów,Time to be defined
+2025-03-15T00:00:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,ŁKS Łódź,Time to be defined
+2025-03-15T00:00:00+00:00,2024,I Liga,Poland,Warta Poznań,,,Polonia Warszawa,Time to be defined
+2025-03-15T00:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,Znicz Pruszków,Time to be defined
+2025-03-15T00:00:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Wisla Krakow,Time to be defined
+2025-03-15T00:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,Arka Gdynia,Time to be defined
+2025-03-29T00:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,Ruch Chorzów,Time to be defined
+2025-03-29T00:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Miedz Legnica,Time to be defined
+2025-03-29T00:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,Kotwica Kołobrzeg,Time to be defined
+2025-03-29T00:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Warta Poznań,Time to be defined
+2025-03-29T00:00:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,Chrobry Głogów,Time to be defined
+2025-03-29T00:00:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Odra Opole,Time to be defined
+2025-03-29T00:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,Pogoń Siedlce,Time to be defined
+2025-03-29T00:00:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,Nieciecza,Time to be defined
+2025-03-29T00:00:00+00:00,2024,I Liga,Poland,Tychy 71,,,Wisla Plock,Time to be defined
+2025-04-05T00:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,Tychy 71,Time to be defined
+2025-04-05T00:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,Stal Stalowa Wola,Time to be defined
+2025-04-05T00:00:00+00:00,2024,I Liga,Poland,Nieciecza,,,Stal Rzeszów,Time to be defined
+2025-04-05T00:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,ŁKS Łódź,Time to be defined
+2025-04-05T00:00:00+00:00,2024,I Liga,Poland,Odra Opole,,,Polonia Warszawa,Time to be defined
+2025-04-05T00:00:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,Znicz Pruszków,Time to be defined
+2025-04-05T00:00:00+00:00,2024,I Liga,Poland,Warta Poznań,,,Wisla Krakow,Time to be defined
+2025-04-05T00:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,Arka Gdynia,Time to be defined
+2025-04-05T00:00:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Górnik Łęczna,Time to be defined
+2025-04-09T00:00:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Ruch Chorzów,Time to be defined
+2025-04-09T00:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,Kotwica Kołobrzeg,Time to be defined
+2025-04-09T00:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Warta Poznań,Time to be defined
+2025-04-09T00:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,Chrobry Głogów,Time to be defined
+2025-04-09T00:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Odra Opole,Time to be defined
+2025-04-09T00:00:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,Pogoń Siedlce,Time to be defined
+2025-04-09T00:00:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Nieciecza,Time to be defined
+2025-04-09T00:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,Wisla Plock,Time to be defined
+2025-04-09T00:00:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,Tychy 71,Time to be defined
+2025-04-12T00:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,Stal Stalowa Wola,Time to be defined
+2025-04-12T00:00:00+00:00,2024,I Liga,Poland,Tychy 71,,,Stal Rzeszów,Time to be defined
+2025-04-12T00:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,ŁKS Łódź,Time to be defined
+2025-04-12T00:00:00+00:00,2024,I Liga,Poland,Nieciecza,,,Polonia Warszawa,Time to be defined
+2025-04-12T00:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,Znicz Pruszków,Time to be defined
+2025-04-12T00:00:00+00:00,2024,I Liga,Poland,Odra Opole,,,Wisla Krakow,Time to be defined
+2025-04-12T00:00:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,Arka Gdynia,Time to be defined
+2025-04-12T00:00:00+00:00,2024,I Liga,Poland,Warta Poznań,,,Górnik Łęczna,Time to be defined
+2025-04-12T00:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,Miedz Legnica,Time to be defined
+2025-04-19T00:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,Ruch Chorzów,Time to be defined
+2025-04-19T00:00:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Warta Poznań,Time to be defined
+2025-04-19T00:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,Chrobry Głogów,Time to be defined
+2025-04-19T00:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Odra Opole,Time to be defined
+2025-04-19T00:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,Pogoń Siedlce,Time to be defined
+2025-04-19T00:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Nieciecza,Time to be defined
+2025-04-19T00:00:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,Wisla Plock,Time to be defined
+2025-04-19T00:00:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Tychy 71,Time to be defined
+2025-04-19T00:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,Stal Stalowa Wola,Time to be defined
+2025-04-26T00:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,Stal Rzeszów,Time to be defined
+2025-04-26T00:00:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,ŁKS Łódź,Time to be defined
+2025-04-26T00:00:00+00:00,2024,I Liga,Poland,Tychy 71,,,Polonia Warszawa,Time to be defined
+2025-04-26T00:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,Znicz Pruszków,Time to be defined
+2025-04-26T00:00:00+00:00,2024,I Liga,Poland,Nieciecza,,,Wisla Krakow,Time to be defined
+2025-04-26T00:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,Arka Gdynia,Time to be defined
+2025-04-26T00:00:00+00:00,2024,I Liga,Poland,Odra Opole,,,Górnik Łęczna,Time to be defined
+2025-04-26T00:00:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,Miedz Legnica,Time to be defined
+2025-04-26T00:00:00+00:00,2024,I Liga,Poland,Warta Poznań,,,Kotwica Kołobrzeg,Time to be defined
+2025-05-03T00:00:00+00:00,2024,I Liga,Poland,Warta Poznań,,,Ruch Chorzów,Time to be defined
+2025-05-03T00:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,Chrobry Głogów,Time to be defined
+2025-05-03T00:00:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Odra Opole,Time to be defined
+2025-05-03T00:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,Pogoń Siedlce,Time to be defined
+2025-05-03T00:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Nieciecza,Time to be defined
+2025-05-03T00:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,Wisla Plock,Time to be defined
+2025-05-03T00:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Tychy 71,Time to be defined
+2025-05-03T00:00:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,Stal Stalowa Wola,Time to be defined
+2025-05-03T00:00:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Stal Rzeszów,Time to be defined
+2025-05-10T00:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,ŁKS Łódź,Time to be defined
+2025-05-10T00:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,Polonia Warszawa,Time to be defined
+2025-05-10T00:00:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,Znicz Pruszków,Time to be defined
+2025-05-10T00:00:00+00:00,2024,I Liga,Poland,Tychy 71,,,Wisla Krakow,Time to be defined
+2025-05-10T00:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,Arka Gdynia,Time to be defined
+2025-05-10T00:00:00+00:00,2024,I Liga,Poland,Nieciecza,,,Górnik Łęczna,Time to be defined
+2025-05-10T00:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,Miedz Legnica,Time to be defined
+2025-05-10T00:00:00+00:00,2024,I Liga,Poland,Odra Opole,,,Kotwica Kołobrzeg,Time to be defined
+2025-05-10T00:00:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,Warta Poznań,Time to be defined
+2025-05-17T00:00:00+00:00,2024,I Liga,Poland,Chrobry Głogów,,,Ruch Chorzów,Time to be defined
+2025-05-17T00:00:00+00:00,2024,I Liga,Poland,Warta Poznań,,,Odra Opole,Time to be defined
+2025-05-17T00:00:00+00:00,2024,I Liga,Poland,Kotwica Kołobrzeg,,,Pogoń Siedlce,Time to be defined
+2025-05-17T00:00:00+00:00,2024,I Liga,Poland,Miedz Legnica,,,Nieciecza,Time to be defined
+2025-05-17T00:00:00+00:00,2024,I Liga,Poland,Górnik Łęczna,,,Wisla Plock,Time to be defined
+2025-05-17T00:00:00+00:00,2024,I Liga,Poland,Arka Gdynia,,,Tychy 71,Time to be defined
+2025-05-17T00:00:00+00:00,2024,I Liga,Poland,Wisla Krakow,,,Stal Stalowa Wola,Time to be defined
+2025-05-17T00:00:00+00:00,2024,I Liga,Poland,Znicz Pruszków,,,Stal Rzeszów,Time to be defined
+2025-05-17T00:00:00+00:00,2024,I Liga,Poland,Polonia Warszawa,,,ŁKS Łódź,Time to be defined
+2025-05-24T00:00:00+00:00,2024,I Liga,Poland,Ruch Chorzów,,,Polonia Warszawa,Time to be defined
+2025-05-24T00:00:00+00:00,2024,I Liga,Poland,ŁKS Łódź,,,Znicz Pruszków,Time to be defined
+2025-05-24T00:00:00+00:00,2024,I Liga,Poland,Stal Rzeszów,,,Wisla Krakow,Time to be defined
+2025-05-24T00:00:00+00:00,2024,I Liga,Poland,Stal Stalowa Wola,,,Arka Gdynia,Time to be defined
+2025-05-24T00:00:00+00:00,2024,I Liga,Poland,Tychy 71,,,Górnik Łęczna,Time to be defined
+2025-05-24T00:00:00+00:00,2024,I Liga,Poland,Wisla Plock,,,Miedz Legnica,Time to be defined
+2025-05-24T00:00:00+00:00,2024,I Liga,Poland,Nieciecza,,,Kotwica Kołobrzeg,Time to be defined
+2025-05-24T00:00:00+00:00,2024,I Liga,Poland,Pogoń Siedlce,,,Warta Poznań,Time to be defined
+2025-05-24T00:00:00+00:00,2024,I Liga,Poland,Odra Opole,,,Chrobry Głogów,Time to be defined

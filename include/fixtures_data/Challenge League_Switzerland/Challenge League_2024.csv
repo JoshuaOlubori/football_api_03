@@ -1,0 +1,91 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-19T17:30:00+00:00,2024,Challenge League,Switzerland,Neuchatel Xamax FC,3,2,Stade Lausanne-Ouchy,Match Finished
+2024-07-19T17:30:00+00:00,2024,Challenge League,Switzerland,FC Schaffhausen,2,3,Étoile Carouge,Match Finished
+2024-07-19T18:15:00+00:00,2024,Challenge League,Switzerland,FC Aarau,1,3,FC Thun,Match Finished
+2024-07-20T16:00:00+00:00,2024,Challenge League,Switzerland,Bellinzona,2,1,FC WIL 1900,Match Finished
+2024-07-21T12:15:00+00:00,2024,Challenge League,Switzerland,FC Vaduz,0,0,Stade Nyonnais,Match Finished
+2024-07-26T17:30:00+00:00,2024,Challenge League,Switzerland,Stade Lausanne-Ouchy,0,1,FC Schaffhausen,Match Finished
+2024-07-26T17:30:00+00:00,2024,Challenge League,Switzerland,Stade Nyonnais,2,1,Bellinzona,Match Finished
+2024-07-26T18:15:00+00:00,2024,Challenge League,Switzerland,Étoile Carouge,3,1,Neuchatel Xamax FC,Match Finished
+2024-07-26T18:15:00+00:00,2024,Challenge League,Switzerland,FC WIL 1900,2,2,FC Aarau,Match Finished
+2024-07-28T14:30:00+00:00,2024,Challenge League,Switzerland,FC Thun,2,0,FC Vaduz,Match Finished
+2024-08-02T17:30:00+00:00,2024,Challenge League,Switzerland,Stade Nyonnais,0,3,FC Schaffhausen,Match Finished
+2024-08-02T18:15:00+00:00,2024,Challenge League,Switzerland,FC Thun,1,1,Stade Lausanne-Ouchy,Match Finished
+2024-08-03T16:00:00+00:00,2024,Challenge League,Switzerland,FC Aarau,1,3,Neuchatel Xamax FC,Match Finished
+2024-08-03T16:00:00+00:00,2024,Challenge League,Switzerland,Bellinzona,1,1,Étoile Carouge,Match Finished
+2024-08-04T12:15:00+00:00,2024,Challenge League,Switzerland,FC Vaduz,3,2,FC WIL 1900,Match Finished
+2024-08-09T17:30:00+00:00,2024,Challenge League,Switzerland,Stade Lausanne-Ouchy,1,1,FC Aarau,Match Finished
+2024-08-09T18:15:00+00:00,2024,Challenge League,Switzerland,Étoile Carouge,0,2,FC Thun,Match Finished
+2024-08-09T18:15:00+00:00,2024,Challenge League,Switzerland,Neuchatel Xamax FC,2,2,Bellinzona,Match Finished
+2024-08-10T16:00:00+00:00,2024,Challenge League,Switzerland,FC WIL 1900,0,3,Stade Nyonnais,Match Finished
+2024-08-11T12:15:00+00:00,2024,Challenge League,Switzerland,FC Schaffhausen,1,1,FC Vaduz,Match Finished
+2024-08-23T18:15:00+00:00,2024,Challenge League,Switzerland,FC WIL 1900,,,Neuchatel Xamax FC,Not Started
+2024-08-24T16:00:00+00:00,2024,Challenge League,Switzerland,FC Aarau,,,Étoile Carouge,Not Started
+2024-08-24T16:00:00+00:00,2024,Challenge League,Switzerland,Bellinzona,,,FC Schaffhausen,Not Started
+2024-08-25T12:15:00+00:00,2024,Challenge League,Switzerland,FC Vaduz,,,Stade Lausanne-Ouchy,Not Started
+2024-08-25T14:30:00+00:00,2024,Challenge League,Switzerland,FC Thun,,,Stade Nyonnais,Not Started
+2024-08-30T17:30:00+00:00,2024,Challenge League,Switzerland,Neuchatel Xamax FC,,,FC Vaduz,Not Started
+2024-08-30T17:30:00+00:00,2024,Challenge League,Switzerland,Stade Nyonnais,,,Stade Lausanne-Ouchy,Not Started
+2024-08-30T18:15:00+00:00,2024,Challenge League,Switzerland,Étoile Carouge,,,FC WIL 1900,Not Started
+2024-08-30T18:15:00+00:00,2024,Challenge League,Switzerland,FC Schaffhausen,,,FC Thun,Not Started
+2024-08-31T16:00:00+00:00,2024,Challenge League,Switzerland,FC Aarau,,,Bellinzona,Not Started
+2024-09-20T17:30:00+00:00,2024,Challenge League,Switzerland,FC Schaffhausen,,,Neuchatel Xamax FC,Not Started
+2024-09-20T17:30:00+00:00,2024,Challenge League,Switzerland,Stade Lausanne-Ouchy,,,FC WIL 1900,Not Started
+2024-09-20T17:30:00+00:00,2024,Challenge League,Switzerland,Stade Nyonnais,,,Étoile Carouge,Not Started
+2024-09-20T18:15:00+00:00,2024,Challenge League,Switzerland,FC Thun,,,Bellinzona,Not Started
+2024-09-20T18:15:00+00:00,2024,Challenge League,Switzerland,FC Vaduz,,,FC Aarau,Not Started
+2024-09-23T17:30:00+00:00,2024,Challenge League,Switzerland,Neuchatel Xamax FC,,,Stade Nyonnais,Not Started
+2024-09-23T17:30:00+00:00,2024,Challenge League,Switzerland,FC WIL 1900,,,FC Thun,Not Started
+2024-09-23T18:15:00+00:00,2024,Challenge League,Switzerland,FC Aarau,,,FC Schaffhausen,Not Started
+2024-09-24T18:15:00+00:00,2024,Challenge League,Switzerland,Bellinzona,,,Stade Lausanne-Ouchy,Not Started
+2024-09-24T18:15:00+00:00,2024,Challenge League,Switzerland,Étoile Carouge,,,FC Vaduz,Not Started
+2024-09-27T17:30:00+00:00,2024,Challenge League,Switzerland,FC Schaffhausen,,,FC WIL 1900,Not Started
+2024-09-27T17:30:00+00:00,2024,Challenge League,Switzerland,Stade Lausanne-Ouchy,,,Étoile Carouge,Not Started
+2024-09-27T17:30:00+00:00,2024,Challenge League,Switzerland,Stade Nyonnais,,,FC Aarau,Not Started
+2024-09-27T18:15:00+00:00,2024,Challenge League,Switzerland,FC Thun,,,Neuchatel Xamax FC,Not Started
+2024-09-29T12:15:00+00:00,2024,Challenge League,Switzerland,FC Vaduz,,,Bellinzona,Not Started
+2024-10-04T00:00:00+00:00,2024,Challenge League,Switzerland,FC Aarau,,,FC Vaduz,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Challenge League,Switzerland,Bellinzona,,,FC Thun,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Challenge League,Switzerland,Étoile Carouge,,,Stade Nyonnais,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Challenge League,Switzerland,Neuchatel Xamax FC,,,FC Schaffhausen,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Challenge League,Switzerland,FC WIL 1900,,,Stade Lausanne-Ouchy,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Challenge League,Switzerland,Neuchatel Xamax FC,,,Étoile Carouge,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Challenge League,Switzerland,FC Schaffhausen,,,FC Aarau,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Challenge League,Switzerland,Stade Lausanne-Ouchy,,,Bellinzona,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Challenge League,Switzerland,Stade Nyonnais,,,FC WIL 1900,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Challenge League,Switzerland,FC Vaduz,,,FC Thun,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Challenge League,Switzerland,FC Aarau,,,Stade Nyonnais,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Challenge League,Switzerland,Bellinzona,,,Neuchatel Xamax FC,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Challenge League,Switzerland,Étoile Carouge,,,Stade Lausanne-Ouchy,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Challenge League,Switzerland,FC Thun,,,FC Schaffhausen,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Challenge League,Switzerland,FC WIL 1900,,,FC Vaduz,Time to be defined
+2024-11-01T00:00:00+00:00,2024,Challenge League,Switzerland,Étoile Carouge,,,FC Aarau,Time to be defined
+2024-11-01T00:00:00+00:00,2024,Challenge League,Switzerland,Neuchatel Xamax FC,,,FC WIL 1900,Time to be defined
+2024-11-01T00:00:00+00:00,2024,Challenge League,Switzerland,FC Schaffhausen,,,Bellinzona,Time to be defined
+2024-11-01T00:00:00+00:00,2024,Challenge League,Switzerland,Stade Lausanne-Ouchy,,,FC Vaduz,Time to be defined
+2024-11-01T00:00:00+00:00,2024,Challenge League,Switzerland,Stade Nyonnais,,,FC Thun,Time to be defined
+2024-11-08T00:00:00+00:00,2024,Challenge League,Switzerland,Bellinzona,,,FC Aarau,Time to be defined
+2024-11-08T00:00:00+00:00,2024,Challenge League,Switzerland,Stade Lausanne-Ouchy,,,Stade Nyonnais,Time to be defined
+2024-11-08T00:00:00+00:00,2024,Challenge League,Switzerland,FC Thun,,,Étoile Carouge,Time to be defined
+2024-11-08T00:00:00+00:00,2024,Challenge League,Switzerland,FC Vaduz,,,Neuchatel Xamax FC,Time to be defined
+2024-11-08T00:00:00+00:00,2024,Challenge League,Switzerland,FC WIL 1900,,,FC Schaffhausen,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Challenge League,Switzerland,FC Aarau,,,FC WIL 1900,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Challenge League,Switzerland,Étoile Carouge,,,Bellinzona,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Challenge League,Switzerland,Neuchatel Xamax FC,,,FC Thun,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Challenge League,Switzerland,FC Schaffhausen,,,Stade Lausanne-Ouchy,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Challenge League,Switzerland,Stade Nyonnais,,,FC Vaduz,Time to be defined
+2024-11-29T00:00:00+00:00,2024,Challenge League,Switzerland,Bellinzona,,,Stade Nyonnais,Time to be defined
+2024-11-29T00:00:00+00:00,2024,Challenge League,Switzerland,Stade Lausanne-Ouchy,,,Neuchatel Xamax FC,Time to be defined
+2024-11-29T00:00:00+00:00,2024,Challenge League,Switzerland,FC Thun,,,FC Aarau,Time to be defined
+2024-11-29T00:00:00+00:00,2024,Challenge League,Switzerland,FC Vaduz,,,FC Schaffhausen,Time to be defined
+2024-11-29T00:00:00+00:00,2024,Challenge League,Switzerland,FC WIL 1900,,,Étoile Carouge,Time to be defined
+2024-12-06T00:00:00+00:00,2024,Challenge League,Switzerland,FC Aarau,,,Stade Lausanne-Ouchy,Time to be defined
+2024-12-06T00:00:00+00:00,2024,Challenge League,Switzerland,Bellinzona,,,FC Vaduz,Time to be defined
+2024-12-06T00:00:00+00:00,2024,Challenge League,Switzerland,Étoile Carouge,,,FC Schaffhausen,Time to be defined
+2024-12-06T00:00:00+00:00,2024,Challenge League,Switzerland,Stade Nyonnais,,,Neuchatel Xamax FC,Time to be defined
+2024-12-06T00:00:00+00:00,2024,Challenge League,Switzerland,FC Thun,,,FC WIL 1900,Time to be defined
+2024-12-13T00:00:00+00:00,2024,Challenge League,Switzerland,Neuchatel Xamax FC,,,FC Aarau,Time to be defined
+2024-12-13T00:00:00+00:00,2024,Challenge League,Switzerland,FC Schaffhausen,,,Stade Nyonnais,Time to be defined
+2024-12-13T00:00:00+00:00,2024,Challenge League,Switzerland,Stade Lausanne-Ouchy,,,FC Thun,Time to be defined
+2024-12-13T00:00:00+00:00,2024,Challenge League,Switzerland,FC Vaduz,,,Étoile Carouge,Time to be defined
+2024-12-13T00:00:00+00:00,2024,Challenge League,Switzerland,FC WIL 1900,,,Bellinzona,Time to be defined

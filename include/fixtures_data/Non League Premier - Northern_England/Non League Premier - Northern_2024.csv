@@ -1,0 +1,463 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,2,2,Blyth Spartans,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,2,0,Workington,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,1,0,Rylands,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,1,1,Mickleover Sports,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,2,2,Gainsborough Trinity,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,3,2,Basford United,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,0,2,Stockton Town,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,0,1,United of Manchester,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,0,0,Matlock Town,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,0,1,Macclesfield,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,1,2,Hyde United,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Northern,England,Basford United,0,1,Leek Town,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,0,1,Hebburn Town,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,0,1,Worksop Town,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,3,1,Morpeth Town,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,1,0,Prescot Cables,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,0,2,Whitby Town,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,1,3,Ilkeston Town,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Northern,England,Rylands,3,4,Ashton United,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Northern,England,Workington,1,1,Lancaster City,Match Finished
+2024-08-14T18:45:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Guiseley AFC,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Worksop Town,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Morpeth Town,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Lancaster City,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Ilkeston Town,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Ashton United,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Guiseley AFC,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Hyde United,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Hebburn Town,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Prescot Cables,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Leek Town,Not Started
+2024-08-20T18:45:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Bamber Bridge,Not Started
+2024-08-20T18:45:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Blyth Spartans,Not Started
+2024-08-20T18:45:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Gainsborough Trinity,Not Started
+2024-08-20T18:45:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Basford United,Not Started
+2024-08-20T18:45:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Macclesfield,Not Started
+2024-08-20T18:45:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Rylands,Not Started
+2024-08-20T18:45:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Mickleover Sports,Not Started
+2024-08-20T18:45:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Stockton Town,Not Started
+2024-08-20T18:45:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Workington,Not Started
+2024-08-20T18:45:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,United of Manchester,Not Started
+2024-08-20T18:45:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Matlock Town,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Workington,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,United of Manchester,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Basford United,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Stockton Town,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Bamber Bridge,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Matlock Town,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Gainsborough Trinity,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Rylands,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Mickleover Sports,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Macclesfield,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Blyth Spartans,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Guiseley AFC,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Ilkeston Town,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Morpeth Town,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Ashton United,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Worksop Town,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Hyde United,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Leek Town,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Lancaster City,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Whitby Town,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Prescot Cables,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Hebburn Town,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Morpeth Town,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Basford United,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Lancaster City,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Hyde United,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Bamber Bridge,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Whitby Town,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Worksop Town,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Matlock Town,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Blyth Spartans,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Macclesfield,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Rylands,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Prescot Cables,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Mickleover Sports,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Workington,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Leek Town,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Stockton Town,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Ashton United,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Gainsborough Trinity,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Hebburn Town,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,United of Manchester,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Ilkeston Town,Not Started
+2024-09-14T14:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Stockton Town,Not Started
+2024-09-14T14:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Guiseley AFC,Not Started
+2024-09-14T14:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,United of Manchester,Not Started
+2024-09-14T14:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Hebburn Town,Not Started
+2024-09-14T14:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Leek Town,Not Started
+2024-09-14T14:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Gainsborough Trinity,Not Started
+2024-09-14T14:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Workington,Not Started
+2024-09-14T14:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Ilkeston Town,Not Started
+2024-09-14T14:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Mickleover Sports,Not Started
+2024-09-14T14:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Prescot Cables,Not Started
+2024-09-17T18:45:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Matlock Town,Not Started
+2024-09-17T18:45:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Macclesfield,Not Started
+2024-09-17T18:45:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Basford United,Not Started
+2024-09-17T18:45:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Morpeth Town,Not Started
+2024-09-17T18:45:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Whitby Town,Not Started
+2024-09-17T18:45:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Hyde United,Not Started
+2024-09-17T18:45:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Rylands,Not Started
+2024-09-17T18:45:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Worksop Town,Not Started
+2024-09-17T18:45:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Lancaster City,Not Started
+2024-09-17T18:45:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Bamber Bridge,Not Started
+2024-09-18T18:45:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Blyth Spartans,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Prescot Cables,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Macclesfield,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Matlock Town,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Stockton Town,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Worksop Town,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Lancaster City,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Ilkeston Town,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Blyth Spartans,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Hyde United,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Bamber Bridge,Not Started
+2024-09-28T14:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Mickleover Sports,Not Started
+2024-09-28T14:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Basford United,Not Started
+2024-09-28T14:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,United of Manchester,Not Started
+2024-09-28T14:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Ashton United,Not Started
+2024-09-28T14:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Guiseley AFC,Not Started
+2024-09-28T14:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Hebburn Town,Not Started
+2024-09-28T14:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Rylands,Not Started
+2024-09-28T14:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Leek Town,Not Started
+2024-09-28T14:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Workington,Not Started
+2024-09-28T14:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Morpeth Town,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Worksop Town,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Bamber Bridge,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Lancaster City,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Hyde United,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Prescot Cables,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Matlock Town,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Blyth Spartans,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Macclesfield,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Stockton Town,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Ilkeston Town,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,United of Manchester,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Gainsborough Trinity,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Workington,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Guiseley AFC,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Ashton United,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Rylands,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Basford United,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Morpeth Town,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Mickleover Sports,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Leek Town,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Hebburn Town,Not Started
+2024-10-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Guiseley AFC,Not Started
+2024-10-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Stockton Town,Not Started
+2024-10-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Bamber Bridge,Not Started
+2024-10-26T14:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Workington,Not Started
+2024-10-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Rylands,Not Started
+2024-10-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Hyde United,Not Started
+2024-10-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Hebburn Town,Not Started
+2024-10-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Macclesfield,Not Started
+2024-10-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Mickleover Sports,Not Started
+2024-10-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Ilkeston Town,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Morpeth Town,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Leek Town,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,United of Manchester,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Ashton United,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Blyth Spartans,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Lancaster City,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Gainsborough Trinity,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Matlock Town,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Basford United,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Prescot Cables,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Worksop Town,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Workington,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Prescot Cables,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Worksop Town,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Ilkeston Town,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,United of Manchester,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Morpeth Town,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Bamber Bridge,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Guiseley AFC,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Ashton United,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Blyth Spartans,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Leek Town,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Macclesfield,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Matlock Town,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Gainsborough Trinity,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Hebburn Town,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Stockton Town,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Lancaster City,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Hyde United,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Mickleover Sports,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Basford United,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Rylands,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Prescot Cables,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Bamber Bridge,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Ashton United,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Whitby Town,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Worksop Town,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Morpeth Town,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Blyth Spartans,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Guiseley AFC,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Workington,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,United of Manchester,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Ilkeston Town,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Basford United,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Leek Town,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Hyde United,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Mickleover Sports,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Rylands,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Hebburn Town,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Matlock Town,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Gainsborough Trinity,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Macclesfield,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Stockton Town,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Macclesfield,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Rylands,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Matlock Town,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Whitby Town,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Morpeth Town,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Worksop Town,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Hyde United,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Basford United,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Bamber Bridge,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Lancaster City,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Blyth Spartans,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Hebburn Town,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,United of Manchester,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Prescot Cables,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Guiseley AFC,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Gainsborough Trinity,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Stockton Town,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Mickleover Sports,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Ashton United,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Workington,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Leek Town,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Rylands,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Stockton Town,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Blyth Spartans,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Bamber Bridge,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Mickleover Sports,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Workington,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Basford United,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Gainsborough Trinity,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Macclesfield,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Matlock Town,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,United of Manchester,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Lancaster City,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Worksop Town,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Prescot Cables,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Guiseley AFC,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Leek Town,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Ilkeston Town,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Ashton United,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Hebburn Town,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Hyde United,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Morpeth Town,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,United of Manchester,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Bamber Bridge,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Workington,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Macclesfield,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Basford United,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Mickleover Sports,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Matlock Town,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Blyth Spartans,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Rylands,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Stockton Town,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Gainsborough Trinity,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Whitby Town,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Lancaster City,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Ashton United,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Morpeth Town,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Ilkeston Town,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Worksop Town,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Prescot Cables,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Hyde United,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Leek Town,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Hebburn Town,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Guiseley AFC,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Workington,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Gainsborough Trinity,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Stockton Town,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Ilkeston Town,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Prescot Cables,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,United of Manchester,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Ashton United,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Guiseley AFC,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Leek Town,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Mickleover Sports,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Whitby Town,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Blyth Spartans,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Macclesfield,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Basford United,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Hyde United,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Morpeth Town,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Lancaster City,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Rylands,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Worksop Town,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Bamber Bridge,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Matlock Town,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Rylands,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Mickleover Sports,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Morpeth Town,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Leek Town,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Hebburn Town,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Basford United,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,United of Manchester,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Ashton United,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Gainsborough Trinity,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Guiseley AFC,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Ilkeston Town,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Blyth Spartans,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Hyde United,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Whitby Town,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Lancaster City,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Macclesfield,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Prescot Cables,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Bamber Bridge,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Worksop Town,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Matlock Town,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Stockton Town,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Basford United,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Leek Town,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Gainsborough Trinity,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Workington,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,United of Manchester,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Mickleover Sports,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Hebburn Town,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Guiseley AFC,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Rylands,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Morpeth Town,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Ashton United,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Lancaster City,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Matlock Town,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Bamber Bridge,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Blyth Spartans,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Ilkeston Town,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Worksop Town,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Whitby Town,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Stockton Town,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Prescot Cables,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Macclesfield,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Hyde United,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Hyde United,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Rylands,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Ilkeston Town,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Hebburn Town,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Mickleover Sports,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Macclesfield,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Guiseley AFC,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Stockton Town,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Bamber Bridge,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Workington,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Blyth Spartans,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Ashton United,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Leek Town,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Lancaster City,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Prescot Cables,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Matlock Town,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Morpeth Town,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Basford United,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Gainsborough Trinity,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Worksop Town,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,United of Manchester,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Stockton Town,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Matlock Town,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Rylands,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Leek Town,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Mickleover Sports,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Lancaster City,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Macclesfield,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Hebburn Town,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Basford United,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Gainsborough Trinity,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Hyde United,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Workington,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,United of Manchester,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Guiseley AFC,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Prescot Cables,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Morpeth Town,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Ashton United,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Bamber Bridge,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Blyth Spartans,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Whitby Town,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Ilkeston Town,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Worksop Town,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Hebburn Town,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Gainsborough Trinity,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Macclesfield,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Stockton Town,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Matlock Town,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Rylands,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Leek Town,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Basford United,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Hyde United,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Mickleover Sports,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Lancaster City,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Ashton United,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Prescot Cables,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Ilkeston Town,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Blyth Spartans,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Bamber Bridge,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Workington,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Morpeth Town,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,United of Manchester,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Worksop Town,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Guiseley AFC,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Gainsborough Trinity,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Macclesfield,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Mickleover Sports,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Matlock Town,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,United of Manchester,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Blyth Spartans,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Workington,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Basford United,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Stockton Town,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Rylands,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Bamber Bridge,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Ashton United,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Hyde United,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Guiseley AFC,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Hebburn Town,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Ilkeston Town,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Worksop Town,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Leek Town,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Morpeth Town,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Lancaster City,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Prescot Cables,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Ashton United,,,Mickleover Sports,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Guiseley AFC,,,Gainsborough Trinity,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Hebburn Town,,,Stockton Town,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Hyde United,,,Rylands,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Ilkeston Town,,,Matlock Town,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Bamber Bridge,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Leek Town,,,Macclesfield,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Workington,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,United of Manchester,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Basford United,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Bamber Bridge,,,Ilkeston Town,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Hebburn Town,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Worksop Town,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Guiseley AFC,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Gainsborough Trinity,,,Leek Town,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Matlock Town,,,Lancaster City,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Mickleover Sports,,,Prescot Cables,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Stockton Town,,,Hyde United,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Morpeth Town,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Ashton United,Not Started
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,1,2,Bamber Bridge,Match Finished
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Northern,England,Rylands,,,Whitby Town,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Guiseley AFC,Not Started
+2024-09-14T14:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Ashton United,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Workington,,,Whitby Town,Not Started
+2024-09-28T14:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Gainsborough Trinity,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Northern,England,Morpeth Town,,,Whitby Town,Not Started
+2024-10-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Worksop Town,,,Whitby Town,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Northern,England,Basford United,,,Whitby Town,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Lancaster City,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Ilkeston Town,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Northern,England,Blyth Spartans,,,Whitby Town,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Hebburn Town,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Workington,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Northern,England,Prescot Cables,,,Whitby Town,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Northern,England,Lancaster City,,,Whitby Town,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Northern,England,United of Manchester,,,Whitby Town,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Northern,England,Whitby Town,,,Blyth Spartans,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Northern,England,Macclesfield,,,Whitby Town,Not Started

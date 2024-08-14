@@ -1,0 +1,241 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-13T14:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,1,0,Politehnica Iasi,Match Finished
+2024-07-15T18:30:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,0,0,SCM Gloria Buzău,Match Finished
+2024-07-14T16:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,3,2,Dinamo Bucuresti,Match Finished
+2024-07-13T16:15:00+00:00,2024,Liga I,Romania,Uta Arad,1,1,Rapid,Match Finished
+2024-07-12T18:30:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,0,0,Universitatea Craiova,Match Finished
+2024-07-13T19:00:00+00:00,2024,Liga I,Romania,FCSB,1,1,Universitatea Cluj,Match Finished
+2024-07-12T15:30:00+00:00,2024,Liga I,Romania,Farul Constanta,0,1,Unirea Slobozia,Match Finished
+2024-07-15T15:30:00+00:00,2024,Liga I,Romania,FC Botosani,2,3,Oţelul,Match Finished
+2024-07-22T16:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,1,2,Sepsi OSK Sfantu Gheorghe,Match Finished
+2024-07-21T19:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,4,1,Petrolul Ploiesti,Match Finished
+2024-07-20T19:00:00+00:00,2024,Liga I,Romania,Rapid,2,2,CFR 1907 Cluj,Match Finished
+2024-07-20T16:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,4,2,Uta Arad,Match Finished
+2024-07-21T16:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,3,1,AFC Hermannstadt,Match Finished
+2024-07-19T19:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,2,2,FCSB,Match Finished
+2024-07-22T19:00:00+00:00,2024,Liga I,Romania,Oţelul,0,0,Farul Constanta,Match Finished
+2024-07-19T16:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,1,0,FC Botosani,Match Finished
+2024-07-27T19:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,1,1,Dinamo Bucuresti,Match Finished
+2024-07-29T19:00:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,1,0,Rapid,Match Finished
+2024-07-28T19:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,0,2,Universitatea Craiova,Match Finished
+2024-07-29T16:00:00+00:00,2024,Liga I,Romania,Uta Arad,0,0,Universitatea Cluj,Match Finished
+2024-07-26T16:00:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,1,1,Unirea Slobozia,Match Finished
+2024-07-26T19:00:00+00:00,2024,Liga I,Romania,FCSB,0,2,Oţelul,Match Finished
+2024-07-28T16:00:00+00:00,2024,Liga I,Romania,Farul Constanta,0,1,FC Botosani,Match Finished
+2024-07-27T16:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,1,2,SCM Gloria Buzău,Match Finished
+2024-08-05T19:00:00+00:00,2024,Liga I,Romania,Rapid,2,2,Sepsi OSK Sfantu Gheorghe,Match Finished
+2024-08-04T16:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,0,0,Petrolul Ploiesti,Match Finished
+2024-12-07T00:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,,,CFR 1907 Cluj,Time to be defined
+2024-08-05T16:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,0,1,Uta Arad,Match Finished
+2024-08-02T16:00:00+00:00,2024,Liga I,Romania,Oţelul,1,0,AFC Hermannstadt,Match Finished
+2024-09-18T19:00:00+00:00,2024,Liga I,Romania,FC Botosani,,,FCSB,Time to be defined
+2024-08-02T19:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,4,1,SCM Gloria Buzău,Match Finished
+2024-08-03T18:00:00+00:00,2024,Liga I,Romania,Farul Constanta,2,0,Politehnica Iasi,Match Finished
+2024-08-11T16:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,1,2,Universitatea Craiova,Match Finished
+2024-08-12T16:00:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,0,0,Universitatea Cluj,Match Finished
+2024-08-11T19:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,3,0,Unirea Slobozia,Match Finished
+2024-08-10T16:00:00+00:00,2024,Liga I,Romania,Uta Arad,1,1,Oţelul,Match Finished
+2024-08-10T14:00:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,2,1,FC Botosani,Match Finished
+2024-08-10T19:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,1,1,Rapid,Match Finished
+2024-08-09T18:00:00+00:00,2024,Liga I,Romania,FCSB,3,2,Farul Constanta,Match Finished
+2024-08-12T19:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,2,2,Dinamo Bucuresti,Match Finished
+2024-08-19T16:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,,,Sepsi OSK Sfantu Gheorghe,Not Started
+2024-08-16T16:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,,,Petrolul Ploiesti,Not Started
+2024-08-17T15:00:00+00:00,2024,Liga I,Romania,Oţelul,,,CFR 1907 Cluj,Not Started
+2024-08-17T16:00:00+00:00,2024,Liga I,Romania,FC Botosani,,,Uta Arad,Not Started
+2024-08-16T19:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,,,SCM Gloria Buzău,Not Started
+2024-08-19T19:00:00+00:00,2024,Liga I,Romania,Farul Constanta,,,AFC Hermannstadt,Not Started
+2024-08-18T18:30:00+00:00,2024,Liga I,Romania,Rapid,,,Dinamo Bucuresti,Not Started
+2024-08-17T19:00:00+00:00,2024,Liga I,Romania,FCSB,,,Politehnica Iasi,Not Started
+2024-08-24T00:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,,,Unirea Slobozia,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,,,Oţelul,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,,,FC Botosani,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,,,Universitatea Cluj,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Liga I,Romania,Uta Arad,,,Farul Constanta,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,,,Universitatea Craiova,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,,,FCSB,Time to be defined
+2024-08-24T00:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,,,Rapid,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Liga I,Romania,Oţelul,,,Sepsi OSK Sfantu Gheorghe,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Liga I,Romania,FC Botosani,,,Petrolul Ploiesti,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,,,SCM Gloria Buzău,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Liga I,Romania,Farul Constanta,,,CFR 1907 Cluj,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,,,Dinamo Bucuresti,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Liga I,Romania,FCSB,,,Uta Arad,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,,,Rapid,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,,,Politehnica Iasi,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,,,FC Botosani,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,,,Oţelul,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,,,Farul Constanta,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,,,Unirea Slobozia,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,,,FCSB,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Liga I,Romania,Rapid,,,Universitatea Cluj,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Liga I,Romania,Uta Arad,,,AFC Hermannstadt,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,,,Universitatea Craiova,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Liga I,Romania,Farul Constanta,,,Sepsi OSK Sfantu Gheorghe,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Liga I,Romania,FC Botosani,,,SCM Gloria Buzău,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Liga I,Romania,Oţelul,,,Dinamo Bucuresti,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Liga I,Romania,FCSB,,,Petrolul Ploiesti,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,,,Rapid,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,,,CFR 1907 Cluj,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,,,Universitatea Craiova,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Liga I,Romania,Uta Arad,,,Politehnica Iasi,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,,,FCSB,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,,,Farul Constanta,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,,,FC Botosani,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Liga I,Romania,Rapid,,,Oţelul,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,,,AFC Hermannstadt,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,,,Unirea Slobozia,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,,,Uta Arad,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,,,Universitatea Cluj,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,,,Sepsi OSK Sfantu Gheorghe,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Liga I,Romania,FCSB,,,SCM Gloria Buzău,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Liga I,Romania,Farul Constanta,,,Dinamo Bucuresti,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Liga I,Romania,FC Botosani,,,Rapid,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Liga I,Romania,Oţelul,,,Universitatea Craiova,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Liga I,Romania,Uta Arad,,,Petrolul Ploiesti,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,,,Universitatea Cluj,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,,,Politehnica Iasi,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,,,Uta Arad,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,,,AFC Hermannstadt,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,,,FCSB,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Liga I,Romania,Rapid,,,Farul Constanta,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,,,FC Botosani,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,,,Oţelul,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,,,CFR 1907 Cluj,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,,,Unirea Slobozia,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,,,Sepsi OSK Sfantu Gheorghe,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Liga I,Romania,Uta Arad,,,SCM Gloria Buzău,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,,,Dinamo Bucuresti,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Liga I,Romania,FCSB,,,Rapid,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Liga I,Romania,Farul Constanta,,,Universitatea Craiova,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Liga I,Romania,FC Botosani,,,Universitatea Cluj,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Liga I,Romania,Oţelul,,,Unirea Slobozia,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,,,Politehnica Iasi,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,,,Petrolul Ploiesti,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,,,CFR 1907 Cluj,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,,,Uta Arad,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Liga I,Romania,Rapid,,,AFC Hermannstadt,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,,,FCSB,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,,,Farul Constanta,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,,,FC Botosani,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,,,Oţelul,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,,,Sepsi OSK Sfantu Gheorghe,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,,,Petrolul Ploiesti,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,,,CFR 1907 Cluj,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Liga I,Romania,Rapid,,,Uta Arad,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,,,AFC Hermannstadt,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,,,FCSB,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,,,Farul Constanta,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Liga I,Romania,Oţelul,,,FC Botosani,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,,,SCM Gloria Buzău,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,,,Dinamo Bucuresti,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,,,Rapid,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Liga I,Romania,Uta Arad,,,Universitatea Craiova,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,,,Universitatea Cluj,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Liga I,Romania,FCSB,,,Unirea Slobozia,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Liga I,Romania,Farul Constanta,,,Oţelul,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Liga I,Romania,FC Botosani,,,Politehnica Iasi,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,,,Sepsi OSK Sfantu Gheorghe,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Liga I,Romania,Rapid,,,Petrolul Ploiesti,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,,,CFR 1907 Cluj,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,,,Uta Arad,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,,,AFC Hermannstadt,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Liga I,Romania,Oţelul,,,FCSB,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Liga I,Romania,FC Botosani,,,Farul Constanta,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,,,Politehnica Iasi,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,,,Rapid,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,,,Universitatea Craiova,Time to be defined
+2024-08-04T19:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,2,3,Universitatea Cluj,Match Finished
+2024-12-07T00:00:00+00:00,2024,Liga I,Romania,Uta Arad,,,Unirea Slobozia,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,,,Oţelul,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Liga I,Romania,FCSB,,,FC Botosani,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,,,Dinamo Bucuresti,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,,,Farul Constanta,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,,,Sepsi OSK Sfantu Gheorghe,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,,,Petrolul Ploiesti,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,,,CFR 1907 Cluj,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Liga I,Romania,Oţelul,,,Uta Arad,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Liga I,Romania,FC Botosani,,,AFC Hermannstadt,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Liga I,Romania,Rapid,,,SCM Gloria Buzău,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Liga I,Romania,Farul Constanta,,,FCSB,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,,,Politehnica Iasi,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,,,Universitatea Cluj,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,,,Unirea Slobozia,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,,,Oţelul,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Liga I,Romania,Uta Arad,,,FC Botosani,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,,,Universitatea Craiova,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,,,Farul Constanta,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,,,Rapid,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,,,FCSB,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,,,Sepsi OSK Sfantu Gheorghe,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Liga I,Romania,Oţelul,,,Petrolul Ploiesti,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Liga I,Romania,FC Botosani,,,CFR 1907 Cluj,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,,,SCM Gloria Buzău,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Liga I,Romania,Farul Constanta,,,Uta Arad,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,,,Dinamo Bucuresti,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Liga I,Romania,FCSB,,,AFC Hermannstadt,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Liga I,Romania,Rapid,,,Politehnica Iasi,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,,,Oţelul,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,,,FC Botosani,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,,,Unirea Slobozia,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,,,Farul Constanta,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,,,Universitatea Cluj,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Liga I,Romania,Uta Arad,,,FCSB,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Liga I,Romania,Rapid,,,Universitatea Craiova,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,,,AFC Hermannstadt,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Liga I,Romania,FC Botosani,,,Sepsi OSK Sfantu Gheorghe,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Liga I,Romania,Oţelul,,,SCM Gloria Buzău,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Liga I,Romania,Farul Constanta,,,Petrolul Ploiesti,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,,,Dinamo Bucuresti,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Liga I,Romania,FCSB,,,CFR 1907 Cluj,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,,,Rapid,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,,,Uta Arad,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,,,Politehnica Iasi,Time to be defined
+2025-02-05T00:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,,,Farul Constanta,Time to be defined
+2025-02-05T00:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,,,FC Botosani,Time to be defined
+2025-02-05T00:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,,,Oţelul,Time to be defined
+2025-02-05T00:00:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,,,FCSB,Time to be defined
+2025-02-05T00:00:00+00:00,2024,Liga I,Romania,Rapid,,,Unirea Slobozia,Time to be defined
+2025-02-05T00:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,,,AFC Hermannstadt,Time to be defined
+2025-02-05T00:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,,,Universitatea Cluj,Time to be defined
+2025-02-05T00:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,,,Uta Arad,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Liga I,Romania,FCSB,,,Sepsi OSK Sfantu Gheorghe,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Liga I,Romania,Farul Constanta,,,SCM Gloria Buzău,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Liga I,Romania,FC Botosani,,,Dinamo Bucuresti,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Liga I,Romania,Oţelul,,,Rapid,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,,,Petrolul Ploiesti,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,,,Universitatea Craiova,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Liga I,Romania,Uta Arad,,,CFR 1907 Cluj,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,,,Politehnica Iasi,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,,,AFC Hermannstadt,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,,,FCSB,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,,,Farul Constanta,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Liga I,Romania,Rapid,,,FC Botosani,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,,,Oţelul,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,,,Uta Arad,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,,,Unirea Slobozia,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,,,CFR 1907 Cluj,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Liga I,Romania,Uta Arad,,,Sepsi OSK Sfantu Gheorghe,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,,,SCM Gloria Buzău,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Liga I,Romania,FCSB,,,Dinamo Bucuresti,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Liga I,Romania,Farul Constanta,,,Rapid,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Liga I,Romania,FC Botosani,,,Universitatea Craiova,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Liga I,Romania,Oţelul,,,Universitatea Cluj,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,,,Petrolul Ploiesti,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,,,Politehnica Iasi,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Liga I,Romania,Sepsi OSK Sfantu Gheorghe,,,CFR 1907 Cluj,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Liga I,Romania,SCM Gloria Buzău,,,Uta Arad,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Liga I,Romania,Dinamo Bucuresti,,,AFC Hermannstadt,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Liga I,Romania,Rapid,,,FCSB,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Liga I,Romania,Universitatea Craiova,,,Farul Constanta,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Liga I,Romania,Universitatea Cluj,,,FC Botosani,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Liga I,Romania,Unirea Slobozia,,,Oţelul,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Liga I,Romania,Politehnica Iasi,,,Petrolul Ploiesti,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Liga I,Romania,Petrolul Ploiesti,,,Sepsi OSK Sfantu Gheorghe,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Liga I,Romania,CFR 1907 Cluj,,,SCM Gloria Buzău,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Liga I,Romania,Uta Arad,,,Dinamo Bucuresti,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Liga I,Romania,AFC Hermannstadt,,,Rapid,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Liga I,Romania,FCSB,,,Universitatea Craiova,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Liga I,Romania,Farul Constanta,,,Universitatea Cluj,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Liga I,Romania,FC Botosani,,,Unirea Slobozia,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Liga I,Romania,Oţelul,,,Politehnica Iasi,Time to be defined

@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-02-24T05:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,1,0,Iwaki,Match Finished
+2024-02-25T05:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,1,1,Kagoshima United,Match Finished
+2024-02-25T04:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,2,3,Montedio Yamagata,Match Finished
+2024-02-24T05:00:00+00:00,2024,J2 League,Japan,Yokohama FC,1,1,Renofa Yamaguchi,Match Finished
+2024-02-24T05:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,0,0,V-varen Nagasaki,Match Finished
+2024-02-25T04:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,3,0,Tochigi SC,Match Finished
+2024-02-25T05:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,1,5,Ventforet Kofu,Match Finished
+2024-02-25T03:50:00+00:00,2024,J2 League,Japan,Ehime FC,1,0,Blaublitz Akita,Match Finished
+2024-02-25T04:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,1,2,Shimizu S-pulse,Match Finished
+2024-02-25T05:00:00+00:00,2024,J2 League,Japan,Oita Trinita,1,1,Vegalta Sendai,Match Finished
+2024-03-02T04:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,1,2,Vegalta Sendai,Match Finished
+2024-03-02T05:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,1,2,Ventforet Kofu,Match Finished
+2024-03-02T05:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,4,0,Fujieda MYFC,Match Finished
+2024-03-02T05:00:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,2,0,Ehime FC,Match Finished
+2024-03-02T05:00:00+00:00,2024,J2 League,Japan,Oita Trinita,0,0,Yokohama FC,Match Finished
+2024-03-02T06:05:00+00:00,2024,J2 League,Japan,Kagoshima United,2,1,Tokushima Vortis,Match Finished
+2024-03-03T04:00:00+00:00,2024,J2 League,Japan,Iwaki,1,1,Fagiano Okayama,Match Finished
+2024-03-03T04:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,2,0,Blaublitz Akita,Match Finished
+2024-03-03T04:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,1,1,Thespakusatsu Gunma,Match Finished
+2024-03-03T05:00:00+00:00,2024,J2 League,Japan,Tochigi SC,1,3,Montedio Yamagata,Match Finished
+2024-03-09T05:00:00+00:00,2024,J2 League,Japan,Iwaki,3,1,Kagoshima United,Match Finished
+2024-03-09T05:00:00+00:00,2024,J2 League,Japan,Yokohama FC,2,0,Montedio Yamagata,Match Finished
+2024-03-09T05:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,1,2,Tochigi SC,Match Finished
+2024-03-09T05:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,1,2,Blaublitz Akita,Match Finished
+2024-03-10T04:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,1,0,Mito Hollyhock,Match Finished
+2024-03-10T05:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,0,1,Oita Trinita,Match Finished
+2024-03-10T05:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,1,0,Renofa Yamaguchi,Match Finished
+2024-03-10T05:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,4,1,Shimizu S-pulse,Match Finished
+2024-03-10T06:00:00+00:00,2024,J2 League,Japan,Ehime FC,2,3,Roasso Kumamoto,Match Finished
+2024-03-10T08:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,1,3,JEF United Chiba,Match Finished
+2024-03-16T05:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,0,0,Vegalta Sendai,Match Finished
+2024-03-16T05:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,0,1,Ventforet Kofu,Match Finished
+2024-03-16T05:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,1,2,Tokushima Vortis,Match Finished
+2024-03-16T05:00:00+00:00,2024,J2 League,Japan,Tochigi SC,1,0,Yokohama FC,Match Finished
+2024-03-16T05:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,0,1,Ehime FC,Match Finished
+2024-03-16T05:00:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,2,0,Oita Trinita,Match Finished
+2024-03-16T05:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,0,1,Fagiano Okayama,Match Finished
+2024-03-16T06:00:00+00:00,2024,J2 League,Japan,Kagoshima United,4,2,JEF United Chiba,Match Finished
+2024-03-17T04:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,0,6,Iwaki,Match Finished
+2024-03-17T04:15:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,0,1,V-varen Nagasaki,Match Finished
+2024-03-20T05:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,0,0,Roasso Kumamoto,Match Finished
+2024-03-20T05:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,3,0,Tochigi SC,Match Finished
+2024-03-20T05:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,0,1,Fujieda MYFC,Match Finished
+2024-03-20T05:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,1,3,Shimizu S-pulse,Match Finished
+2024-03-20T05:00:00+00:00,2024,J2 League,Japan,Yokohama FC,1,0,Thespakusatsu Gunma,Match Finished
+2024-03-20T05:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,1,1,Iwaki,Match Finished
+2024-03-20T05:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,1,0,Mito Hollyhock,Match Finished
+2024-03-20T05:00:00+00:00,2024,J2 League,Japan,Oita Trinita,3,0,Kagoshima United,Match Finished
+2024-03-20T06:00:00+00:00,2024,J2 League,Japan,Ehime FC,1,2,V-varen Nagasaki,Match Finished
+2024-03-20T06:53:00+00:00,2024,J2 League,Japan,Tokushima Vortis,1,2,Renofa Yamaguchi,Match Finished
+2024-03-24T05:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,0,0,Tokushima Vortis,Match Finished
+2024-03-24T05:00:00+00:00,2024,J2 League,Japan,Iwaki,0,0,Montedio Yamagata,Match Finished
+2024-03-24T05:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,0,0,JEF United Chiba,Match Finished
+2024-03-24T05:00:00+00:00,2024,J2 League,Japan,Tochigi SC,2,1,Oita Trinita,Match Finished
+2024-03-24T05:00:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,1,0,Blaublitz Akita,Match Finished
+2024-03-24T05:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,2,1,Roasso Kumamoto,Match Finished
+2024-03-24T05:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,1,1,Ehime FC,Match Finished
+2024-03-24T05:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,1,1,Ventforet Kofu,Match Finished
+2024-03-24T05:00:00+00:00,2024,J2 League,Japan,Kagoshima United,0,4,Yokohama FC,Match Finished
+2024-03-24T08:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,1,2,Fagiano Okayama,Match Finished
+2024-03-30T04:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,0,2,Renofa Yamaguchi,Match Finished
+2024-03-30T05:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,1,0,Iwaki,Match Finished
+2024-03-30T05:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,2,0,Shimizu S-pulse,Match Finished
+2024-03-30T05:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,0,0,Kagoshima United,Match Finished
+2024-03-30T05:00:00+00:00,2024,J2 League,Japan,Yokohama FC,1,2,Vegalta Sendai,Match Finished
+2024-03-30T05:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,0,1,Thespakusatsu Gunma,Match Finished
+2024-03-30T05:00:00+00:00,2024,J2 League,Japan,Oita Trinita,0,0,Fagiano Okayama,Match Finished
+2024-03-30T06:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,1,0,JEF United Chiba,Match Finished
+2024-03-30T07:00:00+00:00,2024,J2 League,Japan,Ehime FC,3,0,Fujieda MYFC,Match Finished
+2024-03-30T09:00:00+00:00,2024,J2 League,Japan,Tochigi SC,1,1,V-varen Nagasaki,Match Finished
+2024-04-03T10:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,1,2,Ehime FC,Match Finished
+2024-04-03T10:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,1,1,Mito Hollyhock,Match Finished
+2024-04-03T10:00:00+00:00,2024,J2 League,Japan,Iwaki,3,0,Fujieda MYFC,Match Finished
+2024-04-03T10:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,0,2,Oita Trinita,Match Finished
+2024-04-03T10:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,8,0,Tochigi SC,Match Finished
+2024-04-03T10:00:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,1,1,Tokushima Vortis,Match Finished
+2024-04-03T10:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,1,3,Yokohama FC,Match Finished
+2024-04-03T10:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,1,2,Roasso Kumamoto,Match Finished
+2024-04-03T10:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,2,0,Montedio Yamagata,Match Finished
+2024-04-03T10:00:00+00:00,2024,J2 League,Japan,Kagoshima United,0,1,Ventforet Kofu,Match Finished
+2024-04-07T04:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,3,4,V-varen Nagasaki,Match Finished
+2024-04-07T05:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,2,0,Kagoshima United,Match Finished
+2024-04-07T05:00:00+00:00,2024,J2 League,Japan,Tochigi SC,0,0,Renofa Yamaguchi,Match Finished
+2024-04-07T05:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,0,0,Mito Hollyhock,Match Finished
+2024-04-07T05:00:00+00:00,2024,J2 League,Japan,Yokohama FC,2,2,Iwaki,Match Finished
+2024-04-07T05:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,0,1,Shimizu S-pulse,Match Finished
+2024-04-07T05:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,1,1,Vegalta Sendai,Match Finished
+2024-04-07T05:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,0,1,JEF United Chiba,Match Finished
+2024-04-07T05:00:00+00:00,2024,J2 League,Japan,Oita Trinita,1,3,Blaublitz Akita,Match Finished
+2024-04-07T06:00:00+00:00,2024,J2 League,Japan,Ehime FC,2,2,Fagiano Okayama,Match Finished
+2024-04-13T05:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,2,0,Montedio Yamagata,Match Finished
+2024-04-13T05:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,2,2,Tochigi SC,Match Finished
+2024-04-13T05:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,1,1,Oita Trinita,Match Finished
+2024-04-13T05:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,6,1,Tokushima Vortis,Match Finished
+2024-04-13T07:00:00+00:00,2024,J2 League,Japan,Iwaki,2,3,Shimizu S-pulse,Match Finished
+2024-04-13T07:00:00+00:00,2024,J2 League,Japan,Ehime FC,2,2,Kagoshima United,Match Finished
+2024-04-14T05:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,0,0,Fagiano Okayama,Match Finished
+2024-04-14T05:00:00+00:00,2024,J2 League,Japan,Yokohama FC,2,0,Fujieda MYFC,Match Finished
+2024-04-14T05:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,4,0,Thespakusatsu Gunma,Match Finished
+2024-04-14T05:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,3,3,Ventforet Kofu,Match Finished
+2024-04-20T05:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,2,1,Ehime FC,Match Finished
+2024-04-20T05:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,4,1,Thespakusatsu Gunma,Match Finished
+2024-04-20T05:00:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,3,2,Vegalta Sendai,Match Finished
+2024-04-20T05:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,0,1,Tokushima Vortis,Match Finished
+2024-04-20T05:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,2,0,Roasso Kumamoto,Match Finished
+2024-04-21T05:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,1,2,Blaublitz Akita,Match Finished
+2024-04-21T05:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,1,2,Mito Hollyhock,Match Finished
+2024-04-21T05:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,1,0,Yokohama FC,Match Finished
+2024-04-21T05:00:00+00:00,2024,J2 League,Japan,Oita Trinita,0,2,Iwaki,Match Finished
+2024-04-21T05:00:00+00:00,2024,J2 League,Japan,Kagoshima United,2,1,Tochigi SC,Match Finished
+2024-04-27T05:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,0,2,JEF United Chiba,Match Finished
+2024-04-27T05:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,2,3,Fujieda MYFC,Match Finished
+2024-04-27T05:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,1,2,V-varen Nagasaki,Match Finished
+2024-04-27T05:55:00+00:00,2024,J2 League,Japan,Ehime FC,2,1,Ventforet Kofu,Match Finished
+2024-04-28T04:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,0,1,Shimizu S-pulse,Match Finished
+2024-04-28T04:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,1,2,Oita Trinita,Match Finished
+2024-04-28T05:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,0,2,Yokohama FC,Match Finished
+2024-04-28T05:00:00+00:00,2024,J2 League,Japan,Tochigi SC,0,1,Iwaki,Match Finished
+2024-04-28T05:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,2,1,Montedio Yamagata,Match Finished
+2024-04-28T05:00:00+00:00,2024,J2 League,Japan,Kagoshima United,0,1,Renofa Yamaguchi,Match Finished
+2024-05-03T04:10:00+00:00,2024,J2 League,Japan,Tokushima Vortis,0,0,Ehime FC,Match Finished
+2024-05-03T05:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,2,1,Renofa Yamaguchi,Match Finished
+2024-05-03T05:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,2,2,Fagiano Okayama,Match Finished
+2024-05-03T05:00:00+00:00,2024,J2 League,Japan,Yokohama FC,2,0,Mito Hollyhock,Match Finished
+2024-05-03T05:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,1,2,Oita Trinita,Match Finished
+2024-05-03T05:00:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,4,1,Tochigi SC,Match Finished
+2024-05-03T05:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,2,1,Thespakusatsu Gunma,Match Finished
+2024-05-03T05:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,2,2,Blaublitz Akita,Match Finished
+2024-05-03T05:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,2,2,Kagoshima United,Match Finished
+2024-05-03T07:00:00+00:00,2024,J2 League,Japan,Iwaki,1,0,JEF United Chiba,Match Finished
+2024-05-06T05:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,2,3,Ventforet Kofu,Match Finished
+2024-05-06T05:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,2,0,Roasso Kumamoto,Match Finished
+2024-05-06T05:00:00+00:00,2024,J2 League,Japan,Tochigi SC,0,1,Fujieda MYFC,Match Finished
+2024-05-06T05:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,0,3,Shimizu S-pulse,Match Finished
+2024-05-06T05:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,1,2,Tokushima Vortis,Match Finished
+2024-05-06T05:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,2,0,Montedio Yamagata,Match Finished
+2024-05-06T05:00:00+00:00,2024,J2 League,Japan,Oita Trinita,0,0,V-varen Nagasaki,Match Finished
+2024-05-06T05:00:00+00:00,2024,J2 League,Japan,Kagoshima United,0,1,Vegalta Sendai,Match Finished
+2024-05-06T06:00:00+00:00,2024,J2 League,Japan,Ehime FC,0,0,Iwaki,Match Finished
+2024-05-06T10:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,1,0,Yokohama FC,Match Finished
+2024-05-11T05:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,2,1,Thespakusatsu Gunma,Match Finished
+2024-05-11T05:00:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,4,0,Kagoshima United,Match Finished
+2024-05-12T04:00:00+00:00,2024,J2 League,Japan,Iwaki,1,2,Renofa Yamaguchi,Match Finished
+2024-05-12T04:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,0,0,Yokohama FC,Match Finished
+2024-05-12T05:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,0,1,Mito Hollyhock,Match Finished
+2024-05-12T05:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,1,0,Blaublitz Akita,Match Finished
+2024-05-12T05:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,1,0,Tochigi SC,Match Finished
+2024-05-12T05:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,0,0,Fagiano Okayama,Match Finished
+2024-05-12T05:00:00+00:00,2024,J2 League,Japan,Oita Trinita,2,2,Ehime FC,Match Finished
+2024-05-12T07:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,2,2,JEF United Chiba,Match Finished
+2024-05-18T05:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,0,2,Blaublitz Akita,Match Finished
+2024-05-18T05:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,1,1,Oita Trinita,Match Finished
+2024-05-18T05:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,0,1,Iwaki,Match Finished
+2024-05-18T05:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,7,1,Ehime FC,Match Finished
+2024-05-18T05:00:00+00:00,2024,J2 League,Japan,Yokohama FC,2,0,Shimizu S-pulse,Match Finished
+2024-05-18T05:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,1,2,Roasso Kumamoto,Match Finished
+2024-05-18T06:00:00+00:00,2024,J2 League,Japan,Kagoshima United,0,3,V-varen Nagasaki,Match Finished
+2024-05-19T05:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,2,0,Ventforet Kofu,Match Finished
+2024-05-19T05:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,2,1,Fujieda MYFC,Match Finished
+2024-05-19T08:00:00+00:00,2024,J2 League,Japan,Tochigi SC,1,2,Vegalta Sendai,Match Finished
+2024-05-25T04:55:00+00:00,2024,J2 League,Japan,Ehime FC,0,0,Tochigi SC,Match Finished
+2024-05-25T05:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,1,1,Kagoshima United,Match Finished
+2024-05-25T05:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,1,0,JEF United Chiba,Match Finished
+2024-05-25T07:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,1,2,Yokohama FC,Match Finished
+2024-05-26T05:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,1,4,Fagiano Okayama,Match Finished
+2024-05-26T05:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,1,1,Thespakusatsu Gunma,Match Finished
+2024-05-26T05:00:00+00:00,2024,J2 League,Japan,Iwaki,1,1,Tokushima Vortis,Match Finished
+2024-05-26T05:00:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,2,1,Mito Hollyhock,Match Finished
+2024-05-26T05:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,0,1,Montedio Yamagata,Match Finished
+2024-05-26T05:00:00+00:00,2024,J2 League,Japan,Oita Trinita,0,0,Renofa Yamaguchi,Match Finished
+2024-06-01T05:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,2,1,Ventforet Kofu,Match Finished
+2024-06-01T05:00:00+00:00,2024,J2 League,Japan,Oita Trinita,1,2,Tokushima Vortis,Match Finished
+2024-06-01T09:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,2,1,Fagiano Okayama,Match Finished
+2024-06-01T09:00:00+00:00,2024,J2 League,Japan,Yokohama FC,2,1,Ehime FC,Match Finished
+2024-06-02T04:00:00+00:00,2024,J2 League,Japan,Iwaki,1,2,Vegalta Sendai,Match Finished
+2024-06-02T05:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,2,3,V-varen Nagasaki,Match Finished
+2024-06-02T05:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,0,0,Montedio Yamagata,Match Finished
+2024-06-02T05:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,2,0,Shimizu S-pulse,Match Finished
+2024-06-02T05:00:00+00:00,2024,J2 League,Japan,Kagoshima United,0,0,Blaublitz Akita,Match Finished
+2024-06-02T08:00:00+00:00,2024,J2 League,Japan,Tochigi SC,1,3,Roasso Kumamoto,Match Finished
+2024-06-08T06:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,1,1,Roasso Kumamoto,Match Finished
+2024-06-08T09:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,1,1,Vegalta Sendai,Match Finished
+2024-06-08T09:00:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,1,0,Fujieda MYFC,Match Finished
+2024-06-08T09:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,0,1,Yokohama FC,Match Finished
+2024-06-08T09:00:00+00:00,2024,J2 League,Japan,Ehime FC,1,0,Mito Hollyhock,Match Finished
+2024-06-08T10:00:00+00:00,2024,J2 League,Japan,Tochigi SC,1,1,Thespakusatsu Gunma,Match Finished
+2024-06-08T10:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,1,2,JEF United Chiba,Match Finished
+2024-06-09T05:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,0,0,Oita Trinita,Match Finished
+2024-06-26T10:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,3,1,Iwaki,Match Finished
+2024-06-09T10:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,1,1,Kagoshima United,Match Finished
+2024-06-15T09:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,1,3,Yokohama FC,Match Finished
+2024-06-15T10:00:00+00:00,2024,J2 League,Japan,Kagoshima United,2,1,Montedio Yamagata,Match Finished
+2024-06-16T07:00:00+00:00,2024,J2 League,Japan,Iwaki,1,1,Ventforet Kofu,Match Finished
+2024-06-16T08:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,1,0,Blaublitz Akita,Match Finished
+2024-06-16T09:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,2,2,V-varen Nagasaki,Match Finished
+2024-06-16T09:00:00+00:00,2024,J2 League,Japan,Ehime FC,3,0,Shimizu S-pulse,Match Finished
+2024-06-16T09:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,0,1,Fagiano Okayama,Match Finished
+2024-06-16T09:00:00+00:00,2024,J2 League,Japan,Oita Trinita,0,2,Tochigi SC,Match Finished
+2024-06-16T09:30:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,0,1,Renofa Yamaguchi,Match Finished
+2024-06-16T10:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,1,0,Tokushima Vortis,Match Finished
+2024-06-22T08:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,1,1,Vegalta Sendai,Match Finished
+2024-06-22T09:00:00+00:00,2024,J2 League,Japan,Yokohama FC,5,0,Roasso Kumamoto,Match Finished
+2024-06-22T09:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,1,2,Ehime FC,Match Finished
+2024-06-22T10:00:00+00:00,2024,J2 League,Japan,Tochigi SC,2,1,JEF United Chiba,Match Finished
+2024-06-22T10:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,1,0,Thespakusatsu Gunma,Match Finished
+2024-06-22T10:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,0,3,Iwaki,Match Finished
+2024-06-22T10:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,2,0,Fujieda MYFC,Match Finished
+2024-06-22T10:00:00+00:00,2024,J2 League,Japan,Kagoshima United,3,0,Oita Trinita,Match Finished
+2024-06-23T05:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,3,1,Shimizu S-pulse,Match Finished
+2024-06-23T10:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,1,0,Mito Hollyhock,Match Finished
+2024-06-29T09:00:00+00:00,2024,J2 League,Japan,Iwaki,0,4,Yokohama FC,Match Finished
+2024-06-29T09:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,1,1,Renofa Yamaguchi,Match Finished
+2024-06-29T09:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,4,0,Ehime FC,Match Finished
+2024-06-29T10:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,3,2,Tochigi SC,Match Finished
+2024-06-29T10:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,1,2,Fujieda MYFC,Match Finished
+2024-06-29T10:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,2,2,V-varen Nagasaki,Match Finished
+2024-06-29T10:00:00+00:00,2024,J2 League,Japan,Oita Trinita,0,0,Ventforet Kofu,Match Finished
+2024-06-30T04:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,0,3,Montedio Yamagata,Match Finished
+2024-06-30T09:00:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,3,1,Fagiano Okayama,Match Finished
+2024-06-30T10:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,2,1,Kagoshima United,Match Finished
+2024-07-06T09:00:00+00:00,2024,J2 League,Japan,Iwaki,0,1,Oita Trinita,Match Finished
+2024-07-06T09:00:00+00:00,2024,J2 League,Japan,Yokohama FC,1,0,Blaublitz Akita,Match Finished
+2024-07-06T09:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,1,3,Tokushima Vortis,Match Finished
+2024-07-06T09:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,3,1,Mito Hollyhock,Match Finished
+2024-07-06T09:30:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,2,0,JEF United Chiba,Match Finished
+2024-07-06T10:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,1,0,Tochigi SC,Match Finished
+2024-07-06T10:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,2,0,Vegalta Sendai,Match Finished
+2024-07-06T10:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,1,0,Kagoshima United,Match Finished
+2024-07-06T10:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,2,0,Roasso Kumamoto,Match Finished
+2024-07-07T10:00:00+00:00,2024,J2 League,Japan,Ehime FC,0,4,Thespakusatsu Gunma,Match Finished
+2024-07-13T10:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,0,1,Ehime FC,Match Finished
+2024-07-13T10:00:00+00:00,2024,J2 League,Japan,Kagoshima United,1,1,Thespakusatsu Gunma,Match Finished
+2024-07-14T09:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,1,0,Renofa Yamaguchi,Match Finished
+2024-07-14T09:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,2,2,Yokohama FC,Match Finished
+2024-07-14T09:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,2,2,V-varen Nagasaki,Match Finished
+2024-07-14T10:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,1,2,Iwaki,Match Finished
+2024-07-14T10:00:00+00:00,2024,J2 League,Japan,Tochigi SC,1,1,Fagiano Okayama,Match Finished
+2024-07-14T10:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,0,2,Roasso Kumamoto,Match Finished
+2024-07-14T10:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,2,0,Vegalta Sendai,Match Finished
+2024-07-14T10:00:00+00:00,2024,J2 League,Japan,Oita Trinita,0,2,Shimizu S-pulse,Match Finished
+2024-08-03T09:00:00+00:00,2024,J2 League,Japan,Yokohama FC,2,1,JEF United Chiba,Match Finished
+2024-08-03T10:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,2,1,Shimizu S-pulse,Match Finished
+2024-08-03T10:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,0,1,Ventforet Kofu,Match Finished
+2024-08-03T10:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,1,1,Montedio Yamagata,Match Finished
+2024-08-03T10:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,2,0,Oita Trinita,Match Finished
+2024-08-03T10:00:00+00:00,2024,J2 League,Japan,Ehime FC,0,1,Tokushima Vortis,Match Finished
+2024-08-03T10:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,1,2,Mito Hollyhock,Match Finished
+2024-08-03T10:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,0,2,Tochigi SC,Match Finished
+2024-08-03T10:00:00+00:00,2024,J2 League,Japan,Kagoshima United,2,3,Fujieda MYFC,Match Finished
+2024-08-04T09:00:00+00:00,2024,J2 League,Japan,Iwaki,2,0,Blaublitz Akita,Match Finished
+2024-08-10T09:00:00+00:00,2024,J2 League,Japan,Iwaki,2,1,Ehime FC,Match Finished
+2024-08-10T09:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,0,1,Vegalta Sendai,Match Finished
+2024-08-10T09:00:00+00:00,2024,J2 League,Japan,Yokohama FC,0,0,V-varen Nagasaki,Match Finished
+2024-08-10T09:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,3,0,Fujieda MYFC,Match Finished
+2024-08-10T09:30:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,4,0,Thespakusatsu Gunma,Match Finished
+2024-08-10T10:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,0,0,JEF United Chiba,Match Finished
+2024-08-10T10:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,4,3,Tochigi SC,Match Finished
+2024-08-11T09:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,2,0,Kagoshima United,Match Finished
+2024-08-11T10:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,1,0,Tokushima Vortis,Match Finished
+2024-08-11T10:00:00+00:00,2024,J2 League,Japan,Oita Trinita,2,1,Roasso Kumamoto,Match Finished
+2024-08-17T09:30:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,,,Ventforet Kofu,Not Started
+2024-08-17T10:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,,,Kagoshima United,Not Started
+2024-08-17T10:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,,,V-varen Nagasaki,Not Started
+2024-08-17T10:00:00+00:00,2024,J2 League,Japan,Tochigi SC,,,Blaublitz Akita,Not Started
+2024-08-17T10:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,,,Yokohama FC,Not Started
+2024-08-17T10:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,,,Iwaki,Not Started
+2024-08-17T10:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,,,Renofa Yamaguchi,Not Started
+2024-08-17T10:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,,,Fagiano Okayama,Not Started
+2024-08-17T10:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,,,Mito Hollyhock,Not Started
+2024-08-18T10:00:00+00:00,2024,J2 League,Japan,Ehime FC,,,Oita Trinita,Not Started
+2024-08-24T09:00:00+00:00,2024,J2 League,Japan,Yokohama FC,,,Tokushima Vortis,Not Started
+2024-08-24T10:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,,,Montedio Yamagata,Not Started
+2024-08-24T10:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,,,Oita Trinita,Not Started
+2024-08-24T10:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,,,Renofa Yamaguchi,Not Started
+2024-08-24T10:00:00+00:00,2024,J2 League,Japan,Kagoshima United,,,Shimizu S-pulse,Not Started
+2024-08-25T09:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,,,Ehime FC,Not Started
+2024-08-25T09:00:00+00:00,2024,J2 League,Japan,Iwaki,,,Roasso Kumamoto,Not Started
+2024-08-25T09:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,,,Thespakusatsu Gunma,Not Started
+2024-08-25T10:00:00+00:00,2024,J2 League,Japan,Tochigi SC,,,Ventforet Kofu,Not Started
+2024-08-25T10:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,,,Vegalta Sendai,Not Started
+2024-08-31T09:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,,,Ehime FC,Not Started
+2024-08-31T09:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,,,Kagoshima United,Not Started
+2024-08-31T10:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,,,Iwaki,Not Started
+2024-08-31T10:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,,,Yokohama FC,Not Started
+2024-08-31T10:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,,,Fagiano Okayama,Not Started
+2024-08-31T10:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,,,Shimizu S-pulse,Not Started
+2024-08-31T10:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,,,Tochigi SC,Not Started
+2024-09-01T10:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,,,Blaublitz Akita,Not Started
+2024-09-01T10:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,,,Fujieda MYFC,Not Started
+2024-09-01T10:00:00+00:00,2024,J2 League,Japan,Oita Trinita,,,JEF United Chiba,Not Started
+2024-09-07T10:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,,,Vegalta Sendai,Not Started
+2024-09-07T10:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,,,Mito Hollyhock,Not Started
+2024-09-07T09:30:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,,,V-varen Nagasaki,Not Started
+2024-09-07T10:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,,,Tochigi SC,Not Started
+2024-09-07T10:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,,,Tokushima Vortis,Not Started
+2024-09-07T10:00:00+00:00,2024,J2 League,Japan,Ehime FC,,,Yokohama FC,Not Started
+2024-09-07T10:00:00+00:00,2024,J2 League,Japan,Oita Trinita,,,Montedio Yamagata,Not Started
+2024-09-07T10:00:00+00:00,2024,J2 League,Japan,Kagoshima United,,,Iwaki,Not Started
+2024-09-08T09:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,,,Blaublitz Akita,Not Started
+2024-09-11T10:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,,,Roasso Kumamoto,Not Started
+2024-09-14T09:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,,,Fujieda MYFC,Not Started
+2024-09-14T10:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,,,JEF United Chiba,Not Started
+2024-09-14T10:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,,,Thespakusatsu Gunma,Not Started
+2024-09-15T09:00:00+00:00,2024,J2 League,Japan,Yokohama FC,,,Ventforet Kofu,Not Started
+2024-09-14T09:30:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,,,Renofa Yamaguchi,Not Started
+2024-09-14T10:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,,,Ehime FC,Not Started
+2024-09-14T10:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,,,Oita Trinita,Not Started
+2024-09-15T07:00:00+00:00,2024,J2 League,Japan,Iwaki,,,V-varen Nagasaki,Not Started
+2024-09-15T10:00:00+00:00,2024,J2 League,Japan,Tochigi SC,,,Mito Hollyhock,Not Started
+2024-09-15T09:00:00+00:00,2024,J2 League,Japan,Kagoshima United,,,Roasso Kumamoto,Not Started
+2024-09-21T09:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,,,Ventforet Kofu,Not Started
+2024-09-21T10:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,,,Renofa Yamaguchi,Not Started
+2024-09-21T09:00:00+00:00,2024,J2 League,Japan,Yokohama FC,,,Oita Trinita,Not Started
+2024-09-21T09:00:00+00:00,2024,J2 League,Japan,Ehime FC,,,Montedio Yamagata,Not Started
+2024-09-21T09:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,,,Blaublitz Akita,Not Started
+2024-09-22T05:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,,,Fagiano Okayama,Not Started
+2024-09-22T10:00:00+00:00,2024,J2 League,Japan,Tochigi SC,,,Kagoshima United,Not Started
+2024-09-22T05:30:00+00:00,2024,J2 League,Japan,Fujieda MYFC,,,Shimizu S-pulse,Not Started
+2024-09-22T09:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,,,Iwaki,Not Started
+2024-09-22T05:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,,,Thespakusatsu Gunma,Not Started
+2024-09-28T07:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,,,Montedio Yamagata,Not Started
+2024-09-28T09:00:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,,,Yokohama FC,Not Started
+2024-09-28T10:00:00+00:00,2024,J2 League,Japan,Oita Trinita,,,Fujieda MYFC,Not Started
+2024-09-28T09:00:00+00:00,2024,J2 League,Japan,Kagoshima United,,,Mito Hollyhock,Not Started
+2024-09-29T05:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,,,Tokushima Vortis,Not Started
+2024-09-29T06:30:00+00:00,2024,J2 League,Japan,Iwaki,,,Tochigi SC,Not Started
+2024-09-29T09:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,,,Roasso Kumamoto,Not Started
+2024-09-29T05:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,,,V-varen Nagasaki,Not Started
+2024-09-29T05:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,,,Vegalta Sendai,Not Started
+2024-09-29T09:00:00+00:00,2024,J2 League,Japan,Ehime FC,,,JEF United Chiba,Not Started
+2024-10-06T06:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,,,Blaublitz Akita,Not Started
+2024-10-05T05:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,,,Thespakusatsu Gunma,Not Started
+2024-10-05T05:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,,,Fagiano Okayama,Not Started
+2024-10-05T08:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,,,Iwaki,Not Started
+2024-10-06T05:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,,,Renofa Yamaguchi,Not Started
+2024-10-06T05:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,,,Shimizu S-pulse,Not Started
+2024-10-06T05:00:00+00:00,2024,J2 League,Japan,Tochigi SC,,,Ehime FC,Not Started
+2024-10-06T05:00:00+00:00,2024,J2 League,Japan,Yokohama FC,,,Kagoshima United,Not Started
+2024-10-06T05:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,,,Oita Trinita,Not Started
+2024-10-06T05:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,,,Tokushima Vortis,Not Started
+2024-10-19T05:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,,,Yokohama FC,Not Started
+2024-10-19T05:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,,,Ventforet Kofu,Not Started
+2024-10-19T04:55:00+00:00,2024,J2 League,Japan,Kagoshima United,,,Ehime FC,Not Started
+2024-10-20T04:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,,,V-varen Nagasaki,Not Started
+2024-10-20T05:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,,,Tochigi SC,Not Started
+2024-10-20T04:10:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,,,Montedio Yamagata,Not Started
+2024-10-20T05:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,,,Iwaki,Not Started
+2024-10-20T05:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,,,Fujieda MYFC,Not Started
+2024-10-20T06:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,,,Renofa Yamaguchi,Not Started
+2024-10-20T05:00:00+00:00,2024,J2 League,Japan,Oita Trinita,,,Mito Hollyhock,Not Started
+2024-10-26T04:50:00+00:00,2024,J2 League,Japan,Iwaki,,,Mito Hollyhock,Not Started
+2024-10-26T05:00:00+00:00,2024,J2 League,Japan,Fujieda MYFC,,,JEF United Chiba,Not Started
+2024-10-27T04:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,,,Oita Trinita,Not Started
+2024-10-27T04:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,,,Roasso Kumamoto,Not Started
+2024-10-27T04:00:00+00:00,2024,J2 League,Japan,Tochigi SC,,,Shimizu S-pulse,Not Started
+2024-10-27T04:00:00+00:00,2024,J2 League,Japan,Thespakusatsu Gunma,,,Tokushima Vortis,Not Started
+2024-10-27T04:00:00+00:00,2024,J2 League,Japan,Yokohama FC,,,Fagiano Okayama,Not Started
+2024-10-27T04:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,,,Ventforet Kofu,Not Started
+2024-10-27T06:00:00+00:00,2024,J2 League,Japan,Ehime FC,,,Vegalta Sendai,Not Started
+2024-10-27T03:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,,,Kagoshima United,Not Started
+2024-11-03T05:00:00+00:00,2024,J2 League,Japan,Mito Hollyhock,,,Montedio Yamagata,Not Started
+2024-11-03T05:00:00+00:00,2024,J2 League,Japan,JEF United Chiba,,,V-varen Nagasaki,Not Started
+2024-11-03T05:00:00+00:00,2024,J2 League,Japan,Yokohama FC,,,Tochigi SC,Not Started
+2024-11-03T05:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,,,Blaublitz Akita,Not Started
+2024-11-03T05:00:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,,,Iwaki,Not Started
+2024-11-03T04:00:00+00:00,2024,J2 League,Japan,Fagiano Okayama,,,Fujieda MYFC,Not Started
+2024-11-03T05:00:00+00:00,2024,J2 League,Japan,Tokushima Vortis,,,Kagoshima United,Not Started
+2024-11-03T07:00:00+00:00,2024,J2 League,Japan,Ehime FC,,,Renofa Yamaguchi,Not Started
+2024-11-03T05:00:00+00:00,2024,J2 League,Japan,Oita Trinita,,,Thespakusatsu Gunma,Not Started
+2024-11-04T05:00:00+00:00,2024,J2 League,Japan,Roasso Kumamoto,,,Vegalta Sendai,Not Started
+2024-11-10T05:00:00+00:00,2024,J2 League,Japan,Vegalta Sendai,,,Oita Trinita,Not Started
+2024-11-10T05:00:00+00:00,2024,J2 League,Japan,Blaublitz Akita,,,Fujieda MYFC,Not Started
+2024-11-10T05:00:00+00:00,2024,J2 League,Japan,Montedio Yamagata,,,JEF United Chiba,Not Started
+2024-11-10T05:00:00+00:00,2024,J2 League,Japan,Iwaki,,,Thespakusatsu Gunma,Not Started
+2024-11-10T05:00:00+00:00,2024,J2 League,Japan,Tochigi SC,,,Tokushima Vortis,Not Started
+2024-11-10T05:00:00+00:00,2024,J2 League,Japan,Ventforet Kofu,,,Mito Hollyhock,Not Started
+2024-11-10T05:00:00+00:00,2024,J2 League,Japan,Shimizu S-pulse,,,Roasso Kumamoto,Not Started
+2024-11-10T05:00:00+00:00,2024,J2 League,Japan,Renofa Yamaguchi,,,Yokohama FC,Not Started
+2024-11-10T05:00:00+00:00,2024,J2 League,Japan,V-varen Nagasaki,,,Ehime FC,Not Started
+2024-11-10T05:00:00+00:00,2024,J2 League,Japan,Kagoshima United,,,Fagiano Okayama,Not Started

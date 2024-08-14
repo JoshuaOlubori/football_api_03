@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-17T18:30:00+00:00,2024,Serie B,Italy,Bari,,,Juve Stabia,Not Started
+2024-08-16T18:30:00+00:00,2024,Serie B,Italy,Brescia,,,Palermo,Not Started
+2024-08-18T18:30:00+00:00,2024,Serie B,Italy,Catanzaro,,,Sassuolo,Not Started
+2024-08-18T18:30:00+00:00,2024,Serie B,Italy,Cesena,,,Carrarese,Not Started
+2024-08-18T18:30:00+00:00,2024,Serie B,Italy,Cosenza,,,Cremonese,Not Started
+2024-08-18T18:30:00+00:00,2024,Serie B,Italy,Frosinone,,,Sampdoria,Not Started
+2024-08-17T18:30:00+00:00,2024,Serie B,Italy,Pisa,,,Spezia,Not Started
+2024-08-18T18:30:00+00:00,2024,Serie B,Italy,Reggiana,,,Mantova,Not Started
+2024-08-17T18:30:00+00:00,2024,Serie B,Italy,Salernitana,,,Cittadella,Not Started
+2024-08-17T18:30:00+00:00,2024,Serie B,Italy,Sudtirol,,,Modena,Not Started
+2024-08-24T18:30:00+00:00,2024,Serie B,Italy,Brescia,,,Cittadella,Not Started
+2024-08-25T18:30:00+00:00,2024,Serie B,Italy,Catanzaro,,,Juve Stabia,Not Started
+2024-08-24T18:30:00+00:00,2024,Serie B,Italy,Cremonese,,,Carrarese,Not Started
+2024-08-25T18:30:00+00:00,2024,Serie B,Italy,Mantova,,,Cosenza,Not Started
+2024-08-23T18:30:00+00:00,2024,Serie B,Italy,Modena,,,Bari,Not Started
+2024-08-24T18:30:00+00:00,2024,Serie B,Italy,Pisa,,,Palermo,Not Started
+2024-08-24T18:30:00+00:00,2024,Serie B,Italy,Sampdoria,,,Reggiana,Not Started
+2024-08-24T18:30:00+00:00,2024,Serie B,Italy,Sassuolo,,,Cesena,Not Started
+2024-08-24T18:30:00+00:00,2024,Serie B,Italy,Spezia,,,Frosinone,Not Started
+2024-08-24T17:30:00+00:00,2024,Serie B,Italy,Sudtirol,,,Salernitana,Not Started
+2024-08-27T18:30:00+00:00,2024,Serie B,Italy,Bari,,,Sassuolo,Not Started
+2024-08-27T18:30:00+00:00,2024,Serie B,Italy,Carrarese,,,Sudtirol,Not Started
+2024-08-28T18:30:00+00:00,2024,Serie B,Italy,Cesena,,,Catanzaro,Not Started
+2024-08-27T18:30:00+00:00,2024,Serie B,Italy,Cittadella,,,Pisa,Not Started
+2024-08-28T18:30:00+00:00,2024,Serie B,Italy,Cosenza,,,Spezia,Not Started
+2024-08-27T18:30:00+00:00,2024,Serie B,Italy,Cremonese,,,Palermo,Not Started
+2024-08-27T18:30:00+00:00,2024,Serie B,Italy,Frosinone,,,Modena,Not Started
+2024-08-28T18:30:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Mantova,Not Started
+2024-08-27T18:30:00+00:00,2024,Serie B,Italy,Reggiana,,,Brescia,Not Started
+2024-08-27T18:30:00+00:00,2024,Serie B,Italy,Salernitana,,,Sampdoria,Not Started
+2024-09-01T18:30:00+00:00,2024,Serie B,Italy,Catanzaro,,,Carrarese,Not Started
+2024-09-01T18:30:00+00:00,2024,Serie B,Italy,Frosinone,,,Juve Stabia,Not Started
+2024-09-01T18:30:00+00:00,2024,Serie B,Italy,Mantova,,,Salernitana,Not Started
+2024-08-31T18:30:00+00:00,2024,Serie B,Italy,Modena,,,Cittadella,Not Started
+2024-09-01T18:30:00+00:00,2024,Serie B,Italy,Palermo,,,Cosenza,Not Started
+2024-08-31T18:30:00+00:00,2024,Serie B,Italy,Pisa,,,Reggiana,Not Started
+2024-08-31T16:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Bari,Not Started
+2024-08-31T18:30:00+00:00,2024,Serie B,Italy,Sassuolo,,,Cremonese,Not Started
+2024-09-01T18:30:00+00:00,2024,Serie B,Italy,Spezia,,,Cesena,Not Started
+2024-08-31T18:30:00+00:00,2024,Serie B,Italy,Sudtirol,,,Brescia,Not Started
+2024-09-14T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Mantova,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Frosinone,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Sassuolo,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Modena,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Catanzaro,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Sampdoria,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Spezia,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Palermo,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Sudtirol,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Pisa,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Cremonese,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Sassuolo,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Bari,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Cittadella,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Juve Stabia,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Cesena,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Brescia,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Salernitana,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Sudtirol,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Carrarese,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Cosenza,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Cremonese,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Reggiana,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Mantova,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Frosinone,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Pisa,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Sampdoria,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Catanzaro,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Spezia,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Palermo,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Modena,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Sudtirol,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Bari,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Carrarese,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Brescia,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Salernitana,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Cesena,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Juve Stabia,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Cittadella,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Reggiana,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Catanzaro,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Sassuolo,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Mantova,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Sampdoria,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Cosenza,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Cremonese,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Palermo,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Frosinone,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Spezia,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Pisa,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Cittadella,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Sudtirol,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Brescia,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Juve Stabia,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Salernitana,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Pisa,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Reggiana,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Mantova,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Modena,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Bari,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Carrarese,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Spezia,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Sampdoria,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Sassuolo,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Palermo,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Cremonese,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Catanzaro,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Cosenza,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Cesena,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Frosinone,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Reggiana,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Juve Stabia,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Frosinone,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Sudtirol,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Salernitana,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Pisa,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Cittadella,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Brescia,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Mantova,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Modena,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Cosenza,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Cesena,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Palermo,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Spezia,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Cremonese,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Carrarese,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Sampdoria,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Catanzaro,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Bari,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Sassuolo,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Cittadella,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Pisa,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Mantova,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Reggiana,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Modena,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Frosinone,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Brescia,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Sampdoria,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Salernitana,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Sudtirol,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Bari,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Juve Stabia,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Cesena,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Modena,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Spezia,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Cosenza,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Sassuolo,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Carrarese,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Catanzaro,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Cremonese,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Cesena,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Palermo,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Brescia,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Frosinone,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Reggiana,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Sudtirol,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Pisa,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Salernitana,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Sampdoria,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Cittadella,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Carrarese,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Cosenza,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Cremonese,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Sassuolo,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Catanzaro,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Bari,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Modena,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Juve Stabia,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Spezia,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Mantova,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Sudtirol,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Cosenza,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Spezia,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Reggiana,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Sampdoria,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Cesena,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Frosinone,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Pisa,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Brescia,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Palermo,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Modena,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Cremonese,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Catanzaro,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Salernitana,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Bari,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Sassuolo,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Juve Stabia,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Carrarese,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Mantova,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Cittadella,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Spezia,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Cesena,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Salernitana,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Palermo,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Brescia,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Frosinone,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Reggiana,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Sudtirol,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Pisa,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Cosenza,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Sampdoria,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Cittadella,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Mantova,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Cremonese,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Modena,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Carrarese,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Bari,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Sassuolo,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Juve Stabia,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Catanzaro,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Brescia,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Spezia,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Pisa,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Mantova,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Cosenza,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Frosinone,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Juve Stabia,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Reggiana,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Cesena,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Sudtirol,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Catanzaro,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Bari,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Cittadella,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Modena,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Sudtirol,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Carrarese,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Sampdoria,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Salernitana,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Palermo,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Sassuolo,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Frosinone,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Brescia,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Cesena,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Spezia,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Mantova,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Pisa,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Cremonese,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Cosenza,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Juve Stabia,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Reggiana,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Salernitana,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Carrarese,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Sudtirol,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Catanzaro,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Bari,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Sassuolo,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Cittadella,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Cesena,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Modena,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Palermo,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Cremonese,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Salernitana,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Cittadella,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Pisa,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Reggiana,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Cosenza,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Spezia,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Mantova,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Brescia,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Sampdoria,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Sudtirol,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Modena,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Palermo,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Cesena,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Bari,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Juve Stabia,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Carrarese,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Frosinone,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Sassuolo,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Catanzaro,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Sampdoria,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Cremonese,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Reggiana,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Salernitana,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Mantova,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Cittadella,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Cosenza,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Brescia,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Pisa,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Spezia,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Cesena,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Frosinone,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Sudtirol,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Reggiana,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Catanzaro,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Juve Stabia,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Modena,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Palermo,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Bari,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Pisa,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Salernitana,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Cosenza,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Spezia,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Sassuolo,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Brescia,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Modena,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Cremonese,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Mantova,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Sampdoria,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Carrarese,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Bari,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Juve Stabia,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Pisa,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Cittadella,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Sudtirol,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Catanzaro,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Palermo,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Frosinone,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Reggiana,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Brescia,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Mantova,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Bari,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Carrarese,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Cosenza,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Salernitana,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Sassuolo,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Modena,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Cremonese,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Sampdoria,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Cesena,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Palermo,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Catanzaro,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Frosinone,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Brescia,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Juve Stabia,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Spezia,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Sassuolo,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Pisa,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Sudtirol,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Cittadella,Time to be defined
+2025-04-21T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Reggiana,Time to be defined
+2025-04-21T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Salernitana,Time to be defined
+2025-04-21T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Sampdoria,Time to be defined
+2025-04-21T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Catanzaro,Time to be defined
+2025-04-21T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Cesena,Time to be defined
+2025-04-21T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Carrarese,Time to be defined
+2025-04-21T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Cremonese,Time to be defined
+2025-04-21T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Frosinone,Time to be defined
+2025-04-21T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Cosenza,Time to be defined
+2025-04-21T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Bari,Time to be defined
+2025-04-25T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Modena,Time to be defined
+2025-04-25T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Pisa,Time to be defined
+2025-04-25T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Sampdoria,Time to be defined
+2025-04-25T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Palermo,Time to be defined
+2025-04-25T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Sassuolo,Time to be defined
+2025-04-25T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Mantova,Time to be defined
+2025-04-25T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Spezia,Time to be defined
+2025-04-25T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Cittadella,Time to be defined
+2025-04-25T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Cosenza,Time to be defined
+2025-04-25T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Juve Stabia,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Brescia,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Bari,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Catanzaro,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Cesena,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Reggiana,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Sudtirol,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Frosinone,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Cremonese,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Carrarese,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Salernitana,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie B,Italy,Bari,,,Pisa,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie B,Italy,Brescia,,,Juve Stabia,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie B,Italy,Carrarese,,,Modena,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie B,Italy,Catanzaro,,,Sampdoria,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie B,Italy,Cesena,,,Palermo,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie B,Italy,Cremonese,,,Sassuolo,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie B,Italy,Frosinone,,,Cittadella,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie B,Italy,Reggiana,,,Spezia,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie B,Italy,Salernitana,,,Mantova,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Serie B,Italy,Sudtirol,,,Cosenza,Time to be defined
+2025-05-09T00:00:00+00:00,2024,Serie B,Italy,Cittadella,,,Bari,Time to be defined
+2025-05-09T00:00:00+00:00,2024,Serie B,Italy,Cosenza,,,Cesena,Time to be defined
+2025-05-09T00:00:00+00:00,2024,Serie B,Italy,Juve Stabia,,,Reggiana,Time to be defined
+2025-05-09T00:00:00+00:00,2024,Serie B,Italy,Mantova,,,Carrarese,Time to be defined
+2025-05-09T00:00:00+00:00,2024,Serie B,Italy,Modena,,,Brescia,Time to be defined
+2025-05-09T00:00:00+00:00,2024,Serie B,Italy,Palermo,,,Frosinone,Time to be defined
+2025-05-09T00:00:00+00:00,2024,Serie B,Italy,Pisa,,,Sudtirol,Time to be defined
+2025-05-09T00:00:00+00:00,2024,Serie B,Italy,Sampdoria,,,Salernitana,Time to be defined
+2025-05-09T00:00:00+00:00,2024,Serie B,Italy,Sassuolo,,,Catanzaro,Time to be defined
+2025-05-09T00:00:00+00:00,2024,Serie B,Italy,Spezia,,,Cremonese,Time to be defined

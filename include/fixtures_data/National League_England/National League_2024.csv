@@ -1,0 +1,553 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-10T14:00:00+00:00,2024,National League,England,AFC Fylde,3,2,Solihull Moors,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League,England,Aldershot Town,3,3,Forest Green,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League,England,Altrincham,1,0,Woking,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League,England,Boston United,0,3,Rochdale,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League,England,Dagenham & Redbridge,2,1,Wealdstone,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League,England,FC Halifax Town,2,1,Barnet,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League,England,Gateshead,5,1,Ebbsfleet United,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League,England,Maidenhead,0,2,Eastleigh,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League,England,Oldham,3,0,Braintree,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League,England,Southend,1,1,York,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League,England,Tamworth,1,1,Sutton Utd,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League,England,Yeovil Town,0,1,Hartlepool,Match Finished
+2024-08-17T14:00:00+00:00,2024,National League,England,Boston United,,,Forest Green,Not Started
+2024-08-17T14:00:00+00:00,2024,National League,England,Braintree,,,Yeovil Town,Not Started
+2024-08-17T14:00:00+00:00,2024,National League,England,Eastleigh,,,AFC Fylde,Not Started
+2024-08-17T14:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Barnet,Not Started
+2024-08-17T14:00:00+00:00,2024,National League,England,FC Halifax Town,,,Aldershot Town,Not Started
+2024-08-17T14:00:00+00:00,2024,National League,England,Hartlepool,,,Southend,Not Started
+2024-08-17T14:00:00+00:00,2024,National League,England,Rochdale,,,Dagenham & Redbridge,Not Started
+2024-08-17T14:00:00+00:00,2024,National League,England,Solihull Moors,,,Maidenhead,Not Started
+2024-08-17T14:00:00+00:00,2024,National League,England,Sutton Utd,,,Altrincham,Not Started
+2024-08-17T14:00:00+00:00,2024,National League,England,Wealdstone,,,Oldham,Not Started
+2024-08-17T14:00:00+00:00,2024,National League,England,Woking,,,Gateshead,Not Started
+2024-08-17T14:00:00+00:00,2024,National League,England,York,,,Tamworth,Not Started
+2024-08-20T18:45:00+00:00,2024,National League,England,Barnet,,,Forest Green,Not Started
+2024-08-20T18:45:00+00:00,2024,National League,England,Braintree,,,Aldershot Town,Not Started
+2024-08-20T18:45:00+00:00,2024,National League,England,Eastleigh,,,Solihull Moors,Not Started
+2024-08-20T18:45:00+00:00,2024,National League,England,FC Halifax Town,,,Gateshead,Not Started
+2024-08-20T18:45:00+00:00,2024,National League,England,Maidenhead,,,Altrincham,Not Started
+2024-08-20T18:45:00+00:00,2024,National League,England,Oldham,,,AFC Fylde,Not Started
+2024-08-20T18:45:00+00:00,2024,National League,England,Southend,,,Boston United,Not Started
+2024-08-20T18:45:00+00:00,2024,National League,England,Tamworth,,,Hartlepool,Not Started
+2024-08-20T18:45:00+00:00,2024,National League,England,Wealdstone,,,Sutton Utd,Not Started
+2024-08-20T18:45:00+00:00,2024,National League,England,Woking,,,Dagenham & Redbridge,Not Started
+2024-08-20T18:45:00+00:00,2024,National League,England,Yeovil Town,,,Ebbsfleet United,Not Started
+2024-08-20T18:45:00+00:00,2024,National League,England,York,,,Rochdale,Not Started
+2024-08-24T14:00:00+00:00,2024,National League,England,AFC Fylde,,,Maidenhead,Not Started
+2024-08-24T14:00:00+00:00,2024,National League,England,Aldershot Town,,,Oldham,Not Started
+2024-08-24T14:00:00+00:00,2024,National League,England,Altrincham,,,Eastleigh,Not Started
+2024-08-24T14:00:00+00:00,2024,National League,England,Barnet,,,Southend,Not Started
+2024-08-24T14:00:00+00:00,2024,National League,England,Boston United,,,Tamworth,Not Started
+2024-08-23T18:45:00+00:00,2024,National League,England,Dagenham & Redbridge,,,FC Halifax Town,Not Started
+2024-08-24T14:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Woking,Not Started
+2024-08-24T11:30:00+00:00,2024,National League,England,Gateshead,,,Yeovil Town,Not Started
+2024-08-24T14:00:00+00:00,2024,National League,England,Hartlepool,,,Wealdstone,Not Started
+2024-08-24T14:00:00+00:00,2024,National League,England,Rochdale,,,Forest Green,Not Started
+2024-08-24T14:00:00+00:00,2024,National League,England,Solihull Moors,,,Braintree,Not Started
+2024-08-24T14:00:00+00:00,2024,National League,England,Sutton Utd,,,York,Not Started
+2024-08-26T14:00:00+00:00,2024,National League,England,Braintree,,,Ebbsfleet United,Not Started
+2024-08-26T14:00:00+00:00,2024,National League,England,Eastleigh,,,Sutton Utd,Not Started
+2024-08-26T14:00:00+00:00,2024,National League,England,FC Halifax Town,,,Solihull Moors,Not Started
+2024-08-26T14:00:00+00:00,2024,National League,England,Forest Green,,,Altrincham,Not Started
+2024-08-26T14:00:00+00:00,2024,National League,England,Maidenhead,,,Barnet,Not Started
+2024-08-26T14:00:00+00:00,2024,National League,England,Oldham,,,Gateshead,Not Started
+2024-08-26T14:00:00+00:00,2024,National League,England,Southend,,,Dagenham & Redbridge,Not Started
+2024-08-26T14:00:00+00:00,2024,National League,England,Tamworth,,,Aldershot Town,Not Started
+2024-08-26T14:00:00+00:00,2024,National League,England,Wealdstone,,,AFC Fylde,Not Started
+2024-08-26T14:00:00+00:00,2024,National League,England,Woking,,,Hartlepool,Not Started
+2024-08-26T14:00:00+00:00,2024,National League,England,Yeovil Town,,,Rochdale,Not Started
+2024-08-26T14:00:00+00:00,2024,National League,England,York,,,Boston United,Not Started
+2024-08-31T14:00:00+00:00,2024,National League,England,AFC Fylde,,,Southend,Not Started
+2024-08-31T14:00:00+00:00,2024,National League,England,Aldershot Town,,,Maidenhead,Not Started
+2024-08-31T14:00:00+00:00,2024,National League,England,Altrincham,,,Oldham,Not Started
+2024-08-31T14:00:00+00:00,2024,National League,England,Barnet,,,Tamworth,Not Started
+2024-08-31T14:00:00+00:00,2024,National League,England,Boston United,,,Yeovil Town,Not Started
+2024-08-31T14:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,York,Not Started
+2024-08-31T14:00:00+00:00,2024,National League,England,Ebbsfleet United,,,FC Halifax Town,Not Started
+2024-08-31T14:00:00+00:00,2024,National League,England,Gateshead,,,Eastleigh,Not Started
+2024-08-31T14:00:00+00:00,2024,National League,England,Hartlepool,,,Braintree,Not Started
+2024-08-31T14:00:00+00:00,2024,National League,England,Rochdale,,,Woking,Not Started
+2024-08-31T14:00:00+00:00,2024,National League,England,Solihull Moors,,,Wealdstone,Not Started
+2024-08-31T16:30:00+00:00,2024,National League,England,Sutton Utd,,,Forest Green,Not Started
+2024-09-07T14:00:00+00:00,2024,National League,England,AFC Fylde,,,Yeovil Town,Not Started
+2024-09-07T14:00:00+00:00,2024,National League,England,Aldershot Town,,,Rochdale,Not Started
+2024-09-07T14:00:00+00:00,2024,National League,England,Altrincham,,,Ebbsfleet United,Not Started
+2024-09-07T14:00:00+00:00,2024,National League,England,Braintree,,,Woking,Not Started
+2024-09-07T14:00:00+00:00,2024,National League,England,Eastleigh,,,Tamworth,Not Started
+2024-09-07T14:00:00+00:00,2024,National League,England,Gateshead,,,Barnet,Not Started
+2024-09-07T14:00:00+00:00,2024,National League,England,Hartlepool,,,FC Halifax Town,Not Started
+2024-09-07T14:00:00+00:00,2024,National League,England,Maidenhead,,,Dagenham & Redbridge,Not Started
+2024-09-07T14:00:00+00:00,2024,National League,England,Oldham,,,Southend,Not Started
+2024-09-07T14:00:00+00:00,2024,National League,England,Solihull Moors,,,Forest Green,Not Started
+2024-09-07T14:00:00+00:00,2024,National League,England,Sutton Utd,,,Boston United,Not Started
+2024-09-07T14:00:00+00:00,2024,National League,England,Wealdstone,,,York,Not Started
+2024-09-10T18:45:00+00:00,2024,National League,England,Barnet,,,Altrincham,Not Started
+2024-09-10T18:45:00+00:00,2024,National League,England,Boston United,,,Hartlepool,Not Started
+2024-09-10T18:45:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Sutton Utd,Not Started
+2024-09-10T18:45:00+00:00,2024,National League,England,Ebbsfleet United,,,Aldershot Town,Not Started
+2024-09-10T18:45:00+00:00,2024,National League,England,FC Halifax Town,,,Oldham,Not Started
+2024-09-10T18:45:00+00:00,2024,National League,England,Forest Green,,,AFC Fylde,Not Started
+2024-09-10T18:45:00+00:00,2024,National League,England,Rochdale,,,Maidenhead,Not Started
+2024-09-10T18:45:00+00:00,2024,National League,England,Southend,,,Eastleigh,Not Started
+2024-10-08T18:45:00+00:00,2024,National League,England,Tamworth,,,Gateshead,Not Started
+2024-09-10T18:45:00+00:00,2024,National League,England,Woking,,,Wealdstone,Not Started
+2024-09-10T18:45:00+00:00,2024,National League,England,Yeovil Town,,,Solihull Moors,Not Started
+2024-09-10T18:45:00+00:00,2024,National League,England,York,,,Braintree,Not Started
+2024-09-14T14:00:00+00:00,2024,National League,England,Barnet,,,Braintree,Not Started
+2024-09-14T14:00:00+00:00,2024,National League,England,Boston United,,,Aldershot Town,Not Started
+2024-09-14T14:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Gateshead,Not Started
+2024-09-14T14:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Hartlepool,Not Started
+2024-09-14T14:00:00+00:00,2024,National League,England,FC Halifax Town,,,Eastleigh,Not Started
+2024-09-14T14:00:00+00:00,2024,National League,England,Forest Green,,,Wealdstone,Not Started
+2024-09-14T14:00:00+00:00,2024,National League,England,Rochdale,,,Solihull Moors,Not Started
+2024-09-14T14:00:00+00:00,2024,National League,England,Southend,,,Sutton Utd,Not Started
+2024-09-14T14:00:00+00:00,2024,National League,England,Tamworth,,,Maidenhead,Not Started
+2024-09-14T14:00:00+00:00,2024,National League,England,Woking,,,Oldham,Not Started
+2024-09-14T14:00:00+00:00,2024,National League,England,Yeovil Town,,,Altrincham,Not Started
+2024-09-14T14:00:00+00:00,2024,National League,England,York,,,AFC Fylde,Not Started
+2024-09-21T14:00:00+00:00,2024,National League,England,AFC Fylde,,,Woking,Not Started
+2024-09-21T14:00:00+00:00,2024,National League,England,Aldershot Town,,,York,Not Started
+2024-09-21T14:00:00+00:00,2024,National League,England,Altrincham,,,Boston United,Not Started
+2024-09-21T14:00:00+00:00,2024,National League,England,Braintree,,,Tamworth,Not Started
+2024-09-21T14:00:00+00:00,2024,National League,England,Eastleigh,,,Rochdale,Not Started
+2024-09-21T14:00:00+00:00,2024,National League,England,Gateshead,,,Forest Green,Not Started
+2024-09-21T14:00:00+00:00,2024,National League,England,Hartlepool,,,Dagenham & Redbridge,Not Started
+2024-09-21T14:00:00+00:00,2024,National League,England,Maidenhead,,,FC Halifax Town,Not Started
+2024-09-21T14:00:00+00:00,2024,National League,England,Oldham,,,Yeovil Town,Not Started
+2024-09-21T14:00:00+00:00,2024,National League,England,Solihull Moors,,,Southend,Not Started
+2024-09-21T14:00:00+00:00,2024,National League,England,Sutton Utd,,,Ebbsfleet United,Not Started
+2024-09-21T14:00:00+00:00,2024,National League,England,Wealdstone,,,Barnet,Not Started
+2024-09-24T18:45:00+00:00,2024,National League,England,AFC Fylde,,,Tamworth,Not Started
+2024-09-24T18:45:00+00:00,2024,National League,England,Aldershot Town,,,Barnet,Not Started
+2024-09-24T18:45:00+00:00,2024,National League,England,Altrincham,,,Dagenham & Redbridge,Not Started
+2024-09-24T18:45:00+00:00,2024,National League,England,Braintree,,,FC Halifax Town,Not Started
+2024-09-24T18:45:00+00:00,2024,National League,England,Eastleigh,,,Woking,Not Started
+2024-09-24T18:45:00+00:00,2024,National League,England,Gateshead,,,Boston United,Not Started
+2024-09-24T18:45:00+00:00,2024,National League,England,Hartlepool,,,Rochdale,Not Started
+2024-09-24T18:45:00+00:00,2024,National League,England,Maidenhead,,,Ebbsfleet United,Not Started
+2024-09-24T18:45:00+00:00,2024,National League,England,Oldham,,,Forest Green,Not Started
+2024-09-24T18:45:00+00:00,2024,National League,England,Solihull Moors,,,York,Not Started
+2024-09-24T18:45:00+00:00,2024,National League,England,Sutton Utd,,,Yeovil Town,Not Started
+2024-09-24T18:45:00+00:00,2024,National League,England,Wealdstone,,,Southend,Not Started
+2024-09-28T14:00:00+00:00,2024,National League,England,Barnet,,,AFC Fylde,Not Started
+2024-09-28T14:00:00+00:00,2024,National League,England,Boston United,,,Maidenhead,Not Started
+2024-09-28T14:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Solihull Moors,Not Started
+2024-09-28T14:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Oldham,Not Started
+2024-09-28T14:00:00+00:00,2024,National League,England,FC Halifax Town,,,Wealdstone,Not Started
+2024-09-28T14:00:00+00:00,2024,National League,England,Forest Green,,,Hartlepool,Not Started
+2024-09-28T14:00:00+00:00,2024,National League,England,Rochdale,,,Braintree,Not Started
+2024-09-28T14:00:00+00:00,2024,National League,England,Southend,,,Gateshead,Not Started
+2024-09-28T14:00:00+00:00,2024,National League,England,Tamworth,,,Altrincham,Not Started
+2024-09-28T14:00:00+00:00,2024,National League,England,Woking,,,Sutton Utd,Not Started
+2024-09-28T14:00:00+00:00,2024,National League,England,Yeovil Town,,,Aldershot Town,Not Started
+2024-09-28T14:00:00+00:00,2024,National League,England,York,,,Eastleigh,Not Started
+2024-10-05T14:00:00+00:00,2024,National League,England,AFC Fylde,,,Aldershot Town,Not Started
+2024-10-05T14:00:00+00:00,2024,National League,England,Barnet,,,Boston United,Not Started
+2024-10-05T14:00:00+00:00,2024,National League,England,Braintree,,,Altrincham,Not Started
+2024-10-05T14:00:00+00:00,2024,National League,England,Eastleigh,,,Forest Green,Not Started
+2024-10-05T14:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Rochdale,Not Started
+2024-10-05T14:00:00+00:00,2024,National League,England,FC Halifax Town,,,Tamworth,Not Started
+2024-10-05T14:00:00+00:00,2024,National League,England,Gateshead,,,Wealdstone,Not Started
+2024-10-05T14:00:00+00:00,2024,National League,England,Hartlepool,,,Sutton Utd,Not Started
+2024-10-05T14:00:00+00:00,2024,National League,England,Oldham,,,Solihull Moors,Not Started
+2024-10-05T14:00:00+00:00,2024,National League,England,Southend,,,Maidenhead,Not Started
+2024-10-05T14:00:00+00:00,2024,National League,England,Woking,,,York,Not Started
+2024-10-05T14:00:00+00:00,2024,National League,England,Yeovil Town,,,Dagenham & Redbridge,Not Started
+2024-10-19T14:00:00+00:00,2024,National League,England,Aldershot Town,,,Eastleigh,Not Started
+2024-10-19T14:00:00+00:00,2024,National League,England,Altrincham,,,Gateshead,Not Started
+2024-10-19T14:00:00+00:00,2024,National League,England,Boston United,,,FC Halifax Town,Not Started
+2024-10-19T14:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,AFC Fylde,Not Started
+2024-10-19T14:00:00+00:00,2024,National League,England,Forest Green,,,Braintree,Not Started
+2024-10-19T14:00:00+00:00,2024,National League,England,Maidenhead,,,Hartlepool,Not Started
+2024-10-19T14:00:00+00:00,2024,National League,England,Rochdale,,,Southend,Not Started
+2024-10-19T14:00:00+00:00,2024,National League,England,Solihull Moors,,,Barnet,Not Started
+2024-10-19T14:00:00+00:00,2024,National League,England,Sutton Utd,,,Oldham,Not Started
+2024-10-19T14:00:00+00:00,2024,National League,England,Tamworth,,,Woking,Not Started
+2024-10-19T14:00:00+00:00,2024,National League,England,Wealdstone,,,Yeovil Town,Not Started
+2024-10-19T14:00:00+00:00,2024,National League,England,York,,,Ebbsfleet United,Not Started
+2024-10-22T18:45:00+00:00,2024,National League,England,Aldershot Town,,,Southend,Not Started
+2024-10-22T18:45:00+00:00,2024,National League,England,Altrincham,,,Hartlepool,Not Started
+2024-10-22T18:45:00+00:00,2024,National League,England,Boston United,,,AFC Fylde,Not Started
+2024-10-22T18:45:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Eastleigh,Not Started
+2024-10-22T18:45:00+00:00,2024,National League,England,Forest Green,,,Ebbsfleet United,Not Started
+2024-10-22T18:45:00+00:00,2024,National League,England,Maidenhead,,,Oldham,Not Started
+2024-10-22T18:45:00+00:00,2024,National League,England,Rochdale,,,FC Halifax Town,Not Started
+2024-10-22T18:45:00+00:00,2024,National League,England,Solihull Moors,,,Woking,Not Started
+2024-10-22T18:45:00+00:00,2024,National League,England,Sutton Utd,,,Gateshead,Not Started
+2024-10-22T18:45:00+00:00,2024,National League,England,Tamworth,,,Yeovil Town,Not Started
+2024-10-22T18:45:00+00:00,2024,National League,England,Wealdstone,,,Braintree,Not Started
+2024-10-22T18:45:00+00:00,2024,National League,England,York,,,Barnet,Not Started
+2024-10-26T14:00:00+00:00,2024,National League,England,AFC Fylde,,,Altrincham,Not Started
+2024-10-26T14:00:00+00:00,2024,National League,England,Barnet,,,Rochdale,Not Started
+2024-10-26T14:00:00+00:00,2024,National League,England,Braintree,,,Sutton Utd,Not Started
+2024-10-26T14:00:00+00:00,2024,National League,England,Eastleigh,,,Boston United,Not Started
+2024-10-26T14:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Wealdstone,Not Started
+2024-10-26T14:00:00+00:00,2024,National League,England,FC Halifax Town,,,York,Not Started
+2024-10-26T14:00:00+00:00,2024,National League,England,Gateshead,,,Solihull Moors,Not Started
+2024-10-26T14:00:00+00:00,2024,National League,England,Hartlepool,,,Aldershot Town,Not Started
+2024-10-26T14:00:00+00:00,2024,National League,England,Oldham,,,Dagenham & Redbridge,Not Started
+2024-10-26T14:00:00+00:00,2024,National League,England,Southend,,,Tamworth,Not Started
+2024-10-26T14:00:00+00:00,2024,National League,England,Woking,,,Forest Green,Not Started
+2024-10-26T14:00:00+00:00,2024,National League,England,Yeovil Town,,,Maidenhead,Not Started
+2024-11-09T15:00:00+00:00,2024,National League,England,AFC Fylde,,,Gateshead,Not Started
+2024-11-09T15:00:00+00:00,2024,National League,England,Aldershot Town,,,Wealdstone,Not Started
+2024-11-09T15:00:00+00:00,2024,National League,England,Barnet,,,Oldham,Not Started
+2024-11-09T15:00:00+00:00,2024,National League,England,Boston United,,,Dagenham & Redbridge,Not Started
+2024-11-09T15:00:00+00:00,2024,National League,England,Eastleigh,,,Braintree,Not Started
+2024-11-09T15:00:00+00:00,2024,National League,England,FC Halifax Town,,,Woking,Not Started
+2024-11-09T15:00:00+00:00,2024,National League,England,Maidenhead,,,Forest Green,Not Started
+2024-11-09T15:00:00+00:00,2024,National League,England,Rochdale,,,Sutton Utd,Not Started
+2024-11-09T15:00:00+00:00,2024,National League,England,Solihull Moors,,,Altrincham,Not Started
+2024-11-09T15:00:00+00:00,2024,National League,England,Southend,,,Yeovil Town,Not Started
+2024-11-09T15:00:00+00:00,2024,National League,England,Tamworth,,,Ebbsfleet United,Not Started
+2024-11-09T12:30:00+00:00,2024,National League,England,York,,,Hartlepool,Not Started
+2024-11-16T15:00:00+00:00,2024,National League,England,Altrincham,,,Southend,Not Started
+2024-11-16T15:00:00+00:00,2024,National League,England,Braintree,,,AFC Fylde,Not Started
+2024-11-16T15:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Barnet,Not Started
+2024-11-16T15:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Solihull Moors,Not Started
+2024-11-16T15:00:00+00:00,2024,National League,England,Forest Green,,,York,Not Started
+2024-11-16T15:00:00+00:00,2024,National League,England,Gateshead,,,Aldershot Town,Not Started
+2024-11-16T15:00:00+00:00,2024,National League,England,Hartlepool,,,Eastleigh,Not Started
+2024-11-16T15:00:00+00:00,2024,National League,England,Oldham,,,Tamworth,Not Started
+2024-11-16T15:00:00+00:00,2024,National League,England,Sutton Utd,,,Maidenhead,Not Started
+2024-11-16T15:00:00+00:00,2024,National League,England,Wealdstone,,,Rochdale,Not Started
+2024-11-16T15:00:00+00:00,2024,National League,England,Woking,,,Boston United,Not Started
+2024-11-16T15:00:00+00:00,2024,National League,England,Yeovil Town,,,FC Halifax Town,Not Started
+2024-11-23T15:00:00+00:00,2024,National League,England,AFC Fylde,,,Ebbsfleet United,Not Started
+2024-11-23T15:00:00+00:00,2024,National League,England,Aldershot Town,,,Altrincham,Not Started
+2024-11-23T15:00:00+00:00,2024,National League,England,Barnet,,,Woking,Not Started
+2024-11-23T15:00:00+00:00,2024,National League,England,Boston United,,,Braintree,Not Started
+2024-11-23T15:00:00+00:00,2024,National League,England,Eastleigh,,,Wealdstone,Not Started
+2024-11-23T15:00:00+00:00,2024,National League,England,FC Halifax Town,,,Sutton Utd,Not Started
+2024-11-23T15:00:00+00:00,2024,National League,England,Maidenhead,,,Gateshead,Not Started
+2024-11-23T12:30:00+00:00,2024,National League,England,Rochdale,,,Oldham,Not Started
+2024-11-23T15:00:00+00:00,2024,National League,England,Solihull Moors,,,Hartlepool,Not Started
+2024-11-23T15:00:00+00:00,2024,National League,England,Southend,,,Forest Green,Not Started
+2024-11-23T15:00:00+00:00,2024,National League,England,Tamworth,,,Dagenham & Redbridge,Not Started
+2024-11-23T15:00:00+00:00,2024,National League,England,York,,,Yeovil Town,Not Started
+2024-11-26T19:45:00+00:00,2024,National League,England,Altrincham,,,York,Not Started
+2024-11-26T19:45:00+00:00,2024,National League,England,Braintree,,,Maidenhead,Not Started
+2024-11-26T19:45:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Aldershot Town,Not Started
+2024-11-26T19:45:00+00:00,2024,National League,England,Ebbsfleet United,,,Eastleigh,Not Started
+2024-11-26T19:45:00+00:00,2024,National League,England,Forest Green,,,FC Halifax Town,Not Started
+2024-11-26T19:45:00+00:00,2024,National League,England,Gateshead,,,Rochdale,Not Started
+2024-11-26T19:45:00+00:00,2024,National League,England,Hartlepool,,,AFC Fylde,Not Started
+2024-11-26T19:45:00+00:00,2024,National League,England,Oldham,,,Boston United,Not Started
+2024-11-26T19:45:00+00:00,2024,National League,England,Sutton Utd,,,Solihull Moors,Not Started
+2024-11-26T19:45:00+00:00,2024,National League,England,Wealdstone,,,Tamworth,Not Started
+2024-11-26T19:45:00+00:00,2024,National League,England,Woking,,,Southend,Not Started
+2024-11-26T19:45:00+00:00,2024,National League,England,Yeovil Town,,,Barnet,Not Started
+2024-11-30T15:00:00+00:00,2024,National League,England,Braintree,,,Gateshead,Not Started
+2024-11-30T15:00:00+00:00,2024,National League,England,Eastleigh,,,Oldham,Not Started
+2024-11-30T15:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Boston United,Not Started
+2024-11-30T15:00:00+00:00,2024,National League,England,FC Halifax Town,,,Southend,Not Started
+2024-11-30T15:00:00+00:00,2024,National League,England,Forest Green,,,Dagenham & Redbridge,Not Started
+2024-11-30T15:00:00+00:00,2024,National League,England,Hartlepool,,,Barnet,Not Started
+2024-11-30T15:00:00+00:00,2024,National League,England,Rochdale,,,Tamworth,Not Started
+2024-11-30T15:00:00+00:00,2024,National League,England,Solihull Moors,,,Aldershot Town,Not Started
+2024-11-30T15:00:00+00:00,2024,National League,England,Sutton Utd,,,AFC Fylde,Not Started
+2024-11-30T15:00:00+00:00,2024,National League,England,Wealdstone,,,Altrincham,Not Started
+2024-11-30T15:00:00+00:00,2024,National League,England,Woking,,,Yeovil Town,Not Started
+2024-11-30T15:00:00+00:00,2024,National League,England,York,,,Maidenhead,Not Started
+2024-12-14T15:00:00+00:00,2024,National League,England,AFC Fylde,,,Eastleigh,Not Started
+2024-12-14T15:00:00+00:00,2024,National League,England,Aldershot Town,,,FC Halifax Town,Not Started
+2024-12-14T15:00:00+00:00,2024,National League,England,Altrincham,,,Sutton Utd,Not Started
+2024-12-14T15:00:00+00:00,2024,National League,England,Barnet,,,Ebbsfleet United,Not Started
+2024-12-14T15:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Rochdale,Not Started
+2024-12-14T15:00:00+00:00,2024,National League,England,Forest Green,,,Boston United,Not Started
+2024-12-14T15:00:00+00:00,2024,National League,England,Gateshead,,,Woking,Not Started
+2024-12-14T15:00:00+00:00,2024,National League,England,Maidenhead,,,Solihull Moors,Not Started
+2024-12-14T15:00:00+00:00,2024,National League,England,Oldham,,,Wealdstone,Not Started
+2024-12-14T15:00:00+00:00,2024,National League,England,Southend,,,Hartlepool,Not Started
+2024-12-14T15:00:00+00:00,2024,National League,England,Tamworth,,,York,Not Started
+2024-12-14T15:00:00+00:00,2024,National League,England,Yeovil Town,,,Braintree,Not Started
+2024-12-21T15:00:00+00:00,2024,National League,England,Barnet,,,FC Halifax Town,Not Started
+2024-12-21T15:00:00+00:00,2024,National League,England,Braintree,,,Oldham,Not Started
+2024-12-21T15:00:00+00:00,2024,National League,England,Eastleigh,,,Maidenhead,Not Started
+2024-12-21T15:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Gateshead,Not Started
+2024-12-21T15:00:00+00:00,2024,National League,England,Forest Green,,,Aldershot Town,Not Started
+2024-12-21T15:00:00+00:00,2024,National League,England,Hartlepool,,,Yeovil Town,Not Started
+2024-12-21T15:00:00+00:00,2024,National League,England,Rochdale,,,Boston United,Not Started
+2024-12-21T15:00:00+00:00,2024,National League,England,Solihull Moors,,,AFC Fylde,Not Started
+2024-12-21T15:00:00+00:00,2024,National League,England,Sutton Utd,,,Tamworth,Not Started
+2024-12-21T15:00:00+00:00,2024,National League,England,Wealdstone,,,Dagenham & Redbridge,Not Started
+2024-12-21T15:00:00+00:00,2024,National League,England,Woking,,,Altrincham,Not Started
+2024-12-21T15:00:00+00:00,2024,National League,England,York,,,Southend,Not Started
+2024-12-26T15:00:00+00:00,2024,National League,England,AFC Fylde,,,Rochdale,Not Started
+2024-12-26T15:00:00+00:00,2024,National League,England,Aldershot Town,,,Woking,Not Started
+2024-12-26T15:00:00+00:00,2024,National League,England,Altrincham,,,FC Halifax Town,Not Started
+2024-12-26T15:00:00+00:00,2024,National League,England,Barnet,,,Sutton Utd,Not Started
+2024-12-26T15:00:00+00:00,2024,National League,England,Boston United,,,Solihull Moors,Not Started
+2024-12-26T15:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Braintree,Not Started
+2024-12-26T15:00:00+00:00,2024,National League,England,Gateshead,,,Hartlepool,Not Started
+2024-12-26T15:00:00+00:00,2024,National League,England,Maidenhead,,,Wealdstone,Not Started
+2024-12-26T15:00:00+00:00,2024,National League,England,Oldham,,,York,Not Started
+2024-12-26T15:00:00+00:00,2024,National League,England,Southend,,,Ebbsfleet United,Not Started
+2024-12-26T15:00:00+00:00,2024,National League,England,Tamworth,,,Forest Green,Not Started
+2024-12-26T15:00:00+00:00,2024,National League,England,Yeovil Town,,,Eastleigh,Not Started
+2025-01-01T15:00:00+00:00,2024,National League,England,Braintree,,,Southend,Not Started
+2025-01-01T15:00:00+00:00,2024,National League,England,Eastleigh,,,Barnet,Not Started
+2025-01-01T15:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Dagenham & Redbridge,Not Started
+2025-01-01T15:00:00+00:00,2024,National League,England,FC Halifax Town,,,AFC Fylde,Not Started
+2025-01-01T15:00:00+00:00,2024,National League,England,Forest Green,,,Yeovil Town,Not Started
+2025-01-01T15:00:00+00:00,2024,National League,England,Hartlepool,,,Oldham,Not Started
+2025-01-01T15:00:00+00:00,2024,National League,England,Rochdale,,,Altrincham,Not Started
+2024-12-31T15:00:00+00:00,2024,National League,England,Solihull Moors,,,Tamworth,Not Started
+2025-01-01T15:00:00+00:00,2024,National League,England,Sutton Utd,,,Aldershot Town,Not Started
+2025-01-01T15:00:00+00:00,2024,National League,England,Wealdstone,,,Boston United,Not Started
+2025-01-01T15:00:00+00:00,2024,National League,England,Woking,,,Maidenhead,Not Started
+2025-01-01T15:00:00+00:00,2024,National League,England,York,,,Gateshead,Not Started
+2025-01-11T15:00:00+00:00,2024,National League,England,AFC Fylde,,,Sutton Utd,Not Started
+2025-01-11T15:00:00+00:00,2024,National League,England,Aldershot Town,,,Solihull Moors,Not Started
+2025-01-11T15:00:00+00:00,2024,National League,England,Altrincham,,,Wealdstone,Not Started
+2025-01-11T15:00:00+00:00,2024,National League,England,Barnet,,,Hartlepool,Not Started
+2025-01-11T15:00:00+00:00,2024,National League,England,Boston United,,,Ebbsfleet United,Not Started
+2025-01-11T15:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Forest Green,Not Started
+2025-01-11T15:00:00+00:00,2024,National League,England,Gateshead,,,Braintree,Not Started
+2025-01-11T15:00:00+00:00,2024,National League,England,Maidenhead,,,York,Not Started
+2025-01-11T15:00:00+00:00,2024,National League,England,Oldham,,,Eastleigh,Not Started
+2025-01-11T15:00:00+00:00,2024,National League,England,Southend,,,FC Halifax Town,Not Started
+2025-01-11T15:00:00+00:00,2024,National League,England,Tamworth,,,Rochdale,Not Started
+2025-01-11T15:00:00+00:00,2024,National League,England,Yeovil Town,,,Woking,Not Started
+2025-01-14T19:45:00+00:00,2024,National League,England,AFC Fylde,,,Oldham,Not Started
+2025-01-14T19:45:00+00:00,2024,National League,England,Aldershot Town,,,Braintree,Not Started
+2025-01-14T19:45:00+00:00,2024,National League,England,Altrincham,,,Maidenhead,Not Started
+2025-01-14T19:45:00+00:00,2024,National League,England,Boston United,,,Southend,Not Started
+2025-01-14T19:45:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Woking,Not Started
+2025-01-14T19:45:00+00:00,2024,National League,England,Ebbsfleet United,,,Yeovil Town,Not Started
+2025-01-14T19:45:00+00:00,2024,National League,England,Forest Green,,,Barnet,Not Started
+2025-01-14T19:45:00+00:00,2024,National League,England,Gateshead,,,FC Halifax Town,Not Started
+2025-01-14T19:45:00+00:00,2024,National League,England,Hartlepool,,,Tamworth,Not Started
+2025-01-14T19:45:00+00:00,2024,National League,England,Rochdale,,,York,Not Started
+2025-01-14T19:45:00+00:00,2024,National League,England,Solihull Moors,,,Eastleigh,Not Started
+2025-01-14T19:45:00+00:00,2024,National League,England,Sutton Utd,,,Wealdstone,Not Started
+2025-01-18T15:00:00+00:00,2024,National League,England,Braintree,,,Solihull Moors,Not Started
+2025-01-18T15:00:00+00:00,2024,National League,England,Eastleigh,,,Altrincham,Not Started
+2025-01-18T15:00:00+00:00,2024,National League,England,FC Halifax Town,,,Dagenham & Redbridge,Not Started
+2025-01-18T15:00:00+00:00,2024,National League,England,Forest Green,,,Rochdale,Not Started
+2025-01-18T15:00:00+00:00,2024,National League,England,Maidenhead,,,AFC Fylde,Not Started
+2025-01-18T15:00:00+00:00,2024,National League,England,Oldham,,,Aldershot Town,Not Started
+2025-01-18T15:00:00+00:00,2024,National League,England,Southend,,,Barnet,Not Started
+2025-01-18T15:00:00+00:00,2024,National League,England,Tamworth,,,Boston United,Not Started
+2025-01-18T15:00:00+00:00,2024,National League,England,Wealdstone,,,Hartlepool,Not Started
+2025-01-18T15:00:00+00:00,2024,National League,England,Woking,,,Ebbsfleet United,Not Started
+2025-01-17T19:30:00+00:00,2024,National League,England,Yeovil Town,,,Gateshead,Not Started
+2025-01-18T15:00:00+00:00,2024,National League,England,York,,,Sutton Utd,Not Started
+2025-01-25T15:00:00+00:00,2024,National League,England,AFC Fylde,,,Wealdstone,Not Started
+2025-01-25T15:00:00+00:00,2024,National League,England,Aldershot Town,,,Tamworth,Not Started
+2025-01-25T15:00:00+00:00,2024,National League,England,Altrincham,,,Forest Green,Not Started
+2025-01-25T15:00:00+00:00,2024,National League,England,Barnet,,,Maidenhead,Not Started
+2025-01-25T15:00:00+00:00,2024,National League,England,Boston United,,,York,Not Started
+2025-01-25T15:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Southend,Not Started
+2025-01-25T15:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Braintree,Not Started
+2025-01-25T15:00:00+00:00,2024,National League,England,Gateshead,,,Oldham,Not Started
+2025-01-25T15:00:00+00:00,2024,National League,England,Hartlepool,,,Woking,Not Started
+2025-01-25T15:00:00+00:00,2024,National League,England,Rochdale,,,Yeovil Town,Not Started
+2025-01-25T15:00:00+00:00,2024,National League,England,Solihull Moors,,,FC Halifax Town,Not Started
+2025-01-25T15:00:00+00:00,2024,National League,England,Sutton Utd,,,Eastleigh,Not Started
+2025-02-01T15:00:00+00:00,2024,National League,England,Braintree,,,Hartlepool,Not Started
+2025-02-01T15:00:00+00:00,2024,National League,England,Eastleigh,,,Gateshead,Not Started
+2025-02-01T15:00:00+00:00,2024,National League,England,FC Halifax Town,,,Ebbsfleet United,Not Started
+2025-02-01T15:00:00+00:00,2024,National League,England,Forest Green,,,Sutton Utd,Not Started
+2025-02-01T15:00:00+00:00,2024,National League,England,Maidenhead,,,Aldershot Town,Not Started
+2025-02-01T15:00:00+00:00,2024,National League,England,Oldham,,,Altrincham,Not Started
+2025-02-01T15:00:00+00:00,2024,National League,England,Southend,,,AFC Fylde,Not Started
+2025-02-01T15:00:00+00:00,2024,National League,England,Tamworth,,,Barnet,Not Started
+2025-02-01T15:00:00+00:00,2024,National League,England,Wealdstone,,,Solihull Moors,Not Started
+2025-02-01T15:00:00+00:00,2024,National League,England,Woking,,,Rochdale,Not Started
+2025-02-01T15:00:00+00:00,2024,National League,England,Yeovil Town,,,Boston United,Not Started
+2025-02-01T15:00:00+00:00,2024,National League,England,York,,,Dagenham & Redbridge,Not Started
+2025-02-08T15:00:00+00:00,2024,National League,England,Aldershot Town,,,AFC Fylde,Not Started
+2025-02-08T15:00:00+00:00,2024,National League,England,Altrincham,,,Braintree,Not Started
+2025-02-08T15:00:00+00:00,2024,National League,England,Boston United,,,Barnet,Not Started
+2025-02-08T15:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Yeovil Town,Not Started
+2025-02-08T15:00:00+00:00,2024,National League,England,Forest Green,,,Eastleigh,Not Started
+2025-02-08T15:00:00+00:00,2024,National League,England,Maidenhead,,,Southend,Not Started
+2025-02-08T15:00:00+00:00,2024,National League,England,Rochdale,,,Ebbsfleet United,Not Started
+2025-02-08T15:00:00+00:00,2024,National League,England,Solihull Moors,,,Oldham,Not Started
+2025-02-08T15:00:00+00:00,2024,National League,England,Sutton Utd,,,Hartlepool,Not Started
+2025-02-08T15:00:00+00:00,2024,National League,England,Tamworth,,,FC Halifax Town,Not Started
+2025-02-08T15:00:00+00:00,2024,National League,England,Wealdstone,,,Gateshead,Not Started
+2025-02-08T15:00:00+00:00,2024,National League,England,York,,,Woking,Not Started
+2025-02-15T15:00:00+00:00,2024,National League,England,AFC Fylde,,,Dagenham & Redbridge,Not Started
+2025-02-15T15:00:00+00:00,2024,National League,England,Barnet,,,Solihull Moors,Not Started
+2025-02-15T15:00:00+00:00,2024,National League,England,Braintree,,,Forest Green,Not Started
+2025-02-15T15:00:00+00:00,2024,National League,England,Eastleigh,,,Aldershot Town,Not Started
+2025-02-15T15:00:00+00:00,2024,National League,England,Ebbsfleet United,,,York,Not Started
+2025-02-15T15:00:00+00:00,2024,National League,England,FC Halifax Town,,,Boston United,Not Started
+2025-02-15T15:00:00+00:00,2024,National League,England,Gateshead,,,Altrincham,Not Started
+2025-02-15T15:00:00+00:00,2024,National League,England,Hartlepool,,,Maidenhead,Not Started
+2025-02-15T15:00:00+00:00,2024,National League,England,Oldham,,,Sutton Utd,Not Started
+2025-02-15T15:00:00+00:00,2024,National League,England,Southend,,,Rochdale,Not Started
+2025-02-15T15:00:00+00:00,2024,National League,England,Woking,,,Tamworth,Not Started
+2025-02-15T15:00:00+00:00,2024,National League,England,Yeovil Town,,,Wealdstone,Not Started
+2025-02-18T19:45:00+00:00,2024,National League,England,AFC Fylde,,,Boston United,Not Started
+2025-02-18T19:45:00+00:00,2024,National League,England,Barnet,,,York,Not Started
+2025-02-18T19:45:00+00:00,2024,National League,England,Braintree,,,Wealdstone,Not Started
+2025-02-18T19:45:00+00:00,2024,National League,England,Eastleigh,,,Dagenham & Redbridge,Not Started
+2025-02-18T19:45:00+00:00,2024,National League,England,Ebbsfleet United,,,Forest Green,Not Started
+2025-02-18T19:45:00+00:00,2024,National League,England,FC Halifax Town,,,Rochdale,Not Started
+2025-02-18T19:45:00+00:00,2024,National League,England,Gateshead,,,Sutton Utd,Not Started
+2025-02-18T19:45:00+00:00,2024,National League,England,Hartlepool,,,Altrincham,Not Started
+2025-02-18T19:45:00+00:00,2024,National League,England,Oldham,,,Maidenhead,Not Started
+2025-02-18T19:45:00+00:00,2024,National League,England,Southend,,,Aldershot Town,Not Started
+2025-02-18T19:45:00+00:00,2024,National League,England,Woking,,,Solihull Moors,Not Started
+2025-02-18T19:45:00+00:00,2024,National League,England,Yeovil Town,,,Tamworth,Not Started
+2025-02-22T15:00:00+00:00,2024,National League,England,Aldershot Town,,,Hartlepool,Not Started
+2025-02-22T15:00:00+00:00,2024,National League,England,Altrincham,,,AFC Fylde,Not Started
+2025-02-22T15:00:00+00:00,2024,National League,England,Boston United,,,Eastleigh,Not Started
+2025-02-22T15:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Oldham,Not Started
+2025-02-22T15:00:00+00:00,2024,National League,England,Forest Green,,,Woking,Not Started
+2025-02-22T15:00:00+00:00,2024,National League,England,Maidenhead,,,Yeovil Town,Not Started
+2025-02-22T15:00:00+00:00,2024,National League,England,Rochdale,,,Barnet,Not Started
+2025-02-22T15:00:00+00:00,2024,National League,England,Solihull Moors,,,Gateshead,Not Started
+2025-02-22T15:00:00+00:00,2024,National League,England,Sutton Utd,,,Braintree,Not Started
+2025-02-22T15:00:00+00:00,2024,National League,England,Tamworth,,,Southend,Not Started
+2025-02-22T15:00:00+00:00,2024,National League,England,Wealdstone,,,Ebbsfleet United,Not Started
+2025-02-22T15:00:00+00:00,2024,National League,England,York,,,FC Halifax Town,Not Started
+2025-03-01T15:00:00+00:00,2024,National League,England,Altrincham,,,Solihull Moors,Not Started
+2025-03-01T15:00:00+00:00,2024,National League,England,Braintree,,,Eastleigh,Not Started
+2025-03-01T15:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Boston United,Not Started
+2025-03-01T15:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Tamworth,Not Started
+2025-03-01T15:00:00+00:00,2024,National League,England,Forest Green,,,Maidenhead,Not Started
+2025-03-01T15:00:00+00:00,2024,National League,England,Gateshead,,,AFC Fylde,Not Started
+2025-03-01T15:00:00+00:00,2024,National League,England,Hartlepool,,,York,Not Started
+2025-03-01T15:00:00+00:00,2024,National League,England,Oldham,,,Barnet,Not Started
+2025-03-01T15:00:00+00:00,2024,National League,England,Sutton Utd,,,Rochdale,Not Started
+2025-03-01T15:00:00+00:00,2024,National League,England,Wealdstone,,,Aldershot Town,Not Started
+2025-03-01T15:00:00+00:00,2024,National League,England,Woking,,,FC Halifax Town,Not Started
+2025-03-01T15:00:00+00:00,2024,National League,England,Yeovil Town,,,Southend,Not Started
+2025-03-04T19:45:00+00:00,2024,National League,England,AFC Fylde,,,Hartlepool,Not Started
+2025-03-04T19:45:00+00:00,2024,National League,England,Aldershot Town,,,Dagenham & Redbridge,Not Started
+2025-03-04T19:45:00+00:00,2024,National League,England,Barnet,,,Yeovil Town,Not Started
+2025-03-04T19:45:00+00:00,2024,National League,England,Boston United,,,Oldham,Not Started
+2025-03-04T19:45:00+00:00,2024,National League,England,Eastleigh,,,Ebbsfleet United,Not Started
+2025-03-04T19:45:00+00:00,2024,National League,England,FC Halifax Town,,,Forest Green,Not Started
+2025-03-04T19:45:00+00:00,2024,National League,England,Maidenhead,,,Braintree,Not Started
+2025-03-04T19:45:00+00:00,2024,National League,England,Rochdale,,,Gateshead,Not Started
+2025-03-04T19:45:00+00:00,2024,National League,England,Solihull Moors,,,Sutton Utd,Not Started
+2025-03-04T19:45:00+00:00,2024,National League,England,Southend,,,Woking,Not Started
+2025-03-04T19:45:00+00:00,2024,National League,England,Tamworth,,,Wealdstone,Not Started
+2025-03-04T19:45:00+00:00,2024,National League,England,York,,,Altrincham,Not Started
+2025-03-08T15:00:00+00:00,2024,National League,England,AFC Fylde,,,Braintree,Not Started
+2025-03-08T15:00:00+00:00,2024,National League,England,Aldershot Town,,,Gateshead,Not Started
+2025-03-08T15:00:00+00:00,2024,National League,England,Barnet,,,Dagenham & Redbridge,Not Started
+2025-03-08T15:00:00+00:00,2024,National League,England,Boston United,,,Woking,Not Started
+2025-03-08T15:00:00+00:00,2024,National League,England,Eastleigh,,,Hartlepool,Not Started
+2025-03-08T15:00:00+00:00,2024,National League,England,FC Halifax Town,,,Yeovil Town,Not Started
+2025-03-08T15:00:00+00:00,2024,National League,England,Maidenhead,,,Sutton Utd,Not Started
+2025-03-08T15:00:00+00:00,2024,National League,England,Rochdale,,,Wealdstone,Not Started
+2025-03-08T15:00:00+00:00,2024,National League,England,Solihull Moors,,,Ebbsfleet United,Not Started
+2025-03-08T15:00:00+00:00,2024,National League,England,Southend,,,Altrincham,Not Started
+2025-03-08T15:00:00+00:00,2024,National League,England,Tamworth,,,Oldham,Not Started
+2025-03-08T15:00:00+00:00,2024,National League,England,York,,,Forest Green,Not Started
+2025-03-15T15:00:00+00:00,2024,National League,England,Altrincham,,,Aldershot Town,Not Started
+2025-03-15T15:00:00+00:00,2024,National League,England,Braintree,,,Boston United,Not Started
+2025-03-15T15:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Tamworth,Not Started
+2025-03-15T15:00:00+00:00,2024,National League,England,Ebbsfleet United,,,AFC Fylde,Not Started
+2025-03-15T15:00:00+00:00,2024,National League,England,Forest Green,,,Southend,Not Started
+2025-03-15T15:00:00+00:00,2024,National League,England,Gateshead,,,Maidenhead,Not Started
+2025-03-15T15:00:00+00:00,2024,National League,England,Hartlepool,,,Solihull Moors,Not Started
+2025-03-15T12:30:00+00:00,2024,National League,England,Oldham,,,Rochdale,Not Started
+2025-03-15T15:00:00+00:00,2024,National League,England,Sutton Utd,,,FC Halifax Town,Not Started
+2025-03-15T15:00:00+00:00,2024,National League,England,Wealdstone,,,Eastleigh,Not Started
+2025-03-15T15:00:00+00:00,2024,National League,England,Woking,,,Barnet,Not Started
+2025-03-15T15:00:00+00:00,2024,National League,England,Yeovil Town,,,York,Not Started
+2025-03-22T15:00:00+00:00,2024,National League,England,AFC Fylde,,,Forest Green,Not Started
+2025-03-22T15:00:00+00:00,2024,National League,England,Aldershot Town,,,Ebbsfleet United,Not Started
+2025-03-22T15:00:00+00:00,2024,National League,England,Altrincham,,,Barnet,Not Started
+2025-03-22T15:00:00+00:00,2024,National League,England,Braintree,,,York,Not Started
+2025-03-22T15:00:00+00:00,2024,National League,England,Eastleigh,,,Southend,Not Started
+2025-03-22T15:00:00+00:00,2024,National League,England,Gateshead,,,Tamworth,Not Started
+2025-03-22T15:00:00+00:00,2024,National League,England,Hartlepool,,,Boston United,Not Started
+2025-03-22T15:00:00+00:00,2024,National League,England,Maidenhead,,,Rochdale,Not Started
+2025-03-22T15:00:00+00:00,2024,National League,England,Oldham,,,FC Halifax Town,Not Started
+2025-03-22T15:00:00+00:00,2024,National League,England,Solihull Moors,,,Yeovil Town,Not Started
+2025-03-22T15:00:00+00:00,2024,National League,England,Sutton Utd,,,Dagenham & Redbridge,Not Started
+2025-03-22T15:00:00+00:00,2024,National League,England,Wealdstone,,,Woking,Not Started
+2025-03-29T15:00:00+00:00,2024,National League,England,Barnet,,,Gateshead,Not Started
+2025-03-29T15:00:00+00:00,2024,National League,England,Boston United,,,Sutton Utd,Not Started
+2025-03-29T15:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Maidenhead,Not Started
+2025-03-29T15:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Altrincham,Not Started
+2025-03-29T15:00:00+00:00,2024,National League,England,FC Halifax Town,,,Hartlepool,Not Started
+2025-03-29T15:00:00+00:00,2024,National League,England,Forest Green,,,Solihull Moors,Not Started
+2025-03-29T15:00:00+00:00,2024,National League,England,Rochdale,,,Aldershot Town,Not Started
+2025-03-29T15:00:00+00:00,2024,National League,England,Southend,,,Oldham,Not Started
+2025-03-29T15:00:00+00:00,2024,National League,England,Tamworth,,,Eastleigh,Not Started
+2025-03-29T15:00:00+00:00,2024,National League,England,Woking,,,Braintree,Not Started
+2025-03-29T15:00:00+00:00,2024,National League,England,Yeovil Town,,,AFC Fylde,Not Started
+2025-03-29T15:00:00+00:00,2024,National League,England,York,,,Wealdstone,Not Started
+2025-04-05T14:00:00+00:00,2024,National League,England,AFC Fylde,,,York,Not Started
+2025-04-05T14:00:00+00:00,2024,National League,England,Aldershot Town,,,Boston United,Not Started
+2025-04-05T14:00:00+00:00,2024,National League,England,Altrincham,,,Yeovil Town,Not Started
+2025-04-05T14:00:00+00:00,2024,National League,England,Braintree,,,Barnet,Not Started
+2025-04-05T14:00:00+00:00,2024,National League,England,Eastleigh,,,FC Halifax Town,Not Started
+2025-04-05T14:00:00+00:00,2024,National League,England,Gateshead,,,Dagenham & Redbridge,Not Started
+2025-04-05T14:00:00+00:00,2024,National League,England,Hartlepool,,,Ebbsfleet United,Not Started
+2025-04-05T14:00:00+00:00,2024,National League,England,Maidenhead,,,Tamworth,Not Started
+2025-04-05T14:00:00+00:00,2024,National League,England,Oldham,,,Woking,Not Started
+2025-04-05T14:00:00+00:00,2024,National League,England,Solihull Moors,,,Rochdale,Not Started
+2025-04-05T14:00:00+00:00,2024,National League,England,Sutton Utd,,,Southend,Not Started
+2025-04-05T14:00:00+00:00,2024,National League,England,Wealdstone,,,Forest Green,Not Started
+2025-04-12T14:00:00+00:00,2024,National League,England,Barnet,,,Wealdstone,Not Started
+2025-04-12T14:00:00+00:00,2024,National League,England,Boston United,,,Altrincham,Not Started
+2025-04-12T14:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Hartlepool,Not Started
+2025-04-12T14:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Sutton Utd,Not Started
+2025-04-12T14:00:00+00:00,2024,National League,England,FC Halifax Town,,,Maidenhead,Not Started
+2025-04-12T14:00:00+00:00,2024,National League,England,Forest Green,,,Gateshead,Not Started
+2025-04-12T14:00:00+00:00,2024,National League,England,Rochdale,,,Eastleigh,Not Started
+2025-04-12T14:00:00+00:00,2024,National League,England,Southend,,,Solihull Moors,Not Started
+2025-04-12T14:00:00+00:00,2024,National League,England,Tamworth,,,Braintree,Not Started
+2025-04-12T14:00:00+00:00,2024,National League,England,Woking,,,AFC Fylde,Not Started
+2025-04-12T14:00:00+00:00,2024,National League,England,Yeovil Town,,,Oldham,Not Started
+2025-04-12T14:00:00+00:00,2024,National League,England,York,,,Aldershot Town,Not Started
+2025-04-18T14:00:00+00:00,2024,National League,England,AFC Fylde,,,FC Halifax Town,Not Started
+2025-04-18T14:00:00+00:00,2024,National League,England,Aldershot Town,,,Sutton Utd,Not Started
+2025-04-18T14:00:00+00:00,2024,National League,England,Altrincham,,,Rochdale,Not Started
+2025-04-18T14:00:00+00:00,2024,National League,England,Barnet,,,Eastleigh,Not Started
+2025-04-18T14:00:00+00:00,2024,National League,England,Boston United,,,Wealdstone,Not Started
+2025-04-18T14:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Ebbsfleet United,Not Started
+2025-04-18T14:00:00+00:00,2024,National League,England,Gateshead,,,York,Not Started
+2025-04-18T14:00:00+00:00,2024,National League,England,Maidenhead,,,Woking,Not Started
+2025-04-18T14:00:00+00:00,2024,National League,England,Oldham,,,Hartlepool,Not Started
+2025-04-18T14:00:00+00:00,2024,National League,England,Southend,,,Braintree,Not Started
+2025-04-18T14:00:00+00:00,2024,National League,England,Tamworth,,,Solihull Moors,Not Started
+2025-04-18T14:00:00+00:00,2024,National League,England,Yeovil Town,,,Forest Green,Not Started
+2025-04-21T14:00:00+00:00,2024,National League,England,Braintree,,,Dagenham & Redbridge,Not Started
+2025-04-21T14:00:00+00:00,2024,National League,England,Eastleigh,,,Yeovil Town,Not Started
+2025-04-21T14:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Southend,Not Started
+2025-04-21T14:00:00+00:00,2024,National League,England,FC Halifax Town,,,Altrincham,Not Started
+2025-04-21T14:00:00+00:00,2024,National League,England,Forest Green,,,Tamworth,Not Started
+2025-04-21T14:00:00+00:00,2024,National League,England,Hartlepool,,,Gateshead,Not Started
+2025-04-21T14:00:00+00:00,2024,National League,England,Rochdale,,,AFC Fylde,Not Started
+2025-04-21T14:00:00+00:00,2024,National League,England,Solihull Moors,,,Boston United,Not Started
+2025-04-21T14:00:00+00:00,2024,National League,England,Sutton Utd,,,Barnet,Not Started
+2025-04-21T14:00:00+00:00,2024,National League,England,Wealdstone,,,Maidenhead,Not Started
+2025-04-21T14:00:00+00:00,2024,National League,England,Woking,,,Aldershot Town,Not Started
+2025-04-21T14:00:00+00:00,2024,National League,England,York,,,Oldham,Not Started
+2025-04-26T14:00:00+00:00,2024,National League,England,Barnet,,,Aldershot Town,Not Started
+2025-04-26T14:00:00+00:00,2024,National League,England,Boston United,,,Gateshead,Not Started
+2025-04-26T14:00:00+00:00,2024,National League,England,Dagenham & Redbridge,,,Altrincham,Not Started
+2025-04-26T14:00:00+00:00,2024,National League,England,Ebbsfleet United,,,Maidenhead,Not Started
+2025-04-26T14:00:00+00:00,2024,National League,England,FC Halifax Town,,,Braintree,Not Started
+2025-04-26T14:00:00+00:00,2024,National League,England,Forest Green,,,Oldham,Not Started
+2025-04-26T14:00:00+00:00,2024,National League,England,Rochdale,,,Hartlepool,Not Started
+2025-04-26T14:00:00+00:00,2024,National League,England,Southend,,,Wealdstone,Not Started
+2025-04-26T14:00:00+00:00,2024,National League,England,Tamworth,,,AFC Fylde,Not Started
+2025-04-26T14:00:00+00:00,2024,National League,England,Woking,,,Eastleigh,Not Started
+2025-04-26T14:00:00+00:00,2024,National League,England,Yeovil Town,,,Sutton Utd,Not Started
+2025-04-26T14:00:00+00:00,2024,National League,England,York,,,Solihull Moors,Not Started
+2025-05-05T14:00:00+00:00,2024,National League,England,AFC Fylde,,,Barnet,Not Started
+2025-05-05T14:00:00+00:00,2024,National League,England,Aldershot Town,,,Yeovil Town,Not Started
+2025-05-05T14:00:00+00:00,2024,National League,England,Altrincham,,,Tamworth,Not Started
+2025-05-05T14:00:00+00:00,2024,National League,England,Braintree,,,Rochdale,Not Started
+2025-05-05T14:00:00+00:00,2024,National League,England,Eastleigh,,,York,Not Started
+2025-05-05T14:00:00+00:00,2024,National League,England,Gateshead,,,Southend,Not Started
+2025-05-05T14:00:00+00:00,2024,National League,England,Hartlepool,,,Forest Green,Not Started
+2025-05-05T14:00:00+00:00,2024,National League,England,Maidenhead,,,Boston United,Not Started
+2025-05-05T14:00:00+00:00,2024,National League,England,Oldham,,,Ebbsfleet United,Not Started
+2025-05-05T14:00:00+00:00,2024,National League,England,Solihull Moors,,,Dagenham & Redbridge,Not Started
+2025-05-05T14:00:00+00:00,2024,National League,England,Sutton Utd,,,Woking,Not Started
+2025-05-05T14:00:00+00:00,2024,National League,England,Wealdstone,,,FC Halifax Town,Not Started

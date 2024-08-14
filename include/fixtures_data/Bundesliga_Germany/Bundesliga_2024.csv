@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-23T18:30:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,Bayer Leverkusen,Not Started
+2024-08-24T13:30:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,Vfl Bochum,Not Started
+2024-08-24T16:30:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,Eintracht Frankfurt,Not Started
+2024-08-24T13:30:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,Holstein Kiel,Not Started
+2024-08-24T13:30:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,VfB Stuttgart,Not Started
+2024-08-24T13:30:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,Werder Bremen,Not Started
+2024-08-25T13:30:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,Bayern Munich,Not Started
+2024-08-24T13:30:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,Union Berlin,Not Started
+2024-08-25T15:30:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,FC Heidenheim,Not Started
+2024-08-31T16:30:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,RB Leipzig,Not Started
+2024-08-31T13:30:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,FSV Mainz 05,Not Started
+2024-09-01T15:30:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,SC Freiburg,Not Started
+2024-08-31T13:30:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,1899 Hoffenheim,Not Started
+2024-09-01T13:30:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,FC Augsburg,Not Started
+2024-08-31T13:30:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,Borussia Dortmund,Not Started
+2024-08-30T18:30:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,FC St. Pauli,Not Started
+2024-08-31T13:30:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,Borussia Monchengladbach,Not Started
+2024-08-31T13:30:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,VfL Wolfsburg,Not Started
+2024-09-14T13:30:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,Union Berlin,Not Started
+2024-09-13T18:30:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,FC Heidenheim,Not Started
+2024-09-14T13:30:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,Bayer Leverkusen,Not Started
+2024-09-14T13:30:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,Vfl Bochum,Not Started
+2024-09-15T13:30:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,FC St. Pauli,Not Started
+2024-09-14T13:30:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,Eintracht Frankfurt,Not Started
+2024-09-15T15:30:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,Werder Bremen,Not Started
+2024-09-14T13:30:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,VfB Stuttgart,Not Started
+2024-09-14T16:30:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,Bayern Munich,Not Started
+2024-09-22T13:30:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,VfL Wolfsburg,Not Started
+2024-09-22T15:30:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,Borussia Dortmund,Not Started
+2024-09-21T16:30:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,Borussia Monchengladbach,Not Started
+2024-09-21T13:30:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,SC Freiburg,Not Started
+2024-09-21T13:30:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,Bayern Munich,Not Started
+2024-09-20T18:30:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,FSV Mainz 05,Not Started
+2024-09-21T13:30:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,1899 Hoffenheim,Not Started
+2024-09-21T13:30:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,Holstein Kiel,Not Started
+2024-09-22T17:30:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,RB Leipzig,Not Started
+2024-09-28T16:30:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,Bayer Leverkusen,Not Started
+2024-09-28T13:30:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,FC Augsburg,Not Started
+2024-09-27T18:30:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,Vfl Bochum,Not Started
+2024-09-29T15:30:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,Werder Bremen,Not Started
+2024-09-28T13:30:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,FC St. Pauli,Not Started
+2024-09-28T13:30:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,VfB Stuttgart,Not Started
+2024-09-28T13:30:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,FC Heidenheim,Not Started
+2024-09-28T13:30:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,Union Berlin,Not Started
+2024-09-29T13:30:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,Eintracht Frankfurt,Not Started
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,Holstein Kiel,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,1899 Hoffenheim,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,Bayern Munich,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,RB Leipzig,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,SC Freiburg,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,Borussia Monchengladbach,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,Borussia Dortmund,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,VfL Wolfsburg,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,FSV Mainz 05,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,Eintracht Frankfurt,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,VfB Stuttgart,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,FC St. Pauli,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,Vfl Bochum,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,FC Augsburg,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,Werder Bremen,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,RB Leipzig,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,FC Heidenheim,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,Union Berlin,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,Holstein Kiel,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,SC Freiburg,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,1899 Hoffenheim,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,Bayer Leverkusen,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,Borussia Dortmund,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,Borussia Monchengladbach,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,Eintracht Frankfurt,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,Bayern Munich,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,VfL Wolfsburg,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,VfB Stuttgart,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,Union Berlin,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,RB Leipzig,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,Vfl Bochum,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,FC St. Pauli,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,FSV Mainz 05,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,FC Augsburg,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,Werder Bremen,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,FC Heidenheim,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,Eintracht Frankfurt,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,Borussia Monchengladbach,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,VfL Wolfsburg,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,Holstein Kiel,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,1899 Hoffenheim,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,Borussia Dortmund,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,SC Freiburg,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,Bayer Leverkusen,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,Bayern Munich,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,FC Heidenheim,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,Vfl Bochum,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,FC Augsburg,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,SC Freiburg,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,Werder Bremen,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,RB Leipzig,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,Union Berlin,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,FC St. Pauli,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,FSV Mainz 05,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,VfL Wolfsburg,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,Bayern Munich,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,Eintracht Frankfurt,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,VfB Stuttgart,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,Borussia Monchengladbach,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,Vfl Bochum,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,1899 Hoffenheim,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,Bayer Leverkusen,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,Holstein Kiel,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,FC St. Pauli,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,Union Berlin,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,FC Heidenheim,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,FC Augsburg,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,SC Freiburg,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,FSV Mainz 05,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,Borussia Dortmund,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,Werder Bremen,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,RB Leipzig,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,Eintracht Frankfurt,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,1899 Hoffenheim,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,VfB Stuttgart,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,VfL Wolfsburg,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,Bayer Leverkusen,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,Bayern Munich,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,Holstein Kiel,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,Vfl Bochum,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,Werder Bremen,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,SC Freiburg,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,FC St. Pauli,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,RB Leipzig,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,FSV Mainz 05,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,Borussia Monchengladbach,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,Union Berlin,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,Borussia Dortmund,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,FC Heidenheim,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,FC Augsburg,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,Werder Bremen,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,Bayer Leverkusen,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,VfL Wolfsburg,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,Union Berlin,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,Holstein Kiel,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,VfB Stuttgart,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,Vfl Bochum,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,Bayern Munich,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,Eintracht Frankfurt,Time to be defined
+2025-01-15T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,FSV Mainz 05,Time to be defined
+2025-01-15T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,RB Leipzig,Time to be defined
+2025-01-15T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,1899 Hoffenheim,Time to be defined
+2025-01-15T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,SC Freiburg,Time to be defined
+2025-01-15T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,FC Heidenheim,Time to be defined
+2025-01-15T00:00:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,Borussia Monchengladbach,Time to be defined
+2025-01-15T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,FC Augsburg,Time to be defined
+2025-01-15T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,FC St. Pauli,Time to be defined
+2025-01-15T00:00:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,Borussia Dortmund,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,Borussia Monchengladbach,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,SC Freiburg,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,VfL Wolfsburg,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,Borussia Dortmund,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,FC St. Pauli,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,FC Augsburg,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,FSV Mainz 05,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,RB Leipzig,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,1899 Hoffenheim,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,Bayer Leverkusen,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,Werder Bremen,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,Eintracht Frankfurt,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,Bayern Munich,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,FC Heidenheim,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,Holstein Kiel,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,VfB Stuttgart,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,Vfl Bochum,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,Union Berlin,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,1899 Hoffenheim,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,Borussia Monchengladbach,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,Holstein Kiel,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,VfL Wolfsburg,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,Borussia Dortmund,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,FSV Mainz 05,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,RB Leipzig,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,SC Freiburg,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,FC Augsburg,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,Werder Bremen,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,FC St. Pauli,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,VfB Stuttgart,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,Union Berlin,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,FC Heidenheim,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,Bayer Leverkusen,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,FC Augsburg,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,Eintracht Frankfurt,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,Vfl Bochum,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,Bayern Munich,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,VfL Wolfsburg,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,Holstein Kiel,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,FSV Mainz 05,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,1899 Hoffenheim,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,RB Leipzig,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,Borussia Monchengladbach,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,Borussia Dortmund,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,SC Freiburg,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,Eintracht Frankfurt,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,FC Heidenheim,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,Union Berlin,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,VfB Stuttgart,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,Werder Bremen,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,Vfl Bochum,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,FC St. Pauli,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,FC Augsburg,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,Bayer Leverkusen,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,Bayern Munich,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,FSV Mainz 05,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,Bayer Leverkusen,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,Borussia Monchengladbach,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,VfL Wolfsburg,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,SC Freiburg,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,Holstein Kiel,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,1899 Hoffenheim,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,Borussia Dortmund,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,Werder Bremen,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,Vfl Bochum,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,FC Augsburg,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,Union Berlin,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,FC Heidenheim,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,RB Leipzig,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,FC St. Pauli,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,FSV Mainz 05,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,VfB Stuttgart,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,Bayer Leverkusen,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,Borussia Dortmund,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,Holstein Kiel,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,Borussia Monchengladbach,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,VfL Wolfsburg,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,SC Freiburg,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,Bayern Munich,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,Eintracht Frankfurt,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,1899 Hoffenheim,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,Vfl Bochum,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,FC St. Pauli,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,FSV Mainz 05,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,VfB Stuttgart,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,FC Augsburg,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,Union Berlin,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,FC Heidenheim,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,RB Leipzig,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,Werder Bremen,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,1899 Hoffenheim,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,Bayer Leverkusen,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,Eintracht Frankfurt,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,Borussia Dortmund,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,Bayern Munich,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,Holstein Kiel,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,VfL Wolfsburg,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,VfB Stuttgart,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,Borussia Monchengladbach,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,Union Berlin,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,Werder Bremen,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,Borussia Dortmund,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,FC Heidenheim,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,FSV Mainz 05,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,RB Leipzig,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,SC Freiburg,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,FC Augsburg,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,FC St. Pauli,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,Holstein Kiel,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,Borussia Monchengladbach,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,Bayern Munich,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,Vfl Bochum,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,1899 Hoffenheim,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,Eintracht Frankfurt,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,VfL Wolfsburg,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,VfB Stuttgart,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,Bayer Leverkusen,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,FC Augsburg,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,FC Heidenheim,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,FSV Mainz 05,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,RB Leipzig,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,Borussia Dortmund,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,FC St. Pauli,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,SC Freiburg,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,Union Berlin,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,Borussia Monchengladbach,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,Bayern Munich,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,VfL Wolfsburg,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,Vfl Bochum,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,Bayer Leverkusen,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,Holstein Kiel,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,Eintracht Frankfurt,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,1899 Hoffenheim,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,Werder Bremen,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,VfB Stuttgart,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Bundesliga,Germany,Bayer Leverkusen,,,Borussia Dortmund,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Bundesliga,Germany,VfB Stuttgart,,,FC Augsburg,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Bundesliga,Germany,Bayern Munich,,,Borussia Monchengladbach,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Bundesliga,Germany,Eintracht Frankfurt,,,FC St. Pauli,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Bundesliga,Germany,Werder Bremen,,,RB Leipzig,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Bundesliga,Germany,VfL Wolfsburg,,,1899 Hoffenheim,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Bundesliga,Germany,Union Berlin,,,FC Heidenheim,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Bundesliga,Germany,Vfl Bochum,,,FSV Mainz 05,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Bundesliga,Germany,Holstein Kiel,,,SC Freiburg,Time to be defined
+2025-05-17T13:30:00+00:00,2024,Bundesliga,Germany,RB Leipzig,,,VfB Stuttgart,Not Started
+2025-05-17T13:30:00+00:00,2024,Bundesliga,Germany,Borussia Dortmund,,,Holstein Kiel,Not Started
+2025-05-17T13:30:00+00:00,2024,Bundesliga,Germany,1899 Hoffenheim,,,Bayern Munich,Not Started
+2025-05-17T13:30:00+00:00,2024,Bundesliga,Germany,FC Heidenheim,,,Werder Bremen,Not Started
+2025-05-17T13:30:00+00:00,2024,Bundesliga,Germany,SC Freiburg,,,Eintracht Frankfurt,Not Started
+2025-05-17T13:30:00+00:00,2024,Bundesliga,Germany,FC Augsburg,,,Union Berlin,Not Started
+2025-05-17T13:30:00+00:00,2024,Bundesliga,Germany,FSV Mainz 05,,,Bayer Leverkusen,Not Started
+2025-05-17T13:30:00+00:00,2024,Bundesliga,Germany,Borussia Monchengladbach,,,VfL Wolfsburg,Not Started
+2025-05-17T13:30:00+00:00,2024,Bundesliga,Germany,FC St. Pauli,,,Vfl Bochum,Not Started

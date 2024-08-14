@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-04-23T00:00:00+00:00,2024,Serie B,Brazil,Vila Nova,2,0,Guarani Campinas,Match Finished
+2024-04-21T21:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,1,1,Coritiba,Match Finished
+2024-04-19T22:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,1,1,America Mineiro,Match Finished
+2024-04-19T22:00:00+00:00,2024,Serie B,Brazil,Novorizontino,2,1,CRB,Match Finished
+2024-04-20T19:30:00+00:00,2024,Serie B,Brazil,Santos,2,0,Paysandu,Match Finished
+2024-04-20T18:30:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,3,1,Ituano,Match Finished
+2024-04-24T00:00:00+00:00,2024,Serie B,Brazil,Brusque,3,1,Mirassol,Match Finished
+2024-04-20T00:00:00+00:00,2024,Serie B,Brazil,Operario-PR,1,0,Avai,Match Finished
+2024-04-20T20:00:00+00:00,2024,Serie B,Brazil,Amazonas,2,3,Sport Recife,Match Finished
+2024-04-20T21:00:00+00:00,2024,Serie B,Brazil,Ceara,1,1,Goias,Match Finished
+2024-04-28T21:30:00+00:00,2024,Serie B,Brazil,Goias,3,0,Ponte Preta,Match Finished
+2024-04-27T00:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,0,1,Chapecoense-sc,Match Finished
+2024-04-29T22:30:00+00:00,2024,Serie B,Brazil,Mirassol,3,2,Ceara,Match Finished
+2024-04-26T22:00:00+00:00,2024,Serie B,Brazil,Ituano,0,2,Operario-PR,Match Finished
+2024-04-27T21:00:00+00:00,2024,Serie B,Brazil,America Mineiro,2,0,Novorizontino,Match Finished
+2024-04-26T23:00:00+00:00,2024,Serie B,Brazil,Avai,0,2,Santos,Match Finished
+2024-04-27T20:00:00+00:00,2024,Serie B,Brazil,CRB,0,0,Amazonas,Match Finished
+2024-04-28T19:00:00+00:00,2024,Serie B,Brazil,Coritiba,1,0,Brusque,Match Finished
+2024-04-27T20:00:00+00:00,2024,Serie B,Brazil,Paysandu,1,1,Botafogo SP,Match Finished
+2024-04-26T22:00:00+00:00,2024,Serie B,Brazil,Sport Recife,2,0,Vila Nova,Match Finished
+2024-05-04T21:00:00+00:00,2024,Serie B,Brazil,Vila Nova,1,0,Operario-PR,Match Finished
+2024-05-06T23:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,3,0,Amazonas,Match Finished
+2024-05-08T00:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,0,0,Mirassol,Match Finished
+2024-05-05T00:00:00+00:00,2024,Serie B,Brazil,Ituano,1,3,Novorizontino,Match Finished
+2024-05-07T00:00:00+00:00,2024,Serie B,Brazil,Santos,4,1,Guarani Campinas,Match Finished
+2024-05-04T20:00:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,2,2,America Mineiro,Match Finished
+2024-05-05T19:00:00+00:00,2024,Serie B,Brazil,Brusque,0,2,Goias,Match Finished
+2024-05-04T00:30:00+00:00,2024,Serie B,Brazil,Coritiba,0,1,Sport Recife,Match Finished
+2024-05-03T22:00:00+00:00,2024,Serie B,Brazil,Paysandu,0,0,Avai,Match Finished
+2024-05-06T22:00:00+00:00,2024,Serie B,Brazil,Ceara,2,2,CRB,Match Finished
+2024-05-11T00:30:00+00:00,2024,Serie B,Brazil,Goias,2,0,Ituano,Match Finished
+2024-05-11T20:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,2,0,Botafogo SP,Match Finished
+2024-05-12T19:00:00+00:00,2024,Serie B,Brazil,Mirassol,2,1,Paysandu,Match Finished
+2024-05-10T22:00:00+00:00,2024,Serie B,Brazil,Novorizontino,0,3,Ceara,Match Finished
+2024-05-09T00:00:00+00:00,2024,Serie B,Brazil,America Mineiro,3,1,Vila Nova,Match Finished
+2024-05-12T00:00:00+00:00,2024,Serie B,Brazil,Avai,1,0,Coritiba,Match Finished
+2024-05-11T00:30:00+00:00,2024,Serie B,Brazil,CRB,2,0,Chapecoense-sc,Match Finished
+2024-05-11T20:00:00+00:00,2024,Serie B,Brazil,Operario-PR,1,1,Ponte Preta,Match Finished
+2024-05-11T20:00:00+00:00,2024,Serie B,Brazil,Amazonas,1,0,Santos,Match Finished
+2024-05-11T20:00:00+00:00,2024,Serie B,Brazil,Sport Recife,4,1,Brusque,Match Finished
+2024-05-14T22:00:00+00:00,2024,Serie B,Brazil,Vila Nova,2,1,Novorizontino,Match Finished
+2024-05-16T00:30:00+00:00,2024,Serie B,Brazil,Ponte Preta,1,2,Santos,Match Finished
+2024-05-15T00:30:00+00:00,2024,Serie B,Brazil,Botafogo SP,0,0,Chapecoense-sc,Match Finished
+2024-05-15T22:00:00+00:00,2024,Serie B,Brazil,Ituano,1,0,Sport Recife,Match Finished
+2024-05-15T22:00:00+00:00,2024,Serie B,Brazil,America Mineiro,0,0,Mirassol,Match Finished
+2024-05-14T22:00:00+00:00,2024,Serie B,Brazil,Avai,2,1,CRB,Match Finished
+2024-05-15T22:00:00+00:00,2024,Serie B,Brazil,Brusque,0,0,Operario-PR,Match Finished
+2024-05-15T00:30:00+00:00,2024,Serie B,Brazil,Coritiba,1,0,Guarani Campinas,Match Finished
+2024-05-16T00:30:00+00:00,2024,Serie B,Brazil,Paysandu,1,1,Goias,Match Finished
+2024-05-16T00:30:00+00:00,2024,Serie B,Brazil,Ceara,2,1,Amazonas,Match Finished
+2024-05-18T21:30:00+00:00,2024,Serie B,Brazil,Goias,4,0,Botafogo SP,Match Finished
+2024-05-21T00:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,1,2,America Mineiro,Match Finished
+2024-05-19T19:00:00+00:00,2024,Serie B,Brazil,Mirassol,2,0,Ituano,Match Finished
+2024-05-18T00:30:00+00:00,2024,Serie B,Brazil,Novorizontino,0,0,Coritiba,Match Finished
+2024-05-19T14:00:00+00:00,2024,Serie B,Brazil,Santos,4,0,Brusque,Match Finished
+2024-05-21T20:00:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,0,0,Ponte Preta,Match Finished
+2024-05-17T22:00:00+00:00,2024,Serie B,Brazil,CRB,1,0,Vila Nova,Match Finished
+2024-05-19T19:00:00+00:00,2024,Serie B,Brazil,Operario-PR,0,0,Ceara,Match Finished
+2024-05-18T20:30:00+00:00,2024,Serie B,Brazil,Amazonas,1,1,Paysandu,Match Finished
+2024-05-19T00:00:00+00:00,2024,Serie B,Brazil,Sport Recife,1,2,Avai,Match Finished
+2024-05-26T20:00:00+00:00,2024,Serie B,Brazil,Vila Nova,2,2,Brusque,Match Finished
+2024-05-26T00:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,0,0,Paysandu,Match Finished
+2024-05-28T00:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,0,1,Novorizontino,Match Finished
+2024-05-26T19:00:00+00:00,2024,Serie B,Brazil,Ituano,2,0,Ponte Preta,Match Finished
+2024-05-25T00:30:00+00:00,2024,Serie B,Brazil,America Mineiro,2,1,Santos,Match Finished
+2024-05-28T00:30:00+00:00,2024,Serie B,Brazil,Avai,2,0,Goias,Match Finished
+2024-05-24T00:00:00+00:00,2024,Serie B,Brazil,CRB,,,Sport Recife,Match Postponed
+2024-05-27T22:00:00+00:00,2024,Serie B,Brazil,Coritiba,3,0,Operario-PR,Match Finished
+2024-05-28T22:00:00+00:00,2024,Serie B,Brazil,Amazonas,1,0,Mirassol,Match Finished
+2024-05-26T21:30:00+00:00,2024,Serie B,Brazil,Ceara,2,1,Chapecoense-sc,Match Finished
+2024-06-01T00:30:00+00:00,2024,Serie B,Brazil,Goias,3,0,Sport Recife,Match Finished
+2024-06-02T19:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,4,2,CRB,Match Finished
+2024-06-04T22:00:00+00:00,2024,Serie B,Brazil,Mirassol,3,0,Guarani Campinas,Match Finished
+2024-06-02T21:30:00+00:00,2024,Serie B,Brazil,Ituano,0,1,Avai,Match Finished
+2024-06-03T23:00:00+00:00,2024,Serie B,Brazil,Santos,1,2,Botafogo SP,Match Finished
+2024-06-02T19:00:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,1,1,Vila Nova,Match Finished
+2024-06-01T20:00:00+00:00,2024,Serie B,Brazil,Brusque,0,0,Novorizontino,Match Finished
+2024-06-04T00:00:00+00:00,2024,Serie B,Brazil,Operario-PR,1,0,Amazonas,Match Finished
+2024-06-05T00:30:00+00:00,2024,Serie B,Brazil,Paysandu,2,0,America Mineiro,Match Finished
+2024-05-31T22:00:00+00:00,2024,Serie B,Brazil,Ceara,1,0,Coritiba,Match Finished
+2024-06-10T22:00:00+00:00,2024,Serie B,Brazil,Vila Nova,3,2,Ceara,Match Finished
+2024-06-08T20:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,0,1,Operario-PR,Match Finished
+2024-06-11T22:00:00+00:00,2024,Serie B,Brazil,Mirassol,1,0,Goias,Match Finished
+2024-06-08T00:00:00+00:00,2024,Serie B,Brazil,Novorizontino,3,1,Santos,Match Finished
+2024-06-09T21:30:00+00:00,2024,Serie B,Brazil,America Mineiro,2,0,Ponte Preta,Match Finished
+2024-06-09T19:00:00+00:00,2024,Serie B,Brazil,Avai,0,0,Chapecoense-sc,Match Finished
+2024-07-17T23:30:00+00:00,2024,Serie B,Brazil,CRB,4,1,Botafogo SP,Match Finished
+2024-06-07T22:00:00+00:00,2024,Serie B,Brazil,Coritiba,4,2,Ituano,Match Finished
+2024-06-08T20:00:00+00:00,2024,Serie B,Brazil,Amazonas,2,1,Brusque,Match Finished
+2024-06-11T00:30:00+00:00,2024,Serie B,Brazil,Sport Recife,1,0,Paysandu,Match Finished
+2024-06-16T21:30:00+00:00,2024,Serie B,Brazil,Goias,1,1,Coritiba,Match Finished
+2024-06-15T20:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,1,0,Novorizontino,Match Finished
+2024-06-16T14:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,1,0,Vila Nova,Match Finished
+2024-06-15T21:00:00+00:00,2024,Serie B,Brazil,Ituano,3,5,Paysandu,Match Finished
+2024-06-15T18:30:00+00:00,2024,Serie B,Brazil,America Mineiro,2,1,CRB,Match Finished
+2024-06-15T00:00:00+00:00,2024,Serie B,Brazil,Avai,3,2,Guarani Campinas,Match Finished
+2024-06-16T19:00:00+00:00,2024,Serie B,Brazil,Brusque,1,0,Ceara,Match Finished
+2024-06-14T22:00:00+00:00,2024,Serie B,Brazil,Operario-PR,1,0,Santos,Match Finished
+2024-06-14T00:00:00+00:00,2024,Serie B,Brazil,Amazonas,0,1,Chapecoense-sc,Match Finished
+2024-06-16T21:30:00+00:00,2024,Serie B,Brazil,Sport Recife,1,0,Mirassol,Match Finished
+2024-06-20T22:00:00+00:00,2024,Serie B,Brazil,Vila Nova,1,0,Mirassol,Match Finished
+2024-06-18T22:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,3,3,Ituano,Match Finished
+2024-06-20T00:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,2,0,Ponte Preta,Match Finished
+2024-06-19T00:00:00+00:00,2024,Serie B,Brazil,Novorizontino,1,1,Amazonas,Match Finished
+2024-06-19T22:00:00+00:00,2024,Serie B,Brazil,Santos,2,0,Goias,Match Finished
+2024-06-18T00:00:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,0,1,Operario-PR,Match Finished
+2024-06-20T00:30:00+00:00,2024,Serie B,Brazil,Brusque,0,0,Avai,Match Finished
+2024-06-20T00:30:00+00:00,2024,Serie B,Brazil,Coritiba,1,0,America Mineiro,Match Finished
+2024-06-19T00:30:00+00:00,2024,Serie B,Brazil,Paysandu,1,1,CRB,Match Finished
+2024-06-21T00:30:00+00:00,2024,Serie B,Brazil,Ceara,0,0,Sport Recife,Match Finished
+2024-06-23T21:30:00+00:00,2024,Serie B,Brazil,Vila Nova,1,0,Goias,Match Finished
+2024-06-26T00:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,3,1,Ceara,Match Finished
+2024-06-25T22:00:00+00:00,2024,Serie B,Brazil,Mirassol,0,0,Santos,Match Finished
+2024-06-23T00:00:00+00:00,2024,Serie B,Brazil,Ituano,1,1,Brusque,Match Finished
+2024-06-25T22:00:00+00:00,2024,Serie B,Brazil,America Mineiro,1,1,Avai,Match Finished
+2024-06-23T19:00:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,1,2,Paysandu,Match Finished
+2024-06-22T20:00:00+00:00,2024,Serie B,Brazil,CRB,1,0,Guarani Campinas,Match Finished
+2024-06-22T20:00:00+00:00,2024,Serie B,Brazil,Operario-PR,0,1,Botafogo SP,Match Finished
+2024-06-26T00:30:00+00:00,2024,Serie B,Brazil,Amazonas,1,0,Coritiba,Match Finished
+2024-06-24T22:00:00+00:00,2024,Serie B,Brazil,Sport Recife,1,2,Novorizontino,Match Finished
+2024-07-02T21:30:00+00:00,2024,Serie B,Brazil,Goias,2,1,America Mineiro,Match Finished
+2024-06-30T21:30:00+00:00,2024,Serie B,Brazil,Guarani Campinas,1,1,Ponte Preta,Match Finished
+2024-06-29T20:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,1,1,Sport Recife,Match Finished
+2024-07-02T23:00:00+00:00,2024,Serie B,Brazil,Novorizontino,1,1,Mirassol,Match Finished
+2024-07-01T22:00:00+00:00,2024,Serie B,Brazil,Santos,1,0,Chapecoense-sc,Match Finished
+2024-06-30T14:00:00+00:00,2024,Serie B,Brazil,Avai,1,1,Amazonas,Match Finished
+2024-07-02T00:00:00+00:00,2024,Serie B,Brazil,CRB,1,1,Brusque,Match Finished
+2024-06-29T19:00:00+00:00,2024,Serie B,Brazil,Coritiba,1,1,Vila Nova,Match Finished
+2024-06-30T19:00:00+00:00,2024,Serie B,Brazil,Paysandu,1,1,Operario-PR,Match Finished
+2024-06-30T00:00:00+00:00,2024,Serie B,Brazil,Ceara,4,2,Ituano,Match Finished
+2024-07-06T20:00:00+00:00,2024,Serie B,Brazil,Goias,1,2,Chapecoense-sc,Match Finished
+2024-07-07T21:30:00+00:00,2024,Serie B,Brazil,Guarani Campinas,0,1,Sport Recife,Match Finished
+2024-07-10T00:00:00+00:00,2024,Serie B,Brazil,Mirassol,1,0,CRB,Match Finished
+2024-07-07T19:00:00+00:00,2024,Serie B,Brazil,Ituano,3,2,Botafogo SP,Match Finished
+2024-07-06T14:00:00+00:00,2024,Serie B,Brazil,America Mineiro,2,0,Operario-PR,Match Finished
+2024-07-08T23:00:00+00:00,2024,Serie B,Brazil,Avai,0,1,Novorizontino,Match Finished
+2024-07-06T00:00:00+00:00,2024,Serie B,Brazil,Brusque,0,0,Ponte Preta,Match Finished
+2024-07-07T14:00:00+00:00,2024,Serie B,Brazil,Coritiba,1,1,Paysandu,Match Finished
+2024-07-09T00:00:00+00:00,2024,Serie B,Brazil,Amazonas,1,2,Vila Nova,Match Finished
+2024-07-05T22:00:00+00:00,2024,Serie B,Brazil,Ceara,0,1,Santos,Match Finished
+2024-07-14T19:00:00+00:00,2024,Serie B,Brazil,Vila Nova,2,1,Avai,Match Finished
+2024-07-12T22:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,4,2,Mirassol,Match Finished
+2024-07-13T00:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,0,1,Amazonas,Match Finished
+2024-07-13T18:30:00+00:00,2024,Serie B,Brazil,Novorizontino,1,1,Guarani Campinas,Match Finished
+2024-07-15T23:00:00+00:00,2024,Serie B,Brazil,Santos,2,0,Ituano,Match Finished
+2024-07-15T21:30:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,1,1,Brusque,Match Finished
+2024-07-13T21:00:00+00:00,2024,Serie B,Brazil,CRB,2,1,Coritiba,Match Finished
+2024-07-18T00:00:00+00:00,2024,Serie B,Brazil,Operario-PR,2,0,Goias,Match Finished
+2024-07-13T00:30:00+00:00,2024,Serie B,Brazil,Paysandu,2,1,Ceara,Match Finished
+2024-07-13T20:00:00+00:00,2024,Serie B,Brazil,Sport Recife,1,1,America Mineiro,Match Finished
+2024-07-18T23:00:00+00:00,2024,Serie B,Brazil,Vila Nova,1,1,Santos,Match Finished
+2024-07-21T19:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,2,3,Goias,Match Finished
+2024-07-21T21:30:00+00:00,2024,Serie B,Brazil,Botafogo SP,2,2,Brusque,Match Finished
+2024-07-19T00:00:00+00:00,2024,Serie B,Brazil,Novorizontino,1,0,Chapecoense-sc,Match Finished
+2024-07-20T20:00:00+00:00,2024,Serie B,Brazil,America Mineiro,0,0,Amazonas,Match Finished
+2024-07-19T22:00:00+00:00,2024,Serie B,Brazil,Avai,0,1,Ceara,Match Finished
+2024-07-20T20:00:00+00:00,2024,Serie B,Brazil,CRB,1,0,Ituano,Match Finished
+2024-07-20T00:30:00+00:00,2024,Serie B,Brazil,Coritiba,0,1,Mirassol,Match Finished
+2024-07-20T21:00:00+00:00,2024,Serie B,Brazil,Paysandu,1,0,Ponte Preta,Match Finished
+2024-07-20T00:00:00+00:00,2024,Serie B,Brazil,Sport Recife,,,Operario-PR,Match Postponed
+2024-07-26T00:30:00+00:00,2024,Serie B,Brazil,Goias,1,1,CRB,Match Finished
+2024-07-24T00:30:00+00:00,2024,Serie B,Brazil,Ponte Preta,2,0,Vila Nova,Match Finished
+2024-07-23T23:00:00+00:00,2024,Serie B,Brazil,Mirassol,0,0,Avai,Match Finished
+2024-07-24T00:00:00+00:00,2024,Serie B,Brazil,Ituano,0,0,America Mineiro,Match Finished
+2024-07-22T23:00:00+00:00,2024,Serie B,Brazil,Santos,4,0,Coritiba,Match Finished
+2024-07-23T22:00:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,1,1,Sport Recife,Match Finished
+2024-07-25T00:00:00+00:00,2024,Serie B,Brazil,Brusque,1,0,Paysandu,Match Finished
+2024-07-23T22:00:00+00:00,2024,Serie B,Brazil,Operario-PR,0,0,Novorizontino,Match Finished
+2024-07-25T00:30:00+00:00,2024,Serie B,Brazil,Amazonas,1,1,Guarani Campinas,Match Finished
+2024-07-26T00:30:00+00:00,2024,Serie B,Brazil,Ceara,4,1,Botafogo SP,Match Finished
+2024-07-30T00:00:00+00:00,2024,Serie B,Brazil,Goias,,,Amazonas,Match Postponed
+2024-07-28T19:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,1,0,Brusque,Match Finished
+2024-07-27T20:00:00+00:00,2024,Serie B,Brazil,Mirassol,1,0,Operario-PR,Match Finished
+2024-07-27T00:30:00+00:00,2024,Serie B,Brazil,Ituano,0,0,Vila Nova,Match Finished
+2024-07-28T21:30:00+00:00,2024,Serie B,Brazil,America Mineiro,2,2,Ceara,Match Finished
+2024-07-31T00:00:00+00:00,2024,Serie B,Brazil,Avai,1,1,Botafogo SP,Match Finished
+2024-07-28T21:30:00+00:00,2024,Serie B,Brazil,CRB,1,1,Santos,Match Finished
+2024-07-27T20:00:00+00:00,2024,Serie B,Brazil,Coritiba,1,0,Chapecoense-sc,Match Finished
+2024-07-29T21:30:00+00:00,2024,Serie B,Brazil,Paysandu,1,3,Novorizontino,Match Finished
+2024-07-27T21:00:00+00:00,2024,Serie B,Brazil,Sport Recife,3,1,Ponte Preta,Match Finished
+2024-08-06T00:00:00+00:00,2024,Serie B,Brazil,Vila Nova,2,2,Paysandu,Match Finished
+2024-08-04T19:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,1,0,Avai,Match Finished
+2024-08-03T20:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,2,0,Coritiba,Match Finished
+2024-08-04T21:30:00+00:00,2024,Serie B,Brazil,Novorizontino,2,1,Goias,Match Finished
+2024-08-03T00:30:00+00:00,2024,Serie B,Brazil,Santos,1,1,Sport Recife,Match Finished
+2024-08-05T21:30:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,0,1,Mirassol,Match Finished
+2024-08-02T22:00:00+00:00,2024,Serie B,Brazil,Brusque,0,0,America Mineiro,Match Finished
+2024-08-04T21:30:00+00:00,2024,Serie B,Brazil,Operario-PR,2,0,CRB,Match Finished
+2024-08-04T00:30:00+00:00,2024,Serie B,Brazil,Amazonas,1,0,Ituano,Match Finished
+2024-08-07T00:00:00+00:00,2024,Serie B,Brazil,Ceara,3,1,Guarani Campinas,Match Finished
+2024-08-13T00:00:00+00:00,2024,Serie B,Brazil,Goias,2,1,Ceara,Match Finished
+2024-08-12T23:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,2,0,Vila Nova,Match Finished
+2024-08-10T00:00:00+00:00,2024,Serie B,Brazil,Mirassol,2,0,Brusque,Match Finished
+2024-08-10T20:00:00+00:00,2024,Serie B,Brazil,Ituano,2,1,Chapecoense-sc,Match Finished
+2024-08-10T00:30:00+00:00,2024,Serie B,Brazil,America Mineiro,3,1,Botafogo SP,Match Finished
+2024-08-09T22:15:00+00:00,2024,Serie B,Brazil,Avai,1,0,Operario-PR,Match Finished
+2024-08-11T21:30:00+00:00,2024,Serie B,Brazil,CRB,0,1,Novorizontino,Match Finished
+2024-08-11T19:00:00+00:00,2024,Serie B,Brazil,Coritiba,1,1,Ponte Preta,Match Finished
+2024-08-09T23:00:00+00:00,2024,Serie B,Brazil,Paysandu,0,3,Santos,Match Finished
+2024-08-10T20:00:00+00:00,2024,Serie B,Brazil,Sport Recife,3,2,Amazonas,Match Finished
+2024-08-17T00:00:00+00:00,2024,Serie B,Brazil,Vila Nova,,,Sport Recife,Not Started
+2024-08-16T22:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,,,Goias,Not Started
+2024-08-18T21:30:00+00:00,2024,Serie B,Brazil,Botafogo SP,,,Paysandu,Not Started
+2024-08-17T00:30:00+00:00,2024,Serie B,Brazil,Novorizontino,,,America Mineiro,Not Started
+2024-08-17T19:00:00+00:00,2024,Serie B,Brazil,Santos,,,Avai,Not Started
+2024-08-17T18:30:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,,,Guarani Campinas,Not Started
+2024-08-18T19:00:00+00:00,2024,Serie B,Brazil,Brusque,,,Coritiba,Not Started
+2024-08-16T00:00:00+00:00,2024,Serie B,Brazil,Operario-PR,,,Ituano,Not Started
+2024-08-17T21:00:00+00:00,2024,Serie B,Brazil,Amazonas,,,CRB,Not Started
+2024-08-17T20:00:00+00:00,2024,Serie B,Brazil,Ceara,,,Mirassol,Not Started
+2024-08-22T00:00:00+00:00,2024,Serie B,Brazil,Goias,,,Brusque,Not Started
+2024-08-21T20:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,,,Santos,Not Started
+2024-08-21T20:00:00+00:00,2024,Serie B,Brazil,Mirassol,,,Botafogo SP,Not Started
+2024-08-20T22:00:00+00:00,2024,Serie B,Brazil,Novorizontino,,,Ituano,Not Started
+2024-08-21T20:00:00+00:00,2024,Serie B,Brazil,America Mineiro,,,Chapecoense-sc,Not Started
+2024-08-22T23:00:00+00:00,2024,Serie B,Brazil,Avai,,,Paysandu,Not Started
+2024-08-21T23:00:00+00:00,2024,Serie B,Brazil,CRB,,,Ceara,Not Started
+2024-08-21T00:30:00+00:00,2024,Serie B,Brazil,Operario-PR,,,Vila Nova,Not Started
+2024-08-21T00:00:00+00:00,2024,Serie B,Brazil,Amazonas,,,Ponte Preta,Not Started
+2024-08-23T00:00:00+00:00,2024,Serie B,Brazil,Sport Recife,,,Coritiba,Not Started
+2024-08-25T21:30:00+00:00,2024,Serie B,Brazil,Vila Nova,,,America Mineiro,Not Started
+2024-08-24T00:30:00+00:00,2024,Serie B,Brazil,Ponte Preta,,,Operario-PR,Not Started
+2024-08-25T19:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,,,Guarani Campinas,Not Started
+2024-08-24T20:00:00+00:00,2024,Serie B,Brazil,Ituano,,,Goias,Not Started
+2024-08-24T19:00:00+00:00,2024,Serie B,Brazil,Santos,,,Amazonas,Not Started
+2024-08-25T21:30:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,,,CRB,Not Started
+2024-08-28T00:00:00+00:00,2024,Serie B,Brazil,Brusque,,,Sport Recife,Not Started
+2024-08-28T00:30:00+00:00,2024,Serie B,Brazil,Coritiba,,,Avai,Not Started
+2024-08-26T22:00:00+00:00,2024,Serie B,Brazil,Paysandu,,,Mirassol,Not Started
+2024-08-27T00:00:00+00:00,2024,Serie B,Brazil,Ceara,,,Novorizontino,Not Started
+2024-09-01T21:30:00+00:00,2024,Serie B,Brazil,Goias,,,Paysandu,Not Started
+2024-09-04T00:30:00+00:00,2024,Serie B,Brazil,Guarani Campinas,,,Coritiba,Not Started
+2024-09-03T21:00:00+00:00,2024,Serie B,Brazil,Mirassol,,,America Mineiro,Not Started
+2024-08-31T20:00:00+00:00,2024,Serie B,Brazil,Novorizontino,,,Vila Nova,Not Started
+2024-08-31T00:30:00+00:00,2024,Serie B,Brazil,Santos,,,Ponte Preta,Not Started
+2024-08-31T20:00:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,,,Botafogo SP,Not Started
+2024-08-31T21:00:00+00:00,2024,Serie B,Brazil,CRB,,,Avai,Not Started
+2024-09-03T00:30:00+00:00,2024,Serie B,Brazil,Operario-PR,,,Brusque,Not Started
+2024-09-01T19:00:00+00:00,2024,Serie B,Brazil,Amazonas,,,Ceara,Not Started
+2024-09-02T23:00:00+00:00,2024,Serie B,Brazil,Sport Recife,,,Ituano,Not Started
+2024-09-06T00:00:00+00:00,2024,Serie B,Brazil,Vila Nova,,,CRB,Time to be defined
+2024-09-06T00:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,,,Chapecoense-sc,Time to be defined
+2024-09-06T00:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,,,Goias,Time to be defined
+2024-09-06T00:00:00+00:00,2024,Serie B,Brazil,Ituano,,,Mirassol,Time to be defined
+2024-09-06T00:00:00+00:00,2024,Serie B,Brazil,America Mineiro,,,Guarani Campinas,Time to be defined
+2024-09-06T00:00:00+00:00,2024,Serie B,Brazil,Avai,,,Sport Recife,Time to be defined
+2024-09-06T00:00:00+00:00,2024,Serie B,Brazil,Brusque,,,Santos,Time to be defined
+2024-09-06T00:00:00+00:00,2024,Serie B,Brazil,Coritiba,,,Novorizontino,Time to be defined
+2024-09-06T00:00:00+00:00,2024,Serie B,Brazil,Paysandu,,,Amazonas,Time to be defined
+2024-09-06T00:00:00+00:00,2024,Serie B,Brazil,Ceara,,,Operario-PR,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Serie B,Brazil,Goias,,,Avai,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,,,Ituano,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Serie B,Brazil,Mirassol,,,Amazonas,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Serie B,Brazil,Novorizontino,,,Botafogo SP,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Serie B,Brazil,Santos,,,America Mineiro,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,,,Ceara,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Serie B,Brazil,Brusque,,,Vila Nova,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Serie B,Brazil,Operario-PR,,,Coritiba,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Serie B,Brazil,Paysandu,,,Guarani Campinas,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Serie B,Brazil,Sport Recife,,,CRB,Time to be defined
+2024-09-17T00:00:00+00:00,2024,Serie B,Brazil,Vila Nova,,,Chapecoense-sc,Time to be defined
+2024-09-17T00:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,,,Mirassol,Time to be defined
+2024-09-17T00:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,,,Santos,Time to be defined
+2024-09-17T00:00:00+00:00,2024,Serie B,Brazil,Novorizontino,,,Brusque,Time to be defined
+2024-09-17T00:00:00+00:00,2024,Serie B,Brazil,America Mineiro,,,Paysandu,Time to be defined
+2024-09-17T00:00:00+00:00,2024,Serie B,Brazil,Avai,,,Ituano,Time to be defined
+2024-09-17T00:00:00+00:00,2024,Serie B,Brazil,CRB,,,Ponte Preta,Time to be defined
+2024-09-17T00:00:00+00:00,2024,Serie B,Brazil,Coritiba,,,Ceara,Time to be defined
+2024-09-17T00:00:00+00:00,2024,Serie B,Brazil,Amazonas,,,Operario-PR,Time to be defined
+2024-09-17T00:00:00+00:00,2024,Serie B,Brazil,Sport Recife,,,Goias,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Serie B,Brazil,Goias,,,Mirassol,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,,,America Mineiro,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,,,CRB,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Serie B,Brazil,Ituano,,,Coritiba,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Serie B,Brazil,Santos,,,Novorizontino,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,,,Avai,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Serie B,Brazil,Brusque,,,Amazonas,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Serie B,Brazil,Operario-PR,,,Guarani Campinas,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Serie B,Brazil,Paysandu,,,Sport Recife,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Serie B,Brazil,Ceara,,,Vila Nova,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Serie B,Brazil,Vila Nova,,,Botafogo SP,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,,,Avai,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Serie B,Brazil,Mirassol,,,Sport Recife,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Serie B,Brazil,Novorizontino,,,Ponte Preta,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Serie B,Brazil,Santos,,,Operario-PR,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,,,Amazonas,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Serie B,Brazil,CRB,,,America Mineiro,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Serie B,Brazil,Coritiba,,,Goias,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Serie B,Brazil,Paysandu,,,Ituano,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Serie B,Brazil,Ceara,,,Brusque,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Serie B,Brazil,Goias,,,Santos,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,,,Botafogo SP,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Serie B,Brazil,Mirassol,,,Vila Nova,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Serie B,Brazil,Ituano,,,Guarani Campinas,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Serie B,Brazil,America Mineiro,,,Coritiba,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Serie B,Brazil,Avai,,,Brusque,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Serie B,Brazil,CRB,,,Paysandu,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Serie B,Brazil,Operario-PR,,,Chapecoense-sc,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Serie B,Brazil,Amazonas,,,Novorizontino,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Serie B,Brazil,Sport Recife,,,Ceara,Time to be defined
+2024-10-11T00:00:00+00:00,2024,Serie B,Brazil,Goias,,,Vila Nova,Time to be defined
+2024-10-11T00:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,,,CRB,Time to be defined
+2024-10-11T00:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,,,Operario-PR,Time to be defined
+2024-10-11T00:00:00+00:00,2024,Serie B,Brazil,Novorizontino,,,Sport Recife,Time to be defined
+2024-10-11T00:00:00+00:00,2024,Serie B,Brazil,Santos,,,Mirassol,Time to be defined
+2024-10-11T00:00:00+00:00,2024,Serie B,Brazil,Avai,,,America Mineiro,Time to be defined
+2024-10-11T00:00:00+00:00,2024,Serie B,Brazil,Brusque,,,Ituano,Time to be defined
+2024-10-11T00:00:00+00:00,2024,Serie B,Brazil,Coritiba,,,Amazonas,Time to be defined
+2024-10-11T00:00:00+00:00,2024,Serie B,Brazil,Paysandu,,,Chapecoense-sc,Time to be defined
+2024-10-11T00:00:00+00:00,2024,Serie B,Brazil,Ceara,,,Ponte Preta,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Serie B,Brazil,Vila Nova,,,Coritiba,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,,,Guarani Campinas,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Serie B,Brazil,Mirassol,,,Novorizontino,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Serie B,Brazil,Ituano,,,Ceara,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Serie B,Brazil,America Mineiro,,,Goias,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,,,Santos,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Serie B,Brazil,Brusque,,,CRB,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Serie B,Brazil,Operario-PR,,,Paysandu,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Serie B,Brazil,Amazonas,,,Avai,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Serie B,Brazil,Sport Recife,,,Botafogo SP,Time to be defined
+2024-10-22T00:00:00+00:00,2024,Serie B,Brazil,Vila Nova,,,Amazonas,Time to be defined
+2024-10-22T00:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,,,Brusque,Time to be defined
+2024-10-22T00:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,,,Ituano,Time to be defined
+2024-10-22T00:00:00+00:00,2024,Serie B,Brazil,Novorizontino,,,Avai,Time to be defined
+2024-10-22T00:00:00+00:00,2024,Serie B,Brazil,Santos,,,Ceara,Time to be defined
+2024-10-22T00:00:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,,,Goias,Time to be defined
+2024-10-22T00:00:00+00:00,2024,Serie B,Brazil,CRB,,,Mirassol,Time to be defined
+2024-10-22T00:00:00+00:00,2024,Serie B,Brazil,Operario-PR,,,America Mineiro,Time to be defined
+2024-10-22T00:00:00+00:00,2024,Serie B,Brazil,Paysandu,,,Coritiba,Time to be defined
+2024-10-22T00:00:00+00:00,2024,Serie B,Brazil,Sport Recife,,,Guarani Campinas,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Serie B,Brazil,Goias,,,Operario-PR,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,,,Novorizontino,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Serie B,Brazil,Mirassol,,,Ponte Preta,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Serie B,Brazil,Ituano,,,Santos,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Serie B,Brazil,America Mineiro,,,Sport Recife,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Serie B,Brazil,Avai,,,Vila Nova,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Serie B,Brazil,Brusque,,,Chapecoense-sc,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Serie B,Brazil,Coritiba,,,CRB,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Serie B,Brazil,Amazonas,,,Botafogo SP,Time to be defined
+2024-10-25T00:00:00+00:00,2024,Serie B,Brazil,Ceara,,,Paysandu,Time to be defined
+2024-11-05T00:00:00+00:00,2024,Serie B,Brazil,Goias,,,Guarani Campinas,Time to be defined
+2024-11-05T00:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,,,Paysandu,Time to be defined
+2024-11-05T00:00:00+00:00,2024,Serie B,Brazil,Mirassol,,,Coritiba,Time to be defined
+2024-11-05T00:00:00+00:00,2024,Serie B,Brazil,Ituano,,,CRB,Time to be defined
+2024-11-05T00:00:00+00:00,2024,Serie B,Brazil,Santos,,,Vila Nova,Time to be defined
+2024-11-05T00:00:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,,,Novorizontino,Time to be defined
+2024-11-05T00:00:00+00:00,2024,Serie B,Brazil,Brusque,,,Botafogo SP,Time to be defined
+2024-11-05T00:00:00+00:00,2024,Serie B,Brazil,Operario-PR,,,Sport Recife,Time to be defined
+2024-11-05T00:00:00+00:00,2024,Serie B,Brazil,Amazonas,,,America Mineiro,Time to be defined
+2024-11-05T00:00:00+00:00,2024,Serie B,Brazil,Ceara,,,Avai,Time to be defined
+2024-11-15T00:00:00+00:00,2024,Serie B,Brazil,Vila Nova,,,Ponte Preta,Time to be defined
+2024-11-15T00:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,,,Amazonas,Time to be defined
+2024-11-15T00:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,,,Ceara,Time to be defined
+2024-11-15T00:00:00+00:00,2024,Serie B,Brazil,Novorizontino,,,Operario-PR,Time to be defined
+2024-11-15T00:00:00+00:00,2024,Serie B,Brazil,America Mineiro,,,Ituano,Time to be defined
+2024-11-15T00:00:00+00:00,2024,Serie B,Brazil,Avai,,,Mirassol,Time to be defined
+2024-11-15T00:00:00+00:00,2024,Serie B,Brazil,CRB,,,Goias,Time to be defined
+2024-11-15T00:00:00+00:00,2024,Serie B,Brazil,Coritiba,,,Santos,Time to be defined
+2024-11-15T00:00:00+00:00,2024,Serie B,Brazil,Paysandu,,,Brusque,Time to be defined
+2024-11-15T00:00:00+00:00,2024,Serie B,Brazil,Sport Recife,,,Chapecoense-sc,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Serie B,Brazil,Vila Nova,,,Ituano,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Serie B,Brazil,Ponte Preta,,,Sport Recife,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Serie B,Brazil,Botafogo SP,,,Avai,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Serie B,Brazil,Novorizontino,,,Paysandu,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Serie B,Brazil,Santos,,,CRB,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Serie B,Brazil,Chapecoense-sc,,,Coritiba,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Serie B,Brazil,Brusque,,,Guarani Campinas,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Serie B,Brazil,Operario-PR,,,Mirassol,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Serie B,Brazil,Amazonas,,,Goias,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Serie B,Brazil,Ceara,,,America Mineiro,Time to be defined
+2024-11-26T00:00:00+00:00,2024,Serie B,Brazil,Goias,,,Novorizontino,Time to be defined
+2024-11-26T00:00:00+00:00,2024,Serie B,Brazil,Guarani Campinas,,,Ceara,Time to be defined
+2024-11-26T00:00:00+00:00,2024,Serie B,Brazil,Mirassol,,,Chapecoense-sc,Time to be defined
+2024-11-26T00:00:00+00:00,2024,Serie B,Brazil,Ituano,,,Amazonas,Time to be defined
+2024-11-26T00:00:00+00:00,2024,Serie B,Brazil,America Mineiro,,,Brusque,Time to be defined
+2024-11-26T00:00:00+00:00,2024,Serie B,Brazil,Avai,,,Ponte Preta,Time to be defined
+2024-11-26T00:00:00+00:00,2024,Serie B,Brazil,CRB,,,Operario-PR,Time to be defined
+2024-11-26T00:00:00+00:00,2024,Serie B,Brazil,Coritiba,,,Botafogo SP,Time to be defined
+2024-11-26T00:00:00+00:00,2024,Serie B,Brazil,Paysandu,,,Vila Nova,Time to be defined
+2024-11-26T00:00:00+00:00,2024,Serie B,Brazil,Sport Recife,,,Santos,Time to be defined

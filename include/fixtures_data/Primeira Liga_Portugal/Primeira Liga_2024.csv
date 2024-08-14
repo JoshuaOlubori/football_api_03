@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-10T19:30:00+00:00,2024,Primeira Liga,Portugal,FC Porto,3,0,GIL Vicente,Match Finished
+2024-08-11T14:30:00+00:00,2024,Primeira Liga,Portugal,Estoril,1,4,Santa Clara,Match Finished
+2024-08-11T19:30:00+00:00,2024,Primeira Liga,Portugal,SC Braga,1,1,Estrela,Match Finished
+2024-08-10T17:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,0,1,Boavista,Match Finished
+2024-08-09T19:15:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,3,1,Rio Ave,Match Finished
+2024-08-12T19:15:00+00:00,2024,Primeira Liga,Portugal,Arouca,0,1,Guimaraes,Match Finished
+2024-08-11T17:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,2,0,Benfica,Match Finished
+2024-08-11T17:00:00+00:00,2024,Primeira Liga,Portugal,Farense,1,2,Moreirense,Match Finished
+2024-08-10T14:30:00+00:00,2024,Primeira Liga,Portugal,AVS,1,1,Nacional,Match Finished
+2024-08-18T17:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,Estoril,Not Started
+2024-08-17T14:30:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,Farense,Not Started
+2024-08-16T19:15:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,AVS,Not Started
+2024-08-18T14:30:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,Arouca,Not Started
+2024-08-18T19:30:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,SC Braga,Not Started
+2024-08-17T19:30:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,Casa Pia,Not Started
+2024-08-16T16:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,FC Porto,Not Started
+2024-08-19T19:15:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,Famalicao,Not Started
+2024-08-17T17:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,Sporting CP,Not Started
+2024-08-25T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,Guimaraes,Time to be defined
+2024-08-24T19:30:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,Boavista,Not Started
+2024-08-23T19:15:00+00:00,2024,Primeira Liga,Portugal,Farense,,,Sporting CP,Not Started
+2024-08-24T14:30:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,Santa Clara,Not Started
+2024-08-24T17:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,Rio Ave,Not Started
+2024-08-25T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,GIL Vicente,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,Moreirense,Time to be defined
+2024-08-24T19:30:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,Estrela,Not Started
+2024-08-25T14:30:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,Nacional,Not Started
+2024-08-31T17:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,Casa Pia,Not Started
+2024-09-01T14:30:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,Farense,Not Started
+2024-09-01T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,Famalicao,Time to be defined
+2024-08-31T14:30:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,AVS,Not Started
+2024-09-01T14:30:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,Arouca,Not Started
+2024-09-01T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,SC Braga,Time to be defined
+2024-08-30T19:15:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,Benfica,Not Started
+2024-08-31T17:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,Estoril,Not Started
+2024-08-31T19:30:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,FC Porto,Not Started
+2024-09-15T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,Rio Ave,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,Boavista,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,Farense,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,GIL Vicente,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,Guimaraes,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,Nacional,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,Sporting CP,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,Santa Clara,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,Moreirense,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,Casa Pia,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,Estoril,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,Famalicao,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,AVS,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,Arouca,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,SC Braga,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,Estrela,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,FC Porto,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,Benfica,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,Nacional,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,Farense,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,Arouca,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,Boavista,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,Moreirense,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,Sporting CP,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,Rio Ave,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,GIL Vicente,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,Guimaraes,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,Estoril,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,Estrela,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,Famalicao,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,Santa Clara,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,Casa Pia,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,Boavista,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,Benfica,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,AVS,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,SC Braga,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,FC Porto,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,GIL Vicente,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,Arouca,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,Sporting CP,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,Farense,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,Guimaraes,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,Moreirense,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,Rio Ave,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,Nacional,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,Casa Pia,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,Estoril,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,Estrela,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,Santa Clara,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,Boavista,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,Benfica,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,Moreirense,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,SC Braga,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,Famalicao,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,Guimaraes,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,Arouca,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,GIL Vicente,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,AVS,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,Nacional,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,Farense,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,Sporting CP,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,FC Porto,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,Rio Ave,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,Casa Pia,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,Estrela,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,Moreirense,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,Santa Clara,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,Boavista,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,SC Braga,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,GIL Vicente,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,Benfica,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,Famalicao,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,FC Porto,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,Rio Ave,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,Arouca,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,AVS,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,Sporting CP,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,Nacional,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,Estoril,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,Guimaraes,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,Farense,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,Boavista,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,Casa Pia,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,Estrela,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,Moreirense,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,Guimaraes,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,Benfica,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,Santa Clara,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,Famalicao,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,GIL Vicente,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,Farense,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,SC Braga,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,Arouca,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,AVS,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,FC Porto,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,Rio Ave,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,Nacional,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,Estoril,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,Sporting CP,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,Benfica,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,Boavista,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,Nacional,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,Santa Clara,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,Estrela,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,Guimaraes,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,GIL Vicente,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,Casa Pia,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,Moreirense,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,FC Porto,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,Farense,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,Arouca,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,Estoril,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,AVS,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,Rio Ave,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,Sporting CP,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,SC Braga,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,Famalicao,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,Sporting CP,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,FC Porto,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,Estoril,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,Casa Pia,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,Famalicao,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,SC Braga,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,Farense,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,Arouca,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,AVS,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,Guimaraes,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,Rio Ave,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,GIL Vicente,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,Moreirense,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,Santa Clara,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,Benfica,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,Estrela,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,Boavista,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,Nacional,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,AVS,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,Famalicao,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,Casa Pia,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,Farense,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,Estoril,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,Benfica,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,SC Braga,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,FC Porto,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,Arouca,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,Estrela,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,Nacional,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,Guimaraes,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,Rio Ave,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,Santa Clara,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,GIL Vicente,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,Moreirense,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,Boavista,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,Sporting CP,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,AVS,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,Estrela,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,FC Porto,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,Famalicao,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,Estoril,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,Benfica,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,Arouca,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,SC Braga,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,Casa Pia,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,GIL Vicente,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,Rio Ave,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,Moreirense,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,Farense,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,Sporting CP,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,Nacional,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,Santa Clara,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,Guimaraes,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,Boavista,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,Famalicao,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,AVS,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,FC Porto,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,Estrela,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,Santa Clara,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,Estoril,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,SC Braga,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,Benfica,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,Casa Pia,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,Farense,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,GIL Vicente,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,Rio Ave,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,Moreirense,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,Sporting CP,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,Guimaraes,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,Nacional,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,Arouca,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,FC Porto,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,AVS,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,Famalicao,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,Santa Clara,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,Estoril,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,Boavista,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,Estrela,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,SC Braga,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,Benfica,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,Casa Pia,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,FC Porto,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,Sporting CP,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,Nacional,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,Rio Ave,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,GIL Vicente,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,Arouca,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,AVS,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,Guimaraes,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,Farense,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,Famalicao,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,Moreirense,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,Estoril,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,Santa Clara,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,Estrela,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,Benfica,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,Boavista,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,SC Braga,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,Casa Pia,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,Farense,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,Rio Ave,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,Sporting CP,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,FC Porto,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,Nacional,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,Arouca,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,Estoril,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,Guimaraes,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,AVS,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,Famalicao,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,Estrela,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,Casa Pia,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,Moreirense,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,Santa Clara,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,GIL Vicente,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,SC Braga,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,Benfica,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,Boavista,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,Estoril,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,FC Porto,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,Nacional,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,Sporting CP,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,Rio Ave,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,SC Braga,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,Farense,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,Arouca,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,AVS,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,Famalicao,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,Casa Pia,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,Boavista,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,Moreirense,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,Santa Clara,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,Estrela,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,Guimaraes,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,Benfica,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,GIL Vicente,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primeira Liga,Portugal,Benfica,,,Sporting CP,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primeira Liga,Portugal,Nacional,,,Rio Ave,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primeira Liga,Portugal,Santa Clara,,,Famalicao,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primeira Liga,Portugal,Estrela,,,AVS,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primeira Liga,Portugal,Boavista,,,FC Porto,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primeira Liga,Portugal,Guimaraes,,,Farense,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primeira Liga,Portugal,GIL Vicente,,,Arouca,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primeira Liga,Portugal,Casa Pia,,,SC Braga,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primeira Liga,Portugal,Moreirense,,,Estoril,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Primeira Liga,Portugal,Farense,,,Santa Clara,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Primeira Liga,Portugal,Arouca,,,Boavista,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Primeira Liga,Portugal,AVS,,,Moreirense,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Primeira Liga,Portugal,FC Porto,,,Nacional,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Primeira Liga,Portugal,Famalicao,,,Casa Pia,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Primeira Liga,Portugal,SC Braga,,,Benfica,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Primeira Liga,Portugal,Sporting CP,,,Guimaraes,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Primeira Liga,Portugal,Rio Ave,,,GIL Vicente,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Primeira Liga,Portugal,Estoril,,,Estrela,Time to be defined

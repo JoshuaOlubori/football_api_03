@@ -1,0 +1,379 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-01-29T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,0,2,River Plate,Match Finished
+2023-01-28T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Racing Club,0,0,Belgrano Cordoba,Match Finished
+2023-01-26T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Rosario Central,1,0,Argentinos JRS,Match Finished
+2023-01-27T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Estudiantes L.P.,1,2,Tigre,Match Finished
+2023-01-28T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,San Lorenzo,1,0,Arsenal Sarandi,Match Finished
+2023-01-28T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Colon Santa Fe,1,2,Lanus,Match Finished
+2023-01-30T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Barracas Central,0,1,Godoy Cruz,Match Finished
+2023-01-30T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Banfield,0,0,Union Santa Fe,Match Finished
+2023-01-28T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Defensa Y Justicia,2,4,Huracan,Match Finished
+2023-01-30T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Velez Sarsfield,3,1,Gimnasia L.P.,Match Finished
+2023-01-29T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Platense,2,2,Newells Old Boys,Match Finished
+2023-01-27T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Talleres Cordoba,0,1,Independiente,Match Finished
+2023-01-30T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Boca Juniors,1,0,Atletico Tucuman,Match Finished
+2023-02-05T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Boca Juniors,0,0,Central Cordoba de Santiago,Match Finished
+2023-02-06T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Atletico Tucuman,0,2,Talleres Cordoba,Match Finished
+2023-02-05T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Independiente,1,2,Platense,Match Finished
+2023-02-03T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Newells Old Boys,1,0,Velez Sarsfield,Match Finished
+2023-02-06T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Gimnasia L.P.,0,2,Defensa Y Justicia,Match Finished
+2023-02-07T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Huracan,3,2,Banfield,Match Finished
+2023-02-06T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Godoy Cruz,1,0,Colon Santa Fe,Match Finished
+2023-02-05T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Lanus,2,1,San Lorenzo,Match Finished
+2023-02-04T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Arsenal Sarandi,1,1,Estudiantes L.P.,Match Finished
+2023-02-03T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Tigre,2,2,Rosario Central,Match Finished
+2023-02-05T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Argentinos JRS,1,0,Racing Club,Match Finished
+2023-02-04T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Belgrano Cordoba,2,1,River Plate,Match Finished
+2023-02-11T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,0,1,Belgrano Cordoba,Match Finished
+2023-02-12T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,River Plate,2,1,Argentinos JRS,Match Finished
+2023-02-13T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Racing Club,2,2,Tigre,Match Finished
+2023-02-12T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Rosario Central,2,1,Arsenal Sarandi,Match Finished
+2023-02-13T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Estudiantes L.P.,0,2,Lanus,Match Finished
+2023-02-11T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,San Lorenzo,1,0,Godoy Cruz,Match Finished
+2023-02-13T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Barracas Central,1,1,Union Santa Fe,Match Finished
+2023-02-12T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Banfield,0,0,Gimnasia L.P.,Match Finished
+2023-02-11T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Defensa Y Justicia,1,0,Newells Old Boys,Match Finished
+2023-02-12T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Velez Sarsfield,0,0,Independiente,Match Finished
+2023-02-11T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Platense,1,1,Atletico Tucuman,Match Finished
+2023-02-12T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Talleres Cordoba,2,1,Boca Juniors,Match Finished
+2023-02-20T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Talleres Cordoba,2,0,Central Cordoba de Santiago,Match Finished
+2023-02-19T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Boca Juniors,3,1,Platense,Match Finished
+2023-02-21T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Atletico Tucuman,1,1,Velez Sarsfield,Match Finished
+2023-02-20T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Independiente,0,2,Defensa Y Justicia,Match Finished
+2023-02-19T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Newells Old Boys,2,0,Banfield,Match Finished
+2023-02-18T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Huracan,2,0,Barracas Central,Match Finished
+2023-02-19T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Union Santa Fe,1,1,Colon Santa Fe,Match Finished
+2023-02-18T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Godoy Cruz,0,1,Estudiantes L.P.,Match Finished
+2023-02-18T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Lanus,3,0,Rosario Central,Match Finished
+2023-02-18T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Arsenal Sarandi,0,3,Racing Club,Match Finished
+2023-02-18T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Tigre,0,1,River Plate,Match Finished
+2023-02-18T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Argentinos JRS,3,0,Belgrano Cordoba,Match Finished
+2023-02-28T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,1,0,Argentinos JRS,Match Finished
+2023-02-25T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Belgrano Cordoba,0,2,Tigre,Match Finished
+2023-02-26T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,River Plate,1,2,Arsenal Sarandi,Match Finished
+2023-02-27T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Racing Club,2,1,Lanus,Match Finished
+2023-02-25T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Rosario Central,1,0,Godoy Cruz,Match Finished
+2023-02-25T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,San Lorenzo,1,0,Union Santa Fe,Match Finished
+2023-02-26T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Colon Santa Fe,1,1,Huracan,Match Finished
+2023-02-27T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Barracas Central,1,0,Gimnasia L.P.,Match Finished
+2023-02-27T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Banfield,0,0,Independiente,Match Finished
+2023-02-26T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Defensa Y Justicia,3,0,Atletico Tucuman,Match Finished
+2023-02-26T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Velez Sarsfield,1,2,Boca Juniors,Match Finished
+2023-02-25T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Platense,2,4,Talleres Cordoba,Match Finished
+2023-03-04T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Platense,1,1,Central Cordoba de Santiago,Match Finished
+2023-03-06T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Talleres Cordoba,1,2,Velez Sarsfield,Match Finished
+2023-03-07T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Boca Juniors,0,0,Defensa Y Justicia,Match Finished
+2023-03-05T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Atletico Tucuman,1,0,Banfield,Match Finished
+2023-03-05T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Newells Old Boys,1,0,Barracas Central,Match Finished
+2023-03-04T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Gimnasia L.P.,0,0,Colon Santa Fe,Match Finished
+2023-03-05T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Huracan,1,1,San Lorenzo,Match Finished
+2023-03-03T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Union Santa Fe,2,0,Estudiantes L.P.,Match Finished
+2023-03-06T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Godoy Cruz,2,0,Racing Club,Match Finished
+2023-03-04T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Lanus,0,2,River Plate,Match Finished
+2023-03-06T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Arsenal Sarandi,0,1,Belgrano Cordoba,Match Finished
+2023-03-06T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Tigre,0,1,Argentinos JRS,Match Finished
+2023-03-12T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,2,0,Tigre,Match Finished
+2023-03-11T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Argentinos JRS,1,1,Arsenal Sarandi,Match Finished
+2023-03-12T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Belgrano Cordoba,0,0,Lanus,Match Finished
+2023-03-12T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,River Plate,3,0,Godoy Cruz,Match Finished
+2023-03-13T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Rosario Central,1,1,Union Santa Fe,Match Finished
+2023-03-12T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Estudiantes L.P.,2,1,Huracan,Match Finished
+2023-03-11T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,San Lorenzo,4,0,Gimnasia L.P.,Match Finished
+2023-03-14T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Colon Santa Fe,1,1,Newells Old Boys,Match Finished
+2023-03-10T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Barracas Central,1,1,Independiente,Match Finished
+2023-03-13T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Banfield,1,0,Boca Juniors,Match Finished
+2023-03-11T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Defensa Y Justicia,1,1,Talleres Cordoba,Match Finished
+2023-03-14T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Velez Sarsfield,1,1,Platense,Match Finished
+2023-03-22T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Velez Sarsfield,4,0,Central Cordoba de Santiago,Match Finished
+2023-03-18T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Platense,1,0,Defensa Y Justicia,Match Finished
+2023-03-20T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Talleres Cordoba,0,1,Banfield,Match Finished
+2023-03-19T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Atletico Tucuman,1,1,Barracas Central,Match Finished
+2023-03-18T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Independiente,2,2,Colon Santa Fe,Match Finished
+2023-03-20T21:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Newells Old Boys,1,0,San Lorenzo,Match Finished
+2023-03-19T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Gimnasia L.P.,2,1,Estudiantes L.P.,Match Finished
+2023-03-21T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Huracan,0,2,Rosario Central,Match Finished
+2023-03-18T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Union Santa Fe,1,3,Racing Club,Match Finished
+2023-03-19T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Godoy Cruz,3,1,Belgrano Cordoba,Match Finished
+2023-03-21T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Lanus,0,0,Argentinos JRS,Match Finished
+2023-03-18T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Arsenal Sarandi,2,0,Tigre,Match Finished
+2023-04-04T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,1,0,Arsenal Sarandi,Match Finished
+2023-04-02T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Tigre,2,1,Lanus,Match Finished
+2023-03-31T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Argentinos JRS,3,0,Godoy Cruz,Match Finished
+2023-04-01T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,River Plate,1,0,Union Santa Fe,Match Finished
+2023-04-01T22:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Racing Club,2,1,Huracan,Match Finished
+2023-03-31T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Rosario Central,3,1,Gimnasia L.P.,Match Finished
+2023-03-31T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Estudiantes L.P.,3,0,Newells Old Boys,Match Finished
+2023-04-01T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,San Lorenzo,0,0,Independiente,Match Finished
+2023-04-02T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Colon Santa Fe,0,0,Atletico Tucuman,Match Finished
+2023-04-01T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Barracas Central,0,3,Boca Juniors,Match Finished
+2023-04-03T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Banfield,0,2,Platense,Match Finished
+2023-03-30T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Defensa Y Justicia,0,0,Velez Sarsfield,Match Finished
+2023-04-08T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Defensa Y Justicia,1,2,Central Cordoba de Santiago,Match Finished
+2023-04-08T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Velez Sarsfield,3,3,Banfield,Match Finished
+2023-04-08T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Talleres Cordoba,3,0,Barracas Central,Match Finished
+2023-04-10T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Boca Juniors,1,2,Colon Santa Fe,Match Finished
+2023-04-08T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Atletico Tucuman,1,3,San Lorenzo,Match Finished
+2023-04-09T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Independiente,1,2,Estudiantes L.P.,Match Finished
+2023-04-09T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Newells Old Boys,0,0,Rosario Central,Match Finished
+2023-04-08T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Gimnasia L.P.,3,1,Racing Club,Match Finished
+2023-04-09T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Huracan,0,3,River Plate,Match Finished
+2023-04-08T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Union Santa Fe,0,3,Belgrano Cordoba,Match Finished
+2023-04-09T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Godoy Cruz,1,1,Tigre,Match Finished
+2023-04-07T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Lanus,3,0,Arsenal Sarandi,Match Finished
+2023-04-12T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,1,1,Lanus,Match Finished
+2023-04-13T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Arsenal Sarandi,2,3,Godoy Cruz,Match Finished
+2023-04-11T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Argentinos JRS,5,1,Union Santa Fe,Match Finished
+2023-04-12T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Belgrano Cordoba,2,0,Huracan,Match Finished
+2023-04-13T22:30:00+00:00,2023,Liga Profesional Argentina,Argentina,River Plate,3,0,Gimnasia L.P.,Match Finished
+2023-04-12T22:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Racing Club,0,1,Newells Old Boys,Match Finished
+2023-04-13T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Rosario Central,1,0,Independiente,Match Finished
+2023-04-13T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Estudiantes L.P.,0,0,Atletico Tucuman,Match Finished
+2023-04-12T20:30:00+00:00,2023,Liga Profesional Argentina,Argentina,San Lorenzo,1,0,Boca Juniors,Match Finished
+2023-04-13T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Colon Santa Fe,2,2,Talleres Cordoba,Match Finished
+2023-04-11T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Barracas Central,1,0,Platense,Match Finished
+2023-04-12T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Banfield,0,3,Defensa Y Justicia,Match Finished
+2023-04-17T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Banfield,1,0,Central Cordoba de Santiago,Match Finished
+2023-04-16T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Velez Sarsfield,0,0,Barracas Central,Match Finished
+2023-04-17T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Platense,0,0,Colon Santa Fe,Match Finished
+2023-04-17T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Talleres Cordoba,0,0,San Lorenzo,Match Finished
+2023-04-15T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Boca Juniors,0,1,Estudiantes L.P.,Match Finished
+2023-04-18T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Atletico Tucuman,2,2,Rosario Central,Match Finished
+2023-04-16T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Independiente,1,1,Racing Club,Match Finished
+2023-04-16T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Newells Old Boys,0,1,River Plate,Match Finished
+2023-04-16T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Gimnasia L.P.,0,2,Belgrano Cordoba,Match Finished
+2023-04-16T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Huracan,0,0,Argentinos JRS,Match Finished
+2023-04-16T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Union Santa Fe,0,0,Tigre,Match Finished
+2023-04-18T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Godoy Cruz,4,4,Lanus,Match Finished
+2023-04-22T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,0,2,Godoy Cruz,Match Finished
+2023-04-22T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Arsenal Sarandi,2,1,Union Santa Fe,Match Finished
+2023-04-25T22:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Tigre,1,0,Huracan,Match Finished
+2023-04-25T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Argentinos JRS,2,4,Gimnasia L.P.,Match Finished
+2023-04-22T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Belgrano Cordoba,1,0,Newells Old Boys,Match Finished
+2023-04-23T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,River Plate,2,0,Independiente,Match Finished
+2023-04-24T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Racing Club,1,3,Atletico Tucuman,Match Finished
+2023-04-23T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Rosario Central,2,2,Boca Juniors,Match Finished
+2023-04-23T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Estudiantes L.P.,1,0,Talleres Cordoba,Match Finished
+2023-04-23T14:00:00+00:00,2023,Liga Profesional Argentina,Argentina,San Lorenzo,1,0,Platense,Match Finished
+2023-04-21T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Colon Santa Fe,2,1,Velez Sarsfield,Match Finished
+2023-04-24T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Barracas Central,0,2,Defensa Y Justicia,Match Finished
+2023-04-29T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Banfield,0,0,Barracas Central,Match Finished
+2023-04-30T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Defensa Y Justicia,2,0,Colon Santa Fe,Match Finished
+2023-04-29T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Velez Sarsfield,0,0,San Lorenzo,Match Finished
+2023-04-27T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Platense,1,2,Estudiantes L.P.,Match Finished
+2023-04-30T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Talleres Cordoba,3,1,Rosario Central,Match Finished
+2023-04-30T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Boca Juniors,3,1,Racing Club,Match Finished
+2023-04-29T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Atletico Tucuman,1,1,River Plate,Match Finished
+2023-04-30T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Independiente,2,0,Belgrano Cordoba,Match Finished
+2023-04-28T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Newells Old Boys,0,0,Argentinos JRS,Match Finished
+2023-04-29T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Gimnasia L.P.,1,1,Tigre,Match Finished
+2023-04-28T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Huracan,2,1,Arsenal Sarandi,Match Finished
+2023-06-17T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Union Santa Fe,1,1,Lanus,Match Finished
+2023-05-05T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Godoy Cruz,0,0,Union Santa Fe,Match Finished
+2023-05-06T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Lanus,1,0,Huracan,Match Finished
+2023-05-08T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Arsenal Sarandi,0,1,Gimnasia L.P.,Match Finished
+2023-05-08T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Tigre,2,2,Newells Old Boys,Match Finished
+2023-05-06T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Argentinos JRS,2,2,Independiente,Match Finished
+2023-05-06T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Belgrano Cordoba,1,0,Atletico Tucuman,Match Finished
+2023-05-07T20:30:00+00:00,2023,Liga Profesional Argentina,Argentina,River Plate,1,0,Boca Juniors,Match Finished
+2023-05-08T22:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Racing Club,2,4,Talleres Cordoba,Match Finished
+2023-05-07T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Rosario Central,4,0,Platense,Match Finished
+2023-05-08T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Estudiantes L.P.,2,0,Velez Sarsfield,Match Finished
+2023-05-08T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,San Lorenzo,0,0,Defensa Y Justicia,Match Finished
+2023-05-06T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Colon Santa Fe,2,0,Banfield,Match Finished
+2023-05-15T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Barracas Central,2,2,Central Cordoba de Santiago,Match Finished
+2023-05-13T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Banfield,1,2,San Lorenzo,Match Finished
+2023-05-14T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Defensa Y Justicia,1,1,Estudiantes L.P.,Match Finished
+2023-05-15T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Velez Sarsfield,0,0,Rosario Central,Match Finished
+2023-05-14T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Platense,3,0,Racing Club,Match Finished
+2023-05-15T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Talleres Cordoba,2,1,River Plate,Match Finished
+2023-05-14T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Boca Juniors,2,0,Belgrano Cordoba,Match Finished
+2023-05-13T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Atletico Tucuman,1,2,Argentinos JRS,Match Finished
+2023-05-13T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Independiente,2,1,Tigre,Match Finished
+2023-05-13T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Newells Old Boys,2,0,Arsenal Sarandi,Match Finished
+2023-05-15T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Gimnasia L.P.,1,0,Lanus,Match Finished
+2023-05-12T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Huracan,0,0,Godoy Cruz,Match Finished
+2023-05-19T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,0,1,Union Santa Fe,Match Finished
+2023-05-19T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Godoy Cruz,2,0,Gimnasia L.P.,Match Finished
+2023-05-21T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Lanus,1,0,Newells Old Boys,Match Finished
+2023-05-19T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Arsenal Sarandi,2,1,Independiente,Match Finished
+2023-05-21T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Tigre,0,0,Atletico Tucuman,Match Finished
+2023-05-20T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Argentinos JRS,0,1,Boca Juniors,Match Finished
+2023-05-21T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Belgrano Cordoba,1,1,Talleres Cordoba,Match Finished
+2023-05-21T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,River Plate,2,1,Platense,Match Finished
+2023-06-17T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Racing Club,2,1,Velez Sarsfield,Match Finished
+2023-05-19T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Rosario Central,2,1,Defensa Y Justicia,Match Finished
+2023-05-19T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Estudiantes L.P.,1,0,Banfield,Match Finished
+2023-05-21T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Colon Santa Fe,1,1,Barracas Central,Match Finished
+2023-05-29T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Colon Santa Fe,2,2,Central Cordoba de Santiago,Match Finished
+2023-05-28T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Barracas Central,1,0,San Lorenzo,Match Finished
+2023-05-29T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Banfield,2,0,Rosario Central,Match Finished
+2023-05-28T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Defensa Y Justicia,1,1,Racing Club,Match Finished
+2023-05-30T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Velez Sarsfield,2,2,River Plate,Match Finished
+2023-05-27T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Platense,1,0,Belgrano Cordoba,Match Finished
+2023-05-28T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Talleres Cordoba,1,0,Argentinos JRS,Match Finished
+2023-05-28T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Boca Juniors,1,0,Tigre,Match Finished
+2023-05-27T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Atletico Tucuman,1,0,Arsenal Sarandi,Match Finished
+2023-05-27T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Independiente,1,1,Lanus,Match Finished
+2023-05-29T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Newells Old Boys,2,0,Godoy Cruz,Match Finished
+2023-05-29T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Huracan,0,1,Union Santa Fe,Match Finished
+2023-06-03T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,2,0,Huracan,Match Finished
+2023-06-04T14:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Union Santa Fe,2,0,Gimnasia L.P.,Match Finished
+2023-06-04T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Godoy Cruz,2,1,Independiente,Match Finished
+2023-06-05T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Lanus,2,1,Atletico Tucuman,Match Finished
+2023-06-02T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Arsenal Sarandi,1,0,Boca Juniors,Match Finished
+2023-06-03T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Tigre,1,3,Talleres Cordoba,Match Finished
+2023-06-03T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Argentinos JRS,1,0,Platense,Match Finished
+2023-06-03T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Belgrano Cordoba,2,0,Velez Sarsfield,Match Finished
+2023-06-18T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,River Plate,1,0,Defensa Y Justicia,Match Finished
+2023-06-04T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Racing Club,2,0,Banfield,Match Finished
+2023-06-02T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Estudiantes L.P.,5,2,Barracas Central,Match Finished
+2023-06-04T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,San Lorenzo,0,0,Colon Santa Fe,Match Finished
+2023-06-12T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,San Lorenzo,0,0,Central Cordoba de Santiago,Match Finished
+2023-06-13T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Colon Santa Fe,1,0,Estudiantes L.P.,Match Finished
+2023-06-09T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Barracas Central,0,0,Rosario Central,Match Finished
+2023-06-12T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Banfield,1,4,River Plate,Match Finished
+2023-06-13T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Defensa Y Justicia,2,0,Belgrano Cordoba,Match Finished
+2023-06-13T00:45:00+00:00,2023,Liga Profesional Argentina,Argentina,Velez Sarsfield,0,1,Argentinos JRS,Match Finished
+2023-06-10T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Platense,1,0,Tigre,Match Finished
+2023-06-11T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Talleres Cordoba,1,0,Arsenal Sarandi,Match Finished
+2023-06-10T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Boca Juniors,1,1,Lanus,Match Finished
+2023-06-13T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Atletico Tucuman,2,1,Godoy Cruz,Match Finished
+2023-06-12T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Newells Old Boys,1,1,Union Santa Fe,Match Finished
+2023-06-13T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Gimnasia L.P.,1,0,Huracan,Match Finished
+2023-06-22T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,0,0,Gimnasia L.P.,Match Finished
+2023-06-23T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Huracan,1,1,Newells Old Boys,Match Finished
+2023-06-24T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Union Santa Fe,3,0,Independiente,Match Finished
+2023-06-23T00:45:00+00:00,2023,Liga Profesional Argentina,Argentina,Godoy Cruz,4,0,Boca Juniors,Match Finished
+2023-06-24T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Lanus,2,1,Talleres Cordoba,Match Finished
+2023-06-25T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Arsenal Sarandi,0,2,Platense,Match Finished
+2023-06-22T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Tigre,2,1,Velez Sarsfield,Match Finished
+2023-06-24T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Argentinos JRS,3,1,Defensa Y Justicia,Match Finished
+2023-06-26T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Belgrano Cordoba,3,1,Banfield,Match Finished
+2023-06-22T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Racing Club,1,1,Barracas Central,Match Finished
+2023-06-25T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Rosario Central,1,1,Colon Santa Fe,Match Finished
+2023-06-21T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Estudiantes L.P.,1,1,San Lorenzo,Match Finished
+2023-07-01T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Estudiantes L.P.,1,1,Central Cordoba de Santiago,Match Finished
+2023-07-01T20:30:00+00:00,2023,Liga Profesional Argentina,Argentina,San Lorenzo,1,0,Rosario Central,Match Finished
+2023-07-02T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Colon Santa Fe,0,4,Racing Club,Match Finished
+2023-07-01T18:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Barracas Central,2,1,River Plate,Match Finished
+2023-07-02T22:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Banfield,1,0,Argentinos JRS,Match Finished
+2023-07-02T22:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Defensa Y Justicia,1,0,Tigre,Match Finished
+2023-07-01T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Velez Sarsfield,1,0,Arsenal Sarandi,Match Finished
+2023-06-30T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Platense,0,1,Lanus,Match Finished
+2023-07-02T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Talleres Cordoba,1,1,Godoy Cruz,Match Finished
+2023-07-01T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Atletico Tucuman,1,0,Union Santa Fe,Match Finished
+2023-07-02T18:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Independiente,1,0,Huracan,Match Finished
+2023-07-03T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Newells Old Boys,2,2,Gimnasia L.P.,Match Finished
+2023-07-08T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,2,0,Newells Old Boys,Match Finished
+2023-07-07T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Gimnasia L.P.,1,1,Independiente,Match Finished
+2023-07-07T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Huracan,0,1,Atletico Tucuman,Match Finished
+2023-07-06T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Union Santa Fe,0,0,Boca Juniors,Match Finished
+2023-07-05T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Godoy Cruz,2,1,Platense,Match Finished
+2023-07-04T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Lanus,0,1,Velez Sarsfield,Match Finished
+2023-07-06T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Arsenal Sarandi,1,2,Defensa Y Justicia,Match Finished
+2023-07-05T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Tigre,1,2,Banfield,Match Finished
+2023-07-07T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Belgrano Cordoba,0,2,Barracas Central,Match Finished
+2023-07-06T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,River Plate,2,0,Colon Santa Fe,Match Finished
+2023-07-05T22:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Racing Club,1,1,San Lorenzo,Match Finished
+2023-07-05T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Rosario Central,0,0,Estudiantes L.P.,Match Finished
+2023-07-11T21:45:00+00:00,2023,Liga Profesional Argentina,Argentina,Rosario Central,2,0,Central Cordoba de Santiago,Match Finished
+2023-07-08T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Estudiantes L.P.,0,0,Racing Club,Match Finished
+2023-07-08T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,San Lorenzo,0,0,River Plate,Match Finished
+2023-07-10T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Colon Santa Fe,0,0,Belgrano Cordoba,Match Finished
+2023-07-10T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Barracas Central,0,0,Argentinos JRS,Match Finished
+2023-07-09T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Banfield,0,0,Arsenal Sarandi,Match Finished
+2023-07-09T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Defensa Y Justicia,2,2,Lanus,Match Finished
+2023-07-09T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Velez Sarsfield,1,1,Godoy Cruz,Match Finished
+2023-07-11T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Talleres Cordoba,0,0,Union Santa Fe,Match Finished
+2023-07-10T22:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Boca Juniors,1,0,Huracan,Match Finished
+2023-07-12T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Atletico Tucuman,2,0,Gimnasia L.P.,Match Finished
+2023-07-11T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Independiente,0,2,Newells Old Boys,Match Finished
+2023-07-17T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,0,1,Independiente,Match Finished
+2023-07-17T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Newells Old Boys,0,0,Atletico Tucuman,Match Finished
+2023-07-16T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Gimnasia L.P.,1,3,Boca Juniors,Match Finished
+2023-07-15T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Huracan,0,1,Talleres Cordoba,Match Finished
+2023-07-15T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Union Santa Fe,0,0,Platense,Match Finished
+2023-07-14T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Godoy Cruz,2,2,Defensa Y Justicia,Match Finished
+2023-07-16T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Lanus,2,2,Banfield,Match Finished
+2023-07-17T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Tigre,0,1,Barracas Central,Match Finished
+2023-07-17T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Argentinos JRS,1,0,Colon Santa Fe,Match Finished
+2023-07-16T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Belgrano Cordoba,0,1,San Lorenzo,Match Finished
+2023-07-15T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,River Plate,3,1,Estudiantes L.P.,Match Finished
+2023-07-15T19:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Racing Club,1,1,Rosario Central,Match Finished
+2023-07-24T22:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Racing Club,3,1,Central Cordoba de Santiago,Match Finished
+2023-07-24T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Rosario Central,3,3,River Plate,Match Finished
+2023-07-22T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Estudiantes L.P.,4,0,Belgrano Cordoba,Match Finished
+2023-07-22T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,San Lorenzo,0,2,Argentinos JRS,Match Finished
+2023-07-25T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Colon Santa Fe,1,3,Tigre,Match Finished
+2023-07-25T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Barracas Central,0,0,Arsenal Sarandi,Match Finished
+2023-07-24T21:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Banfield,2,0,Godoy Cruz,Match Finished
+2023-07-24T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Velez Sarsfield,0,0,Union Santa Fe,Match Finished
+2023-07-22T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Platense,0,1,Huracan,Match Finished
+2023-07-24T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Talleres Cordoba,2,2,Gimnasia L.P.,Match Finished
+2023-07-24T23:45:00+00:00,2023,Liga Profesional Argentina,Argentina,Boca Juniors,2,1,Newells Old Boys,Match Finished
+2023-07-23T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Atletico Tucuman,1,0,Independiente,Match Finished
+2023-07-29T17:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,0,2,Atletico Tucuman,Match Finished
+2023-07-29T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Independiente,0,2,Boca Juniors,Match Finished
+2023-07-28T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Newells Old Boys,1,1,Talleres Cordoba,Match Finished
+2023-07-30T20:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Gimnasia L.P.,1,1,Platense,Match Finished
+2023-07-30T20:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Huracan,1,0,Velez Sarsfield,Match Finished
+2023-07-28T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Union Santa Fe,2,0,Defensa Y Justicia,Match Finished
+2023-07-30T18:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Lanus,2,0,Barracas Central,Match Finished
+2023-07-30T18:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Arsenal Sarandi,2,0,Colon Santa Fe,Match Finished
+2023-07-29T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Tigre,2,0,San Lorenzo,Match Finished
+2023-07-28T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Argentinos JRS,2,3,Estudiantes L.P.,Match Finished
+2023-07-28T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Belgrano Cordoba,0,0,Rosario Central,Match Finished
+2023-07-29T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,River Plate,2,1,Racing Club,Match Finished
+2023-01-28T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Instituto Cordoba,0,0,Sarmiento Junin,Match Finished
+2023-02-04T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Sarmiento Junin,3,5,Barracas Central,Match Finished
+2023-02-06T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Union Santa Fe,0,2,Instituto Cordoba,Match Finished
+2023-02-11T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Colon Santa Fe,0,2,Sarmiento Junin,Match Finished
+2023-02-13T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Instituto Cordoba,0,0,Huracan,Match Finished
+2023-02-17T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Gimnasia L.P.,2,0,Instituto Cordoba,Match Finished
+2023-02-20T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Sarmiento Junin,0,1,San Lorenzo,Match Finished
+2023-02-25T22:15:00+00:00,2023,Liga Profesional Argentina,Argentina,Estudiantes L.P.,1,1,Sarmiento Junin,Match Finished
+2023-02-27T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Instituto Cordoba,3,1,Newells Old Boys,Match Finished
+2023-03-05T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Independiente,2,2,Instituto Cordoba,Match Finished
+2023-03-03T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Sarmiento Junin,4,1,Rosario Central,Match Finished
+2023-03-12T20:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Racing Club,1,0,Sarmiento Junin,Match Finished
+2023-03-11T00:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Instituto Cordoba,1,1,Atletico Tucuman,Match Finished
+2023-03-19T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Boca Juniors,2,3,Instituto Cordoba,Match Finished
+2023-03-20T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Sarmiento Junin,0,2,River Plate,Match Finished
+2023-04-03T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Belgrano Cordoba,0,0,Sarmiento Junin,Match Finished
+2023-04-02T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Instituto Cordoba,0,3,Talleres Cordoba,Match Finished
+2023-04-07T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Platense,1,0,Instituto Cordoba,Match Finished
+2023-04-08T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Sarmiento Junin,2,0,Argentinos JRS,Match Finished
+2023-04-14T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Tigre,1,0,Sarmiento Junin,Match Finished
+2023-04-12T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Instituto Cordoba,1,0,Velez Sarsfield,Match Finished
+2023-04-15T19:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Defensa Y Justicia,1,0,Instituto Cordoba,Match Finished
+2023-04-17T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Sarmiento Junin,1,0,Arsenal Sarandi,Match Finished
+2023-04-22T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Lanus,2,1,Sarmiento Junin,Match Finished
+2023-04-23T20:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Instituto Cordoba,1,1,Banfield,Match Finished
+2023-04-29T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Instituto Cordoba,0,2,Central Cordoba de Santiago,Match Finished
+2023-04-27T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Sarmiento Junin,1,1,Godoy Cruz,Match Finished
+2023-05-09T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,0,1,Sarmiento Junin,Match Finished
+2023-05-05T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Barracas Central,3,0,Instituto Cordoba,Match Finished
+2023-05-13T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Instituto Cordoba,1,0,Colon Santa Fe,Match Finished
+2023-05-15T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Union Santa Fe,0,2,Sarmiento Junin,Match Finished
+2023-05-21T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Sarmiento Junin,0,0,Huracan,Match Finished
+2023-05-20T17:00:00+00:00,2023,Liga Profesional Argentina,Argentina,San Lorenzo,2,0,Instituto Cordoba,Match Finished
+2023-05-29T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Instituto Cordoba,0,0,Estudiantes L.P.,Match Finished
+2023-05-27T14:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Gimnasia L.P.,0,0,Sarmiento Junin,Match Finished
+2023-06-01T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Sarmiento Junin,0,0,Newells Old Boys,Match Finished
+2023-06-03T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Rosario Central,4,1,Instituto Cordoba,Match Finished
+2023-06-13T00:45:00+00:00,2023,Liga Profesional Argentina,Argentina,Instituto Cordoba,1,1,Racing Club,Match Finished
+2023-06-09T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Independiente,2,0,Sarmiento Junin,Match Finished
+2023-06-25T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Sarmiento Junin,4,1,Atletico Tucuman,Match Finished
+2023-06-22T22:45:00+00:00,2023,Liga Profesional Argentina,Argentina,River Plate,3,1,Instituto Cordoba,Match Finished
+2023-07-02T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Instituto Cordoba,1,0,Belgrano Cordoba,Match Finished
+2023-07-03T00:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Boca Juniors,2,0,Sarmiento Junin,Match Finished
+2023-07-06T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Sarmiento Junin,0,1,Talleres Cordoba,Match Finished
+2023-07-06T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Argentinos JRS,0,0,Instituto Cordoba,Match Finished
+2023-07-09T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Instituto Cordoba,0,1,Tigre,Match Finished
+2023-07-09T18:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Platense,1,0,Sarmiento Junin,Match Finished
+2023-07-14T22:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Sarmiento Junin,1,1,Velez Sarsfield,Match Finished
+2023-07-17T21:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Arsenal Sarandi,0,2,Instituto Cordoba,Match Finished
+2023-07-25T23:30:00+00:00,2023,Liga Profesional Argentina,Argentina,Instituto Cordoba,2,1,Lanus,Match Finished
+2023-07-23T21:45:00+00:00,2023,Liga Profesional Argentina,Argentina,Defensa Y Justicia,3,0,Sarmiento Junin,Match Finished
+2023-07-29T18:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Sarmiento Junin,0,0,Banfield,Match Finished
+2023-07-30T23:00:00+00:00,2023,Liga Profesional Argentina,Argentina,Godoy Cruz,4,2,Instituto Cordoba,Match Finished

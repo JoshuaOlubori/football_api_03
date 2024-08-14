@@ -1,0 +1,241 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-26T18:45:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,1,1,KV Mechelen,Match Finished
+2024-07-27T14:00:00+00:00,2024,Jupiler Pro League,Belgium,Dender,0,0,Union St. Gilloise,Match Finished
+2024-07-27T16:15:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,0,0,OH Leuven,Match Finished
+2024-07-27T18:45:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,1,0,St. Truiden,Match Finished
+2024-07-28T11:30:00+00:00,2024,Jupiler Pro League,Belgium,Genk,0,0,Standard Liege,Match Finished
+2024-07-28T14:00:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,0,1,Gent,Match Finished
+2024-07-28T16:30:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,0,1,Antwerp,Match Finished
+2024-07-28T17:15:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,3,0,Cercle Brugge,Match Finished
+2024-08-02T18:45:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,3,1,Beerschot Wilrijk,Match Finished
+2024-08-03T14:00:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,2,4,KVC Westerlo,Match Finished
+2024-08-03T16:15:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,3,1,Genk,Match Finished
+2024-08-03T18:45:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,1,4,Charleroi,Match Finished
+2024-08-04T11:30:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,1,2,Anderlecht,Match Finished
+2024-08-04T14:00:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,1,2,Kortrijk,Match Finished
+2024-08-04T16:30:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,1,0,Club Brugge KV,Match Finished
+2024-08-04T17:15:00+00:00,2024,Jupiler Pro League,Belgium,Gent,1,2,Dender,Match Finished
+2024-08-09T18:45:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,0,0,KV Mechelen,Match Finished
+2024-08-10T14:00:00+00:00,2024,Jupiler Pro League,Belgium,Dender,4,1,Kortrijk,Match Finished
+2024-08-10T16:15:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,4,3,Union St. Gilloise,Match Finished
+2024-08-10T18:45:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,1,1,OH Leuven,Match Finished
+2024-08-11T11:30:00+00:00,2024,Jupiler Pro League,Belgium,Genk,3,2,Club Brugge KV,Match Finished
+2024-08-11T14:00:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,6,1,St. Truiden,Match Finished
+2024-08-11T16:30:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,1,0,Gent,Match Finished
+2024-08-11T17:15:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,4,1,Beerschot Wilrijk,Match Finished
+2024-08-16T18:45:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,,,Charleroi,Not Started
+2024-08-17T14:00:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,,,Genk,Not Started
+2024-08-17T16:15:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,,,Dender,Not Started
+2024-08-17T18:45:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,,,Anderlecht,Not Started
+2024-08-18T11:30:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,,,Antwerp,Not Started
+2024-08-18T14:00:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,,,Cercle Brugge,Not Started
+2024-08-18T16:30:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,,,Standard Liege,Not Started
+2024-08-18T17:15:00+00:00,2024,Jupiler Pro League,Belgium,Gent,,,KVC Westerlo,Not Started
+2024-08-24T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,,,Genk,Match Postponed
+2024-08-24T14:00:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,,,Gent,Match Postponed
+2024-08-24T16:15:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,,,OH Leuven,Not Started
+2024-08-24T18:45:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,,,KV Mechelen,Not Started
+2024-08-25T11:30:00+00:00,2024,Jupiler Pro League,Belgium,Dender,,,Club Brugge KV,Not Started
+2024-08-25T14:00:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,,,Union St. Gilloise,Not Started
+2024-08-25T16:30:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,,,Beerschot Wilrijk,Not Started
+2024-08-25T17:15:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,,,Kortrijk,Not Started
+2024-08-30T18:45:00+00:00,2024,Jupiler Pro League,Belgium,Genk,,,KVC Westerlo,Not Started
+2024-08-31T14:00:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,,,Charleroi,Not Started
+2024-08-31T16:15:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,,,Dender,Not Started
+2024-08-31T18:45:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,,,Standard Liege,Not Started
+2024-09-01T11:30:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,,,Cercle Brugge,Not Started
+2024-09-01T14:00:00+00:00,2024,Jupiler Pro League,Belgium,Gent,,,Antwerp,Not Started
+2024-09-01T16:30:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,,,Anderlecht,Not Started
+2024-09-01T17:15:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,,,St. Truiden,Not Started
+2024-09-13T18:45:00+00:00,2024,Jupiler Pro League,Belgium,Dender,,,Standard Liege,Not Started
+2024-09-14T14:00:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,,,Genk,Not Started
+2024-09-14T16:15:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,,,Club Brugge KV,Not Started
+2024-09-14T18:45:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,,,Union St. Gilloise,Not Started
+2024-09-15T11:30:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,,,KVC Westerlo,Not Started
+2024-09-15T14:00:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,,,OH Leuven,Not Started
+2024-09-15T16:30:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,,,Beerschot Wilrijk,Not Started
+2024-09-15T17:15:00+00:00,2024,Jupiler Pro League,Belgium,Gent,,,KV Mechelen,Not Started
+2024-09-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,,,Gent,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,,,Charleroi,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Genk,,,Dender,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,,,Union St. Gilloise,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,,,St. Truiden,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,,,Kortrijk,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,,,Cercle Brugge,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,,,Antwerp,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,,,Kortrijk,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Genk,,,KV Mechelen,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Gent,,,OH Leuven,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,,,Beerschot Wilrijk,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,,,KVC Westerlo,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,,,St. Truiden,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,,,Club Brugge KV,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Dender,,,Anderlecht,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,,,Union St. Gilloise,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,,,Standard Liege,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,,,Cercle Brugge,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,,,Genk,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,,,OH Leuven,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,,,Gent,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,,,Beerschot Wilrijk,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Dender,,,Charleroi,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,,,Gent,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Genk,,,St. Truiden,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,,,Charleroi,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,,,Anderlecht,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,,,Dender,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,,,Antwerp,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,,,Kortrijk,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,,,Club Brugge KV,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,,,Anderlecht,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,,,Cercle Brugge,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Gent,,,Genk,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,,,Standard Liege,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,,,Beerschot Wilrijk,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,,,KVC Westerlo,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,,,OH Leuven,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Dender,,,KV Mechelen,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,,,Kortrijk,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Genk,,,Antwerp,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,,,St. Truiden,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,,,Gent,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,,,Charleroi,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,,,Club Brugge KV,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,,,Union St. Gilloise,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,,,Dender,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,,,Genk,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Gent,,,Standard Liege,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,,,Antwerp,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,,,Club Brugge KV,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,,,Anderlecht,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,,,KV Mechelen,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,,,KVC Westerlo,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Dender,,,OH Leuven,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,,,St. Truiden,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,,,Gent,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Genk,,,Charleroi,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,,,Dender,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,,,Cercle Brugge,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,,,Union St. Gilloise,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,,,Beerschot Wilrijk,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,,,Kortrijk,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,,,Dender,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,,,Antwerp,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,,,KV Mechelen,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,,,Cercle Brugge,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,,,Anderlecht,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,,,Genk,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,,,Gent,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,,,Standard Liege,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,,,Beerschot Wilrijk,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Genk,,,Kortrijk,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Gent,,,St. Truiden,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,,,Charleroi,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,,,OH Leuven,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,,,Union St. Gilloise,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,,,Club Brugge KV,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Dender,,,KVC Westerlo,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,,,Genk,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,,,KVC Westerlo,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Gent,,,Cercle Brugge,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,,,Dender,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,,,Standard Liege,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,,,Charleroi,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,,,Antwerp,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,,,Anderlecht,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,,,Club Brugge KV,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Genk,,,Anderlecht,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,,,Gent,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,,,Kortrijk,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,,,OH Leuven,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,,,KV Mechelen,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,,,St. Truiden,Time to be defined
+2024-12-21T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Dender,,,Antwerp,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,,,KVC Westerlo,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,,,Dender,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Gent,,,Union St. Gilloise,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,,,Genk,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,,,Charleroi,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,,,Beerschot Wilrijk,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,,,Standard Liege,Time to be defined
+2024-12-26T00:00:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,,,Cercle Brugge,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,,,Club Brugge KV,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Genk,,,OH Leuven,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,,,Kortrijk,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,,,Antwerp,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,,,KV Mechelen,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,,,St. Truiden,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,,,Union St. Gilloise,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Dender,,,Gent,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,,,Beerschot Wilrijk,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,,,OH Leuven,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Gent,,,Charleroi,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,,,KVC Westerlo,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,,,Anderlecht,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,,,Genk,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,,,Standard Liege,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Dender,,,Cercle Brugge,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,,,Kortrijk,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,,,KV Mechelen,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,,,Dender,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,,,Union St. Gilloise,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,,,Gent,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,,,Antwerp,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,,,Genk,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,,,Cercle Brugge,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,,,St. Truiden,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Genk,,,Beerschot Wilrijk,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Gent,,,Anderlecht,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,,,Club Brugge KV,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,,,KVC Westerlo,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,,,Standard Liege,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,,,KV Mechelen,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,,,Dender,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,,,OH Leuven,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,,,Antwerp,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Genk,,,Cercle Brugge,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,,,Union St. Gilloise,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,,,Charleroi,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,,,Gent,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,,,Standard Liege,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Dender,,,St. Truiden,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,,,KV Mechelen,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Gent,,,Beerschot Wilrijk,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,,,Kortrijk,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,,,Genk,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,,,KVC Westerlo,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,,,Dender,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,,,Club Brugge KV,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,,,Anderlecht,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,,,Standard Liege,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,,,Union St. Gilloise,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Genk,,,Gent,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,,,OH Leuven,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,,,Cercle Brugge,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,,,St. Truiden,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,,,Charleroi,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Dender,,,Beerschot Wilrijk,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,,,Dender,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Gent,,,Club Brugge KV,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,,,Anderlecht,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,,,KV Mechelen,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,,,Antwerp,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,,,KVC Westerlo,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,,,Kortrijk,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,,,Genk,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Union St. Gilloise,,,Standard Liege,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Antwerp,,,Gent,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Kortrijk,,,OH Leuven,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Cercle Brugge,,,Club Brugge KV,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,St. Truiden,,,Beerschot Wilrijk,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KVC Westerlo,,,Anderlecht,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Charleroi,,,KV Mechelen,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Dender,,,Genk,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Club Brugge KV,,,Charleroi,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Anderlecht,,,Cercle Brugge,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Genk,,,Union St. Gilloise,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Gent,,,Kortrijk,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Standard Liege,,,Antwerp,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,Beerschot Wilrijk,,,KVC Westerlo,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,OH Leuven,,,St. Truiden,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Jupiler Pro League,Belgium,KV Mechelen,,,Dender,Time to be defined

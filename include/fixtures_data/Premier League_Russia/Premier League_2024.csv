@@ -1,0 +1,241 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-20T17:00:00+00:00,2024,Premier League,Russia,FC Rostov,0,0,CSKA Moscow,Match Finished
+2024-07-20T14:30:00+00:00,2024,Premier League,Russia,Krylia Sovetov,0,4,Zenit,Match Finished
+2024-07-20T17:00:00+00:00,2024,Premier League,Russia,Dynamo,3,1,Fakel,Match Finished
+2024-07-20T12:00:00+00:00,2024,Premier League,Russia,Lokomotiv,3,2,Akron,Match Finished
+2024-07-21T17:00:00+00:00,2024,Premier League,Russia,Akhmat,1,1,FC Krasnodar,Match Finished
+2024-07-22T17:00:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,2,4,Rubin,Match Finished
+2024-07-21T14:30:00+00:00,2024,Premier League,Russia,FC Orenburg,2,0,Spartak Moscow,Match Finished
+2024-07-21T17:00:00+00:00,2024,Premier League,Russia,Khimki,1,1,Makhachkala,Match Finished
+2024-07-28T17:00:00+00:00,2024,Premier League,Russia,FC Krasnodar,0,0,Makhachkala,Match Finished
+2024-07-26T15:00:00+00:00,2024,Premier League,Russia,Krylia Sovetov,1,3,FC Rostov,Match Finished
+2024-07-27T14:30:00+00:00,2024,Premier League,Russia,Dynamo,3,1,Lokomotiv,Match Finished
+2024-07-27T17:00:00+00:00,2024,Premier League,Russia,Fakel,0,2,Akron,Match Finished
+2024-07-27T14:30:00+00:00,2024,Premier League,Russia,Rubin,0,4,Zenit,Match Finished
+2024-07-27T12:00:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,0,3,CSKA Moscow,Match Finished
+2024-07-28T14:30:00+00:00,2024,Premier League,Russia,FC Orenburg,0,0,Akhmat,Match Finished
+2024-07-28T12:00:00+00:00,2024,Premier League,Russia,Khimki,1,3,Spartak Moscow,Match Finished
+2024-08-03T14:30:00+00:00,2024,Premier League,Russia,Zenit,5,0,FC Rostov,Match Finished
+2024-08-05T17:00:00+00:00,2024,Premier League,Russia,Spartak Moscow,3,0,Krylia Sovetov,Match Finished
+2024-08-04T12:30:00+00:00,2024,Premier League,Russia,CSKA Moscow,5,1,FC Orenburg,Match Finished
+2024-08-04T17:30:00+00:00,2024,Premier League,Russia,Akhmat,0,5,Lokomotiv,Match Finished
+2024-08-04T14:30:00+00:00,2024,Premier League,Russia,Fakel,0,0,FC Krasnodar,Match Finished
+2024-08-03T17:00:00+00:00,2024,Premier League,Russia,Rubin,2,3,Khimki,Match Finished
+2024-08-04T17:30:00+00:00,2024,Premier League,Russia,Makhachkala,0,1,Nizhny Novgorod,Match Finished
+2024-08-03T12:00:00+00:00,2024,Premier League,Russia,Akron,0,2,Dynamo,Match Finished
+2024-08-10T14:30:00+00:00,2024,Premier League,Russia,Zenit,1,0,Dynamo,Match Finished
+2024-08-11T17:00:00+00:00,2024,Premier League,Russia,Spartak Moscow,0,0,Akhmat,Match Finished
+2024-08-09T17:45:00+00:00,2024,Premier League,Russia,FC Rostov,1,1,Rubin,Match Finished
+2024-08-10T17:00:00+00:00,2024,Premier League,Russia,FC Krasnodar,2,1,CSKA Moscow,Match Finished
+2024-08-11T14:30:00+00:00,2024,Premier League,Russia,Krylia Sovetov,2,0,Fakel,Match Finished
+2024-08-10T12:00:00+00:00,2024,Premier League,Russia,Lokomotiv,2,0,Makhachkala,Match Finished
+2024-08-09T15:30:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,1,0,Khimki,Match Finished
+2024-08-10T14:30:00+00:00,2024,Premier League,Russia,FC Orenburg,2,2,Akron,Match Finished
+2024-08-17T16:30:00+00:00,2024,Premier League,Russia,FC Rostov,,,FC Orenburg,Not Started
+2024-08-18T17:00:00+00:00,2024,Premier League,Russia,FC Krasnodar,,,Nizhny Novgorod,Not Started
+2024-08-18T14:30:00+00:00,2024,Premier League,Russia,CSKA Moscow,,,Lokomotiv,Not Started
+2024-08-17T14:00:00+00:00,2024,Premier League,Russia,Dynamo,,,Krylia Sovetov,Not Started
+2024-08-18T14:30:00+00:00,2024,Premier League,Russia,Fakel,,,Spartak Moscow,Not Started
+2024-08-19T17:00:00+00:00,2024,Premier League,Russia,Makhachkala,,,Akhmat,Not Started
+2024-08-19T14:30:00+00:00,2024,Premier League,Russia,Akron,,,Rubin,Not Started
+2024-08-18T12:00:00+00:00,2024,Premier League,Russia,Khimki,,,Zenit,Not Started
+2024-08-24T14:30:00+00:00,2024,Premier League,Russia,Zenit,,,Spartak Moscow,Not Started
+2024-08-25T12:00:00+00:00,2024,Premier League,Russia,Krylia Sovetov,,,Nizhny Novgorod,Not Started
+2024-08-24T12:00:00+00:00,2024,Premier League,Russia,CSKA Moscow,,,Akron,Not Started
+2024-08-25T14:30:00+00:00,2024,Premier League,Russia,Dynamo,,,FC Krasnodar,Not Started
+2024-08-25T17:00:00+00:00,2024,Premier League,Russia,Lokomotiv,,,FC Rostov,Not Started
+2024-08-24T17:00:00+00:00,2024,Premier League,Russia,Akhmat,,,Khimki,Not Started
+2024-08-24T14:30:00+00:00,2024,Premier League,Russia,Fakel,,,FC Orenburg,Not Started
+2024-08-23T17:00:00+00:00,2024,Premier League,Russia,Rubin,,,Makhachkala,Not Started
+2024-08-31T16:45:00+00:00,2024,Premier League,Russia,Spartak Moscow,,,Rubin,Not Started
+2024-09-01T17:00:00+00:00,2024,Premier League,Russia,FC Rostov,,,Fakel,Not Started
+2024-09-01T14:30:00+00:00,2024,Premier League,Russia,Krylia Sovetov,,,Makhachkala,Not Started
+2024-09-01T16:45:00+00:00,2024,Premier League,Russia,Lokomotiv,,,FC Krasnodar,Not Started
+2024-08-31T17:00:00+00:00,2024,Premier League,Russia,Akhmat,,,Akron,Not Started
+2024-08-31T14:30:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,,,Zenit,Not Started
+2024-09-01T12:00:00+00:00,2024,Premier League,Russia,FC Orenburg,,,Dynamo,Not Started
+2024-08-31T12:00:00+00:00,2024,Premier League,Russia,Khimki,,,CSKA Moscow,Not Started
+2024-09-14T16:00:00+00:00,2024,Premier League,Russia,FC Krasnodar,,,FC Rostov,Not Started
+2024-09-14T13:30:00+00:00,2024,Premier League,Russia,CSKA Moscow,,,Zenit,Not Started
+2024-09-15T11:15:00+00:00,2024,Premier League,Russia,Dynamo,,,Akhmat,Not Started
+2024-09-14T11:15:00+00:00,2024,Premier League,Russia,Fakel,,,Nizhny Novgorod,Not Started
+2024-09-13T17:15:00+00:00,2024,Premier League,Russia,Rubin,,,Krylia Sovetov,Not Started
+2024-09-14T09:00:00+00:00,2024,Premier League,Russia,FC Orenburg,,,Lokomotiv,Not Started
+2024-09-15T16:00:00+00:00,2024,Premier League,Russia,Makhachkala,,,Spartak Moscow,Not Started
+2024-09-15T13:30:00+00:00,2024,Premier League,Russia,Akron,,,Khimki,Not Started
+2024-09-21T13:30:00+00:00,2024,Premier League,Russia,Zenit,,,Fakel,Not Started
+2024-09-22T13:30:00+00:00,2024,Premier League,Russia,Spartak Moscow,,,Dynamo,Not Started
+2024-09-22T13:30:00+00:00,2024,Premier League,Russia,FC Rostov,,,Makhachkala,Not Started
+2024-09-23T15:30:00+00:00,2024,Premier League,Russia,Akhmat,,,Krylia Sovetov,Not Started
+2024-09-21T16:00:00+00:00,2024,Premier League,Russia,Rubin,,,CSKA Moscow,Not Started
+2024-09-22T16:00:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,,,Lokomotiv,Not Started
+2024-09-21T11:00:00+00:00,2024,Premier League,Russia,Akron,,,FC Krasnodar,Not Started
+2024-09-22T11:15:00+00:00,2024,Premier League,Russia,Khimki,,,FC Orenburg,Not Started
+2024-09-29T17:00:00+00:00,2024,Premier League,Russia,FC Rostov,,,Akron,Not Started
+2024-09-28T16:30:00+00:00,2024,Premier League,Russia,FC Krasnodar,,,Zenit,Not Started
+2024-09-29T13:30:00+00:00,2024,Premier League,Russia,Krylia Sovetov,,,Khimki,Not Started
+2024-09-28T11:00:00+00:00,2024,Premier League,Russia,CSKA Moscow,,,Akhmat,Not Started
+2024-09-28T13:30:00+00:00,2024,Premier League,Russia,Lokomotiv,,,Spartak Moscow,Not Started
+2024-09-27T16:00:00+00:00,2024,Premier League,Russia,Fakel,,,Rubin,Not Started
+2024-09-27T13:30:00+00:00,2024,Premier League,Russia,FC Orenburg,,,Nizhny Novgorod,Not Started
+2024-09-29T16:00:00+00:00,2024,Premier League,Russia,Makhachkala,,,Dynamo,Not Started
+2024-10-06T13:30:00+00:00,2024,Premier League,Russia,Zenit,,,FC Orenburg,Not Started
+2024-10-05T16:00:00+00:00,2024,Premier League,Russia,Spartak Moscow,,,FC Rostov,Not Started
+2024-10-06T16:00:00+00:00,2024,Premier League,Russia,FC Krasnodar,,,Khimki,Not Started
+2024-10-06T16:00:00+00:00,2024,Premier League,Russia,Dynamo,,,CSKA Moscow,Not Started
+2024-10-06T13:30:00+00:00,2024,Premier League,Russia,Lokomotiv,,,Krylia Sovetov,Not Started
+2024-10-06T11:00:00+00:00,2024,Premier League,Russia,Fakel,,,Makhachkala,Not Started
+2024-10-05T16:00:00+00:00,2024,Premier League,Russia,Rubin,,,Akhmat,Not Started
+2024-10-05T11:00:00+00:00,2024,Premier League,Russia,Akron,,,Nizhny Novgorod,Not Started
+2024-10-19T13:30:00+00:00,2024,Premier League,Russia,Spartak Moscow,,,FC Krasnodar,Not Started
+2024-10-18T17:15:00+00:00,2024,Premier League,Russia,Akhmat,,,Fakel,Not Started
+2024-10-20T16:00:00+00:00,2024,Premier League,Russia,Rubin,,,Dynamo,Not Started
+2024-10-19T11:00:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,,,FC Rostov,Not Started
+2024-10-20T13:30:00+00:00,2024,Premier League,Russia,FC Orenburg,,,Krylia Sovetov,Not Started
+2024-10-19T16:00:00+00:00,2024,Premier League,Russia,Makhachkala,,,CSKA Moscow,Not Started
+2024-10-18T15:00:00+00:00,2024,Premier League,Russia,Akron,,,Zenit,Not Started
+2024-10-19T13:30:00+00:00,2024,Premier League,Russia,Khimki,,,Lokomotiv,Not Started
+2024-10-27T16:30:00+00:00,2024,Premier League,Russia,Zenit,,,Lokomotiv,Not Started
+2024-10-26T16:00:00+00:00,2024,Premier League,Russia,FC Rostov,,,Akhmat,Not Started
+2024-10-28T15:30:00+00:00,2024,Premier League,Russia,Krylia Sovetov,,,FC Krasnodar,Not Started
+2024-10-26T13:30:00+00:00,2024,Premier League,Russia,CSKA Moscow,,,Fakel,Not Started
+2024-10-27T11:15:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,,,Spartak Moscow,Not Started
+2024-10-27T09:00:00+00:00,2024,Premier League,Russia,FC Orenburg,,,Rubin,Not Started
+2024-10-26T11:00:00+00:00,2024,Premier League,Russia,Makhachkala,,,Akron,Not Started
+2024-10-27T13:30:00+00:00,2024,Premier League,Russia,Khimki,,,Dynamo,Not Started
+2024-11-03T00:00:00+00:00,2024,Premier League,Russia,Zenit,,,Makhachkala,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Premier League,Russia,FC Krasnodar,,,FC Orenburg,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Premier League,Russia,CSKA Moscow,,,Spartak Moscow,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Premier League,Russia,Dynamo,,,FC Rostov,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Premier League,Russia,Lokomotiv,,,Rubin,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Premier League,Russia,Akhmat,,,Nizhny Novgorod,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Premier League,Russia,Fakel,,,Khimki,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Premier League,Russia,Akron,,,Krylia Sovetov,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Premier League,Russia,Spartak Moscow,,,Akron,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Premier League,Russia,FC Rostov,,,Khimki,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Premier League,Russia,Krylia Sovetov,,,CSKA Moscow,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Premier League,Russia,Dynamo,,,Nizhny Novgorod,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Premier League,Russia,Lokomotiv,,,Fakel,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Premier League,Russia,Akhmat,,,Zenit,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Premier League,Russia,Rubin,,,FC Krasnodar,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Premier League,Russia,Makhachkala,,,FC Orenburg,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Premier League,Russia,Spartak Moscow,,,Lokomotiv,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Premier League,Russia,Krylia Sovetov,,,Akhmat,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Premier League,Russia,CSKA Moscow,,,FC Rostov,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Premier League,Russia,Fakel,,,Dynamo,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Premier League,Russia,Rubin,,,Akron,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,,,Makhachkala,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Premier League,Russia,FC Orenburg,,,Zenit,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Premier League,Russia,Khimki,,,FC Krasnodar,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Premier League,Russia,Zenit,,,Krylia Sovetov,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Premier League,Russia,FC Rostov,,,Nizhny Novgorod,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Premier League,Russia,FC Krasnodar,,,Spartak Moscow,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Premier League,Russia,CSKA Moscow,,,Rubin,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Premier League,Russia,Lokomotiv,,,Khimki,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Premier League,Russia,Akhmat,,,Dynamo,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Premier League,Russia,Makhachkala,,,Fakel,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Premier League,Russia,Akron,,,FC Orenburg,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Premier League,Russia,Zenit,,,Akron,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Premier League,Russia,Spartak Moscow,,,Nizhny Novgorod,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Premier League,Russia,FC Rostov,,,Krylia Sovetov,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Premier League,Russia,FC Krasnodar,,,Lokomotiv,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Premier League,Russia,Dynamo,,,Khimki,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Premier League,Russia,Akhmat,,,FC Orenburg,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Premier League,Russia,Fakel,,,CSKA Moscow,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Premier League,Russia,Makhachkala,,,Rubin,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Premier League,Russia,Zenit,,,CSKA Moscow,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Premier League,Russia,Spartak Moscow,,,FC Orenburg,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Premier League,Russia,FC Rostov,,,Dynamo,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Premier League,Russia,FC Krasnodar,,,Krylia Sovetov,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Premier League,Russia,Akhmat,,,Rubin,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,,,Akron,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Premier League,Russia,Makhachkala,,,Lokomotiv,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Premier League,Russia,Khimki,,,Fakel,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Premier League,Russia,Krylia Sovetov,,,Akron,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Premier League,Russia,CSKA Moscow,,,Khimki,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Premier League,Russia,Dynamo,,,Makhachkala,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Premier League,Russia,Lokomotiv,,,Akhmat,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Premier League,Russia,Fakel,,,Zenit,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Premier League,Russia,Rubin,,,Spartak Moscow,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,,,FC Krasnodar,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Premier League,Russia,FC Orenburg,,,FC Rostov,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Premier League,Russia,Spartak Moscow,,,Zenit,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Premier League,Russia,FC Rostov,,,FC Krasnodar,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Premier League,Russia,Lokomotiv,,,Dynamo,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Premier League,Russia,Rubin,,,Nizhny Novgorod,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Premier League,Russia,FC Orenburg,,,Fakel,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Premier League,Russia,Makhachkala,,,Krylia Sovetov,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Premier League,Russia,Akron,,,CSKA Moscow,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Premier League,Russia,Khimki,,,Akhmat,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Premier League,Russia,Zenit,,,Rubin,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Premier League,Russia,FC Krasnodar,,,Fakel,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Premier League,Russia,Krylia Sovetov,,,Lokomotiv,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Premier League,Russia,CSKA Moscow,,,Makhachkala,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Premier League,Russia,Dynamo,,,FC Orenburg,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Premier League,Russia,Akhmat,,,Spartak Moscow,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Premier League,Russia,Akron,,,FC Rostov,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Premier League,Russia,Khimki,,,Nizhny Novgorod,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Premier League,Russia,FC Rostov,,,Spartak Moscow,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Premier League,Russia,FC Krasnodar,,,Akron,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Premier League,Russia,Krylia Sovetov,,,Rubin,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Premier League,Russia,CSKA Moscow,,,Dynamo,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Premier League,Russia,Lokomotiv,,,Zenit,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Premier League,Russia,Fakel,,,Akhmat,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,,,FC Orenburg,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Premier League,Russia,Makhachkala,,,Khimki,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Premier League,Russia,Zenit,,,FC Krasnodar,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Premier League,Russia,Spartak Moscow,,,Makhachkala,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Premier League,Russia,Akhmat,,,FC Rostov,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Premier League,Russia,Rubin,,,Lokomotiv,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,,,Dynamo,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Premier League,Russia,FC Orenburg,,,CSKA Moscow,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Premier League,Russia,Akron,,,Fakel,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Premier League,Russia,Khimki,,,Krylia Sovetov,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Premier League,Russia,Zenit,,,Khimki,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Premier League,Russia,FC Krasnodar,,,Akhmat,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Premier League,Russia,CSKA Moscow,,,Krylia Sovetov,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Premier League,Russia,Dynamo,,,Rubin,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Premier League,Russia,Lokomotiv,,,Nizhny Novgorod,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Premier League,Russia,Fakel,,,FC Rostov,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Premier League,Russia,FC Orenburg,,,Makhachkala,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Premier League,Russia,Akron,,,Spartak Moscow,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Premier League,Russia,Spartak Moscow,,,CSKA Moscow,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Premier League,Russia,FC Rostov,,,Lokomotiv,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Premier League,Russia,Krylia Sovetov,,,FC Orenburg,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Premier League,Russia,Dynamo,,,Zenit,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Premier League,Russia,Rubin,,,Fakel,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,,,Akhmat,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Premier League,Russia,Makhachkala,,,FC Krasnodar,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Premier League,Russia,Khimki,,,Akron,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Premier League,Russia,Zenit,,,Nizhny Novgorod,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Premier League,Russia,Spartak Moscow,,,Fakel,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Premier League,Russia,FC Krasnodar,,,Rubin,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Premier League,Russia,Krylia Sovetov,,,Dynamo,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Premier League,Russia,Lokomotiv,,,FC Orenburg,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Premier League,Russia,Akhmat,,,CSKA Moscow,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Premier League,Russia,Akron,,,Makhachkala,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Premier League,Russia,Khimki,,,FC Rostov,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Premier League,Russia,CSKA Moscow,,,FC Krasnodar,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Premier League,Russia,Dynamo,,,Spartak Moscow,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Premier League,Russia,Fakel,,,Lokomotiv,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Premier League,Russia,Rubin,,,FC Rostov,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,,,Krylia Sovetov,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Premier League,Russia,FC Orenburg,,,Khimki,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Premier League,Russia,Makhachkala,,,Zenit,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Premier League,Russia,Akron,,,Akhmat,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Premier League,Russia,FC Rostov,,,Zenit,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Premier League,Russia,Krylia Sovetov,,,Spartak Moscow,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Premier League,Russia,Dynamo,,,Akron,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Premier League,Russia,Lokomotiv,,,CSKA Moscow,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Premier League,Russia,Akhmat,,,Makhachkala,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Premier League,Russia,Nizhny Novgorod,,,Fakel,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Premier League,Russia,FC Orenburg,,,FC Krasnodar,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Premier League,Russia,Khimki,,,Rubin,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Premier League,Russia,Zenit,,,Akhmat,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Premier League,Russia,Spartak Moscow,,,Khimki,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Premier League,Russia,FC Krasnodar,,,Dynamo,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Premier League,Russia,CSKA Moscow,,,Nizhny Novgorod,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Premier League,Russia,Fakel,,,Krylia Sovetov,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Premier League,Russia,Rubin,,,FC Orenburg,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Premier League,Russia,Makhachkala,,,FC Rostov,Time to be defined
+2025-05-24T00:00:00+00:00,2024,Premier League,Russia,Akron,,,Lokomotiv,Time to be defined

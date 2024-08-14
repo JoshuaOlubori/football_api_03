@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-11T16:15:00+00:00,2024,1. Lig,Turkey,Boluspor,0,1,76 Iğdır Belediyespor,Match Finished
+2024-08-12T18:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,3,0,Yeni Çorumspor,Match Finished
+2024-08-11T18:45:00+00:00,2024,1. Lig,Turkey,Ankaragucu,2,0,Şanlıurfaspor,Match Finished
+2024-08-10T16:15:00+00:00,2024,1. Lig,Turkey,İstanbulspor,3,2,Manisa BBSK,Match Finished
+2024-08-11T16:15:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,0,0,Amed,Match Finished
+2024-08-11T14:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,3,2,Erzurum BB,Match Finished
+2024-08-09T18:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,1,1,Keçiörengücü,Match Finished
+2024-08-10T18:45:00+00:00,2024,1. Lig,Turkey,Kocaelispor,2,1,Genclerbirligi,Match Finished
+2024-08-10T18:45:00+00:00,2024,1. Lig,Turkey,Adanaspor,2,1,Erokspor,Match Finished
+2024-08-10T16:15:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,0,3,Pendikspor,Match Finished
+2024-08-18T18:45:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Ümraniyespor,Not Started
+2024-08-18T14:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Adanaspor,Not Started
+2024-08-18T16:15:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Boluspor,Not Started
+2024-08-17T16:15:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Yeni Malatyaspor,Not Started
+2024-08-16T18:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Kocaelispor,Not Started
+2024-08-17T14:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Bandırmaspor,Not Started
+2024-08-17T16:15:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Ankaragucu,Not Started
+2024-08-17T18:45:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Sakaryaspor,Not Started
+2024-08-19T18:00:00+00:00,2024,1. Lig,Turkey,Amed,,,İstanbulspor,Not Started
+2024-08-18T16:15:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Fatih Karagümrük,Not Started
+2024-08-24T18:45:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Erokspor,Not Started
+2024-08-24T14:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Genclerbirligi,Not Started
+2024-08-24T18:45:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Ümraniyespor,Not Started
+2024-08-26T18:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Şanlıurfaspor,Not Started
+2024-08-24T16:15:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Manisa BBSK,Not Started
+2024-08-25T14:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Yeni Çorumspor,Not Started
+2024-08-25T16:15:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Amed,Not Started
+2024-08-23T18:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Erzurum BB,Not Started
+2024-08-25T18:45:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Pendikspor,Not Started
+2024-08-25T18:45:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Keçiörengücü,Not Started
+2024-08-31T18:45:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Bandırmaspor,Not Started
+2024-08-31T16:15:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Fatih Karagümrük,Not Started
+2024-09-01T16:15:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,İstanbulspor,Not Started
+2024-08-30T18:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Genclerbirligi,Not Started
+2024-09-01T18:45:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,76 Iğdır Belediyespor,Not Started
+2024-08-31T14:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Boluspor,Not Started
+2024-09-01T16:15:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Yeni Malatyaspor,Not Started
+2024-08-30T18:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Adanaspor,Not Started
+2024-09-01T18:45:00+00:00,2024,1. Lig,Turkey,Amed,,,Kocaelispor,Not Started
+2024-08-31T18:45:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Sakaryaspor,Not Started
+2024-09-13T17:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Pendikspor,Not Started
+2024-09-15T13:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Erokspor,Not Started
+2024-09-15T16:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Erzurum BB,Not Started
+2024-09-14T16:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Ümraniyespor,Not Started
+2024-09-15T13:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Ankaragucu,Not Started
+2024-09-14T13:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Amed,Not Started
+2024-09-14T16:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Şanlıurfaspor,Not Started
+2024-09-15T16:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Manisa BBSK,Not Started
+2024-09-16T17:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Keçiörengücü,Not Started
+2024-09-14T13:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Yeni Çorumspor,Not Started
+2024-09-22T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Fatih Karagümrük,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Adanaspor,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Sakaryaspor,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Bandırmaspor,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Genclerbirligi,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,76 Iğdır Belediyespor,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Erokspor,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Yeni Malatyaspor,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Boluspor,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Kocaelispor,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Manisa BBSK,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Erzurum BB,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Keçiörengücü,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Pendikspor,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,İstanbulspor,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Ankaragucu,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Ümraniyespor,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Şanlıurfaspor,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Yeni Çorumspor,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Amed,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Yeni Malatyaspor,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Bandırmaspor,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Adanaspor,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Kocaelispor,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Sakaryaspor,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Pendikspor,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Boluspor,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Genclerbirligi,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Erokspor,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,76 Iğdır Belediyespor,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Yeni Çorumspor,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Manisa BBSK,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Amed,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Keçiörengücü,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Erzurum BB,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Fatih Karagümrük,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,İstanbulspor,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Ümraniyespor,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Şanlıurfaspor,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Ankaragucu,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,76 Iğdır Belediyespor,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Yeni Malatyaspor,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Kocaelispor,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Boluspor,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Adanaspor,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Sakaryaspor,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Keçiörengücü,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Erokspor,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Pendikspor,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Genclerbirligi,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Ümraniyespor,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Ankaragucu,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,İstanbulspor,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Şanlıurfaspor,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Manisa BBSK,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Yeni Çorumspor,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Amed,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Fatih Karagümrük,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Bandırmaspor,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Sakaryaspor,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Genclerbirligi,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,76 Iğdır Belediyespor,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Erokspor,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Adanaspor,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Yeni Malatyaspor,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Boluspor,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Kocaelispor,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Erzurum BB,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Keçiörengücü,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Pendikspor,Time to be defined
+2024-11-24T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Şanlıurfaspor,Time to be defined
+2024-11-24T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Amed,Time to be defined
+2024-11-24T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Ankaragucu,Time to be defined
+2024-11-24T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Yeni Çorumspor,Time to be defined
+2024-11-24T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Ümraniyespor,Time to be defined
+2024-11-24T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Manisa BBSK,Time to be defined
+2024-11-24T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Fatih Karagümrük,Time to be defined
+2024-11-24T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Bandırmaspor,Time to be defined
+2024-11-24T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Sakaryaspor,Time to be defined
+2024-11-24T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,İstanbulspor,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Keçiörengücü,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Genclerbirligi,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Pendikspor,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,76 Iğdır Belediyespor,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Erokspor,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Yeni Malatyaspor,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Boluspor,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Adanaspor,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Manisa BBSK,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Erzurum BB,Time to be defined
+2024-12-08T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Ankaragucu,Time to be defined
+2024-12-08T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Bandırmaspor,Time to be defined
+2024-12-08T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Fatih Karagümrük,Time to be defined
+2024-12-08T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Ümraniyespor,Time to be defined
+2024-12-08T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Sakaryaspor,Time to be defined
+2024-12-08T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,İstanbulspor,Time to be defined
+2024-12-08T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Adanaspor,Time to be defined
+2024-12-08T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Yeni Çorumspor,Time to be defined
+2024-12-08T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Şanlıurfaspor,Time to be defined
+2024-12-08T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Kocaelispor,Time to be defined
+2024-12-15T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Pendikspor,Time to be defined
+2024-12-15T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Keçiörengücü,Time to be defined
+2024-12-15T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Manisa BBSK,Time to be defined
+2024-12-15T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Erzurum BB,Time to be defined
+2024-12-15T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Boluspor,Time to be defined
+2024-12-15T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Genclerbirligi,Time to be defined
+2024-12-15T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,76 Iğdır Belediyespor,Time to be defined
+2024-12-15T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Erokspor,Time to be defined
+2024-12-15T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Yeni Malatyaspor,Time to be defined
+2024-12-15T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Amed,Time to be defined
+2024-12-22T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Kocaelispor,Time to be defined
+2024-12-22T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Yeni Malatyaspor,Time to be defined
+2024-12-22T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Adanaspor,Time to be defined
+2024-12-22T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Bandırmaspor,Time to be defined
+2024-12-22T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,İstanbulspor,Time to be defined
+2024-12-22T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Fatih Karagümrük,Time to be defined
+2024-12-22T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Sakaryaspor,Time to be defined
+2024-12-22T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Şanlıurfaspor,Time to be defined
+2024-12-22T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Ümraniyespor,Time to be defined
+2024-12-22T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Ankaragucu,Time to be defined
+2025-01-05T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Yeni Çorumspor,Time to be defined
+2025-01-05T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Erzurum BB,Time to be defined
+2025-01-05T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Keçiörengücü,Time to be defined
+2025-01-05T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Erokspor,Time to be defined
+2025-01-05T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Pendikspor,Time to be defined
+2025-01-05T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Manisa BBSK,Time to be defined
+2025-01-05T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Genclerbirligi,Time to be defined
+2025-01-05T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,76 Iğdır Belediyespor,Time to be defined
+2025-01-05T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Amed,Time to be defined
+2025-01-05T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Boluspor,Time to be defined
+2025-01-12T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Adanaspor,Time to be defined
+2025-01-12T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Fatih Karagümrük,Time to be defined
+2025-01-12T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Yeni Malatyaspor,Time to be defined
+2025-01-12T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Sakaryaspor,Time to be defined
+2025-01-12T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Bandırmaspor,Time to be defined
+2025-01-12T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Kocaelispor,Time to be defined
+2025-01-12T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Şanlıurfaspor,Time to be defined
+2025-01-12T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Ümraniyespor,Time to be defined
+2025-01-12T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Ankaragucu,Time to be defined
+2025-01-12T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,İstanbulspor,Time to be defined
+2025-01-19T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Boluspor,Time to be defined
+2025-01-19T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Ümraniyespor,Time to be defined
+2025-01-19T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Ankaragucu,Time to be defined
+2025-01-19T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,İstanbulspor,Time to be defined
+2025-01-19T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Fatih Karagümrük,Time to be defined
+2025-01-19T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Bandırmaspor,Time to be defined
+2025-01-19T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Sakaryaspor,Time to be defined
+2025-01-19T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Kocaelispor,Time to be defined
+2025-01-19T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Adanaspor,Time to be defined
+2025-01-19T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Yeni Malatyaspor,Time to be defined
+2025-01-26T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Şanlıurfaspor,Time to be defined
+2025-01-26T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,76 Iğdır Belediyespor,Time to be defined
+2025-01-26T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Genclerbirligi,Time to be defined
+2025-01-26T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Erokspor,Time to be defined
+2025-01-26T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Pendikspor,Time to be defined
+2025-01-26T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Keçiörengücü,Time to be defined
+2025-01-26T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Erzurum BB,Time to be defined
+2025-01-26T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Manisa BBSK,Time to be defined
+2025-01-26T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Amed,Time to be defined
+2025-01-26T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Yeni Çorumspor,Time to be defined
+2025-02-02T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Boluspor,Time to be defined
+2025-02-02T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,76 Iğdır Belediyespor,Time to be defined
+2025-02-02T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Ankaragucu,Time to be defined
+2025-02-02T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,İstanbulspor,Time to be defined
+2025-02-02T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Fatih Karagümrük,Time to be defined
+2025-02-02T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Bandırmaspor,Time to be defined
+2025-02-02T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Sakaryaspor,Time to be defined
+2025-02-02T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Kocaelispor,Time to be defined
+2025-02-02T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Adanaspor,Time to be defined
+2025-02-02T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Yeni Malatyaspor,Time to be defined
+2025-02-09T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Şanlıurfaspor,Time to be defined
+2025-02-09T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Ümraniyespor,Time to be defined
+2025-02-09T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Ankaragucu,Time to be defined
+2025-02-09T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Erokspor,Time to be defined
+2025-02-09T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Pendikspor,Time to be defined
+2025-02-09T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Keçiörengücü,Time to be defined
+2025-02-09T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Erzurum BB,Time to be defined
+2025-02-09T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Manisa BBSK,Time to be defined
+2025-02-09T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Amed,Time to be defined
+2025-02-09T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Yeni Çorumspor,Time to be defined
+2025-02-12T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Boluspor,Time to be defined
+2025-02-12T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,76 Iğdır Belediyespor,Time to be defined
+2025-02-12T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Genclerbirligi,Time to be defined
+2025-02-12T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,İstanbulspor,Time to be defined
+2025-02-12T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Fatih Karagümrük,Time to be defined
+2025-02-12T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Bandırmaspor,Time to be defined
+2025-02-12T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Sakaryaspor,Time to be defined
+2025-02-12T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Kocaelispor,Time to be defined
+2025-02-12T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Adanaspor,Time to be defined
+2025-02-12T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Yeni Malatyaspor,Time to be defined
+2025-02-16T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Şanlıurfaspor,Time to be defined
+2025-02-16T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Ümraniyespor,Time to be defined
+2025-02-16T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Ankaragucu,Time to be defined
+2025-02-16T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,İstanbulspor,Time to be defined
+2025-02-16T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Pendikspor,Time to be defined
+2025-02-16T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Keçiörengücü,Time to be defined
+2025-02-16T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Erzurum BB,Time to be defined
+2025-02-16T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Manisa BBSK,Time to be defined
+2025-02-16T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Amed,Time to be defined
+2025-02-16T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Yeni Çorumspor,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Boluspor,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,76 Iğdır Belediyespor,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Genclerbirligi,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Erokspor,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Fatih Karagümrük,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Bandırmaspor,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Sakaryaspor,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Kocaelispor,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Adanaspor,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Yeni Malatyaspor,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Şanlıurfaspor,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Ümraniyespor,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Ankaragucu,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,İstanbulspor,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Fatih Karagümrük,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Keçiörengücü,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Erzurum BB,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Manisa BBSK,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Amed,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Yeni Çorumspor,Time to be defined
+2025-03-05T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Boluspor,Time to be defined
+2025-03-05T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,76 Iğdır Belediyespor,Time to be defined
+2025-03-05T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Genclerbirligi,Time to be defined
+2025-03-05T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Erokspor,Time to be defined
+2025-03-05T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Pendikspor,Time to be defined
+2025-03-05T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Bandırmaspor,Time to be defined
+2025-03-05T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Sakaryaspor,Time to be defined
+2025-03-05T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Kocaelispor,Time to be defined
+2025-03-05T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Adanaspor,Time to be defined
+2025-03-05T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Yeni Malatyaspor,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Şanlıurfaspor,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Ümraniyespor,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Ankaragucu,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,İstanbulspor,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Fatih Karagümrük,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Bandırmaspor,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Erzurum BB,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Manisa BBSK,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Amed,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Yeni Çorumspor,Time to be defined
+2025-03-16T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Boluspor,Time to be defined
+2025-03-16T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,76 Iğdır Belediyespor,Time to be defined
+2025-03-16T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Genclerbirligi,Time to be defined
+2025-03-16T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Erokspor,Time to be defined
+2025-03-16T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Pendikspor,Time to be defined
+2025-03-16T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Keçiörengücü,Time to be defined
+2025-03-16T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Erzurum BB,Time to be defined
+2025-03-16T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Kocaelispor,Time to be defined
+2025-03-16T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Adanaspor,Time to be defined
+2025-03-16T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Yeni Malatyaspor,Time to be defined
+2025-03-30T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Şanlıurfaspor,Time to be defined
+2025-03-30T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Ümraniyespor,Time to be defined
+2025-03-30T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Ankaragucu,Time to be defined
+2025-03-30T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,İstanbulspor,Time to be defined
+2025-03-30T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Fatih Karagümrük,Time to be defined
+2025-03-30T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Bandırmaspor,Time to be defined
+2025-03-30T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Sakaryaspor,Time to be defined
+2025-03-30T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Manisa BBSK,Time to be defined
+2025-03-30T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Amed,Time to be defined
+2025-03-30T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Yeni Çorumspor,Time to be defined
+2025-04-06T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Boluspor,Time to be defined
+2025-04-06T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,76 Iğdır Belediyespor,Time to be defined
+2025-04-06T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Genclerbirligi,Time to be defined
+2025-04-06T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Erokspor,Time to be defined
+2025-04-06T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Pendikspor,Time to be defined
+2025-04-06T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Keçiörengücü,Time to be defined
+2025-04-06T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Erzurum BB,Time to be defined
+2025-04-06T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Kocaelispor,Time to be defined
+2025-04-06T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Adanaspor,Time to be defined
+2025-04-06T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Yeni Malatyaspor,Time to be defined
+2025-04-09T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Şanlıurfaspor,Time to be defined
+2025-04-09T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Ümraniyespor,Time to be defined
+2025-04-09T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Ankaragucu,Time to be defined
+2025-04-09T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,İstanbulspor,Time to be defined
+2025-04-09T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Fatih Karagümrük,Time to be defined
+2025-04-09T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Bandırmaspor,Time to be defined
+2025-04-09T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Sakaryaspor,Time to be defined
+2025-04-09T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Kocaelispor,Time to be defined
+2025-04-09T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Amed,Time to be defined
+2025-04-09T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Yeni Çorumspor,Time to be defined
+2025-04-13T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Boluspor,Time to be defined
+2025-04-13T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,76 Iğdır Belediyespor,Time to be defined
+2025-04-13T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Genclerbirligi,Time to be defined
+2025-04-13T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Erokspor,Time to be defined
+2025-04-13T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Pendikspor,Time to be defined
+2025-04-13T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Keçiörengücü,Time to be defined
+2025-04-13T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Erzurum BB,Time to be defined
+2025-04-13T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Manisa BBSK,Time to be defined
+2025-04-13T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Amed,Time to be defined
+2025-04-13T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Yeni Malatyaspor,Time to be defined
+2025-04-20T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Şanlıurfaspor,Time to be defined
+2025-04-20T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Ümraniyespor,Time to be defined
+2025-04-20T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Ankaragucu,Time to be defined
+2025-04-20T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,İstanbulspor,Time to be defined
+2025-04-20T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Fatih Karagümrük,Time to be defined
+2025-04-20T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Bandırmaspor,Time to be defined
+2025-04-20T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Sakaryaspor,Time to be defined
+2025-04-20T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,Kocaelispor,Time to be defined
+2025-04-20T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Adanaspor,Time to be defined
+2025-04-20T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Yeni Çorumspor,Time to be defined
+2025-04-27T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Boluspor,Time to be defined
+2025-04-27T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,76 Iğdır Belediyespor,Time to be defined
+2025-04-27T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Genclerbirligi,Time to be defined
+2025-04-27T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Erokspor,Time to be defined
+2025-04-27T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Pendikspor,Time to be defined
+2025-04-27T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,Keçiörengücü,Time to be defined
+2025-04-27T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Erzurum BB,Time to be defined
+2025-04-27T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Manisa BBSK,Time to be defined
+2025-04-27T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Amed,Time to be defined
+2025-04-27T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Yeni Çorumspor,Time to be defined
+2025-05-04T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Çorumspor,,,Şanlıurfaspor,Time to be defined
+2025-05-04T00:00:00+00:00,2024,1. Lig,Turkey,Erzurum BB,,,Ümraniyespor,Time to be defined
+2025-05-04T00:00:00+00:00,2024,1. Lig,Turkey,Keçiörengücü,,,Ankaragucu,Time to be defined
+2025-05-04T00:00:00+00:00,2024,1. Lig,Turkey,Erokspor,,,İstanbulspor,Time to be defined
+2025-05-04T00:00:00+00:00,2024,1. Lig,Turkey,Pendikspor,,,Fatih Karagümrük,Time to be defined
+2025-05-04T00:00:00+00:00,2024,1. Lig,Turkey,Manisa BBSK,,,Bandırmaspor,Time to be defined
+2025-05-04T00:00:00+00:00,2024,1. Lig,Turkey,Genclerbirligi,,,Sakaryaspor,Time to be defined
+2025-05-04T00:00:00+00:00,2024,1. Lig,Turkey,76 Iğdır Belediyespor,,,Kocaelispor,Time to be defined
+2025-05-04T00:00:00+00:00,2024,1. Lig,Turkey,Amed,,,Adanaspor,Time to be defined
+2025-05-04T00:00:00+00:00,2024,1. Lig,Turkey,Boluspor,,,Yeni Malatyaspor,Time to be defined
+2025-05-10T00:00:00+00:00,2024,1. Lig,Turkey,Adanaspor,,,Boluspor,Time to be defined
+2025-05-10T00:00:00+00:00,2024,1. Lig,Turkey,Fatih Karagümrük,,,76 Iğdır Belediyespor,Time to be defined
+2025-05-10T00:00:00+00:00,2024,1. Lig,Turkey,Yeni Malatyaspor,,,Genclerbirligi,Time to be defined
+2025-05-10T00:00:00+00:00,2024,1. Lig,Turkey,Sakaryaspor,,,Erokspor,Time to be defined
+2025-05-10T00:00:00+00:00,2024,1. Lig,Turkey,Bandırmaspor,,,Pendikspor,Time to be defined
+2025-05-10T00:00:00+00:00,2024,1. Lig,Turkey,Kocaelispor,,,Keçiörengücü,Time to be defined
+2025-05-10T00:00:00+00:00,2024,1. Lig,Turkey,Şanlıurfaspor,,,Erzurum BB,Time to be defined
+2025-05-10T00:00:00+00:00,2024,1. Lig,Turkey,Ümraniyespor,,,Manisa BBSK,Time to be defined
+2025-05-10T00:00:00+00:00,2024,1. Lig,Turkey,Ankaragucu,,,Amed,Time to be defined
+2025-05-10T00:00:00+00:00,2024,1. Lig,Turkey,İstanbulspor,,,Yeni Çorumspor,Time to be defined

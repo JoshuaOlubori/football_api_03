@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-10T14:30:00+00:00,2024,Segunda Liga,Portugal,Leixoes,2,1,Benfica B,Match Finished
+2024-08-11T10:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,4,3,Oliveirense,Match Finished
+2024-08-10T17:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,2,1,Chaves,Match Finished
+2024-08-11T17:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,1,1,Alverca,Match Finished
+2024-08-11T13:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,0,1,Feirense,Match Finished
+2024-08-10T13:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,0,1,Pacos Ferreira,Match Finished
+2024-08-11T19:30:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,0,2,Vizela,Match Finished
+2024-08-12T17:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,0,0,Portimonense,Match Finished
+2024-08-10T10:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,2,2,Tondela,Match Finished
+2024-08-19T17:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,FC Porto B,Not Started
+2024-08-18T10:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Maritimo,Not Started
+2024-08-17T19:30:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,União de Leiria,Not Started
+2024-08-18T14:30:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Penafiel,Not Started
+2024-08-18T17:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Leixoes,Not Started
+2024-08-17T10:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Felgueiras 1932,Not Started
+2024-08-17T13:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Mafra,Not Started
+2024-08-18T17:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Torreense,Not Started
+2024-08-18T13:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Academico Viseu,Not Started
+2024-08-24T10:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,Feirense,Not Started
+2024-08-25T14:30:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,Chaves,Not Started
+2024-08-23T17:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Alverca,Not Started
+2024-08-24T13:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,Oliveirense,Not Started
+2024-08-25T17:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,Portimonense,Not Started
+2024-08-25T17:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Vizela,Not Started
+2024-08-25T13:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,Tondela,Not Started
+2024-08-25T10:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,FC Porto B,Not Started
+2024-08-24T14:30:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,Pacos Ferreira,Not Started
+2024-09-01T10:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Maritimo,Not Started
+2024-08-31T14:30:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Torreense,Not Started
+2024-09-01T13:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Benfica B,Not Started
+2024-09-01T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,União de Leiria,Time to be defined
+2024-08-31T10:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Leixoes,Not Started
+2024-09-01T14:30:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Penafiel,Not Started
+2024-08-30T17:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Academico Viseu,Not Started
+2024-09-01T17:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Mafra,Not Started
+2024-08-31T13:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Felgueiras 1932,Not Started
+2024-09-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,Alverca,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,Chaves,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,Portimonense,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Oliveirense,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Pacos Ferreira,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,Vizela,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,Tondela,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,União de Leiria,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,FC Porto B,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Mafra,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Felgueiras 1932,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Penafiel,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Benfica B,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Feirense,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Academico Viseu,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Torreense,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Leixoes,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Maritimo,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,Academico Viseu,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,Alverca,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,Tondela,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,União de Leiria,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Pacos Ferreira,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Chaves,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,Portimonense,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Vizela,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,FC Porto B,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Felgueiras 1932,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Leixoes,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Benfica B,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Oliveirense,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Mafra,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Feirense,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Penafiel,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,Maritimo,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Torreense,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,Alverca,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Chaves,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,União de Leiria,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,Academico Viseu,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,Maritimo,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Tondela,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Vizela,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Portimonense,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,FC Porto B,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,Penafiel,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Vizela,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Leixoes,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Oliveirense,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Pacos Ferreira,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Torreense,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Feirense,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,Benfica B,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,Mafra,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Alverca,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,Felgueiras 1932,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Chaves,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,União de Leiria,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,Academico Viseu,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Portimonense,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,FC Porto B,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Tondela,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,Maritimo,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Pacos Ferreira,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Chaves,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,Benfica B,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Oliveirense,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,Mafra,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Feirense,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Vizela,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,Leixoes,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,Torreense,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,Academico Viseu,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Alverca,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Tondela,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,Felgueiras 1932,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,União de Leiria,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,FC Porto B,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,Maritimo,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Penafiel,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Portimonense,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Feirense,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,Leixoes,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Portimonense,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,Benfica B,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Pacos Ferreira,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,Torreense,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Chaves,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,Oliveirense,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,Vizela,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Alverca,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,Penafiel,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,FC Porto B,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,União de Leiria,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Academico Viseu,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Felgueiras 1932,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Tondela,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Maritimo,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,Mafra,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,Oliveirense,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,Feirense,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Chaves,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,Benfica B,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,Torreense,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Portimonense,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Tondela,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,Vizela,Time to be defined
+2024-12-29T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,Pacos Ferreira,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,Mafra,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Felgueiras 1932,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Maritimo,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Alverca,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,União de Leiria,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Academico Viseu,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Penafiel,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Leixoes,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,FC Porto B,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Torreense,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Leixoes,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Penafiel,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,FC Porto B,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,União de Leiria,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Academico Viseu,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Felgueiras 1932,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Mafra,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Maritimo,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Tondela,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,Pacos Ferreira,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Portimonense,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,Vizela,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,Oliveirense,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,Alverca,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,Benfica B,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,Chaves,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,Feirense,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Felgueiras 1932,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Maritimo,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Torreense,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,União de Leiria,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Benfica B,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Academico Viseu,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Penafiel,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Mafra,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Leixoes,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,Portimonense,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,Vizela,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Feirense,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,Oliveirense,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,FC Porto B,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,Pacos Ferreira,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,Alverca,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,Chaves,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,Tondela,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Maritimo,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Felgueiras 1932,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Torreense,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Benfica B,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Leixoes,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Academico Viseu,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Mafra,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Feirense,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Penafiel,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,Vizela,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,FC Porto B,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,Portimonense,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Oliveirense,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Pacos Ferreira,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,Tondela,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,Chaves,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,Alverca,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,União de Leiria,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,Felgueiras 1932,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Mafra,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Torreense,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Oliveirense,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Penafiel,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Benfica B,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Leixoes,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Feirense,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Maritimo,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,União de Leiria,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,Tondela,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Portimonense,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Vizela,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,FC Porto B,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Chaves,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,Alverca,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,Academico Viseu,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,Pacos Ferreira,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Torreense,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,Penafiel,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Oliveirense,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Mafra,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Pacos Ferreira,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Benfica B,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,Felgueiras 1932,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Feirense,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Leixoes,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Portimonense,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,União de Leiria,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Tondela,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,Maritimo,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Chaves,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Academico Viseu,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,Felgueiras 1932,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Alverca,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,FC Porto B,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,Penafiel,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Vizela,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Torreense,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Benfica B,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,Mafra,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Feirense,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,Leixoes,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Pacos Ferreira,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Oliveirense,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Portimonense,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Maritimo,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,FC Porto B,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Tondela,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,Penafiel,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,Academico Viseu,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,Felgueiras 1932,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Alverca,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,União de Leiria,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,Torreense,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Vizela,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,Leixoes,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Benfica B,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Oliveirense,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Chaves,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,Mafra,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,Feirense,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Pacos Ferreira,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,Penafiel,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,Tondela,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Mafra,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,FC Porto B,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,União de Leiria,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Academico Viseu,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Felgueiras 1932,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,Alverca,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,Maritimo,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Pacos Ferreira,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Vizela,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Oliveirense,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,Portimonense,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,Torreense,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,Benfica B,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Chaves,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,Feirense,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,Leixoes,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda Liga,Portugal,Oliveirense,,,Maritimo,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda Liga,Portugal,Chaves,,,União de Leiria,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda Liga,Portugal,Benfica B,,,Penafiel,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda Liga,Portugal,Torreense,,,Leixoes,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda Liga,Portugal,Feirense,,,Mafra,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda Liga,Portugal,Portimonense,,,FC Porto B,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda Liga,Portugal,Tondela,,,Alverca,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda Liga,Portugal,Vizela,,,Academico Viseu,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda Liga,Portugal,Pacos Ferreira,,,Felgueiras 1932,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Segunda Liga,Portugal,Mafra,,,Torreense,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Segunda Liga,Portugal,Felgueiras 1932,,,Oliveirense,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Segunda Liga,Portugal,Maritimo,,,Vizela,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Segunda Liga,Portugal,Alverca,,,Portimonense,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Segunda Liga,Portugal,União de Leiria,,,Tondela,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Segunda Liga,Portugal,Academico Viseu,,,Pacos Ferreira,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Segunda Liga,Portugal,Penafiel,,,Chaves,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Segunda Liga,Portugal,Leixoes,,,Feirense,Time to be defined
+2025-05-17T00:00:00+00:00,2024,Segunda Liga,Portugal,FC Porto B,,,Benfica B,Time to be defined

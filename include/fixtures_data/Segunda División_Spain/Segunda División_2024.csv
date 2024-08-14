@@ -1,0 +1,463 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-18T17:30:00+00:00,2024,Segunda División,Spain,Burgos,,,FC Cartagena,Not Started
+2024-08-16T19:30:00+00:00,2024,Segunda División,Spain,Cadiz,,,Zaragoza,Not Started
+2024-08-17T17:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Oviedo,Not Started
+2024-08-18T17:30:00+00:00,2024,Segunda División,Spain,Elche,,,Huesca,Not Started
+2024-08-19T18:30:00+00:00,2024,Segunda División,Spain,Eldense,,,Tenerife,Not Started
+2024-08-17T15:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Malaga,Not Started
+2024-08-15T18:30:00+00:00,2024,Segunda División,Spain,Granada CF,,,Albacete,Not Started
+2024-08-18T15:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Almeria,Not Started
+2024-08-17T15:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Castellón,Not Started
+2024-08-16T17:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Cordoba,Not Started
+2024-08-18T15:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Levante,Not Started
+2024-08-25T17:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Elche,Not Started
+2024-08-26T17:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Zaragoza,Not Started
+2024-08-25T19:30:00+00:00,2024,Segunda División,Spain,Castellón,,,Oviedo,Not Started
+2024-08-24T15:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Granada CF,Not Started
+2024-08-24T19:30:00+00:00,2024,Segunda División,Spain,Malaga,,,Mirandes,Not Started
+2024-08-24T19:30:00+00:00,2024,Segunda División,Spain,Tenerife,,,Almeria,Not Started
+2024-08-26T19:30:00+00:00,2024,Segunda División,Spain,Cordoba,,,Burgos,Not Started
+2024-08-24T17:00:00+00:00,2024,Segunda División,Spain,Levante,,,Cadiz,Not Started
+2024-08-23T19:30:00+00:00,2024,Segunda División,Spain,Huesca,,,Deportivo La Coruna,Not Started
+2024-08-23T17:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Eibar,Not Started
+2024-08-24T15:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Eldense,Not Started
+2024-08-31T19:30:00+00:00,2024,Segunda División,Spain,Almeria,,,Sporting Gijon,Not Started
+2024-09-01T15:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Castellón,Not Started
+2024-08-31T17:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Tenerife,Not Started
+2024-09-01T15:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Racing Ferrol,Not Started
+2024-09-02T17:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Levante,Not Started
+2024-08-30T17:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Huesca,Not Started
+2024-09-01T17:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Zaragoza,Not Started
+2024-08-30T19:30:00+00:00,2024,Segunda División,Spain,Oviedo,,,Racing Santander,Not Started
+2024-08-31T19:30:00+00:00,2024,Segunda División,Spain,Malaga,,,Albacete,Not Started
+2024-09-01T17:00:00+00:00,2024,Segunda División,Spain,Eldense,,,FC Cartagena,Not Started
+2024-09-02T19:30:00+00:00,2024,Segunda División,Spain,Elche,,,Cordoba,Not Started
+2024-09-09T19:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Eibar,Not Started
+2024-09-08T14:15:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Levante,Not Started
+2024-09-08T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Malaga,Time to be defined
+2024-09-08T12:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Mirandes,Not Started
+2024-09-08T16:30:00+00:00,2024,Segunda División,Spain,Eldense,,,Almeria,Not Started
+2024-09-08T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Burgos,Time to be defined
+2024-09-09T19:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Cadiz,Not Started
+2024-09-08T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Deportivo La Coruna,Time to be defined
+2024-09-08T16:30:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Elche,Not Started
+2024-09-08T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Oviedo,Time to be defined
+2024-09-06T19:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Racing Santander,Not Started
+2024-09-15T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Castellón,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Zaragoza,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Racing Ferrol,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Deportivo La Coruna,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Tenerife,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Granada CF,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Sporting Gijon,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Albacete,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,FC Cartagena,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Eldense,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Huesca,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Eibar,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Racing Santander,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Mirandes,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Oviedo,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Malaga,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Albacete,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Burgos,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Cadiz,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Cordoba,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Levante,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Sporting Gijon,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Deportivo La Coruna,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Granada CF,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Eldense,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Tenerife,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Racing Ferrol,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Zaragoza,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Almeria,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,FC Cartagena,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Eibar,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Elche,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Huesca,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Cordoba,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Burgos,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Malaga,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Sporting Gijon,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Oviedo,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Cadiz,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,FC Cartagena,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Castellón,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Elche,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Granada CF,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Racing Santander,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Mirandes,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Malaga,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Racing Ferrol,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Eldense,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Zaragoza,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Albacete,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Almeria,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Castellón,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Cordoba,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Deportivo La Coruna,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Levante,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Burgos,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Racing Santander,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Levante,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Eldense,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Sporting Gijon,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Huesca,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Tenerife,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Oviedo,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Almeria,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,FC Cartagena,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Eibar,Time to be defined
+2024-10-23T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Racing Ferrol,Time to be defined
+2024-10-23T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Elche,Time to be defined
+2024-10-23T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Granada CF,Time to be defined
+2024-10-23T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Zaragoza,Time to be defined
+2024-10-23T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Albacete,Time to be defined
+2024-10-23T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Cadiz,Time to be defined
+2024-10-23T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Cordoba,Time to be defined
+2024-10-23T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Deportivo La Coruna,Time to be defined
+2024-10-23T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Huesca,Time to be defined
+2024-10-23T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Malaga,Time to be defined
+2024-10-23T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Mirandes,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Sporting Gijon,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Oviedo,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Eldense,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Racing Santander,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Tenerife,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Levante,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Almeria,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Burgos,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,FC Cartagena,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Castellón,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Eibar,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Cordoba,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Deportivo La Coruna,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Racing Ferrol,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Elche,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Huesca,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Malaga,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Albacete,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Burgos,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Cadiz,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Granada CF,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Mirandes,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Oviedo,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Sporting Gijon,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Eibar,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Racing Santander,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Zaragoza,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Almeria,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Cadiz,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,FC Cartagena,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Castellón,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Eldense,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Levante,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Deportivo La Coruna,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Cordoba,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Huesca,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Mirandes,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Racing Ferrol,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Tenerife,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Albacete,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Burgos,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Elche,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Granada CF,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Malaga,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Tenerife,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Eibar,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Zaragoza,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Sporting Gijon,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Oviedo,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Levante,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Racing Santander,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Almeria,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Cadiz,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Castellón,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Eldense,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Granada CF,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Deportivo La Coruna,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Malaga,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Racing Ferrol,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Albacete,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Burgos,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,FC Cartagena,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Cordoba,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Elche,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Huesca,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Mirandes,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Castellón,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Eldense,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Sporting Gijon,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Tenerife,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Zaragoza,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Oviedo,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Racing Santander,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Almeria,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Cadiz,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Eibar,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Levante,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Mirandes,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Malaga,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Zaragoza,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Albacete,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,FC Cartagena,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Cordoba,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Deportivo La Coruna,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Elche,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Racing Ferrol,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Granada CF,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Huesca,Time to be defined
+2024-12-18T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Levante,Time to be defined
+2024-12-18T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Eibar,Time to be defined
+2024-12-18T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Racing Santander,Time to be defined
+2024-12-18T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Tenerife,Time to be defined
+2024-12-18T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Sporting Gijon,Time to be defined
+2024-12-18T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Almeria,Time to be defined
+2024-12-18T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Burgos,Time to be defined
+2024-12-18T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,FC Cartagena,Time to be defined
+2024-12-18T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Castellón,Time to be defined
+2024-12-18T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Eldense,Time to be defined
+2024-12-18T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Oviedo,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Cadiz,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Tenerife,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Elche,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Mirandes,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Granada CF,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Albacete,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Cordoba,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Eldense,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Racing Ferrol,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Huesca,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Malaga,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Racing Santander,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Levante,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Zaragoza,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Mirandes,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Sporting Gijon,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Almeria,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Burgos,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,FC Cartagena,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Castellón,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Deportivo La Coruna,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Eibar,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Huesca,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Deportivo La Coruna,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Oviedo,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Cordoba,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Albacete,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Cadiz,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Elche,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Racing Ferrol,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Granada CF,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Malaga,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Tenerife,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Almeria,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Mirandes,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Racing Santander,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Levante,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Sporting Gijon,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Zaragoza,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Burgos,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,FC Cartagena,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Castellón,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Eibar,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Eldense,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Oviedo,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Cordoba,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Huesca,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Granada CF,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Albacete,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Burgos,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Cadiz,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Deportivo La Coruna,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Elche,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Racing Ferrol,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Malaga,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Zaragoza,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Racing Santander,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,FC Cartagena,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Huesca,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Tenerife,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Mirandes,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Almeria,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Castellón,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Eibar,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Eldense,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Levante,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Elche,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Malaga,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Eibar,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Sporting Gijon,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Albacete,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Burgos,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Cadiz,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Cordoba,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Deportivo La Coruna,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Racing Ferrol,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Granada CF,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Eldense,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Oviedo,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Castellón,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Huesca,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Racing Santander,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Zaragoza,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Mirandes,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Tenerife,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Almeria,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,FC Cartagena,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Cordoba,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Cadiz,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Malaga,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Eibar,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Granada CF,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Levante,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Tenerife,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Burgos,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Deportivo La Coruna,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Elche,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Racing Ferrol,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Sporting Gijon,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Oviedo,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Albacete,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Almeria,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Cadiz,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,FC Cartagena,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Castellón,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Cordoba,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Eldense,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Racing Ferrol,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Huesca,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Racing Santander,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Malaga,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Zaragoza,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Granada CF,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Deportivo La Coruna,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Sporting Gijon,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Mirandes,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Levante,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Tenerife,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Burgos,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Eibar,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Elche,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Huesca,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Eldense,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Oviedo,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Racing Santander,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Albacete,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Almeria,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Cadiz,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,FC Cartagena,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Castellón,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Cordoba,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Racing Ferrol,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Mirandes,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Levante,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Eibar,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Castellón,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Elche,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Sporting Gijon,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Zaragoza,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Burgos,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Deportivo La Coruna,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Granada CF,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Malaga,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Huesca,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Eldense,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Oviedo,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Racing Ferrol,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Racing Santander,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Tenerife,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Albacete,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Almeria,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Cadiz,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Cordoba,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Mirandes,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Granada CF,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,FC Cartagena,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Elche,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Levante,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Sporting Gijon,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Malaga,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Burgos,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Castellón,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Deportivo La Coruna,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Eibar,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Racing Ferrol,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Cadiz,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Granada CF,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Oviedo,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Tenerife,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Malaga,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Racing Santander,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Zaragoza,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Albacete,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Almeria,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Eldense,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Mirandes,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,FC Cartagena,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Racing Ferrol,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Sporting Gijon,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Burgos,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Castellón,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Cordoba,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Deportivo La Coruna,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Eibar,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Elche,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Huesca,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Levante,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Eldense,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Elche,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Racing Santander,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Sporting Gijon,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Mirandes,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Zaragoza,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Oviedo,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Tenerife,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Albacete,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Cadiz,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Granada CF,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Huesca,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Cordoba,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Levante,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Malaga,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Almeria,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,FC Cartagena,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Castellón,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,Deportivo La Coruna,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Eibar,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Racing Ferrol,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Oviedo,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Racing Santander,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Tenerife,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Eldense,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Mirandes,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Granada CF,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Sporting Gijon,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Zaragoza,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Albacete,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Burgos,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Cadiz,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Elche,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Segunda División,Spain,Albacete,,,Racing Ferrol,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Segunda División,Spain,Burgos,,,Levante,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Segunda División,Spain,Cadiz,,,Huesca,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Segunda División,Spain,Elche,,,Malaga,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Segunda División,Spain,Eldense,,,Racing Santander,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Segunda División,Spain,Mirandes,,,Almeria,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Segunda División,Spain,Sporting Gijon,,,FC Cartagena,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Segunda División,Spain,Granada CF,,,Castellón,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Segunda División,Spain,Eibar,,,Cordoba,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Segunda División,Spain,Zaragoza,,,Deportivo La Coruna,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Segunda División,Spain,Tenerife,,,Oviedo,Time to be defined
+2025-06-01T00:00:00+00:00,2024,Segunda División,Spain,Almeria,,,Tenerife,Time to be defined
+2025-06-01T00:00:00+00:00,2024,Segunda División,Spain,FC Cartagena,,,Mirandes,Time to be defined
+2025-06-01T00:00:00+00:00,2024,Segunda División,Spain,Castellón,,,Zaragoza,Time to be defined
+2025-06-01T00:00:00+00:00,2024,Segunda División,Spain,Deportivo La Coruna,,,Elche,Time to be defined
+2025-06-01T00:00:00+00:00,2024,Segunda División,Spain,Racing Ferrol,,,Sporting Gijon,Time to be defined
+2025-06-01T00:00:00+00:00,2024,Segunda División,Spain,Cordoba,,,Albacete,Time to be defined
+2025-06-01T00:00:00+00:00,2024,Segunda División,Spain,Malaga,,,Burgos,Time to be defined
+2025-06-01T00:00:00+00:00,2024,Segunda División,Spain,Oviedo,,,Cadiz,Time to be defined
+2025-06-01T00:00:00+00:00,2024,Segunda División,Spain,Levante,,,Eibar,Time to be defined
+2025-06-01T00:00:00+00:00,2024,Segunda División,Spain,Huesca,,,Eldense,Time to be defined
+2025-06-01T00:00:00+00:00,2024,Segunda División,Spain,Racing Santander,,,Granada CF,Time to be defined

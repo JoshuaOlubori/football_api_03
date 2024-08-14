@@ -1,0 +1,553 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-09T19:00:00+00:00,2024,League Two,England,Chesterfield,1,1,Swindon Town,Match Finished
+2024-08-10T14:00:00+00:00,2024,League Two,England,AFC Wimbledon,4,2,Colchester,Match Finished
+2024-08-10T14:00:00+00:00,2024,League Two,England,Barrow,1,0,Crewe,Match Finished
+2024-08-10T14:00:00+00:00,2024,League Two,England,Cheltenham,3,2,Newport County,Match Finished
+2024-08-10T14:00:00+00:00,2024,League Two,England,Doncaster,4,1,Accrington ST,Match Finished
+2024-08-10T14:00:00+00:00,2024,League Two,England,Fleetwood Town,1,0,Grimsby,Match Finished
+2024-08-10T14:00:00+00:00,2024,League Two,England,Gillingham,4,1,Carlisle,Match Finished
+2024-08-10T14:00:00+00:00,2024,League Two,England,Harrogate Town,0,2,Bromley,Match Finished
+2024-08-10T14:00:00+00:00,2024,League Two,England,Milton Keynes Dons,1,2,Bradford,Match Finished
+2024-08-10T14:00:00+00:00,2024,League Two,England,Salford City,0,2,Port Vale,Match Finished
+2024-08-10T14:00:00+00:00,2024,League Two,England,Tranmere,0,0,Notts County,Match Finished
+2024-08-10T14:00:00+00:00,2024,League Two,England,Walsall,1,0,Morecambe,Match Finished
+2024-08-17T14:00:00+00:00,2024,League Two,England,Accrington ST,,,Harrogate Town,Not Started
+2024-08-17T14:00:00+00:00,2024,League Two,England,Bradford,,,Salford City,Not Started
+2024-08-17T11:30:00+00:00,2024,League Two,England,Bromley,,,AFC Wimbledon,Not Started
+2024-08-17T11:30:00+00:00,2024,League Two,England,Carlisle,,,Barrow,Not Started
+2024-08-17T14:00:00+00:00,2024,League Two,England,Colchester,,,Milton Keynes Dons,Not Started
+2024-08-17T14:00:00+00:00,2024,League Two,England,Crewe,,,Chesterfield,Not Started
+2024-08-17T14:00:00+00:00,2024,League Two,England,Grimsby,,,Cheltenham,Not Started
+2024-08-17T14:00:00+00:00,2024,League Two,England,Morecambe,,,Gillingham,Not Started
+2024-08-17T14:00:00+00:00,2024,League Two,England,Newport County,,,Doncaster,Not Started
+2024-08-18T12:00:00+00:00,2024,League Two,England,Notts County,,,Fleetwood Town,Not Started
+2024-08-17T14:00:00+00:00,2024,League Two,England,Port Vale,,,Tranmere,Not Started
+2024-08-17T14:00:00+00:00,2024,League Two,England,Swindon Town,,,Walsall,Not Started
+2024-08-24T14:00:00+00:00,2024,League Two,England,Barrow,,,Port Vale,Not Started
+2024-08-24T14:00:00+00:00,2024,League Two,England,Bradford,,,Bromley,Not Started
+2024-08-24T14:00:00+00:00,2024,League Two,England,Cheltenham,,,AFC Wimbledon,Not Started
+2024-08-24T14:00:00+00:00,2024,League Two,England,Chesterfield,,,Salford City,Not Started
+2024-08-24T14:00:00+00:00,2024,League Two,England,Colchester,,,Harrogate Town,Not Started
+2024-08-24T11:30:00+00:00,2024,League Two,England,Crewe,,,Swindon Town,Not Started
+2024-08-24T14:00:00+00:00,2024,League Two,England,Doncaster,,,Morecambe,Not Started
+2024-08-24T14:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Gillingham,Not Started
+2024-08-24T14:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Carlisle,Not Started
+2024-08-24T14:00:00+00:00,2024,League Two,England,Newport County,,,Accrington ST,Not Started
+2024-08-22T19:00:00+00:00,2024,League Two,England,Notts County,,,Grimsby,Not Started
+2024-08-24T11:30:00+00:00,2024,League Two,England,Tranmere,,,Walsall,Not Started
+2024-08-31T14:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Fleetwood Town,Not Started
+2024-08-31T14:00:00+00:00,2024,League Two,England,Accrington ST,,,Colchester,Not Started
+2024-08-31T14:00:00+00:00,2024,League Two,England,Bromley,,,Crewe,Not Started
+2024-08-31T14:00:00+00:00,2024,League Two,England,Carlisle,,,Tranmere,Not Started
+2024-08-31T11:30:00+00:00,2024,League Two,England,Gillingham,,,Chesterfield,Not Started
+2024-08-31T14:00:00+00:00,2024,League Two,England,Grimsby,,,Bradford,Not Started
+2024-08-31T14:00:00+00:00,2024,League Two,England,Harrogate Town,,,Barrow,Not Started
+2024-08-31T14:00:00+00:00,2024,League Two,England,Morecambe,,,Newport County,Not Started
+2024-08-31T11:30:00+00:00,2024,League Two,England,Port Vale,,,Doncaster,Not Started
+2024-09-02T19:00:00+00:00,2024,League Two,England,Salford City,,,Milton Keynes Dons,Not Started
+2024-08-31T14:00:00+00:00,2024,League Two,England,Swindon Town,,,Notts County,Not Started
+2024-08-31T14:00:00+00:00,2024,League Two,England,Walsall,,,Cheltenham,Not Started
+2024-09-07T14:00:00+00:00,2024,League Two,England,Barrow,,,Swindon Town,Not Started
+2024-09-07T14:00:00+00:00,2024,League Two,England,Bradford,,,Carlisle,Not Started
+2024-09-07T14:00:00+00:00,2024,League Two,England,Cheltenham,,,Harrogate Town,Not Started
+2024-09-07T14:00:00+00:00,2024,League Two,England,Chesterfield,,,Grimsby,Not Started
+2024-09-07T14:00:00+00:00,2024,League Two,England,Colchester,,,Bromley,Not Started
+2024-09-07T14:00:00+00:00,2024,League Two,England,Crewe,,,Morecambe,Not Started
+2024-09-07T14:00:00+00:00,2024,League Two,England,Doncaster,,,Gillingham,Not Started
+2024-09-07T14:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Salford City,Not Started
+2024-09-07T14:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Walsall,Not Started
+2024-09-07T14:00:00+00:00,2024,League Two,England,Newport County,,,Port Vale,Not Started
+2024-09-07T14:00:00+00:00,2024,League Two,England,Notts County,,,Accrington ST,Not Started
+2024-09-07T14:00:00+00:00,2024,League Two,England,Tranmere,,,AFC Wimbledon,Not Started
+2024-09-14T11:30:00+00:00,2024,League Two,England,AFC Wimbledon,,,Milton Keynes Dons,Not Started
+2024-09-14T14:00:00+00:00,2024,League Two,England,Accrington ST,,,Crewe,Not Started
+2024-09-14T14:00:00+00:00,2024,League Two,England,Bromley,,,Notts County,Not Started
+2024-09-14T14:00:00+00:00,2024,League Two,England,Carlisle,,,Fleetwood Town,Not Started
+2024-09-14T14:00:00+00:00,2024,League Two,England,Gillingham,,,Tranmere,Not Started
+2024-09-14T14:00:00+00:00,2024,League Two,England,Grimsby,,,Barrow,Not Started
+2024-09-12T19:00:00+00:00,2024,League Two,England,Harrogate Town,,,Doncaster,Not Started
+2024-09-14T14:00:00+00:00,2024,League Two,England,Morecambe,,,Colchester,Not Started
+2024-09-14T14:00:00+00:00,2024,League Two,England,Port Vale,,,Chesterfield,Not Started
+2024-09-14T14:00:00+00:00,2024,League Two,England,Salford City,,,Cheltenham,Not Started
+2024-09-14T11:30:00+00:00,2024,League Two,England,Swindon Town,,,Newport County,Not Started
+2024-09-14T14:00:00+00:00,2024,League Two,England,Walsall,,,Bradford,Not Started
+2024-09-21T11:30:00+00:00,2024,League Two,England,Accrington ST,,,Port Vale,Not Started
+2024-09-21T14:00:00+00:00,2024,League Two,England,Barrow,,,Newport County,Not Started
+2024-09-21T14:00:00+00:00,2024,League Two,England,Bradford,,,AFC Wimbledon,Not Started
+2024-09-21T11:30:00+00:00,2024,League Two,England,Chesterfield,,,Cheltenham,Not Started
+2024-09-21T14:00:00+00:00,2024,League Two,England,Colchester,,,Tranmere,Not Started
+2024-09-21T14:00:00+00:00,2024,League Two,England,Crewe,,,Harrogate Town,Not Started
+2024-09-23T19:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Morecambe,Not Started
+2024-09-21T14:00:00+00:00,2024,League Two,England,Grimsby,,,Bromley,Not Started
+2024-09-21T14:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Doncaster,Not Started
+2024-09-21T14:00:00+00:00,2024,League Two,England,Notts County,,,Gillingham,Not Started
+2024-09-21T14:00:00+00:00,2024,League Two,England,Salford City,,,Walsall,Not Started
+2024-09-21T14:00:00+00:00,2024,League Two,England,Swindon Town,,,Carlisle,Not Started
+2024-09-28T14:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Accrington ST,Not Started
+2024-09-28T14:00:00+00:00,2024,League Two,England,Bromley,,,Milton Keynes Dons,Not Started
+2024-09-28T14:00:00+00:00,2024,League Two,England,Carlisle,,,Grimsby,Not Started
+2024-09-28T14:00:00+00:00,2024,League Two,England,Cheltenham,,,Fleetwood Town,Not Started
+2024-09-28T14:00:00+00:00,2024,League Two,England,Doncaster,,,Chesterfield,Not Started
+2024-09-28T14:00:00+00:00,2024,League Two,England,Gillingham,,,Barrow,Not Started
+2024-09-28T11:30:00+00:00,2024,League Two,England,Harrogate Town,,,Bradford,Not Started
+2024-09-28T14:00:00+00:00,2024,League Two,England,Morecambe,,,Notts County,Not Started
+2024-09-28T14:00:00+00:00,2024,League Two,England,Newport County,,,Crewe,Not Started
+2024-09-28T14:00:00+00:00,2024,League Two,England,Port Vale,,,Swindon Town,Not Started
+2024-09-27T18:45:00+00:00,2024,League Two,England,Tranmere,,,Salford City,Not Started
+2024-09-28T11:30:00+00:00,2024,League Two,England,Walsall,,,Colchester,Not Started
+2024-10-01T18:45:00+00:00,2024,League Two,England,AFC Wimbledon,,,Crewe,Not Started
+2024-10-01T18:45:00+00:00,2024,League Two,England,Bromley,,,Chesterfield,Not Started
+2024-10-01T18:45:00+00:00,2024,League Two,England,Carlisle,,,Notts County,Not Started
+2024-10-01T18:45:00+00:00,2024,League Two,England,Cheltenham,,,Accrington ST,Not Started
+2024-10-01T18:45:00+00:00,2024,League Two,England,Doncaster,,,Barrow,Not Started
+2024-10-01T18:45:00+00:00,2024,League Two,England,Gillingham,,,Grimsby,Not Started
+2024-10-01T18:45:00+00:00,2024,League Two,England,Harrogate Town,,,Milton Keynes Dons,Not Started
+2024-10-01T18:45:00+00:00,2024,League Two,England,Morecambe,,,Bradford,Not Started
+2024-10-01T18:45:00+00:00,2024,League Two,England,Newport County,,,Salford City,Not Started
+2024-10-01T18:45:00+00:00,2024,League Two,England,Port Vale,,,Colchester,Not Started
+2024-10-01T18:45:00+00:00,2024,League Two,England,Tranmere,,,Swindon Town,Not Started
+2024-10-01T18:45:00+00:00,2024,League Two,England,Walsall,,,Fleetwood Town,Not Started
+2024-10-05T14:00:00+00:00,2024,League Two,England,Accrington ST,,,Morecambe,Not Started
+2024-10-05T14:00:00+00:00,2024,League Two,England,Barrow,,,Cheltenham,Not Started
+2024-10-07T19:00:00+00:00,2024,League Two,England,Bradford,,,Newport County,Not Started
+2024-10-05T14:00:00+00:00,2024,League Two,England,Chesterfield,,,Walsall,Not Started
+2024-10-05T14:00:00+00:00,2024,League Two,England,Colchester,,,Carlisle,Not Started
+2024-10-05T14:00:00+00:00,2024,League Two,England,Crewe,,,Gillingham,Not Started
+2024-10-05T11:30:00+00:00,2024,League Two,England,Fleetwood Town,,,Bromley,Not Started
+2024-10-05T11:30:00+00:00,2024,League Two,England,Grimsby,,,Doncaster,Not Started
+2024-10-05T14:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Tranmere,Not Started
+2024-10-05T14:00:00+00:00,2024,League Two,England,Notts County,,,Port Vale,Not Started
+2024-10-05T14:00:00+00:00,2024,League Two,England,Salford City,,,AFC Wimbledon,Not Started
+2024-10-05T14:00:00+00:00,2024,League Two,England,Swindon Town,,,Harrogate Town,Not Started
+2024-10-12T14:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Carlisle,Not Started
+2024-10-12T14:00:00+00:00,2024,League Two,England,Barrow,,,Morecambe,Not Started
+2024-10-12T14:00:00+00:00,2024,League Two,England,Cheltenham,,,Swindon Town,Not Started
+2024-10-12T11:30:00+00:00,2024,League Two,England,Chesterfield,,,Notts County,Not Started
+2024-10-12T14:00:00+00:00,2024,League Two,England,Doncaster,,,Crewe,Not Started
+2024-10-12T14:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Colchester,Not Started
+2024-10-12T14:00:00+00:00,2024,League Two,England,Gillingham,,,Accrington ST,Not Started
+2024-10-12T14:00:00+00:00,2024,League Two,England,Harrogate Town,,,Newport County,Not Started
+2024-10-12T14:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Port Vale,Not Started
+2024-10-12T14:00:00+00:00,2024,League Two,England,Salford City,,,Grimsby,Not Started
+2024-10-12T14:00:00+00:00,2024,League Two,England,Tranmere,,,Bradford,Not Started
+2024-10-12T14:00:00+00:00,2024,League Two,England,Walsall,,,Bromley,Not Started
+2024-10-19T11:30:00+00:00,2024,League Two,England,Accrington ST,,,Barrow,Not Started
+2024-10-19T14:00:00+00:00,2024,League Two,England,Bradford,,,Gillingham,Not Started
+2024-10-19T14:00:00+00:00,2024,League Two,England,Bromley,,,Tranmere,Not Started
+2024-10-19T14:00:00+00:00,2024,League Two,England,Carlisle,,,Harrogate Town,Not Started
+2024-10-19T14:00:00+00:00,2024,League Two,England,Colchester,,,Cheltenham,Not Started
+2024-10-19T14:00:00+00:00,2024,League Two,England,Crewe,,,Salford City,Not Started
+2024-10-19T14:00:00+00:00,2024,League Two,England,Grimsby,,,Walsall,Not Started
+2024-10-19T14:00:00+00:00,2024,League Two,England,Morecambe,,,Milton Keynes Dons,Not Started
+2024-10-18T19:00:00+00:00,2024,League Two,England,Newport County,,,Chesterfield,Not Started
+2024-10-19T14:00:00+00:00,2024,League Two,England,Notts County,,,AFC Wimbledon,Not Started
+2024-10-19T14:00:00+00:00,2024,League Two,England,Port Vale,,,Fleetwood Town,Not Started
+2024-10-19T14:00:00+00:00,2024,League Two,England,Swindon Town,,,Doncaster,Not Started
+2024-10-22T18:45:00+00:00,2024,League Two,England,AFC Wimbledon,,,Morecambe,Not Started
+2024-10-22T18:45:00+00:00,2024,League Two,England,Barrow,,,Notts County,Not Started
+2024-10-22T18:45:00+00:00,2024,League Two,England,Cheltenham,,,Bradford,Not Started
+2024-10-22T18:45:00+00:00,2024,League Two,England,Chesterfield,,,Colchester,Not Started
+2024-10-22T18:45:00+00:00,2024,League Two,England,Doncaster,,,Bromley,Not Started
+2024-10-22T18:45:00+00:00,2024,League Two,England,Fleetwood Town,,,Crewe,Not Started
+2024-10-22T18:45:00+00:00,2024,League Two,England,Gillingham,,,Newport County,Not Started
+2024-10-22T18:45:00+00:00,2024,League Two,England,Harrogate Town,,,Port Vale,Not Started
+2024-10-22T18:45:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Accrington ST,Not Started
+2024-10-22T18:45:00+00:00,2024,League Two,England,Salford City,,,Swindon Town,Not Started
+2024-10-22T18:45:00+00:00,2024,League Two,England,Tranmere,,,Grimsby,Not Started
+2024-10-22T18:45:00+00:00,2024,League Two,England,Walsall,,,Carlisle,Not Started
+2024-10-26T14:00:00+00:00,2024,League Two,England,Accrington ST,,,Walsall,Not Started
+2024-10-26T14:00:00+00:00,2024,League Two,England,Bradford,,,Doncaster,Not Started
+2024-10-26T14:00:00+00:00,2024,League Two,England,Bromley,,,Barrow,Not Started
+2024-10-26T14:00:00+00:00,2024,League Two,England,Carlisle,,,Cheltenham,Not Started
+2024-10-26T11:30:00+00:00,2024,League Two,England,Colchester,,,Salford City,Not Started
+2024-10-26T14:00:00+00:00,2024,League Two,England,Crewe,,,Tranmere,Not Started
+2024-10-26T14:00:00+00:00,2024,League Two,England,Grimsby,,,Milton Keynes Dons,Not Started
+2024-10-26T11:30:00+00:00,2024,League Two,England,Morecambe,,,Chesterfield,Not Started
+2024-10-26T14:00:00+00:00,2024,League Two,England,Newport County,,,Fleetwood Town,Not Started
+2024-10-26T14:00:00+00:00,2024,League Two,England,Notts County,,,Harrogate Town,Not Started
+2024-10-26T14:00:00+00:00,2024,League Two,England,Port Vale,,,AFC Wimbledon,Not Started
+2024-10-26T14:00:00+00:00,2024,League Two,England,Swindon Town,,,Gillingham,Not Started
+2024-11-09T15:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Grimsby,Not Started
+2024-11-09T15:00:00+00:00,2024,League Two,England,Barrow,,,Colchester,Not Started
+2024-11-09T15:00:00+00:00,2024,League Two,England,Cheltenham,,,Bromley,Not Started
+2024-11-09T15:00:00+00:00,2024,League Two,England,Chesterfield,,,Accrington ST,Not Started
+2024-11-09T15:00:00+00:00,2024,League Two,England,Doncaster,,,Notts County,Not Started
+2024-11-09T15:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Bradford,Not Started
+2024-11-09T15:00:00+00:00,2024,League Two,England,Gillingham,,,Port Vale,Not Started
+2024-11-09T12:30:00+00:00,2024,League Two,England,Harrogate Town,,,Morecambe,Not Started
+2024-11-09T15:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Swindon Town,Not Started
+2024-11-09T12:30:00+00:00,2024,League Two,England,Salford City,,,Carlisle,Not Started
+2024-11-09T15:00:00+00:00,2024,League Two,England,Tranmere,,,Newport County,Not Started
+2024-11-09T15:00:00+00:00,2024,League Two,England,Walsall,,,Crewe,Not Started
+2024-11-16T15:00:00+00:00,2024,League Two,England,Accrington ST,,,Swindon Town,Not Started
+2024-11-16T15:00:00+00:00,2024,League Two,England,Barrow,,,AFC Wimbledon,Not Started
+2024-11-16T15:00:00+00:00,2024,League Two,England,Bromley,,,Carlisle,Not Started
+2024-11-16T15:00:00+00:00,2024,League Two,England,Colchester,,,Bradford,Not Started
+2024-11-16T15:00:00+00:00,2024,League Two,England,Crewe,,,Notts County,Not Started
+2024-11-16T15:00:00+00:00,2024,League Two,England,Doncaster,,,Salford City,Not Started
+2024-11-16T15:00:00+00:00,2024,League Two,England,Harrogate Town,,,Chesterfield,Not Started
+2024-11-16T15:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Cheltenham,Not Started
+2024-11-16T15:00:00+00:00,2024,League Two,England,Morecambe,,,Port Vale,Not Started
+2024-11-16T15:00:00+00:00,2024,League Two,England,Newport County,,,Grimsby,Not Started
+2024-11-16T15:00:00+00:00,2024,League Two,England,Tranmere,,,Fleetwood Town,Not Started
+2024-11-16T15:00:00+00:00,2024,League Two,England,Walsall,,,Gillingham,Not Started
+2024-11-23T15:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Walsall,Not Started
+2024-11-23T15:00:00+00:00,2024,League Two,England,Bradford,,,Accrington ST,Not Started
+2024-11-23T15:00:00+00:00,2024,League Two,England,Carlisle,,,Doncaster,Not Started
+2024-11-22T19:45:00+00:00,2024,League Two,England,Cheltenham,,,Tranmere,Not Started
+2024-11-23T15:00:00+00:00,2024,League Two,England,Chesterfield,,,Barrow,Not Started
+2024-11-23T15:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Milton Keynes Dons,Not Started
+2024-11-23T15:00:00+00:00,2024,League Two,England,Gillingham,,,Harrogate Town,Not Started
+2024-11-23T12:30:00+00:00,2024,League Two,England,Grimsby,,,Colchester,Not Started
+2024-11-23T12:30:00+00:00,2024,League Two,England,Notts County,,,Newport County,Not Started
+2024-11-25T20:00:00+00:00,2024,League Two,England,Port Vale,,,Crewe,Not Started
+2024-11-23T15:00:00+00:00,2024,League Two,England,Salford City,,,Bromley,Not Started
+2024-11-23T15:00:00+00:00,2024,League Two,England,Swindon Town,,,Morecambe,Not Started
+2024-12-03T19:45:00+00:00,2024,League Two,England,AFC Wimbledon,,,Newport County,Not Started
+2024-12-03T19:45:00+00:00,2024,League Two,England,Bradford,,,Barrow,Not Started
+2024-12-03T19:45:00+00:00,2024,League Two,England,Bromley,,,Gillingham,Not Started
+2024-12-03T19:45:00+00:00,2024,League Two,England,Carlisle,,,Crewe,Not Started
+2024-12-03T19:45:00+00:00,2024,League Two,England,Cheltenham,,,Port Vale,Not Started
+2024-12-03T19:45:00+00:00,2024,League Two,England,Colchester,,,Swindon Town,Not Started
+2024-12-03T19:45:00+00:00,2024,League Two,England,Fleetwood Town,,,Doncaster,Not Started
+2024-12-03T19:45:00+00:00,2024,League Two,England,Grimsby,,,Accrington ST,Not Started
+2024-12-03T19:45:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Chesterfield,Not Started
+2024-12-03T19:45:00+00:00,2024,League Two,England,Salford City,,,Harrogate Town,Not Started
+2024-12-03T19:45:00+00:00,2024,League Two,England,Tranmere,,,Morecambe,Not Started
+2024-12-03T19:45:00+00:00,2024,League Two,England,Walsall,,,Notts County,Not Started
+2024-12-07T15:00:00+00:00,2024,League Two,England,Accrington ST,,,Bromley,Not Started
+2024-12-07T15:00:00+00:00,2024,League Two,England,Barrow,,,Milton Keynes Dons,Not Started
+2024-12-07T15:00:00+00:00,2024,League Two,England,Chesterfield,,,Tranmere,Not Started
+2024-12-07T12:30:00+00:00,2024,League Two,England,Crewe,,,Bradford,Not Started
+2024-12-07T15:00:00+00:00,2024,League Two,England,Doncaster,,,Cheltenham,Not Started
+2024-12-07T15:00:00+00:00,2024,League Two,England,Gillingham,,,Salford City,Not Started
+2024-12-07T15:00:00+00:00,2024,League Two,England,Harrogate Town,,,AFC Wimbledon,Not Started
+2024-12-07T15:00:00+00:00,2024,League Two,England,Morecambe,,,Grimsby,Not Started
+2024-12-07T15:00:00+00:00,2024,League Two,England,Newport County,,,Carlisle,Not Started
+2024-12-07T15:00:00+00:00,2024,League Two,England,Notts County,,,Colchester,Not Started
+2024-12-07T12:30:00+00:00,2024,League Two,England,Port Vale,,,Walsall,Not Started
+2024-12-07T15:00:00+00:00,2024,League Two,England,Swindon Town,,,Fleetwood Town,Not Started
+2024-12-14T15:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Doncaster,Not Started
+2024-12-14T15:00:00+00:00,2024,League Two,England,Bradford,,,Swindon Town,Not Started
+2024-12-14T15:00:00+00:00,2024,League Two,England,Bromley,,,Port Vale,Not Started
+2024-12-14T15:00:00+00:00,2024,League Two,England,Carlisle,,,Chesterfield,Not Started
+2024-12-14T15:00:00+00:00,2024,League Two,England,Cheltenham,,,Morecambe,Not Started
+2024-12-14T15:00:00+00:00,2024,League Two,England,Colchester,,,Newport County,Not Started
+2024-12-16T20:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Accrington ST,Not Started
+2024-12-14T15:00:00+00:00,2024,League Two,England,Grimsby,,,Crewe,Not Started
+2024-12-14T15:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Gillingham,Not Started
+2024-12-14T12:30:00+00:00,2024,League Two,England,Salford City,,,Notts County,Not Started
+2024-12-14T12:30:00+00:00,2024,League Two,England,Tranmere,,,Harrogate Town,Not Started
+2024-12-14T15:00:00+00:00,2024,League Two,England,Walsall,,,Barrow,Not Started
+2024-12-21T15:00:00+00:00,2024,League Two,England,Accrington ST,,,Salford City,Not Started
+2024-12-21T12:30:00+00:00,2024,League Two,England,Barrow,,,Fleetwood Town,Not Started
+2024-12-21T15:00:00+00:00,2024,League Two,England,Chesterfield,,,AFC Wimbledon,Not Started
+2024-12-20T19:45:00+00:00,2024,League Two,England,Crewe,,,Colchester,Not Started
+2024-12-21T12:30:00+00:00,2024,League Two,England,Doncaster,,,Tranmere,Not Started
+2024-12-20T19:45:00+00:00,2024,League Two,England,Gillingham,,,Cheltenham,Not Started
+2024-12-21T15:00:00+00:00,2024,League Two,England,Harrogate Town,,,Walsall,Not Started
+2024-12-21T15:00:00+00:00,2024,League Two,England,Morecambe,,,Bromley,Not Started
+2024-12-21T15:00:00+00:00,2024,League Two,England,Newport County,,,Milton Keynes Dons,Not Started
+2024-12-21T15:00:00+00:00,2024,League Two,England,Notts County,,,Bradford,Not Started
+2024-12-21T15:00:00+00:00,2024,League Two,England,Port Vale,,,Carlisle,Not Started
+2024-12-21T15:00:00+00:00,2024,League Two,England,Swindon Town,,,Grimsby,Not Started
+2024-12-26T15:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Swindon Town,Not Started
+2024-12-26T15:00:00+00:00,2024,League Two,England,Bradford,,,Port Vale,Not Started
+2024-12-26T15:00:00+00:00,2024,League Two,England,Bromley,,,Newport County,Not Started
+2024-12-26T15:00:00+00:00,2024,League Two,England,Carlisle,,,Morecambe,Not Started
+2024-12-26T15:00:00+00:00,2024,League Two,England,Cheltenham,,,Crewe,Not Started
+2024-12-26T15:00:00+00:00,2024,League Two,England,Colchester,,,Gillingham,Not Started
+2024-12-26T15:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Chesterfield,Not Started
+2024-12-26T15:00:00+00:00,2024,League Two,England,Grimsby,,,Harrogate Town,Not Started
+2024-12-26T15:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Notts County,Not Started
+2024-12-26T15:00:00+00:00,2024,League Two,England,Salford City,,,Barrow,Not Started
+2024-12-26T15:00:00+00:00,2024,League Two,England,Tranmere,,,Accrington ST,Not Started
+2024-12-26T15:00:00+00:00,2024,League Two,England,Walsall,,,Doncaster,Not Started
+2024-12-30T20:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Gillingham,Not Started
+2024-12-29T15:00:00+00:00,2024,League Two,England,Bradford,,,Chesterfield,Not Started
+2024-12-29T12:30:00+00:00,2024,League Two,England,Bromley,,,Swindon Town,Not Started
+2024-12-29T12:30:00+00:00,2024,League Two,England,Carlisle,,,Accrington ST,Not Started
+2024-12-29T15:00:00+00:00,2024,League Two,England,Cheltenham,,,Notts County,Not Started
+2024-12-29T15:00:00+00:00,2024,League Two,England,Colchester,,,Doncaster,Not Started
+2024-12-29T15:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Harrogate Town,Not Started
+2024-12-29T15:00:00+00:00,2024,League Two,England,Grimsby,,,Port Vale,Not Started
+2024-12-29T15:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Crewe,Not Started
+2024-12-29T15:00:00+00:00,2024,League Two,England,Salford City,,,Morecambe,Not Started
+2024-12-29T15:00:00+00:00,2024,League Two,England,Tranmere,,,Barrow,Not Started
+2024-12-29T15:00:00+00:00,2024,League Two,England,Walsall,,,Newport County,Not Started
+2025-01-01T15:00:00+00:00,2024,League Two,England,Accrington ST,,,Grimsby,Not Started
+2025-01-01T15:00:00+00:00,2024,League Two,England,Barrow,,,Bradford,Not Started
+2025-01-01T15:00:00+00:00,2024,League Two,England,Chesterfield,,,Milton Keynes Dons,Not Started
+2025-01-01T15:00:00+00:00,2024,League Two,England,Crewe,,,Carlisle,Not Started
+2025-01-01T15:00:00+00:00,2024,League Two,England,Doncaster,,,Fleetwood Town,Not Started
+2025-01-02T19:45:00+00:00,2024,League Two,England,Gillingham,,,Bromley,Not Started
+2025-01-01T15:00:00+00:00,2024,League Two,England,Harrogate Town,,,Salford City,Not Started
+2025-01-01T15:00:00+00:00,2024,League Two,England,Morecambe,,,Tranmere,Not Started
+2025-01-02T19:45:00+00:00,2024,League Two,England,Newport County,,,AFC Wimbledon,Not Started
+2025-01-01T15:00:00+00:00,2024,League Two,England,Notts County,,,Walsall,Not Started
+2025-01-01T15:00:00+00:00,2024,League Two,England,Port Vale,,,Cheltenham,Not Started
+2025-01-01T15:00:00+00:00,2024,League Two,England,Swindon Town,,,Colchester,Not Started
+2025-01-04T15:00:00+00:00,2024,League Two,England,Barrow,,,Harrogate Town,Not Started
+2025-01-04T15:00:00+00:00,2024,League Two,England,Bradford,,,Grimsby,Not Started
+2025-01-04T12:30:00+00:00,2024,League Two,England,Cheltenham,,,Walsall,Not Started
+2025-01-05T15:00:00+00:00,2024,League Two,England,Chesterfield,,,Gillingham,Not Started
+2025-01-04T15:00:00+00:00,2024,League Two,England,Colchester,,,Accrington ST,Not Started
+2025-01-05T15:00:00+00:00,2024,League Two,England,Crewe,,,Bromley,Not Started
+2025-01-04T15:00:00+00:00,2024,League Two,England,Doncaster,,,Port Vale,Not Started
+2025-01-05T15:00:00+00:00,2024,League Two,England,Fleetwood Town,,,AFC Wimbledon,Not Started
+2025-01-04T15:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Salford City,Not Started
+2025-01-05T15:00:00+00:00,2024,League Two,England,Newport County,,,Morecambe,Not Started
+2025-01-04T12:30:00+00:00,2024,League Two,England,Notts County,,,Swindon Town,Not Started
+2025-01-04T13:00:00+00:00,2024,League Two,England,Tranmere,,,Carlisle,Not Started
+2025-01-11T15:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Cheltenham,Not Started
+2025-01-11T15:00:00+00:00,2024,League Two,England,Accrington ST,,,Newport County,Not Started
+2025-01-11T15:00:00+00:00,2024,League Two,England,Bromley,,,Bradford,Not Started
+2025-01-11T15:00:00+00:00,2024,League Two,England,Carlisle,,,Milton Keynes Dons,Not Started
+2025-01-11T15:00:00+00:00,2024,League Two,England,Gillingham,,,Fleetwood Town,Not Started
+2025-01-11T15:00:00+00:00,2024,League Two,England,Grimsby,,,Notts County,Not Started
+2025-01-11T15:00:00+00:00,2024,League Two,England,Harrogate Town,,,Colchester,Not Started
+2025-01-11T15:00:00+00:00,2024,League Two,England,Morecambe,,,Doncaster,Not Started
+2025-01-11T15:00:00+00:00,2024,League Two,England,Port Vale,,,Barrow,Not Started
+2025-01-11T15:00:00+00:00,2024,League Two,England,Salford City,,,Chesterfield,Not Started
+2025-01-11T15:00:00+00:00,2024,League Two,England,Swindon Town,,,Crewe,Not Started
+2025-01-11T15:00:00+00:00,2024,League Two,England,Walsall,,,Tranmere,Not Started
+2025-01-18T15:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Tranmere,Not Started
+2025-01-18T15:00:00+00:00,2024,League Two,England,Accrington ST,,,Notts County,Not Started
+2025-01-18T15:00:00+00:00,2024,League Two,England,Bromley,,,Colchester,Not Started
+2025-01-18T15:00:00+00:00,2024,League Two,England,Carlisle,,,Bradford,Not Started
+2025-01-18T15:00:00+00:00,2024,League Two,England,Gillingham,,,Doncaster,Not Started
+2025-01-18T15:00:00+00:00,2024,League Two,England,Grimsby,,,Chesterfield,Not Started
+2025-01-17T19:45:00+00:00,2024,League Two,England,Harrogate Town,,,Cheltenham,Not Started
+2025-01-18T15:00:00+00:00,2024,League Two,England,Morecambe,,,Crewe,Not Started
+2025-01-18T15:00:00+00:00,2024,League Two,England,Port Vale,,,Newport County,Not Started
+2025-01-18T15:00:00+00:00,2024,League Two,England,Salford City,,,Fleetwood Town,Not Started
+2025-01-18T15:00:00+00:00,2024,League Two,England,Swindon Town,,,Barrow,Not Started
+2025-01-18T15:00:00+00:00,2024,League Two,England,Walsall,,,Milton Keynes Dons,Not Started
+2025-01-25T15:00:00+00:00,2024,League Two,England,Barrow,,,Grimsby,Not Started
+2025-01-25T15:00:00+00:00,2024,League Two,England,Bradford,,,Walsall,Not Started
+2025-01-25T15:00:00+00:00,2024,League Two,England,Cheltenham,,,Salford City,Not Started
+2025-01-25T15:00:00+00:00,2024,League Two,England,Chesterfield,,,Port Vale,Not Started
+2025-01-25T15:00:00+00:00,2024,League Two,England,Colchester,,,Morecambe,Not Started
+2025-01-25T15:00:00+00:00,2024,League Two,England,Crewe,,,Accrington ST,Not Started
+2025-01-25T15:00:00+00:00,2024,League Two,England,Doncaster,,,Harrogate Town,Not Started
+2025-01-25T15:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Carlisle,Not Started
+2025-01-25T12:30:00+00:00,2024,League Two,England,Milton Keynes Dons,,,AFC Wimbledon,Not Started
+2025-01-24T19:45:00+00:00,2024,League Two,England,Newport County,,,Swindon Town,Not Started
+2025-01-25T15:00:00+00:00,2024,League Two,England,Notts County,,,Bromley,Not Started
+2025-01-25T15:00:00+00:00,2024,League Two,England,Tranmere,,,Gillingham,Not Started
+2025-01-28T19:45:00+00:00,2024,League Two,England,Accrington ST,,,Cheltenham,Not Started
+2025-01-28T19:45:00+00:00,2024,League Two,England,Barrow,,,Doncaster,Not Started
+2025-01-28T19:45:00+00:00,2024,League Two,England,Bradford,,,Morecambe,Not Started
+2025-01-28T19:45:00+00:00,2024,League Two,England,Chesterfield,,,Bromley,Not Started
+2025-01-28T19:45:00+00:00,2024,League Two,England,Colchester,,,Port Vale,Not Started
+2025-01-28T19:45:00+00:00,2024,League Two,England,Crewe,,,AFC Wimbledon,Not Started
+2025-01-28T19:45:00+00:00,2024,League Two,England,Fleetwood Town,,,Walsall,Not Started
+2025-01-28T19:45:00+00:00,2024,League Two,England,Grimsby,,,Gillingham,Not Started
+2025-01-28T19:45:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Harrogate Town,Not Started
+2025-01-28T19:45:00+00:00,2024,League Two,England,Notts County,,,Carlisle,Not Started
+2025-01-28T19:45:00+00:00,2024,League Two,England,Salford City,,,Newport County,Not Started
+2025-01-28T19:45:00+00:00,2024,League Two,England,Swindon Town,,,Tranmere,Not Started
+2025-02-01T15:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Bradford,Not Started
+2025-02-01T15:00:00+00:00,2024,League Two,England,Bromley,,,Grimsby,Not Started
+2025-02-01T15:00:00+00:00,2024,League Two,England,Carlisle,,,Swindon Town,Not Started
+2025-02-01T15:00:00+00:00,2024,League Two,England,Cheltenham,,,Chesterfield,Not Started
+2025-02-01T15:00:00+00:00,2024,League Two,England,Doncaster,,,Milton Keynes Dons,Not Started
+2025-02-01T15:00:00+00:00,2024,League Two,England,Gillingham,,,Notts County,Not Started
+2025-02-01T15:00:00+00:00,2024,League Two,England,Harrogate Town,,,Crewe,Not Started
+2025-02-01T15:00:00+00:00,2024,League Two,England,Morecambe,,,Fleetwood Town,Not Started
+2025-02-01T15:00:00+00:00,2024,League Two,England,Newport County,,,Barrow,Not Started
+2025-02-01T15:00:00+00:00,2024,League Two,England,Port Vale,,,Accrington ST,Not Started
+2025-02-01T15:00:00+00:00,2024,League Two,England,Tranmere,,,Colchester,Not Started
+2025-02-01T15:00:00+00:00,2024,League Two,England,Walsall,,,Salford City,Not Started
+2025-02-08T15:00:00+00:00,2024,League Two,England,Accrington ST,,,AFC Wimbledon,Not Started
+2025-02-08T15:00:00+00:00,2024,League Two,England,Barrow,,,Gillingham,Not Started
+2025-02-08T15:00:00+00:00,2024,League Two,England,Bradford,,,Harrogate Town,Not Started
+2025-02-08T15:00:00+00:00,2024,League Two,England,Chesterfield,,,Doncaster,Not Started
+2025-02-08T15:00:00+00:00,2024,League Two,England,Colchester,,,Walsall,Not Started
+2025-02-08T15:00:00+00:00,2024,League Two,England,Crewe,,,Newport County,Not Started
+2025-02-08T15:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Cheltenham,Not Started
+2025-02-08T15:00:00+00:00,2024,League Two,England,Grimsby,,,Carlisle,Not Started
+2025-02-08T15:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Bromley,Not Started
+2025-02-08T15:00:00+00:00,2024,League Two,England,Notts County,,,Morecambe,Not Started
+2025-02-08T15:00:00+00:00,2024,League Two,England,Salford City,,,Tranmere,Not Started
+2025-02-08T15:00:00+00:00,2024,League Two,England,Swindon Town,,,Port Vale,Not Started
+2025-02-15T15:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Salford City,Not Started
+2025-02-15T15:00:00+00:00,2024,League Two,England,Bromley,,,Fleetwood Town,Not Started
+2025-02-15T15:00:00+00:00,2024,League Two,England,Carlisle,,,Colchester,Not Started
+2025-02-15T15:00:00+00:00,2024,League Two,England,Cheltenham,,,Barrow,Not Started
+2025-02-15T15:00:00+00:00,2024,League Two,England,Doncaster,,,Grimsby,Not Started
+2025-02-15T15:00:00+00:00,2024,League Two,England,Gillingham,,,Crewe,Not Started
+2025-02-15T15:00:00+00:00,2024,League Two,England,Harrogate Town,,,Swindon Town,Not Started
+2025-02-15T15:00:00+00:00,2024,League Two,England,Morecambe,,,Accrington ST,Not Started
+2025-02-15T15:00:00+00:00,2024,League Two,England,Newport County,,,Bradford,Not Started
+2025-02-15T15:00:00+00:00,2024,League Two,England,Port Vale,,,Notts County,Not Started
+2025-02-15T15:00:00+00:00,2024,League Two,England,Tranmere,,,Milton Keynes Dons,Not Started
+2025-02-15T15:00:00+00:00,2024,League Two,England,Walsall,,,Chesterfield,Not Started
+2025-02-22T15:00:00+00:00,2024,League Two,England,Accrington ST,,,Doncaster,Not Started
+2025-02-22T15:00:00+00:00,2024,League Two,England,Bradford,,,Milton Keynes Dons,Not Started
+2025-02-22T15:00:00+00:00,2024,League Two,England,Bromley,,,Harrogate Town,Not Started
+2025-02-22T15:00:00+00:00,2024,League Two,England,Carlisle,,,Gillingham,Not Started
+2025-02-22T15:00:00+00:00,2024,League Two,England,Colchester,,,AFC Wimbledon,Not Started
+2025-02-22T15:00:00+00:00,2024,League Two,England,Crewe,,,Barrow,Not Started
+2025-02-22T15:00:00+00:00,2024,League Two,England,Grimsby,,,Fleetwood Town,Not Started
+2025-02-22T15:00:00+00:00,2024,League Two,England,Morecambe,,,Walsall,Not Started
+2025-02-22T15:00:00+00:00,2024,League Two,England,Newport County,,,Cheltenham,Not Started
+2025-02-22T15:00:00+00:00,2024,League Two,England,Notts County,,,Tranmere,Not Started
+2025-02-22T15:00:00+00:00,2024,League Two,England,Port Vale,,,Salford City,Not Started
+2025-02-22T15:00:00+00:00,2024,League Two,England,Swindon Town,,,Chesterfield,Not Started
+2025-03-01T15:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Bromley,Not Started
+2025-03-01T15:00:00+00:00,2024,League Two,England,Barrow,,,Carlisle,Not Started
+2025-03-01T15:00:00+00:00,2024,League Two,England,Cheltenham,,,Grimsby,Not Started
+2025-03-01T15:00:00+00:00,2024,League Two,England,Chesterfield,,,Crewe,Not Started
+2025-03-01T15:00:00+00:00,2024,League Two,England,Doncaster,,,Newport County,Not Started
+2025-03-01T15:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Notts County,Not Started
+2025-03-01T15:00:00+00:00,2024,League Two,England,Gillingham,,,Morecambe,Not Started
+2025-03-01T15:00:00+00:00,2024,League Two,England,Harrogate Town,,,Accrington ST,Not Started
+2025-03-01T15:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Colchester,Not Started
+2025-03-01T15:00:00+00:00,2024,League Two,England,Salford City,,,Bradford,Not Started
+2025-03-01T15:00:00+00:00,2024,League Two,England,Tranmere,,,Port Vale,Not Started
+2025-03-01T15:00:00+00:00,2024,League Two,England,Walsall,,,Swindon Town,Not Started
+2025-03-04T19:45:00+00:00,2024,League Two,England,Accrington ST,,,Milton Keynes Dons,Not Started
+2025-03-04T19:45:00+00:00,2024,League Two,England,Bradford,,,Cheltenham,Not Started
+2025-03-04T19:45:00+00:00,2024,League Two,England,Bromley,,,Doncaster,Not Started
+2025-03-04T19:45:00+00:00,2024,League Two,England,Carlisle,,,Walsall,Not Started
+2025-03-04T19:45:00+00:00,2024,League Two,England,Colchester,,,Chesterfield,Not Started
+2025-03-04T19:45:00+00:00,2024,League Two,England,Crewe,,,Fleetwood Town,Not Started
+2025-03-04T19:45:00+00:00,2024,League Two,England,Grimsby,,,Tranmere,Not Started
+2025-03-04T19:45:00+00:00,2024,League Two,England,Morecambe,,,AFC Wimbledon,Not Started
+2025-03-04T19:45:00+00:00,2024,League Two,England,Newport County,,,Gillingham,Not Started
+2025-03-04T19:45:00+00:00,2024,League Two,England,Notts County,,,Barrow,Not Started
+2025-03-04T19:45:00+00:00,2024,League Two,England,Port Vale,,,Harrogate Town,Not Started
+2025-03-04T19:45:00+00:00,2024,League Two,England,Swindon Town,,,Salford City,Not Started
+2025-03-08T15:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Notts County,Not Started
+2025-03-08T15:00:00+00:00,2024,League Two,England,Barrow,,,Accrington ST,Not Started
+2025-03-08T15:00:00+00:00,2024,League Two,England,Cheltenham,,,Colchester,Not Started
+2025-03-08T15:00:00+00:00,2024,League Two,England,Chesterfield,,,Newport County,Not Started
+2025-03-08T15:00:00+00:00,2024,League Two,England,Doncaster,,,Swindon Town,Not Started
+2025-03-08T15:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Port Vale,Not Started
+2025-03-08T15:00:00+00:00,2024,League Two,England,Gillingham,,,Bradford,Not Started
+2025-03-08T15:00:00+00:00,2024,League Two,England,Harrogate Town,,,Carlisle,Not Started
+2025-03-08T15:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Morecambe,Not Started
+2025-03-08T15:00:00+00:00,2024,League Two,England,Salford City,,,Crewe,Not Started
+2025-03-08T15:00:00+00:00,2024,League Two,England,Tranmere,,,Bromley,Not Started
+2025-03-08T15:00:00+00:00,2024,League Two,England,Walsall,,,Grimsby,Not Started
+2025-03-15T15:00:00+00:00,2024,League Two,England,Accrington ST,,,Gillingham,Not Started
+2025-03-15T15:00:00+00:00,2024,League Two,England,Bradford,,,Tranmere,Not Started
+2025-03-15T15:00:00+00:00,2024,League Two,England,Bromley,,,Walsall,Not Started
+2025-03-15T15:00:00+00:00,2024,League Two,England,Carlisle,,,AFC Wimbledon,Not Started
+2025-03-15T15:00:00+00:00,2024,League Two,England,Colchester,,,Fleetwood Town,Not Started
+2025-03-15T15:00:00+00:00,2024,League Two,England,Crewe,,,Doncaster,Not Started
+2025-03-15T15:00:00+00:00,2024,League Two,England,Grimsby,,,Salford City,Not Started
+2025-03-15T15:00:00+00:00,2024,League Two,England,Morecambe,,,Barrow,Not Started
+2025-03-15T15:00:00+00:00,2024,League Two,England,Newport County,,,Harrogate Town,Not Started
+2025-03-15T15:00:00+00:00,2024,League Two,England,Notts County,,,Chesterfield,Not Started
+2025-03-15T15:00:00+00:00,2024,League Two,England,Port Vale,,,Milton Keynes Dons,Not Started
+2025-03-15T15:00:00+00:00,2024,League Two,England,Swindon Town,,,Cheltenham,Not Started
+2025-03-22T15:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Barrow,Not Started
+2025-03-22T15:00:00+00:00,2024,League Two,England,Bradford,,,Colchester,Not Started
+2025-03-22T15:00:00+00:00,2024,League Two,England,Carlisle,,,Bromley,Not Started
+2025-03-22T15:00:00+00:00,2024,League Two,England,Cheltenham,,,Milton Keynes Dons,Not Started
+2025-03-22T15:00:00+00:00,2024,League Two,England,Chesterfield,,,Harrogate Town,Not Started
+2025-03-22T15:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Tranmere,Not Started
+2025-03-22T15:00:00+00:00,2024,League Two,England,Gillingham,,,Walsall,Not Started
+2025-03-22T15:00:00+00:00,2024,League Two,England,Grimsby,,,Newport County,Not Started
+2025-03-22T15:00:00+00:00,2024,League Two,England,Notts County,,,Crewe,Not Started
+2025-03-22T15:00:00+00:00,2024,League Two,England,Port Vale,,,Morecambe,Not Started
+2025-03-22T15:00:00+00:00,2024,League Two,England,Salford City,,,Doncaster,Not Started
+2025-03-22T15:00:00+00:00,2024,League Two,England,Swindon Town,,,Accrington ST,Not Started
+2025-03-29T15:00:00+00:00,2024,League Two,England,Accrington ST,,,Bradford,Not Started
+2025-03-29T15:00:00+00:00,2024,League Two,England,Barrow,,,Chesterfield,Not Started
+2025-03-29T15:00:00+00:00,2024,League Two,England,Bromley,,,Salford City,Not Started
+2025-03-28T19:45:00+00:00,2024,League Two,England,Colchester,,,Grimsby,Not Started
+2025-03-29T15:00:00+00:00,2024,League Two,England,Crewe,,,Port Vale,Not Started
+2025-03-29T15:00:00+00:00,2024,League Two,England,Doncaster,,,Carlisle,Not Started
+2025-03-29T15:00:00+00:00,2024,League Two,England,Harrogate Town,,,Gillingham,Not Started
+2025-03-29T15:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Fleetwood Town,Not Started
+2025-03-29T15:00:00+00:00,2024,League Two,England,Morecambe,,,Swindon Town,Not Started
+2025-03-29T15:00:00+00:00,2024,League Two,England,Newport County,,,Notts County,Not Started
+2025-03-28T19:45:00+00:00,2024,League Two,England,Tranmere,,,Cheltenham,Not Started
+2025-03-29T15:00:00+00:00,2024,League Two,England,Walsall,,,AFC Wimbledon,Not Started
+2025-04-01T18:45:00+00:00,2024,League Two,England,Accrington ST,,,Fleetwood Town,Not Started
+2025-04-01T18:45:00+00:00,2024,League Two,England,Barrow,,,Salford City,Not Started
+2025-04-01T18:45:00+00:00,2024,League Two,England,Chesterfield,,,Carlisle,Not Started
+2025-04-01T18:45:00+00:00,2024,League Two,England,Crewe,,,Grimsby,Not Started
+2025-04-01T18:45:00+00:00,2024,League Two,England,Doncaster,,,Walsall,Not Started
+2025-04-01T18:45:00+00:00,2024,League Two,England,Gillingham,,,Colchester,Not Started
+2025-04-01T18:45:00+00:00,2024,League Two,England,Harrogate Town,,,Tranmere,Not Started
+2025-04-01T18:45:00+00:00,2024,League Two,England,Morecambe,,,Cheltenham,Not Started
+2025-04-01T18:45:00+00:00,2024,League Two,England,Newport County,,,Bromley,Not Started
+2025-04-01T18:45:00+00:00,2024,League Two,England,Notts County,,,Milton Keynes Dons,Not Started
+2025-04-01T18:45:00+00:00,2024,League Two,England,Port Vale,,,Bradford,Not Started
+2025-04-01T18:45:00+00:00,2024,League Two,England,Swindon Town,,,AFC Wimbledon,Not Started
+2025-04-05T14:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Harrogate Town,Not Started
+2025-04-05T14:00:00+00:00,2024,League Two,England,Bradford,,,Crewe,Not Started
+2025-04-05T14:00:00+00:00,2024,League Two,England,Bromley,,,Accrington ST,Not Started
+2025-04-05T14:00:00+00:00,2024,League Two,England,Carlisle,,,Newport County,Not Started
+2025-04-05T14:00:00+00:00,2024,League Two,England,Cheltenham,,,Doncaster,Not Started
+2025-04-05T14:00:00+00:00,2024,League Two,England,Colchester,,,Notts County,Not Started
+2025-04-05T14:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Swindon Town,Not Started
+2025-04-05T14:00:00+00:00,2024,League Two,England,Grimsby,,,Morecambe,Not Started
+2025-04-05T14:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Barrow,Not Started
+2025-04-05T14:00:00+00:00,2024,League Two,England,Salford City,,,Gillingham,Not Started
+2025-04-05T11:45:00+00:00,2024,League Two,England,Tranmere,,,Chesterfield,Not Started
+2025-04-05T14:00:00+00:00,2024,League Two,England,Walsall,,,Port Vale,Not Started
+2025-04-12T14:00:00+00:00,2024,League Two,England,Accrington ST,,,Tranmere,Not Started
+2025-04-12T14:00:00+00:00,2024,League Two,England,Barrow,,,Walsall,Not Started
+2025-04-12T14:00:00+00:00,2024,League Two,England,Chesterfield,,,Fleetwood Town,Not Started
+2025-04-12T14:00:00+00:00,2024,League Two,England,Crewe,,,Cheltenham,Not Started
+2025-04-12T14:00:00+00:00,2024,League Two,England,Doncaster,,,AFC Wimbledon,Not Started
+2025-04-12T14:00:00+00:00,2024,League Two,England,Gillingham,,,Milton Keynes Dons,Not Started
+2025-04-12T14:00:00+00:00,2024,League Two,England,Harrogate Town,,,Grimsby,Not Started
+2025-04-12T14:00:00+00:00,2024,League Two,England,Morecambe,,,Carlisle,Not Started
+2025-04-12T14:00:00+00:00,2024,League Two,England,Newport County,,,Colchester,Not Started
+2025-04-11T18:45:00+00:00,2024,League Two,England,Notts County,,,Salford City,Not Started
+2025-04-12T14:00:00+00:00,2024,League Two,England,Port Vale,,,Bromley,Not Started
+2025-04-12T14:00:00+00:00,2024,League Two,England,Swindon Town,,,Bradford,Not Started
+2025-04-18T14:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Chesterfield,Not Started
+2025-04-18T14:00:00+00:00,2024,League Two,England,Bradford,,,Notts County,Not Started
+2025-04-18T14:00:00+00:00,2024,League Two,England,Bromley,,,Morecambe,Not Started
+2025-04-18T14:00:00+00:00,2024,League Two,England,Carlisle,,,Port Vale,Not Started
+2025-04-18T14:00:00+00:00,2024,League Two,England,Cheltenham,,,Gillingham,Not Started
+2025-04-18T14:00:00+00:00,2024,League Two,England,Colchester,,,Crewe,Not Started
+2025-04-18T14:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Barrow,Not Started
+2025-04-18T14:00:00+00:00,2024,League Two,England,Grimsby,,,Swindon Town,Not Started
+2025-04-18T14:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Newport County,Not Started
+2025-04-18T14:00:00+00:00,2024,League Two,England,Salford City,,,Accrington ST,Not Started
+2025-04-18T14:00:00+00:00,2024,League Two,England,Tranmere,,,Doncaster,Not Started
+2025-04-18T14:00:00+00:00,2024,League Two,England,Walsall,,,Harrogate Town,Not Started
+2025-04-21T14:00:00+00:00,2024,League Two,England,Accrington ST,,,Carlisle,Not Started
+2025-04-21T14:00:00+00:00,2024,League Two,England,Barrow,,,Tranmere,Not Started
+2025-04-21T14:00:00+00:00,2024,League Two,England,Chesterfield,,,Bradford,Not Started
+2025-04-21T14:00:00+00:00,2024,League Two,England,Crewe,,,Milton Keynes Dons,Not Started
+2025-04-21T14:00:00+00:00,2024,League Two,England,Doncaster,,,Colchester,Not Started
+2025-04-21T14:00:00+00:00,2024,League Two,England,Gillingham,,,AFC Wimbledon,Not Started
+2025-04-21T14:00:00+00:00,2024,League Two,England,Harrogate Town,,,Fleetwood Town,Not Started
+2025-04-21T14:00:00+00:00,2024,League Two,England,Morecambe,,,Salford City,Not Started
+2025-04-21T14:00:00+00:00,2024,League Two,England,Newport County,,,Walsall,Not Started
+2025-04-21T14:00:00+00:00,2024,League Two,England,Notts County,,,Cheltenham,Not Started
+2025-04-21T14:00:00+00:00,2024,League Two,England,Port Vale,,,Grimsby,Not Started
+2025-04-21T14:00:00+00:00,2024,League Two,England,Swindon Town,,,Bromley,Not Started
+2025-04-26T14:00:00+00:00,2024,League Two,England,AFC Wimbledon,,,Port Vale,Not Started
+2025-04-26T14:00:00+00:00,2024,League Two,England,Barrow,,,Bromley,Not Started
+2025-04-26T14:00:00+00:00,2024,League Two,England,Cheltenham,,,Carlisle,Not Started
+2025-04-26T14:00:00+00:00,2024,League Two,England,Chesterfield,,,Morecambe,Not Started
+2025-04-26T14:00:00+00:00,2024,League Two,England,Doncaster,,,Bradford,Not Started
+2025-04-26T14:00:00+00:00,2024,League Two,England,Fleetwood Town,,,Newport County,Not Started
+2025-04-26T14:00:00+00:00,2024,League Two,England,Gillingham,,,Swindon Town,Not Started
+2025-04-26T12:00:00+00:00,2024,League Two,England,Harrogate Town,,,Notts County,Not Started
+2025-04-26T14:00:00+00:00,2024,League Two,England,Milton Keynes Dons,,,Grimsby,Not Started
+2025-04-26T14:00:00+00:00,2024,League Two,England,Salford City,,,Colchester,Not Started
+2025-04-26T14:00:00+00:00,2024,League Two,England,Tranmere,,,Crewe,Not Started
+2025-04-26T14:00:00+00:00,2024,League Two,England,Walsall,,,Accrington ST,Not Started
+2025-05-03T14:00:00+00:00,2024,League Two,England,Accrington ST,,,Chesterfield,Not Started
+2025-05-03T14:00:00+00:00,2024,League Two,England,Bradford,,,Fleetwood Town,Not Started
+2025-05-03T14:00:00+00:00,2024,League Two,England,Bromley,,,Cheltenham,Not Started
+2025-05-03T14:00:00+00:00,2024,League Two,England,Carlisle,,,Salford City,Not Started
+2025-05-03T14:00:00+00:00,2024,League Two,England,Colchester,,,Barrow,Not Started
+2025-05-03T14:00:00+00:00,2024,League Two,England,Crewe,,,Walsall,Not Started
+2025-05-03T14:00:00+00:00,2024,League Two,England,Grimsby,,,AFC Wimbledon,Not Started
+2025-05-03T14:00:00+00:00,2024,League Two,England,Morecambe,,,Harrogate Town,Not Started
+2025-05-03T14:00:00+00:00,2024,League Two,England,Newport County,,,Tranmere,Not Started
+2025-05-03T14:00:00+00:00,2024,League Two,England,Notts County,,,Doncaster,Not Started
+2025-05-03T14:00:00+00:00,2024,League Two,England,Port Vale,,,Gillingham,Not Started
+2025-05-03T14:00:00+00:00,2024,League Two,England,Swindon Town,,,Milton Keynes Dons,Not Started

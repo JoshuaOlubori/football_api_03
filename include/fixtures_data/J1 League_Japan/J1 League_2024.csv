@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-02-25T05:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,1,1,Kyoto Sanga,Match Finished
+2024-02-25T05:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,1,2,Yokohama F. Marinos,Match Finished
+2024-02-24T06:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,1,1,Gamba Osaka,Match Finished
+2024-02-24T06:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,1,2,Kawasaki Frontale,Match Finished
+2024-02-24T04:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,0,2,Vissel Kobe,Match Finished
+2024-02-23T09:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,0,3,Kashima,Match Finished
+2024-02-24T06:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,2,2,FC Tokyo,Match Finished
+2024-02-23T05:00:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,2,0,Urawa,Match Finished
+2024-02-24T05:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,0,0,Consadole Sapporo,Match Finished
+2024-02-24T05:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,1,2,Albirex Niigata,Match Finished
+2024-03-01T10:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,4,5,Jubilo Iwata,Match Finished
+2024-03-01T10:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,0,1,Avispa Fukuoka,Match Finished
+2024-03-02T04:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,0,1,Kashiwa Reysol,Match Finished
+2024-03-02T05:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,0,1,Machida Zelvia,Match Finished
+2024-03-02T05:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,1,2,Shonan Bellmare,Match Finished
+2024-03-02T05:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,4,0,Consadole Sapporo,Match Finished
+2024-03-02T06:00:00+00:00,2024,J1 League,Japan,Kashima,1,1,Cerezo Osaka,Match Finished
+2024-03-02T06:00:00+00:00,2024,J1 League,Japan,FC Tokyo,1,1,Sanfrecce Hiroshima,Match Finished
+2024-03-02T06:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,1,0,Albirex Niigata,Match Finished
+2024-03-03T07:00:00+00:00,2024,J1 League,Japan,Urawa,1,1,Tokyo Verdy,Match Finished
+2024-03-09T05:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,1,0,Kashima,Match Finished
+2024-04-10T10:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,2,0,Gamba Osaka,Match Finished
+2024-03-09T05:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,1,0,Nagoya Grampus,Match Finished
+2024-03-09T05:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,0,1,Kashiwa Reysol,Match Finished
+2024-03-09T06:00:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,4,0,Sagan Tosu,Match Finished
+2024-03-09T06:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,1,1,Shonan Bellmare,Match Finished
+2024-03-09T07:00:00+00:00,2024,J1 League,Japan,FC Tokyo,1,2,Vissel Kobe,Match Finished
+2024-03-09T07:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,0,1,Kyoto Sanga,Match Finished
+2024-03-09T07:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,2,1,Tokyo Verdy,Match Finished
+2024-03-10T04:05:00+00:00,2024,J1 League,Japan,Consadole Sapporo,0,1,Urawa,Match Finished
+2024-03-16T04:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,1,3,FC Tokyo,Match Finished
+2024-03-16T05:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,1,2,Machida Zelvia,Match Finished
+2024-03-16T05:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,0,0,Sanfrecce Hiroshima,Match Finished
+2024-03-16T06:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,0,2,Nagoya Grampus,Match Finished
+2024-03-16T06:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,2,1,Jubilo Iwata,Match Finished
+2024-03-16T06:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,0,2,Cerezo Osaka,Match Finished
+2024-03-16T07:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,2,2,Albirex Niigata,Match Finished
+2024-03-17T05:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,2,3,Yokohama F. Marinos,Match Finished
+2024-03-17T06:00:00+00:00,2024,J1 League,Japan,Kashima,2,1,Kawasaki Frontale,Match Finished
+2024-03-17T06:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,4,4,Urawa,Match Finished
+2024-03-29T10:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,2,2,Kyoto Sanga,Match Finished
+2024-03-30T04:00:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,1,1,Gamba Osaka,Match Finished
+2024-03-30T05:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,1,1,Kashiwa Reysol,Match Finished
+2024-03-30T05:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,6,1,Consadole Sapporo,Match Finished
+2024-03-30T06:00:00+00:00,2024,J1 League,Japan,Kashima,1,0,Jubilo Iwata,Match Finished
+2024-03-30T06:00:00+00:00,2024,J1 League,Japan,Urawa,2,1,Avispa Fukuoka,Match Finished
+2024-03-30T06:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,3,1,Sagan Tosu,Match Finished
+2024-03-30T06:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,3,0,FC Tokyo,Match Finished
+2024-03-30T07:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,2,1,Yokohama F. Marinos,Match Finished
+2024-03-30T07:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,2,0,Shonan Bellmare,Match Finished
+2024-04-03T10:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,1,1,Cerezo Osaka,Match Finished
+2024-04-03T10:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,1,2,Sanfrecce Hiroshima,Match Finished
+2024-04-03T10:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,0,0,Kawasaki Frontale,Match Finished
+2024-04-03T10:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,1,2,Tokyo Verdy,Match Finished
+2024-04-03T10:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,2,0,Albirex Niigata,Match Finished
+2024-04-03T10:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,0,0,Kyoto Sanga,Match Finished
+2024-04-03T10:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,1,0,Kashima,Match Finished
+2024-04-03T10:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,0,0,Vissel Kobe,Match Finished
+2024-04-03T10:30:00+00:00,2024,J1 League,Japan,Consadole Sapporo,1,2,Nagoya Grampus,Match Finished
+2024-04-03T10:30:00+00:00,2024,J1 League,Japan,FC Tokyo,2,1,Urawa,Match Finished
+2024-04-06T05:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,1,0,Gamba Osaka,Match Finished
+2024-04-07T04:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,1,1,Kashiwa Reysol,Match Finished
+2024-04-07T05:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,0,1,Cerezo Osaka,Match Finished
+2024-04-07T05:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,0,3,Jubilo Iwata,Match Finished
+2024-04-07T05:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,1,2,Yokohama F. Marinos,Match Finished
+2024-04-07T05:00:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,2,0,Shonan Bellmare,Match Finished
+2024-04-07T06:00:00+00:00,2024,J1 League,Japan,Urawa,3,0,Sagan Tosu,Match Finished
+2024-04-07T06:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,0,1,Machida Zelvia,Match Finished
+2024-04-07T06:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,0,0,Avispa Fukuoka,Match Finished
+2024-04-07T08:00:00+00:00,2024,J1 League,Japan,FC Tokyo,2,0,Kashima,Match Finished
+2024-04-12T10:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,1,0,Urawa,Match Finished
+2024-04-13T05:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,2,2,Shonan Bellmare,Match Finished
+2024-04-13T05:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,1,1,Consadole Sapporo,Match Finished
+2024-04-13T05:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,0,1,Nagoya Grampus,Match Finished
+2024-04-13T05:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,1,1,Sanfrecce Hiroshima,Match Finished
+2024-04-13T06:00:00+00:00,2024,J1 League,Japan,Kashima,1,0,Kyoto Sanga,Match Finished
+2024-04-13T06:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,1,2,Vissel Kobe,Match Finished
+2024-04-13T06:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,1,0,Kawasaki Frontale,Match Finished
+2024-04-13T07:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,2,2,FC Tokyo,Match Finished
+2024-04-14T06:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,2,1,Sagan Tosu,Match Finished
+2024-04-20T05:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,1,1,Sanfrecce Hiroshima,Match Finished
+2024-05-29T10:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,4,0,Kashiwa Reysol,Match Finished
+2024-04-20T05:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,0,1,Albirex Niigata,Match Finished
+2024-04-20T05:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,4,2,Kashima,Match Finished
+2024-04-20T06:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,0,1,Vissel Kobe,Match Finished
+2024-04-20T06:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,2,2,Jubilo Iwata,Match Finished
+2024-04-20T07:00:00+00:00,2024,J1 League,Japan,Urawa,0,1,Gamba Osaka,Match Finished
+2024-04-20T07:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,0,0,Tokyo Verdy,Match Finished
+2024-04-21T06:00:00+00:00,2024,J1 League,Japan,FC Tokyo,1,2,Machida Zelvia,Match Finished
+2024-04-21T06:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,2,1,Cerezo Osaka,Match Finished
+2024-04-27T04:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,3,3,Shonan Bellmare,Match Finished
+2024-04-27T05:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,1,3,FC Tokyo,Match Finished
+2024-04-27T05:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,2,0,Machida Zelvia,Match Finished
+2024-04-27T05:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,0,1,Kyoto Sanga,Match Finished
+2024-04-27T06:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,2,2,Yokohama F. Marinos,Match Finished
+2024-04-28T05:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,0,0,Avispa Fukuoka,Match Finished
+2024-04-28T05:00:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,2,2,Kawasaki Frontale,Match Finished
+2024-04-28T06:00:00+00:00,2024,J1 League,Japan,Urawa,2,1,Nagoya Grampus,Match Finished
+2024-04-28T06:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,1,1,Sagan Tosu,Match Finished
+2024-04-28T06:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,1,2,Kashima,Match Finished
+2024-05-03T05:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,1,1,Jubilo Iwata,Match Finished
+2024-05-03T05:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,1,1,Sanfrecce Hiroshima,Match Finished
+2024-05-03T06:00:00+00:00,2024,J1 League,Japan,Kashima,3,1,Shonan Bellmare,Match Finished
+2024-05-03T06:00:00+00:00,2024,J1 League,Japan,FC Tokyo,2,1,Kyoto Sanga,Match Finished
+2024-05-03T06:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,2,0,Kashiwa Reysol,Match Finished
+2024-05-03T06:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,1,1,Consadole Sapporo,Match Finished
+2024-05-03T06:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,0,2,Tokyo Verdy,Match Finished
+2024-05-03T07:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,3,1,Urawa,Match Finished
+2024-05-03T07:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,1,0,Gamba Osaka,Match Finished
+2024-05-03T10:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,0,2,Vissel Kobe,Match Finished
+2024-05-06T04:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,3,2,Jubilo Iwata,Match Finished
+2024-05-06T04:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,3,2,Albirex Niigata,Match Finished
+2024-05-06T04:05:00+00:00,2024,J1 League,Japan,Gamba Osaka,1,0,Cerezo Osaka,Match Finished
+2024-05-06T05:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,1,2,FC Tokyo,Match Finished
+2024-05-06T05:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,0,3,Machida Zelvia,Match Finished
+2024-05-06T05:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,1,1,Kawasaki Frontale,Match Finished
+2024-05-06T06:00:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,2,3,Nagoya Grampus,Match Finished
+2024-05-06T07:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,1,2,Kashima,Match Finished
+2024-05-06T07:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,2,1,Sagan Tosu,Match Finished
+2024-05-06T08:00:00+00:00,2024,J1 League,Japan,Urawa,2,1,Yokohama F. Marinos,Match Finished
+2024-06-19T10:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,3,2,Sanfrecce Hiroshima,Match Finished
+2024-05-11T05:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,2,4,Urawa,Match Finished
+2024-05-11T05:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,0,3,Sagan Tosu,Match Finished
+2024-05-11T05:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,2,3,Avispa Fukuoka,Match Finished
+2024-05-11T06:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,3,0,Consadole Sapporo,Match Finished
+2024-05-11T06:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,0,0,Machida Zelvia,Match Finished
+2024-05-11T07:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,0,1,Gamba Osaka,Match Finished
+2024-05-11T07:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,1,4,Vissel Kobe,Match Finished
+2024-05-11T08:00:00+00:00,2024,J1 League,Japan,FC Tokyo,3,3,Kashiwa Reysol,Match Finished
+2024-05-12T04:05:00+00:00,2024,J1 League,Japan,Kashima,3,3,Tokyo Verdy,Match Finished
+2024-05-15T10:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,1,0,Jubilo Iwata,Match Finished
+2024-05-15T10:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,2,1,Shonan Bellmare,Match Finished
+2024-05-15T10:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,0,0,Gamba Osaka,Match Finished
+2024-05-15T10:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,2,1,Cerezo Osaka,Match Finished
+2024-05-15T10:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,3,1,Yokohama F. Marinos,Match Finished
+2024-05-15T10:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,3,1,FC Tokyo,Match Finished
+2024-05-15T10:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,1,0,Avispa Fukuoka,Match Finished
+2024-05-15T10:00:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,1,3,Kashima,Match Finished
+2024-05-15T10:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,5,2,Kawasaki Frontale,Match Finished
+2024-05-15T10:30:00+00:00,2024,J1 League,Japan,Urawa,3,0,Kyoto Sanga,Match Finished
+2024-05-18T07:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,0,3,Cerezo Osaka,Match Finished
+2024-05-18T10:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,0,2,Nagoya Grampus,Match Finished
+2024-05-19T05:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,5,0,Tokyo Verdy,Match Finished
+2024-05-19T05:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,1,1,Urawa,Match Finished
+2024-05-19T05:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,0,5,Sanfrecce Hiroshima,Match Finished
+2024-05-19T06:00:00+00:00,2024,J1 League,Japan,Kashima,1,0,Vissel Kobe,Match Finished
+2024-05-19T06:00:00+00:00,2024,J1 League,Japan,FC Tokyo,1,1,Yokohama F. Marinos,Match Finished
+2024-05-19T06:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,3,1,Kawasaki Frontale,Match Finished
+2024-05-19T07:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,2,1,Consadole Sapporo,Match Finished
+2024-05-19T07:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,2,1,Albirex Niigata,Match Finished
+2024-05-25T05:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,0,3,Kashima,Match Finished
+2024-05-25T05:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,3,2,Shonan Bellmare,Match Finished
+2024-05-25T07:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,1,1,Kashiwa Reysol,Match Finished
+2024-07-03T10:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,0,1,Sagan Tosu,Match Finished
+2024-05-25T07:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,1,2,Avispa Fukuoka,Match Finished
+2024-05-26T05:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,0,1,Tokyo Verdy,Match Finished
+2024-05-26T06:00:00+00:00,2024,J1 League,Japan,FC Tokyo,0,1,Gamba Osaka,Match Finished
+2024-05-26T06:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,1,1,Kyoto Sanga,Match Finished
+2024-05-26T06:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,1,1,Sanfrecce Hiroshima,Match Finished
+2024-05-26T07:00:00+00:00,2024,J1 League,Japan,Urawa,1,2,Machida Zelvia,Match Finished
+2024-05-31T10:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,0,1,FC Tokyo,Match Finished
+2024-06-01T05:00:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,2,0,Jubilo Iwata,Match Finished
+2024-06-01T06:00:00+00:00,2024,J1 League,Japan,Kashima,3,2,Yokohama F. Marinos,Match Finished
+2024-06-01T06:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,1,3,Albirex Niigata,Match Finished
+2024-06-01T06:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,1,2,Gamba Osaka,Match Finished
+2024-06-01T07:00:00+00:00,2024,J1 League,Japan,Urawa,1,1,Vissel Kobe,Match Finished
+2024-06-01T10:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,1,1,Cerezo Osaka,Match Finished
+2024-06-02T04:05:00+00:00,2024,J1 League,Japan,Tokyo Verdy,5,3,Consadole Sapporo,Match Finished
+2024-06-02T08:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,2,1,Nagoya Grampus,Match Finished
+2024-06-02T10:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,0,2,Avispa Fukuoka,Match Finished
+2024-06-15T07:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,1,3,Machida Zelvia,Match Finished
+2024-06-15T09:30:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,4,1,Tokyo Verdy,Match Finished
+2024-06-15T10:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,2,0,Consadole Sapporo,Match Finished
+2024-06-15T10:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,2,1,Urawa,Match Finished
+2024-06-16T05:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,1,0,Kawasaki Frontale,Match Finished
+2024-06-16T06:30:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,2,0,Sagan Tosu,Match Finished
+2024-06-16T09:00:00+00:00,2024,J1 League,Japan,Kashima,1,1,Albirex Niigata,Match Finished
+2024-06-16T09:00:00+00:00,2024,J1 League,Japan,FC Tokyo,1,1,Jubilo Iwata,Match Finished
+2024-06-16T09:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,1,1,Shonan Bellmare,Match Finished
+2024-06-16T09:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,2,1,Kashiwa Reysol,Match Finished
+2024-06-22T06:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,0,0,Avispa Fukuoka,Match Finished
+2024-06-22T09:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,1,0,Nagoya Grampus,Match Finished
+2024-06-22T09:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,2,2,Kawasaki Frontale,Match Finished
+2024-06-22T09:30:00+00:00,2024,J1 League,Japan,Jubilo Iwata,1,1,Cerezo Osaka,Match Finished
+2024-06-22T09:30:00+00:00,2024,J1 League,Japan,Gamba Osaka,2,1,Vissel Kobe,Match Finished
+2024-06-22T10:00:00+00:00,2024,J1 League,Japan,Urawa,2,2,Kashima,Match Finished
+2024-06-22T10:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,0,1,Sanfrecce Hiroshima,Match Finished
+2024-06-22T10:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,0,1,FC Tokyo,Match Finished
+2024-06-22T10:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,3,0,Kyoto Sanga,Match Finished
+2024-06-23T05:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,0,1,Yokohama F. Marinos,Match Finished
+2024-06-26T10:00:00+00:00,2024,J1 League,Japan,Kashima,0,0,Gamba Osaka,Match Finished
+2024-06-26T10:00:00+00:00,2024,J1 League,Japan,FC Tokyo,1,0,Consadole Sapporo,Match Finished
+2024-06-26T10:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,1,1,Shonan Bellmare,Match Finished
+2024-06-26T10:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,3,0,Tokyo Verdy,Match Finished
+2024-06-26T10:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,0,1,Urawa,Match Finished
+2024-06-26T10:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,2,2,Kashiwa Reysol,Match Finished
+2024-06-26T10:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,1,0,Sagan Tosu,Match Finished
+2024-06-26T10:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,0,0,Machida Zelvia,Match Finished
+2024-06-26T10:00:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,1,1,Albirex Niigata,Match Finished
+2024-06-26T10:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,2,1,Yokohama F. Marinos,Match Finished
+2024-06-29T05:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,0,1,Albirex Niigata,Match Finished
+2024-06-29T10:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,1,1,Sanfrecce Hiroshima,Match Finished
+2024-06-29T10:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,1,2,Tokyo Verdy,Match Finished
+2024-06-30T09:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,1,3,Machida Zelvia,Match Finished
+2024-06-30T09:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,2,1,Nagoya Grampus,Match Finished
+2024-06-30T09:30:00+00:00,2024,J1 League,Japan,Urawa,3,0,Jubilo Iwata,Match Finished
+2024-06-30T09:30:00+00:00,2024,J1 League,Japan,FC Tokyo,0,1,Avispa Fukuoka,Match Finished
+2024-06-30T10:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,0,1,Kyoto Sanga,Match Finished
+2024-06-30T10:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,3,1,Kashima,Match Finished
+2024-06-30T10:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,1,4,Kashiwa Reysol,Match Finished
+2024-07-05T10:00:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,1,3,Vissel Kobe,Match Finished
+2024-07-06T09:00:00+00:00,2024,J1 League,Japan,Kashima,2,0,Consadole Sapporo,Match Finished
+2024-07-06T09:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,1,1,Cerezo Osaka,Match Finished
+2024-07-06T09:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,1,0,Nagoya Grampus,Match Finished
+2024-07-06T09:30:00+00:00,2024,J1 League,Japan,Urawa,2,3,Shonan Bellmare,Match Finished
+2024-07-06T09:30:00+00:00,2024,J1 League,Japan,Albirex Niigata,3,4,Sagan Tosu,Match Finished
+2024-07-06T09:30:00+00:00,2024,J1 League,Japan,Jubilo Iwata,2,2,Kawasaki Frontale,Match Finished
+2024-07-06T10:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,3,2,FC Tokyo,Match Finished
+2024-07-06T10:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,4,0,Yokohama F. Marinos,Match Finished
+2024-07-07T10:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,1,2,Kyoto Sanga,Match Finished
+2024-07-13T05:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,1,1,Vissel Kobe,Match Finished
+2024-07-13T10:00:00+00:00,2024,J1 League,Japan,FC Tokyo,2,0,Albirex Niigata,Match Finished
+2024-07-14T09:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,0,1,Machida Zelvia,Match Finished
+2024-07-14T09:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,2,1,Kashiwa Reysol,Match Finished
+2024-07-14T09:30:00+00:00,2024,J1 League,Japan,Kyoto Sanga,0,0,Urawa,Match Finished
+2024-07-14T09:30:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,1,0,Avispa Fukuoka,Match Finished
+2024-07-14T10:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,1,1,Cerezo Osaka,Match Finished
+2024-07-14T10:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,5,0,Jubilo Iwata,Match Finished
+2024-07-14T10:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,0,2,Gamba Osaka,Match Finished
+2024-07-14T10:30:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,4,1,Kashima,Match Finished
+2024-07-20T09:00:00+00:00,2024,J1 League,Japan,Kashima,2,1,FC Tokyo,Match Finished
+2024-07-20T09:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,1,2,Yokohama F. Marinos,Match Finished
+2024-07-20T10:00:00+00:00,2024,J1 League,Japan,Urawa,3,4,Consadole Sapporo,Match Finished
+2024-07-20T10:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,2,3,Kawasaki Frontale,Match Finished
+2024-07-20T10:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,1,2,Kyoto Sanga,Match Finished
+2024-07-20T10:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,0,1,Shonan Bellmare,Match Finished
+2024-07-20T10:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,1,2,Albirex Niigata,Match Finished
+2024-07-20T10:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,3,3,Nagoya Grampus,Match Finished
+2024-07-20T10:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,0,1,Tokyo Verdy,Match Finished
+2024-07-21T10:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,1,4,Sanfrecce Hiroshima,Match Finished
+2024-08-07T10:00:00+00:00,2024,J1 League,Japan,Kashima,3,0,Sagan Tosu,Match Finished
+2024-08-07T10:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,0,1,Sanfrecce Hiroshima,Match Finished
+2024-08-07T10:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,3,0,Vissel Kobe,Match Finished
+2024-08-07T10:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,1,1,Avispa Fukuoka,Match Finished
+2024-08-07T10:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,2,2,Jubilo Iwata,Match Finished
+2024-08-07T10:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,3,2,Nagoya Grampus,Match Finished
+2024-08-07T10:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,0,0,FC Tokyo,Match Finished
+2024-08-07T10:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,0,0,Machida Zelvia,Match Finished
+2024-08-07T10:30:00+00:00,2024,J1 League,Japan,Urawa,,,Kashiwa Reysol,Match Postponed
+2024-08-07T10:30:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,3,2,Consadole Sapporo,Match Finished
+2024-08-10T05:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,2,2,Avispa Fukuoka,Match Finished
+2024-08-11T09:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,0,1,Shonan Bellmare,Match Finished
+2024-08-11T09:30:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,2,0,Cerezo Osaka,Match Finished
+2024-08-11T10:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,0,0,Gamba Osaka,Match Finished
+2024-08-11T10:00:00+00:00,2024,J1 League,Japan,FC Tokyo,0,3,Kawasaki Frontale,Match Finished
+2024-08-11T10:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,2,1,Kashima,Match Finished
+2024-08-11T10:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,1,0,Tokyo Verdy,Match Finished
+2024-08-11T10:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,1,1,Urawa,Match Finished
+2024-08-11T10:30:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,1,2,Vissel Kobe,Match Finished
+2024-08-12T10:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,2,0,Kyoto Sanga,Match Finished
+2024-08-16T10:30:00+00:00,2024,J1 League,Japan,Consadole Sapporo,,,Sagan Tosu,Not Started
+2024-08-17T09:00:00+00:00,2024,J1 League,Japan,Kashima,,,Urawa,Not Started
+2024-08-17T09:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,,,Jubilo Iwata,Not Started
+2024-08-17T10:00:00+00:00,2024,J1 League,Japan,FC Tokyo,,,Tokyo Verdy,Not Started
+2024-08-17T10:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,,,Yokohama F. Marinos,Not Started
+2024-08-17T10:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,,,Kashiwa Reysol,Not Started
+2024-08-17T10:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,,,Sanfrecce Hiroshima,Not Started
+2024-08-17T10:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,,,Kyoto Sanga,Not Started
+2024-08-17T10:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,,,Gamba Osaka,Not Started
+2024-08-17T10:30:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,,,Albirex Niigata,Not Started
+2024-08-24T09:30:00+00:00,2024,J1 League,Japan,Gamba Osaka,,,Avispa Fukuoka,Not Started
+2024-08-24T10:00:00+00:00,2024,J1 League,Japan,Urawa,,,Kawasaki Frontale,Not Started
+2024-08-24T10:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,,,Cerezo Osaka,Not Started
+2024-08-24T10:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,,,Nagoya Grampus,Not Started
+2024-08-24T10:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,,,FC Tokyo,Not Started
+2024-08-25T09:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,,,Kashima,Not Started
+2024-08-25T09:30:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,,,Kashiwa Reysol,Not Started
+2024-08-25T10:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,,,Machida Zelvia,Not Started
+2024-08-25T10:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,,,Consadole Sapporo,Not Started
+2024-08-25T10:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,,,Sagan Tosu,Not Started
+2024-08-31T09:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,,,Urawa,Not Started
+2024-08-31T09:30:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,,,FC Tokyo,Not Started
+2024-08-31T10:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,,,Tokyo Verdy,Not Started
+2024-08-31T10:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,,,Yokohama F. Marinos,Not Started
+2024-08-31T10:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,,,Albirex Niigata,Not Started
+2024-08-31T10:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,,,Kashima,Not Started
+2024-08-31T10:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,,,Gamba Osaka,Not Started
+2024-08-31T10:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,,,Shonan Bellmare,Not Started
+2024-09-01T05:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,,,Kawasaki Frontale,Not Started
+2024-09-01T10:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,,,Vissel Kobe,Not Started
+2024-09-14T05:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,,,Tokyo Verdy,Not Started
+2024-09-14T09:00:00+00:00,2024,J1 League,Japan,Kashima,,,Sanfrecce Hiroshima,Not Started
+2024-09-14T10:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,,,Jubilo Iwata,Not Started
+2024-09-14T10:00:00+00:00,2024,J1 League,Japan,FC Tokyo,,,Nagoya Grampus,Not Started
+2024-09-14T00:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,,,Sagan Tosu,Time to be defined
+2024-09-14T10:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,,,Kyoto Sanga,Not Started
+2024-09-14T10:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,,,Shonan Bellmare,Not Started
+2024-09-14T10:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,,,Urawa,Not Started
+2024-09-14T10:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,,,Cerezo Osaka,Not Started
+2024-09-14T09:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,,,Machida Zelvia,Not Started
+2024-09-21T09:00:00+00:00,2024,J1 League,Japan,Kashima,,,Kashiwa Reysol,Not Started
+2024-09-21T10:00:00+00:00,2024,J1 League,Japan,Urawa,,,FC Tokyo,Not Started
+2024-09-22T09:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,,,Sagan Tosu,Not Started
+2024-09-21T10:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,,,Consadole Sapporo,Not Started
+2024-09-22T10:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,,,Cerezo Osaka,Not Started
+2024-09-22T09:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,,,Vissel Kobe,Not Started
+2024-09-21T10:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,,,Avispa Fukuoka,Not Started
+2024-09-22T07:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,,,Kawasaki Frontale,Not Started
+2024-09-22T10:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,,,Gamba Osaka,Not Started
+2024-09-22T09:30:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,,,Yokohama F. Marinos,Not Started
+2024-09-28T04:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,,,Kyoto Sanga,Not Started
+2024-09-28T00:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,,,Albirex Niigata,Time to be defined
+2024-09-28T08:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,,,FC Tokyo,Not Started
+2024-09-28T10:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,,,Kashima,Not Started
+2024-09-28T07:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,,,Jubilo Iwata,Not Started
+2024-09-28T08:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,,,Tokyo Verdy,Not Started
+2024-09-28T09:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,,,Kashiwa Reysol,Not Started
+2024-09-28T10:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,,,Urawa,Not Started
+2024-09-28T10:00:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,,,Machida Zelvia,Not Started
+2024-09-28T10:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,,,Avispa Fukuoka,Not Started
+2024-10-04T10:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,,,Nagoya Grampus,Not Started
+2024-10-05T07:00:00+00:00,2024,J1 League,Japan,Urawa,,,Cerezo Osaka,Not Started
+2024-10-05T07:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,,,Yokohama F. Marinos,Not Started
+2024-10-05T06:00:00+00:00,2024,J1 League,Japan,FC Tokyo,,,Sagan Tosu,Not Started
+2024-10-06T07:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,,,Shonan Bellmare,Not Started
+2024-10-05T06:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,,,Kawasaki Frontale,Not Started
+2024-10-05T05:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,,,Kashima,Not Started
+2024-10-05T07:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,,,Sanfrecce Hiroshima,Not Started
+2024-10-06T05:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,,,Vissel Kobe,Not Started
+2024-10-05T08:30:00+00:00,2024,J1 League,Japan,Gamba Osaka,,,Consadole Sapporo,Not Started
+2024-10-19T05:00:00+00:00,2024,J1 League,Japan,Kashima,,,Avispa Fukuoka,Not Started
+2024-10-19T05:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,,,Machida Zelvia,Not Started
+2024-10-19T08:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,,,Urawa,Not Started
+2024-10-19T00:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,,,Gamba Osaka,Time to be defined
+2024-10-19T05:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,,,Albirex Niigata,Not Started
+2024-10-19T06:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,,,Sanfrecce Hiroshima,Not Started
+2024-10-19T05:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,,,Consadole Sapporo,Not Started
+2024-10-19T05:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,,,Sagan Tosu,Not Started
+2024-10-19T06:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,,,Jubilo Iwata,Not Started
+2024-10-19T05:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,,,FC Tokyo,Not Started
+2024-11-03T04:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,,,Cerezo Osaka,Not Started
+2024-11-03T05:00:00+00:00,2024,J1 League,Japan,FC Tokyo,,,Shonan Bellmare,Not Started
+2024-11-01T10:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,,,Kashima,Not Started
+2024-11-03T05:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,,,Urawa,Not Started
+2024-11-03T05:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,,,Tokyo Verdy,Not Started
+2024-11-03T05:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,,,Nagoya Grampus,Not Started
+2024-11-03T05:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,,,Jubilo Iwata,Not Started
+2024-11-03T00:00:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,,,Kyoto Sanga,Time to be defined
+2024-11-03T06:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,,,Kashiwa Reysol,Not Started
+2024-11-03T05:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,,,Machida Zelvia,Not Started
+2024-11-09T05:00:00+00:00,2024,J1 League,Japan,Kashima,,,Nagoya Grampus,Not Started
+2024-11-09T05:00:00+00:00,2024,J1 League,Japan,Urawa,,,Sanfrecce Hiroshima,Not Started
+2024-11-09T06:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,,,Albirex Niigata,Not Started
+2024-11-09T05:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,,,Vissel Kobe,Not Started
+2024-11-09T05:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,,,FC Tokyo,Not Started
+2024-11-09T05:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,,,Consadole Sapporo,Not Started
+2024-11-09T06:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,,,Gamba Osaka,Not Started
+2024-11-09T05:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,,,Kawasaki Frontale,Not Started
+2024-11-09T06:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,,,Avispa Fukuoka,Not Started
+2024-11-09T05:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,,,Yokohama F. Marinos,Not Started
+2024-11-30T05:00:00+00:00,2024,J1 League,Japan,Kashiwa Reysol,,,Vissel Kobe,Not Started
+2024-11-30T05:00:00+00:00,2024,J1 League,Japan,Tokyo Verdy,,,Kawasaki Frontale,Not Started
+2024-11-30T05:00:00+00:00,2024,J1 League,Japan,Machida Zelvia,,,Kyoto Sanga,Not Started
+2024-11-30T05:00:00+00:00,2024,J1 League,Japan,Shonan Bellmare,,,Yokohama F. Marinos,Not Started
+2024-11-30T05:00:00+00:00,2024,J1 League,Japan,Albirex Niigata,,,Gamba Osaka,Not Started
+2024-11-30T05:00:00+00:00,2024,J1 League,Japan,Jubilo Iwata,,,FC Tokyo,Not Started
+2024-11-30T05:00:00+00:00,2024,J1 League,Japan,Nagoya Grampus,,,Sagan Tosu,Not Started
+2024-11-30T05:00:00+00:00,2024,J1 League,Japan,Cerezo Osaka,,,Kashima,Not Started
+2024-11-30T05:00:00+00:00,2024,J1 League,Japan,Sanfrecce Hiroshima,,,Consadole Sapporo,Not Started
+2024-11-30T05:00:00+00:00,2024,J1 League,Japan,Avispa Fukuoka,,,Urawa,Not Started
+2024-12-08T05:00:00+00:00,2024,J1 League,Japan,Consadole Sapporo,,,Kashiwa Reysol,Not Started
+2024-12-08T05:00:00+00:00,2024,J1 League,Japan,Kashima,,,Machida Zelvia,Not Started
+2024-12-08T05:00:00+00:00,2024,J1 League,Japan,Urawa,,,Albirex Niigata,Not Started
+2024-12-08T05:00:00+00:00,2024,J1 League,Japan,FC Tokyo,,,Cerezo Osaka,Not Started
+2024-12-08T05:00:00+00:00,2024,J1 League,Japan,Kawasaki Frontale,,,Avispa Fukuoka,Not Started
+2024-12-08T05:00:00+00:00,2024,J1 League,Japan,Yokohama F. Marinos,,,Nagoya Grampus,Not Started
+2024-12-08T05:00:00+00:00,2024,J1 League,Japan,Kyoto Sanga,,,Tokyo Verdy,Not Started
+2024-12-08T05:00:00+00:00,2024,J1 League,Japan,Gamba Osaka,,,Sanfrecce Hiroshima,Not Started
+2024-12-08T05:00:00+00:00,2024,J1 League,Japan,Vissel Kobe,,,Shonan Bellmare,Not Started
+2024-12-08T05:00:00+00:00,2024,J1 League,Japan,Sagan Tosu,,,Jubilo Iwata,Not Started

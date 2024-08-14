@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-19T18:45:00+00:00,2024,Ligue 2,France,Martigues,,,Lorient,Not Started
+2024-08-16T18:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,PAU,Not Started
+2024-08-16T18:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Rodez,Not Started
+2024-08-16T18:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Annecy,Not Started
+2024-08-16T18:00:00+00:00,2024,Ligue 2,France,Amiens,,,RED Star FC 93,Not Started
+2024-08-16T18:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Laval,Not Started
+2024-08-16T18:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Estac Troyes,Not Started
+2024-08-19T18:45:00+00:00,2024,Ligue 2,France,Metz,,,Bastia,Not Started
+2024-08-17T12:30:00+00:00,2024,Ligue 2,France,Caen,,,Paris FC,Not Started
+2024-08-23T18:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Clermont Foot,Not Started
+2024-08-24T12:30:00+00:00,2024,Ligue 2,France,Lorient,,,Grenoble,Not Started
+2024-08-23T18:00:00+00:00,2024,Ligue 2,France,Rodez,,,Metz,Not Started
+2024-08-23T18:00:00+00:00,2024,Ligue 2,France,PAU,,,Caen,Not Started
+2024-08-23T18:00:00+00:00,2024,Ligue 2,France,Bastia,,,Amiens,Not Started
+2024-08-23T18:00:00+00:00,2024,Ligue 2,France,Annecy,,,Martigues,Not Started
+2024-08-23T18:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Dunkerque,Not Started
+2024-08-26T18:45:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Ajaccio,Not Started
+2024-08-23T18:00:00+00:00,2024,Ligue 2,France,Laval,,,Guingamp,Not Started
+2024-08-30T18:00:00+00:00,2024,Ligue 2,France,Grenoble,,,PAU,Not Started
+2024-08-30T18:00:00+00:00,2024,Ligue 2,France,Martigues,,,Bastia,Not Started
+2024-08-30T18:00:00+00:00,2024,Ligue 2,France,Caen,,,Annecy,Not Started
+2024-08-30T18:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Rodez,Not Started
+2024-08-30T18:00:00+00:00,2024,Ligue 2,France,Guingamp,,,RED Star FC 93,Not Started
+2024-08-30T18:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Estac Troyes,Not Started
+2024-08-31T12:30:00+00:00,2024,Ligue 2,France,Amiens,,,Lorient,Not Started
+2024-08-30T18:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Paris FC,Not Started
+2024-08-31T12:30:00+00:00,2024,Ligue 2,France,Metz,,,Laval,Not Started
+2024-09-13T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Caen,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Metz,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,Estac Troyes,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,Guingamp,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Martigues,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,Amiens,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Dunkerque,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,RED Star FC 93,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Ligue 2,France,Laval,,,Ajaccio,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,Grenoble,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,Paris FC,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Annecy,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,PAU,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Laval,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Ligue 2,France,Metz,,,Lorient,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Rodez,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,Clermont Foot,Time to be defined
+2024-09-20T00:00:00+00:00,2024,Ligue 2,France,Caen,,,Ajaccio,Time to be defined
+2024-09-24T00:00:00+00:00,2024,Ligue 2,France,Caen,,,Amiens,Time to be defined
+2024-09-24T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,Estac Troyes,Time to be defined
+2024-09-24T00:00:00+00:00,2024,Ligue 2,France,Metz,,,Martigues,Time to be defined
+2024-09-24T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Guingamp,Time to be defined
+2024-09-24T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Lorient,Time to be defined
+2024-09-24T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Grenoble,Time to be defined
+2024-09-24T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Bastia,Time to be defined
+2024-09-24T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,RED Star FC 93,Time to be defined
+2024-09-24T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,Laval,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Clermont Foot,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,Rodez,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,Annecy,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,Dunkerque,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Paris FC,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Ligue 2,France,Laval,,,PAU,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,Ajaccio,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Metz,Time to be defined
+2024-09-27T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Caen,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Guingamp,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Ligue 2,France,Caen,,,Lorient,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Ligue 2,France,Metz,,,Amiens,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Estac Troyes,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,Grenoble,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Bastia,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Martigues,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,RED Star FC 93,Time to be defined
+2024-10-04T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Laval,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,Rodez,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,PAU,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,Ajaccio,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,Annecy,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Caen,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ligue 2,France,Laval,,,Dunkerque,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Paris FC,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Metz,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,Clermont Foot,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ligue 2,France,Metz,,,Guingamp,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ligue 2,France,Caen,,,Estac Troyes,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,Lorient,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Martigues,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Grenoble,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Amiens,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Bastia,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,RED Star FC 93,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,Laval,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,Caen,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,Paris FC,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,Rodez,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Ajaccio,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Annecy,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,Dunkerque,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Metz,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Ligue 2,France,Laval,,,Clermont Foot,Time to be defined
+2024-10-29T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,PAU,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Metz,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Laval,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Lorient,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ligue 2,France,Caen,,,Bastia,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Rodez,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Grenoble,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,PAU,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Amiens,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,RED Star FC 93,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Paris FC,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,Martigues,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,Annecy,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Dunkerque,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ligue 2,France,Laval,,,Bastia,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Clermont Foot,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Estac Troyes,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ligue 2,France,Metz,,,Caen,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,Guingamp,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,Lorient,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Grenoble,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Metz,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ligue 2,France,Caen,,,Rodez,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Amiens,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Annecy,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Ajaccio,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ligue 2,France,PAU,,,RED Star FC 93,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,Laval,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,Guingamp,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,PAU,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Amiens,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Paris FC,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,Clermont Foot,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ligue 2,France,Metz,,,Dunkerque,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Bastia,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,Estac Troyes,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Ligue 2,France,Laval,,,Caen,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Martigues,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,Paris FC,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Rodez,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,Guingamp,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Ajaccio,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,Metz,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Caen,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Grenoble,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,Laval,Time to be defined
+2025-01-04T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Martigues,Time to be defined
+2025-01-04T00:00:00+00:00,2024,Ligue 2,France,Metz,,,PAU,Time to be defined
+2025-01-04T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Bastia,Time to be defined
+2025-01-04T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Annecy,Time to be defined
+2025-01-04T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Dunkerque,Time to be defined
+2025-01-04T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,RED Star FC 93,Time to be defined
+2025-01-04T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,Estac Troyes,Time to be defined
+2025-01-04T00:00:00+00:00,2024,Ligue 2,France,Caen,,,Clermont Foot,Time to be defined
+2025-01-04T00:00:00+00:00,2024,Ligue 2,France,Laval,,,Lorient,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Ligue 2,France,Caen,,,Grenoble,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,Estac Troyes,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,Metz,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,Clermont Foot,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Amiens,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,Ajaccio,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,Guingamp,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Dunkerque,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Ligue 2,France,Laval,,,RED Star FC 93,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Rodez,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Martigues,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,Bastia,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Lorient,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,PAU,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Laval,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Ligue 2,France,Metz,,,Paris FC,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Annecy,Time to be defined
+2025-01-18T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Caen,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Ligue 2,France,Caen,,,Guingamp,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Ligue 2,France,Metz,,,Grenoble,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Ligue 2,France,Laval,,,Estac Troyes,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,Clermont Foot,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,Amiens,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,PAU,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,Ajaccio,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,Dunkerque,Time to be defined
+2025-01-25T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,RED Star FC 93,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Paris FC,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Rodez,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,Annecy,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Martigues,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Lorient,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Laval,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Caen,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,Metz,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Ajaccio,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,Estac Troyes,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,Amiens,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ligue 2,France,Metz,,,Clermont Foot,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,PAU,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,Bastia,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Guingamp,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ligue 2,France,Caen,,,Dunkerque,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,RED Star FC 93,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Ligue 2,France,Laval,,,Annecy,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Rodez,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,Grenoble,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,Caen,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Paris FC,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Martigues,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Laval,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Lorient,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Metz,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Bastia,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,Laval,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ligue 2,France,Metz,,,Ajaccio,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Estac Troyes,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ligue 2,France,Caen,,,PAU,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Guingamp,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,Amiens,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,Annecy,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Clermont Foot,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,RED Star FC 93,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,Rodez,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Grenoble,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,Paris FC,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Dunkerque,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Guingamp,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ligue 2,France,Laval,,,Martigues,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Bastia,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,Metz,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Caen,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Clermont Foot,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ligue 2,France,Caen,,,Laval,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Estac Troyes,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Lorient,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,Martigues,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Ajaccio,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ligue 2,France,Metz,,,Annecy,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,Dunkerque,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Amiens,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,PAU,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Grenoble,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,Rodez,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Metz,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,RED Star FC 93,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ligue 2,France,Laval,,,Paris FC,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Guingamp,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,Caen,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,Bastia,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Lorient,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Caen,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Amiens,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ligue 2,France,Metz,,,Estac Troyes,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,Ajaccio,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Annecy,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,Dunkerque,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Rodez,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Laval,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,Martigues,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,PAU,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Amiens,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,Bastia,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Guingamp,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ligue 2,France,Laval,,,Grenoble,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ligue 2,France,Caen,,,Metz,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Clermont Foot,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,RED Star FC 93,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Lorient,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Ajaccio,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,Caen,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,Metz,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Clermont Foot,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Paris FC,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,Dunkerque,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Annecy,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,Laval,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ligue 2,France,Caen,,,Martigues,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,Guingamp,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Bastia,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,PAU,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,Lorient,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Grenoble,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ligue 2,France,Metz,,,RED Star FC 93,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ligue 2,France,Laval,,,Rodez,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Estac Troyes,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,Caen,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Dunkerque,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,Paris FC,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Martigues,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Metz,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,Grenoble,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,Ajaccio,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Clermont Foot,Time to be defined
+2025-04-26T00:00:00+00:00,2024,Ligue 2,France,Laval,,,Amiens,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ligue 2,France,Metz,,,Rodez,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ligue 2,France,Martigues,,,Paris FC,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ligue 2,France,Amiens,,,PAU,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ligue 2,France,Guingamp,,,Bastia,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ligue 2,France,Clermont Foot,,,Annecy,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ligue 2,France,Caen,,,RED Star FC 93,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ligue 2,France,Dunkerque,,,Laval,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ligue 2,France,Grenoble,,,Estac Troyes,Time to be defined
+2025-05-03T00:00:00+00:00,2024,Ligue 2,France,Ajaccio,,,Lorient,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ligue 2,France,Estac Troyes,,,Amiens,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ligue 2,France,Bastia,,,Caen,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ligue 2,France,Laval,,,Metz,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ligue 2,France,Rodez,,,Clermont Foot,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ligue 2,France,Lorient,,,Martigues,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ligue 2,France,PAU,,,Guingamp,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ligue 2,France,Paris FC,,,Ajaccio,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ligue 2,France,Annecy,,,Grenoble,Time to be defined
+2025-05-10T00:00:00+00:00,2024,Ligue 2,France,RED Star FC 93,,,Dunkerque,Time to be defined

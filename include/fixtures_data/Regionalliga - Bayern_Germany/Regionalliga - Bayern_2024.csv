@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-18T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,0,1,Bayern München II,Match Finished
+2024-07-19T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,1,4,Nürnberg II,Match Finished
+2024-07-19T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,2,1,Viktoria Aschaffenburg,Match Finished
+2024-07-19T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,2,0,Aubstadt,Match Finished
+2024-07-20T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,2,0,Buchbach,Match Finished
+2024-07-20T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,2,2,FC Wurzburger Kickers,Match Finished
+2024-07-20T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,5,0,Vilzing,Match Finished
+2024-07-20T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,2,6,Augsburg II,Match Finished
+2024-07-20T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,2,0,Hankofen-Hailing,Match Finished
+2024-07-25T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,1,3,Bayreuth,Match Finished
+2024-07-26T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,1,3,FC Schweinfurt 05,Match Finished
+2024-07-26T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,3,1,Schwaben Augsburg,Match Finished
+2024-07-26T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,1,3,Greuther Fürth II,Match Finished
+2024-07-26T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,0,0,Illertissen,Match Finished
+2024-07-26T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,0,4,Wacker Burghausen,Match Finished
+2024-07-26T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,2,2,Ansbach,Match Finished
+2024-07-26T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,2,1,Eintracht Bamberg,Match Finished
+2024-07-27T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,3,1,Türkgücü-Ataspor,Match Finished
+2024-08-02T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,1,2,Bayern München II,Match Finished
+2024-08-02T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,4,1,Viktoria Aschaffenburg,Match Finished
+2024-08-02T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,1,0,Eintracht Bamberg,Match Finished
+2024-08-02T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,2,0,FC Wurzburger Kickers,Match Finished
+2024-08-02T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,3,1,Aubstadt,Match Finished
+2024-08-02T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,3,1,Buchbach,Match Finished
+2024-08-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,3,2,Vilzing,Match Finished
+2024-08-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,1,2,Augsburg II,Match Finished
+2024-08-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,3,0,Hankofen-Hailing,Match Finished
+2024-08-09T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,5,0,Ansbach,Match Finished
+2024-08-09T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,2,1,Türkgücü-Ataspor,Match Finished
+2024-08-09T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,2,5,Schwaben Augsburg,Match Finished
+2024-08-09T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,4,2,Bayreuth,Match Finished
+2024-08-09T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,1,4,Greuther Fürth II,Match Finished
+2024-08-10T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,0,1,Illertissen,Match Finished
+2024-08-09T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,0,3,Wacker Burghausen,Match Finished
+2024-08-10T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,3,1,Nürnberg II,Match Finished
+2024-08-10T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,2,1,FC Schweinfurt 05,Match Finished
+2024-08-16T16:15:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,Vilzing,Not Started
+2024-08-16T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,FC Schweinfurt 05,Not Started
+2024-08-16T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Augsburg II,Not Started
+2024-08-16T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,Buchbach,Not Started
+2024-08-16T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,Viktoria Aschaffenburg,Not Started
+2024-08-17T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,Aubstadt,Not Started
+2024-08-17T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Hankofen-Hailing,Not Started
+2024-08-17T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Eintracht Bamberg,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,FC Wurzburger Kickers,Not Started
+2024-08-23T16:15:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,Wacker Burghausen,Not Started
+2024-08-23T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,Ansbach,Not Started
+2024-08-23T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Bayreuth,Not Started
+2024-08-23T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,Türkgücü-Ataspor,Not Started
+2024-08-24T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,Schwaben Augsburg,Not Started
+2024-08-23T16:15:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,Nürnberg II,Not Started
+2024-08-24T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Bayern München II,Not Started
+2024-08-24T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Greuther Fürth II,Not Started
+2024-08-24T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Illertissen,Not Started
+2024-08-30T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,Greuther Fürth II,Not Started
+2024-08-30T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Hankofen-Hailing,Not Started
+2024-08-30T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,FC Schweinfurt 05,Not Started
+2024-08-30T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,FC Wurzburger Kickers,Not Started
+2024-08-30T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,Vilzing,Not Started
+2024-08-31T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,Buchbach,Not Started
+2024-08-31T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Eintracht Bamberg,Not Started
+2024-09-01T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,Augsburg II,Not Started
+2024-08-31T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,Aubstadt,Not Started
+2024-09-06T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,Bayern München II,Not Started
+2024-09-06T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Türkgücü-Ataspor,Not Started
+2024-09-07T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,Ansbach,Not Started
+2024-09-06T15:45:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,Nürnberg II,Not Started
+2024-09-07T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,Viktoria Aschaffenburg,Not Started
+2024-09-07T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Bayreuth,Not Started
+2024-09-07T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Illertissen,Not Started
+2024-09-07T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Schwaben Augsburg,Not Started
+2024-09-07T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,Wacker Burghausen,Not Started
+2024-09-13T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Vilzing,Not Started
+2024-09-14T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,Illertissen,Not Started
+2024-09-13T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Augsburg II,Not Started
+2024-09-13T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,Aubstadt,Not Started
+2024-09-14T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Eintracht Bamberg,Not Started
+2024-09-14T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,FC Schweinfurt 05,Not Started
+2024-09-14T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Greuther Fürth II,Not Started
+2024-09-14T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,Hankofen-Hailing,Not Started
+2024-09-14T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,Buchbach,Not Started
+2024-09-20T15:00:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,Bayern München II,Not Started
+2024-09-21T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,FC Wurzburger Kickers,Not Started
+2024-09-20T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,Türkgücü-Ataspor,Not Started
+2024-09-20T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Wacker Burghausen,Not Started
+2024-09-21T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,Viktoria Aschaffenburg,Not Started
+2024-09-21T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,Bayreuth,Not Started
+2024-09-21T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Schwaben Augsburg,Not Started
+2024-09-21T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Ansbach,Not Started
+2024-09-21T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,Nürnberg II,Not Started
+2024-09-27T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,Türkgücü-Ataspor,Not Started
+2024-09-27T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Greuther Fürth II,Not Started
+2024-09-27T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,Illertissen,Not Started
+2024-09-27T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Hankofen-Hailing,Not Started
+2024-09-27T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,Buchbach,Not Started
+2024-09-28T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,Augsburg II,Not Started
+2024-09-28T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Aubstadt,Not Started
+2024-09-28T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,Eintracht Bamberg,Not Started
+2024-09-28T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,FC Schweinfurt 05,Not Started
+2024-10-02T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,Wacker Burghausen,Not Started
+2024-10-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,FC Wurzburger Kickers,Not Started
+2024-10-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,Vilzing,Not Started
+2024-10-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,Bayreuth,Not Started
+2024-10-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Schwaben Augsburg,Not Started
+2024-10-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Ansbach,Not Started
+2024-10-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Bayern München II,Not Started
+2024-10-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,Viktoria Aschaffenburg,Not Started
+2024-10-03T15:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Nürnberg II,Not Started
+2024-10-06T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,Schwaben Augsburg,Not Started
+2024-10-06T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Türkgücü-Ataspor,Not Started
+2024-10-06T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,Aubstadt,Not Started
+2024-10-06T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,Hankofen-Hailing,Not Started
+2024-10-06T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Buchbach,Not Started
+2024-10-06T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,FC Schweinfurt 05,Not Started
+2024-10-06T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,Greuther Fürth II,Not Started
+2024-10-06T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,Illertissen,Not Started
+2024-10-06T14:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Eintracht Bamberg,Not Started
+2024-10-11T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,Vilzing,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,Augsburg II,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,Bayreuth,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,Wacker Burghausen,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Ansbach,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,Nürnberg II,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Bayern München II,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Viktoria Aschaffenburg,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,FC Wurzburger Kickers,Not Started
+2024-10-18T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,FC Schweinfurt 05,Not Started
+2024-10-18T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,Wacker Burghausen,Not Started
+2024-10-18T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,Buchbach,Not Started
+2024-10-18T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Greuther Fürth II,Not Started
+2024-10-18T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,Illertissen,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,Hankofen-Hailing,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,Eintracht Bamberg,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,Türkgücü-Ataspor,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,Schwaben Augsburg,Not Started
+2024-10-22T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,FC Wurzburger Kickers,Not Started
+2024-10-22T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Augsburg II,Not Started
+2024-10-22T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,Hankofen-Hailing,Not Started
+2024-10-22T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Ansbach,Not Started
+2024-10-22T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,Nürnberg II,Not Started
+2024-10-22T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Bayern München II,Not Started
+2024-10-22T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,Viktoria Aschaffenburg,Not Started
+2024-10-22T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Vilzing,Not Started
+2024-10-22T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,Aubstadt,Not Started
+2024-10-25T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,FC Schweinfurt 05,Not Started
+2024-10-25T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,Schwaben Augsburg,Not Started
+2024-10-26T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,Buchbach,Not Started
+2024-10-26T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,Eintracht Bamberg,Not Started
+2024-10-26T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,Greuther Fürth II,Not Started
+2024-10-26T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Illertissen,Not Started
+2024-10-26T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Türkgücü-Ataspor,Not Started
+2024-10-26T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,Wacker Burghausen,Not Started
+2024-10-26T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,Bayreuth,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,Bayreuth,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,Wacker Burghausen,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Schwaben Augsburg,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Türkgücü-Ataspor,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,Illertissen,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,Greuther Fürth II,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,FC Schweinfurt 05,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,Eintracht Bamberg,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,Ansbach,Not Started
+2024-11-08T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,Nürnberg II,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Hankofen-Hailing,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Aubstadt,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,Augsburg II,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Vilzing,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,FC Wurzburger Kickers,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Viktoria Aschaffenburg,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,Bayern München II,Not Started
+2024-11-09T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Buchbach,Not Started
+2024-11-15T17:30:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Wacker Burghausen,Not Started
+2024-11-15T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,Türkgücü-Ataspor,Not Started
+2024-11-15T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,Nürnberg II,Not Started
+2024-11-15T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Ansbach,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Bayreuth,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,Schwaben Augsburg,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,Illertissen,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,Greuther Fürth II,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,FC Schweinfurt 05,Not Started
+2024-11-22T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,Augsburg II,Not Started
+2024-11-22T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,Bayern München II,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,Hankofen-Hailing,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Aubstadt,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Vilzing,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,FC Wurzburger Kickers,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,Viktoria Aschaffenburg,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Eintracht Bamberg,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Buchbach,Not Started
+2024-11-29T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Bayreuth,Not Started
+2024-11-29T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,Wacker Burghausen,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,Schwaben Augsburg,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,Türkgücü-Ataspor,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,Illertissen,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Greuther Fürth II,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Bayern München II,Not Started
+2024-09-17T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Nürnberg II,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,Ansbach,Not Started
+2025-02-28T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,FC Wurzburger Kickers,Not Started
+2025-02-28T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,Viktoria Aschaffenburg,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,Hankofen-Hailing,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Aubstadt,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,Augsburg II,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,Vilzing,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,FC Schweinfurt 05,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,Eintracht Bamberg,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Buchbach,Not Started
+2025-03-07T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,Nürnberg II,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Bayreuth,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,Wacker Burghausen,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,Schwaben Augsburg,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Türkgücü-Ataspor,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Illertissen,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Viktoria Aschaffenburg,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,Bayern München II,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,Ansbach,Not Started
+2025-03-14T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,Augsburg II,Not Started
+2025-03-14T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,FC Wurzburger Kickers,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,Hankofen-Hailing,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,Aubstadt,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Vilzing,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,Greuther Fürth II,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,FC Schweinfurt 05,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,Eintracht Bamberg,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Buchbach,Not Started
+2025-03-21T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,Viktoria Aschaffenburg,Not Started
+2025-03-21T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,Ansbach,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,Bayreuth,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Wacker Burghausen,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Schwaben Augsburg,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Türkgücü-Ataspor,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,FC Wurzburger Kickers,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,Bayern München II,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,Nürnberg II,Not Started
+2025-03-28T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,Hankofen-Hailing,Not Started
+2025-03-28T18:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,Vilzing,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Aubstadt,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Augsburg II,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Illertissen,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,Greuther Fürth II,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,FC Schweinfurt 05,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,Eintracht Bamberg,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,Buchbach,Not Started
+2025-04-04T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,Schwaben Augsburg,Not Started
+2025-04-04T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,Vilzing,Not Started
+2025-04-04T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,Bayern München II,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Bayreuth,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Wacker Burghausen,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,FC Wurzburger Kickers,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,Viktoria Aschaffenburg,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Nürnberg II,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Ansbach,Not Started
+2025-04-11T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,Augsburg II,Not Started
+2025-04-11T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,Türkgücü-Ataspor,Not Started
+2025-04-11T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,Eintracht Bamberg,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Hankofen-Hailing,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,Aubstadt,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Illertissen,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,Greuther Fürth II,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,FC Schweinfurt 05,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Buchbach,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,Bayreuth,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Wacker Burghausen,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,Augsburg II,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,Vilzing,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,FC Wurzburger Kickers,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Viktoria Aschaffenburg,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Bayern München II,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Nürnberg II,Not Started
+2025-04-19T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,Ansbach,Not Started
+2025-04-25T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Eintracht Bamberg,Not Started
+2025-04-25T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,Hankofen-Hailing,Not Started
+2025-04-25T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,Aubstadt,Not Started
+2025-04-25T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Schwaben Augsburg,Not Started
+2025-04-25T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,Greuther Fürth II,Not Started
+2025-04-25T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,FC Schweinfurt 05,Not Started
+2025-04-26T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,Türkgücü-Ataspor,Not Started
+2025-04-26T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,Illertissen,Not Started
+2025-04-26T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,Buchbach,Not Started
+2025-05-02T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,Aubstadt,Not Started
+2025-05-02T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Bayreuth,Not Started
+2025-05-02T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,Augsburg II,Not Started
+2025-05-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Vilzing,Not Started
+2025-05-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,FC Wurzburger Kickers,Not Started
+2025-05-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Viktoria Aschaffenburg,Not Started
+2025-05-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,Bayern München II,Not Started
+2025-05-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Nürnberg II,Not Started
+2025-05-03T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,Ansbach,Not Started
+2025-05-09T16:30:00+00:00,2024,Regionalliga - Bayern,Germany,Hankofen-Hailing,,,Bayreuth,Not Started
+2025-05-09T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayern München II,,,Türkgücü-Ataspor,Not Started
+2025-05-09T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Illertissen,Not Started
+2025-05-09T17:00:00+00:00,2024,Regionalliga - Bayern,Germany,Augsburg II,,,Eintracht Bamberg,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Ansbach,,,Wacker Burghausen,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Nürnberg II,,,Schwaben Augsburg,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Greuther Fürth II,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Vilzing,,,FC Schweinfurt 05,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Aubstadt,,,Buchbach,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Buchbach,,,Hankofen-Hailing,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Aubstadt,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Augsburg II,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Vilzing,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Illertissen,,,FC Wurzburger Kickers,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Viktoria Aschaffenburg,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Schwaben Augsburg,,,Bayern München II,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Nürnberg II,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - Bayern,Germany,Bayreuth,,,Ansbach,Not Started

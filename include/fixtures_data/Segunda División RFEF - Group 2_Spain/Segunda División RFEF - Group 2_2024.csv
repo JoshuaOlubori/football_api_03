@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-09-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,SD Logroñés,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Arenas Getxo,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Anguiano,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Barbastro,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Subiza,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Real Sociedad III,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Alfaro,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Real Zaragoza II,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Deportivo Alavés II,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Teruel,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Calahorra,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Utebo,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Vitoria,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Tudelano,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Ejea,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Izarra,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Gernika,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,UD Logroñés,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Arenas Getxo,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Anguiano,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Barbastro,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Subiza,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Real Sociedad III,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Alfaro,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Real Zaragoza II,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Deportivo Alavés II,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,UD Logroñés,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Teruel,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,SD Logroñés,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Calahorra,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Utebo,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Vitoria,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Tudelano,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Ejea,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Izarra,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Gernika,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Anguiano,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Barbastro,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Subiza,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Real Sociedad III,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Alfaro,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Real Zaragoza II,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Deportivo Alavés II,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,UD Logroñés,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Gernika,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Teruel,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Arenas Getxo,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,SD Logroñés,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Calahorra,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Utebo,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Vitoria,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Tudelano,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Ejea,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Izarra,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Barbastro,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Subiza,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Real Sociedad III,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Alfaro,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Real Zaragoza II,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Deportivo Alavés II,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,UD Logroñés,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Gernika,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Izarra,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Teruel,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Anguiano,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Arenas Getxo,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,SD Logroñés,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Calahorra,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Utebo,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Vitoria,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Tudelano,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Ejea,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Subiza,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Real Sociedad III,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Alfaro,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Real Zaragoza II,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Deportivo Alavés II,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,UD Logroñés,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Gernika,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Izarra,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Ejea,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Teruel,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Barbastro,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Anguiano,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Arenas Getxo,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,SD Logroñés,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Calahorra,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Utebo,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Vitoria,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Tudelano,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Real Sociedad III,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Alfaro,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Real Zaragoza II,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Deportivo Alavés II,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,UD Logroñés,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Gernika,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Izarra,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Ejea,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Tudelano,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Teruel,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Subiza,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Barbastro,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Anguiano,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Arenas Getxo,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,SD Logroñés,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Calahorra,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Utebo,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Vitoria,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Alfaro,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Real Zaragoza II,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Deportivo Alavés II,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,UD Logroñés,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Gernika,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Izarra,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Ejea,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Tudelano,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Vitoria,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Teruel,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Real Sociedad III,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Subiza,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Barbastro,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Anguiano,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Arenas Getxo,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,SD Logroñés,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Calahorra,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Utebo,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Real Zaragoza II,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Deportivo Alavés II,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,UD Logroñés,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Gernika,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Izarra,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Ejea,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Tudelano,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Vitoria,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Utebo,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Real Zaragoza II,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Alfaro,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Real Sociedad III,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Subiza,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Barbastro,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Anguiano,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Arenas Getxo,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,SD Logroñés,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Calahorra,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Deportivo Alavés II,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,UD Logroñés,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Gernika,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Izarra,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Ejea,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Tudelano,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Vitoria,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Utebo,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Teruel,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Calahorra,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Utebo,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Vitoria,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Tudelano,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Ejea,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Izarra,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Gernika,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,UD Logroñés,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Teruel,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,SD Logroñés,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Arenas Getxo,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Anguiano,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Barbastro,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Subiza,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Real Sociedad III,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Alfaro,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Real Zaragoza II,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Deportivo Alavés II,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,SD Logroñés,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Calahorra,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Utebo,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Vitoria,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Tudelano,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Ejea,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Izarra,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Gernika,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Teruel,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Arenas Getxo,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Anguiano,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Barbastro,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Subiza,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Real Sociedad III,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Alfaro,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Real Zaragoza II,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Deportivo Alavés II,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,UD Logroñés,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Arenas Getxo,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,SD Logroñés,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Calahorra,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Utebo,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Vitoria,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Tudelano,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Ejea,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Izarra,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Teruel,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Anguiano,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Barbastro,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Subiza,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Real Sociedad III,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Alfaro,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Real Zaragoza II,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Deportivo Alavés II,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,UD Logroñés,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Gernika,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Anguiano,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Arenas Getxo,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,SD Logroñés,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Calahorra,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Utebo,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Vitoria,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Tudelano,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Ejea,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Teruel,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Barbastro,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Subiza,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Real Sociedad III,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Alfaro,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Real Zaragoza II,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Deportivo Alavés II,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,UD Logroñés,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Gernika,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Izarra,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Barbastro,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Anguiano,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Arenas Getxo,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,SD Logroñés,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Calahorra,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Utebo,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Vitoria,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Tudelano,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Teruel,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Subiza,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Real Sociedad III,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Alfaro,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Real Zaragoza II,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Deportivo Alavés II,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,UD Logroñés,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Gernika,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Izarra,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Ejea,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Subiza,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Barbastro,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Anguiano,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Arenas Getxo,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,SD Logroñés,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Calahorra,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Utebo,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Vitoria,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Teruel,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Real Sociedad III,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Alfaro,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Real Zaragoza II,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Deportivo Alavés II,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,UD Logroñés,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Gernika,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Izarra,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Ejea,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Tudelano,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Real Sociedad III,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Subiza,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Barbastro,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Anguiano,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Arenas Getxo,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,SD Logroñés,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Calahorra,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Utebo,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Teruel,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Alfaro,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Real Zaragoza II,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Deportivo Alavés II,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,UD Logroñés,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Gernika,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Izarra,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Ejea,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Tudelano,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Vitoria,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Alfaro,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Real Sociedad III,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Subiza,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Barbastro,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Anguiano,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Arenas Getxo,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,SD Logroñés,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Calahorra,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,Teruel,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Teruel,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Alfaro,,,Deportivo Alavés II,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,UD Logroñés,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Subiza,,,Gernika,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Barbastro,,,Izarra,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Anguiano,,,Ejea,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,Tudelano,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,SD Logroñés,,,Vitoria,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Calahorra,,,Utebo,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Real Zaragoza II,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Alfaro,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Gernika,,,Real Sociedad III,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Izarra,,,Subiza,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Ejea,,,Barbastro,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Tudelano,,,Anguiano,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Vitoria,,,Arenas Getxo,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Utebo,,,SD Logroñés,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Segunda División RFEF - Group 2,Spain,Teruel,,,Calahorra,Time to be defined

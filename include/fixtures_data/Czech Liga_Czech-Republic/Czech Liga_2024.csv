@@ -1,0 +1,241 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-21T12:30:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,1,3,Slovan Liberec,Match Finished
+2024-07-20T15:00:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,0,2,Sigma Olomouc,Match Finished
+2024-07-21T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,0,0,Slavia Praha,Match Finished
+2024-07-21T18:00:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,1,0,Teplice,Match Finished
+2024-07-20T12:30:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,2,0,Mlada Boleslav,Match Finished
+2024-07-19T17:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,2,1,Pardubice,Match Finished
+2024-07-20T18:00:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,1,3,Plzen,Match Finished
+2024-07-20T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,2,1,Baník Ostrava,Match Finished
+2024-07-28T12:30:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,1,1,Sigma Olomouc,Match Finished
+2024-07-27T18:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,4,0,České Budějovice,Match Finished
+2024-07-27T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,1,4,Sparta Praha,Match Finished
+2024-07-28T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,3,0,Slovácko,Match Finished
+2024-07-27T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,0,1,Karviná,Match Finished
+2024-07-28T18:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,1,0,Hradec Králové,Match Finished
+2024-07-28T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,1,0,FK Jablonec,Match Finished
+2024-07-27T12:30:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,1,0,Bohemians 1905,Match Finished
+2024-08-02T15:30:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,0,1,Slavia Praha,Match Finished
+2024-08-03T18:00:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,2,1,Teplice,Match Finished
+2024-08-02T18:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,2,0,Dukla Praha,Match Finished
+2024-08-03T15:00:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,0,0,Plzen,Match Finished
+2024-08-03T12:30:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,0,0,Bohemians 1905,Match Finished
+2024-08-04T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,2,1,Mlada Boleslav,Match Finished
+2024-08-04T18:00:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,,,Baník Ostrava,Match Postponed
+2024-08-04T12:30:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,1,3,Pardubice,Match Finished
+2024-08-10T18:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,2,0,Sigma Olomouc,Match Finished
+2024-08-10T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,2,1,Slovan Liberec,Match Finished
+2024-08-11T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,4,0,České Budějovice,Match Finished
+2024-08-11T12:30:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,0,1,Slovácko,Match Finished
+2024-08-11T18:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,5,0,Karviná,Match Finished
+2024-08-11T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,1,0,Hradec Králové,Match Finished
+2024-08-10T12:30:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,0,2,FK Jablonec,Match Finished
+2024-08-10T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,1,2,Sparta Praha,Match Finished
+2024-08-18T12:30:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,,,Mlada Boleslav,Not Started
+2024-08-18T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,,,Pardubice,Not Started
+2024-08-17T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,,,Teplice,Not Started
+2024-08-17T18:00:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,,,Sparta Praha,Not Started
+2024-08-18T18:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,,,Baník Ostrava,Not Started
+2024-08-17T12:30:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,,,Dukla Praha,Not Started
+2024-08-17T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,,,Bohemians 1905,Not Started
+2024-08-18T15:00:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,,,Plzen,Not Started
+2024-08-24T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,,,Karviná,Not Started
+2024-08-25T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,,,Slavia Praha,Not Started
+2024-08-24T18:00:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,,,Hradec Králové,Not Started
+2024-08-25T18:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,,,Sigma Olomouc,Not Started
+2024-08-25T12:30:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,,,Slovan Liberec,Not Started
+2024-08-25T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,,,České Budějovice,Not Started
+2024-08-24T12:30:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,,,FK Jablonec,Not Started
+2024-08-24T15:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,,,Slovácko,Not Started
+2024-08-31T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,,,Plzen,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,,,Baník Ostrava,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,,,Pardubice,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,,,Mlada Boleslav,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,,,FK Jablonec,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,,,Sparta Praha,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,,,Dukla Praha,Time to be defined
+2024-08-31T00:00:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,,,Bohemians 1905,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,,,Slovan Liberec,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,,,Sigma Olomouc,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,,,Teplice,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,,,Slavia Praha,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,,,Slovácko,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,,,Karviná,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,,,Hradec Králové,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,,,České Budějovice,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,,,Bohemians 1905,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,,,Dukla Praha,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,,,Plzen,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,,,Baník Ostrava,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,,,Pardubice,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,,,Slovácko,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,,,Sparta Praha,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,,,FK Jablonec,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,,,Teplice,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,,,Mlada Boleslav,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,,,České Budějovice,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,,,Slovan Liberec,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,,,Slavia Praha,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,,,Sigma Olomouc,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,,,Hradec Králové,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,,,Karviná,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,,,FK Jablonec,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,,,Bohemians 1905,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,,,Sparta Praha,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,,,Dukla Praha,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,,,Baník Ostrava,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,,,Pardubice,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,,,Hradec Králové,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,,,Slovácko,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,,,Plzen,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,,,Pardubice,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,,,Mlada Boleslav,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,,,Slavia Praha,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,,,Slovan Liberec,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,,,Teplice,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,,,Sigma Olomouc,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,,,České Budějovice,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,,,Slovácko,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,,,FK Jablonec,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,,,Dukla Praha,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,,,Bohemians 1905,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,,,Karviná,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,,,Baník Ostrava,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,,,Sparta Praha,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,,,Hradec Králové,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,,,Mlada Boleslav,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,,,Pardubice,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,,,Baník Ostrava,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,,,Teplice,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,,,Plzen,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,,,Slavia Praha,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,,,Sigma Olomouc,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,,,Slovan Liberec,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,,,Dukla Praha,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,,,Bohemians 1905,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,,,České Budějovice,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,,,Sparta Praha,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,,,Slovácko,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,,,Hradec Králové,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,,,FK Jablonec,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,,,Karviná,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,,,Slovan Liberec,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,,,Pardubice,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,,,Slavia Praha,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,,,Mlada Boleslav,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,,,Baník Ostrava,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,,,Plzen,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,,,Teplice,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,,,Dukla Praha,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,,,Slovan Liberec,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,,,Sigma Olomouc,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,,,Sparta Praha,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,,,FK Jablonec,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,,,Slovácko,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,,,Hradec Králové,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,,,Karviná,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,,,České Budějovice,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,,,Slavia Praha,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,,,Teplice,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,,,Mlada Boleslav,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,,,Pardubice,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,,,Plzen,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,,,Baník Ostrava,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,,,Dukla Praha,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,,,Bohemians 1905,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,,,Sigma Olomouc,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,,,Slovan Liberec,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,,,Slavia Praha,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,,,FK Jablonec,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,,,Slovácko,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,,,Hradec Králové,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,,,Karviná,Time to be defined
+2024-12-14T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,,,České Budějovice,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,,,Teplice,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,,,Mlada Boleslav,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,,,Pardubice,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,,,Plzen,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,,,Baník Ostrava,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,,,Dukla Praha,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,,,Bohemians 1905,Time to be defined
+2025-02-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,,,Sparta Praha,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,,,Slovan Liberec,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,,,Sigma Olomouc,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,,,Slavia Praha,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,,,Teplice,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,,,Slovácko,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,,,Hradec Králové,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,,,Karviná,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,,,České Budějovice,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,,,Mlada Boleslav,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,,,Pardubice,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,,,Plzen,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,,,Baník Ostrava,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,,,Dukla Praha,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,,,Sparta Praha,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,,,Bohemians 1905,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,,,FK Jablonec,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,,,Slovan Liberec,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,,,Sigma Olomouc,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,,,Slavia Praha,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,,,Teplice,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,,,Mlada Boleslav,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,,,Hradec Králové,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,,,České Budějovice,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,,,Karviná,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,,,Pardubice,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,,,Plzen,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,,,Bohemians 1905,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,,,Dukla Praha,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,,,Baník Ostrava,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,,,Sparta Praha,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,,,FK Jablonec,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,,,Slovácko,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,,,Slovan Liberec,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,,,Sigma Olomouc,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,,,Slavia Praha,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,,,Teplice,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,,,Mlada Boleslav,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,,,Plzen,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,,,Karviná,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,,,České Budějovice,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,,,Baník Ostrava,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,,,Dukla Praha,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,,,Bohemians 1905,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,,,FK Jablonec,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,,,Sparta Praha,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,,,Slovácko,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,,,Hradec Králové,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,,,Karviná,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,,,Slovan Liberec,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,,,Sigma Olomouc,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,,,Slavia Praha,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,,,Teplice,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,,,Mlada Boleslav,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,,,Pardubice,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,,,Plzen,Time to be defined
+2025-03-29T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,,,České Budějovice,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,,,Dukla Praha,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,,,Bohemians 1905,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,,,Sparta Praha,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,,,FK Jablonec,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,,,Slovácko,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,,,Hradec Králové,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,,,Karviná,Time to be defined
+2025-04-05T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,,,České Budějovice,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Dukla Praha,,,Baník Ostrava,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Bohemians 1905,,,Plzen,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sparta Praha,,,Mlada Boleslav,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Czech Liga,Czech-Republic,FK Jablonec,,,Pardubice,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovácko,,,Sigma Olomouc,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Hradec Králové,,,Slovan Liberec,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Karviná,,,Slavia Praha,Time to be defined
+2025-04-12T00:00:00+00:00,2024,Czech Liga,Czech-Republic,České Budějovice,,,Teplice,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slovan Liberec,,,Karviná,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Baník Ostrava,,,Bohemians 1905,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Sigma Olomouc,,,České Budějovice,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Slavia Praha,,,Slovácko,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Teplice,,,Hradec Králové,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Mlada Boleslav,,,FK Jablonec,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Pardubice,,,Sparta Praha,Time to be defined
+2025-04-19T00:00:00+00:00,2024,Czech Liga,Czech-Republic,Plzen,,,Dukla Praha,Time to be defined

@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-22T16:10:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al-Fayha,Not Started
+2024-08-22T18:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al Riyadh,Not Started
+2024-08-22T18:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al-Raed,Not Started
+2024-08-23T16:10:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al Khaleej Saihat,Not Started
+2024-08-23T18:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al Orubah,Not Started
+2024-08-23T18:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al-Fateh,Not Started
+2024-08-24T16:10:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al-Ittihad FC,Not Started
+2024-08-24T18:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al-Hilal Saudi FC,Not Started
+2024-08-24T18:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al-Ettifaq,Not Started
+2024-08-27T15:45:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al-Ahli Jeddah,Not Started
+2024-08-27T18:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al-Qadisiyah FC,Not Started
+2024-08-27T18:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al-Nassr,Not Started
+2024-08-28T15:45:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al Akhdoud,Not Started
+2024-08-28T18:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Damac,Not Started
+2024-08-28T18:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al Orubah,Not Started
+2024-08-29T15:55:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al Kholood,Not Started
+2024-08-29T18:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al Shabab,Not Started
+2024-08-29T18:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al Taawon,Not Started
+2024-09-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al Khaleej Saihat,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al-Ahli Jeddah,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al-Hilal Saudi FC,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al Akhdoud,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al-Ettifaq,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al Shabab,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al Wehda Club,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al-Raed,Time to be defined
+2024-09-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al Orubah,Time to be defined
+2024-09-19T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al Riyadh,Time to be defined
+2024-09-19T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al Kholood,Time to be defined
+2024-09-19T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al-Fateh,Time to be defined
+2024-09-19T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al-Qadisiyah FC,Time to be defined
+2024-09-19T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al-Nassr,Time to be defined
+2024-09-19T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al-Fayha,Time to be defined
+2024-09-19T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al-Ittihad FC,Time to be defined
+2024-09-19T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Damac,Time to be defined
+2024-09-19T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al Taawon,Time to be defined
+2024-09-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al Akhdoud,Time to be defined
+2024-09-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al Wehda Club,Time to be defined
+2024-09-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al-Ahli Jeddah,Time to be defined
+2024-09-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Damac,Time to be defined
+2024-09-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al-Ettifaq,Time to be defined
+2024-09-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al-Hilal Saudi FC,Time to be defined
+2024-09-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al-Raed,Time to be defined
+2024-09-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al Khaleej Saihat,Time to be defined
+2024-09-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al Riyadh,Time to be defined
+2024-10-03T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al-Qadisiyah FC,Time to be defined
+2024-10-03T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al Shabab,Time to be defined
+2024-10-03T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al-Ittihad FC,Time to be defined
+2024-10-03T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al-Fayha,Time to be defined
+2024-10-03T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al-Hilal Saudi FC,Time to be defined
+2024-10-03T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al-Raed,Time to be defined
+2024-10-03T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al Orubah,Time to be defined
+2024-10-03T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al-Fateh,Time to be defined
+2024-10-03T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al Kholood,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al-Fayha,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al-Nassr,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al-Ahli Jeddah,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al Riyadh,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al-Qadisiyah FC,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al Taawon,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al Orubah,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al Kholood,Time to be defined
+2024-10-18T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al Wehda Club,Time to be defined
+2024-10-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al-Fateh,Time to be defined
+2024-10-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al-Ettifaq,Time to be defined
+2024-10-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al-Ittihad FC,Time to be defined
+2024-10-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al Khaleej Saihat,Time to be defined
+2024-10-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al Shabab,Time to be defined
+2024-10-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al-Nassr,Time to be defined
+2024-10-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al Taawon,Time to be defined
+2024-10-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al Akhdoud,Time to be defined
+2024-10-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Damac,Time to be defined
+2024-10-31T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al-Raed,Time to be defined
+2024-10-31T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al Kholood,Time to be defined
+2024-10-31T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al-Ahli Jeddah,Time to be defined
+2024-10-31T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al Orubah,Time to be defined
+2024-10-31T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al-Hilal Saudi FC,Time to be defined
+2024-10-31T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al-Fayha,Time to be defined
+2024-10-31T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al Wehda Club,Time to be defined
+2024-10-31T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al-Qadisiyah FC,Time to be defined
+2024-10-31T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al Riyadh,Time to be defined
+2024-11-07T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al-Fayha,Time to be defined
+2024-11-07T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al Khaleej Saihat,Time to be defined
+2024-11-07T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al-Ittihad FC,Time to be defined
+2024-11-07T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Damac,Time to be defined
+2024-11-07T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al-Ettifaq,Time to be defined
+2024-11-07T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al Shabab,Time to be defined
+2024-11-07T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al-Raed,Time to be defined
+2024-11-07T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al Akhdoud,Time to be defined
+2024-11-07T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al-Nassr,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al-Qadisiyah FC,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al-Ahli Jeddah,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al-Hilal Saudi FC,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al Orubah,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al Taawon,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al Shabab,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al-Fateh,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al Kholood,Time to be defined
+2024-11-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al-Ettifaq,Time to be defined
+2024-11-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al Khaleej Saihat,Time to be defined
+2024-11-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al-Ittihad FC,Time to be defined
+2024-11-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al Kholood,Time to be defined
+2024-11-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al Wehda Club,Time to be defined
+2024-11-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Damac,Time to be defined
+2024-11-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al-Hilal Saudi FC,Time to be defined
+2024-11-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al Taawon,Time to be defined
+2024-11-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al Riyadh,Time to be defined
+2024-11-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al Orubah,Time to be defined
+2024-12-05T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al Riyadh,Time to be defined
+2024-12-05T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al-Fayha,Time to be defined
+2024-12-05T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al-Ettifaq,Time to be defined
+2024-12-05T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al Akhdoud,Time to be defined
+2024-12-05T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al-Nassr,Time to be defined
+2024-12-05T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al-Qadisiyah FC,Time to be defined
+2024-12-05T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al-Ahli Jeddah,Time to be defined
+2024-12-05T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al-Raed,Time to be defined
+2024-12-05T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al-Fateh,Time to be defined
+2025-01-09T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al Wehda Club,Time to be defined
+2025-01-09T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al Shabab,Time to be defined
+2025-01-09T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al Taawon,Time to be defined
+2025-01-09T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al Khaleej Saihat,Time to be defined
+2025-01-09T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al Kholood,Time to be defined
+2025-01-09T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al-Ittihad FC,Time to be defined
+2025-01-09T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al-Hilal Saudi FC,Time to be defined
+2025-01-09T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al Akhdoud,Time to be defined
+2025-01-09T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Damac,Time to be defined
+2025-01-16T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al Riyadh,Time to be defined
+2025-01-16T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al-Fateh,Time to be defined
+2025-01-16T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al-Qadisiyah FC,Time to be defined
+2025-01-16T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al-Fayha,Time to be defined
+2025-01-16T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al-Nassr,Time to be defined
+2025-01-16T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al-Ettifaq,Time to be defined
+2025-01-16T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al-Ahli Jeddah,Time to be defined
+2025-01-16T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al-Raed,Time to be defined
+2025-01-16T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al Orubah,Time to be defined
+2025-01-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al Akhdoud,Time to be defined
+2025-01-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al Taawon,Time to be defined
+2025-01-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al-Qadisiyah FC,Time to be defined
+2025-01-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al Kholood,Time to be defined
+2025-01-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al Shabab,Time to be defined
+2025-01-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al-Nassr,Time to be defined
+2025-01-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al-Ahli Jeddah,Time to be defined
+2025-01-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al Wehda Club,Time to be defined
+2025-01-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Damac,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al-Fayha,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al Orubah,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al-Raed,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al Khaleej Saihat,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al-Ittihad FC,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al-Hilal Saudi FC,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al-Fateh,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al Riyadh,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al-Ettifaq,Time to be defined
+2025-01-30T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al Taawon,Time to be defined
+2025-01-30T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al Akhdoud,Time to be defined
+2025-01-30T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al Kholood,Time to be defined
+2025-01-30T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al-Ahli Jeddah,Time to be defined
+2025-01-30T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al-Nassr,Time to be defined
+2025-01-30T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al-Qadisiyah FC,Time to be defined
+2025-01-30T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al Shabab,Time to be defined
+2025-01-30T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Damac,Time to be defined
+2025-01-30T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al Wehda Club,Time to be defined
+2025-02-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al Khaleej Saihat,Time to be defined
+2025-02-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al-Ittihad FC,Time to be defined
+2025-02-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al-Ettifaq,Time to be defined
+2025-02-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al Wehda Club,Time to be defined
+2025-02-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al-Hilal Saudi FC,Time to be defined
+2025-02-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al-Fateh,Time to be defined
+2025-02-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al-Fayha,Time to be defined
+2025-02-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al-Raed,Time to be defined
+2025-02-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al Riyadh,Time to be defined
+2025-02-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al-Fayha,Time to be defined
+2025-02-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al-Ittihad FC,Time to be defined
+2025-02-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al-Qadisiyah FC,Time to be defined
+2025-02-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Damac,Time to be defined
+2025-02-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al-Nassr,Time to be defined
+2025-02-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al Riyadh,Time to be defined
+2025-02-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al-Fateh,Time to be defined
+2025-02-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al Taawon,Time to be defined
+2025-02-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al Kholood,Time to be defined
+2025-02-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al Wehda Club,Time to be defined
+2025-02-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al-Raed,Time to be defined
+2025-02-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al Orubah,Time to be defined
+2025-02-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al-Ettifaq,Time to be defined
+2025-02-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al-Hilal Saudi FC,Time to be defined
+2025-02-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al-Ahli Jeddah,Time to be defined
+2025-02-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al Shabab,Time to be defined
+2025-02-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al Khaleej Saihat,Time to be defined
+2025-02-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al Akhdoud,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al Orubah,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al-Nassr,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al Kholood,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al-Fayha,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al Taawon,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al-Qadisiyah FC,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al-Ittihad FC,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al-Fateh,Time to be defined
+2025-02-24T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al Shabab,Time to be defined
+2025-02-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al Wehda Club,Time to be defined
+2025-02-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al-Nassr,Time to be defined
+2025-02-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al-Ahli Jeddah,Time to be defined
+2025-02-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al Khaleej Saihat,Time to be defined
+2025-02-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al Taawon,Time to be defined
+2025-02-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al-Ettifaq,Time to be defined
+2025-02-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al Akhdoud,Time to be defined
+2025-02-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Damac,Time to be defined
+2025-02-28T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al Riyadh,Time to be defined
+2025-03-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al Akhdoud,Time to be defined
+2025-03-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al-Ittihad FC,Time to be defined
+2025-03-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al-Ettifaq,Time to be defined
+2025-03-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al Khaleej Saihat,Time to be defined
+2025-03-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al-Hilal Saudi FC,Time to be defined
+2025-03-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al Shabab,Time to be defined
+2025-03-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al-Fateh,Time to be defined
+2025-03-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Damac,Time to be defined
+2025-03-06T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al-Raed,Time to be defined
+2025-03-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al Riyadh,Time to be defined
+2025-03-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al-Fayha,Time to be defined
+2025-03-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al Orubah,Time to be defined
+2025-03-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al Wehda Club,Time to be defined
+2025-03-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al-Raed,Time to be defined
+2025-03-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al-Qadisiyah FC,Time to be defined
+2025-03-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al Kholood,Time to be defined
+2025-03-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al-Hilal Saudi FC,Time to be defined
+2025-03-13T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al-Ahli Jeddah,Time to be defined
+2025-04-04T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al Akhdoud,Time to be defined
+2025-04-04T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al-Nassr,Time to be defined
+2025-04-04T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al Shabab,Time to be defined
+2025-04-04T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Damac,Time to be defined
+2025-04-04T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al Taawon,Time to be defined
+2025-04-04T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al-Ittihad FC,Time to be defined
+2025-04-04T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al-Fateh,Time to be defined
+2025-04-04T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al-Ettifaq,Time to be defined
+2025-04-04T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al Khaleej Saihat,Time to be defined
+2025-04-10T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al Wehda Club,Time to be defined
+2025-04-10T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al-Hilal Saudi FC,Time to be defined
+2025-04-10T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al Kholood,Time to be defined
+2025-04-10T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al-Fateh,Time to be defined
+2025-04-10T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al-Ahli Jeddah,Time to be defined
+2025-04-10T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al-Qadisiyah FC,Time to be defined
+2025-04-10T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al Orubah,Time to be defined
+2025-04-10T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al Taawon,Time to be defined
+2025-04-10T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al Riyadh,Time to be defined
+2025-04-17T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al Riyadh,Time to be defined
+2025-04-17T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Damac,Time to be defined
+2025-04-17T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al Khaleej Saihat,Time to be defined
+2025-04-17T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al-Raed,Time to be defined
+2025-04-17T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al-Nassr,Time to be defined
+2025-04-17T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al-Ittihad FC,Time to be defined
+2025-04-17T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al-Fayha,Time to be defined
+2025-04-17T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al Wehda Club,Time to be defined
+2025-04-17T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al Akhdoud,Time to be defined
+2025-04-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al Shabab,Time to be defined
+2025-04-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al-Nassr,Time to be defined
+2025-04-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al-Ahli Jeddah,Time to be defined
+2025-04-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al-Fateh,Time to be defined
+2025-04-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al-Ettifaq,Time to be defined
+2025-04-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al-Raed,Time to be defined
+2025-04-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al-Qadisiyah FC,Time to be defined
+2025-04-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al-Fayha,Time to be defined
+2025-04-22T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al Akhdoud,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al Wehda Club,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al Taawon,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al Kholood,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al Orubah,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al-Hilal Saudi FC,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al Shabab,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al-Ittihad FC,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Damac,Time to be defined
+2025-05-01T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al Khaleej Saihat,Time to be defined
+2025-05-08T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al Riyadh,Time to be defined
+2025-05-08T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al-Ettifaq,Time to be defined
+2025-05-08T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al-Raed,Time to be defined
+2025-05-08T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al-Fateh,Time to be defined
+2025-05-08T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al-Ahli Jeddah,Time to be defined
+2025-05-08T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al-Qadisiyah FC,Time to be defined
+2025-05-08T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al Orubah,Time to be defined
+2025-05-08T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al-Nassr,Time to be defined
+2025-05-08T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al-Fayha,Time to be defined
+2025-05-14T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al Akhdoud,Time to be defined
+2025-05-14T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al Taawon,Time to be defined
+2025-05-14T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al-Ittihad FC,Time to be defined
+2025-05-14T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al Khaleej Saihat,Time to be defined
+2025-05-14T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al-Hilal Saudi FC,Time to be defined
+2025-05-14T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al Kholood,Time to be defined
+2025-05-14T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Damac,Time to be defined
+2025-05-14T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al Shabab,Time to be defined
+2025-05-14T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al Wehda Club,Time to be defined
+2025-05-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Damac,,,Al-Fateh,Time to be defined
+2025-05-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al-Ettifaq,Time to be defined
+2025-05-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Nassr,,,Al Khaleej Saihat,Time to be defined
+2025-05-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Taawon,,,Al Riyadh,Time to be defined
+2025-05-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Shabab,,,Al-Ittihad FC,Time to be defined
+2025-05-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Akhdoud,,,Al-Raed,Time to be defined
+2025-05-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Wehda Club,,,Al-Hilal Saudi FC,Time to be defined
+2025-05-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Kholood,,,Al-Fayha,Time to be defined
+2025-05-20T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Qadisiyah FC,,,Al Orubah,Time to be defined
+2025-05-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al Akhdoud,Time to be defined
+2025-05-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fateh,,,Al-Nassr,Time to be defined
+2025-05-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Damac,Time to be defined
+2025-05-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Raed,,,Al Kholood,Time to be defined
+2025-05-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Orubah,,,Al Taawon,Time to be defined
+2025-05-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Fayha,,,Al Shabab,Time to be defined
+2025-05-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al-Qadisiyah FC,Time to be defined
+2025-05-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al Riyadh,,,Al-Ahli Jeddah,Time to be defined
+2025-05-26T00:00:00+00:00,2024,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al Wehda Club,Time to be defined

@@ -1,0 +1,463 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,1,0,Walton & Hersham,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,0,0,Poole Town,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,4,1,Hungerford Town,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,1,1,Havant & Wville,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,0,1,Frome Town,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,1,1,Winchester City,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,6,0,Tiverton Town,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,0,1,Basingstoke Town,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,1,2,Sholing,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,3,3,Gloucester City,Match Finished
+2024-08-10T14:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,1,0,Hanwell Town,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,3,0,Swindon Supermarine,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,0,2,Merthyr Town,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,3,2,Plymouth Parkway,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,3,1,Bracknell Town,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,5,2,Gosport Borough,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,1,0,Taunton Town,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Southern South,England,Sholing,0,3,AFC Totton,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,1,1,Dorchester Town,Match Finished
+2024-08-13T18:45:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,3,0,Marlow,Match Finished
+2024-08-14T18:45:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Wimborne Town,Not Started
+2024-08-14T18:45:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Chertsey Town,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Dorchester Town,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Bracknell Town,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Wimborne Town,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Swindon Supermarine,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Plymouth Parkway,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Taunton Town,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,AFC Totton,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Marlow,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Chertsey Town,Not Started
+2024-08-17T14:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Merthyr Town,Not Started
+2024-08-18T14:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Gosport Borough,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Hungerford Town,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Tiverton Town,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Frome Town,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Gloucester City,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Basingstoke Town,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Poole Town,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Hanwell Town,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Winchester City,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Havant & Wville,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Sholing,Not Started
+2024-08-24T14:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Walton & Hersham,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Bracknell Town,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Taunton Town,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Merthyr Town,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Marlow,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,AFC Totton,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Swindon Supermarine,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Wimborne Town,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Gosport Borough,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Plymouth Parkway,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Chertsey Town,Not Started
+2024-08-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Dorchester Town,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Basingstoke Town,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Havant & Wville,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Winchester City,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Frome Town,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Tiverton Town,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Gloucester City,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Sholing,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Walton & Hersham,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Poole Town,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Hanwell Town,Not Started
+2024-09-07T14:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Hungerford Town,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Wimborne Town,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Basingstoke Town,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Tiverton Town,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Hungerford Town,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Bracknell Town,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Taunton Town,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Havant & Wville,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Merthyr Town,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Hanwell Town,Not Started
+2024-09-10T18:45:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Poole Town,Not Started
+2024-09-11T18:45:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Dorchester Town,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Sholing,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,AFC Totton,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Chertsey Town,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Gloucester City,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Frome Town,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Plymouth Parkway,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Gosport Borough,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Walton & Hersham,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Marlow,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Winchester City,Not Started
+2024-09-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Swindon Supermarine,Not Started
+2024-09-24T18:30:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Gosport Borough,Not Started
+2024-09-24T18:45:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Walton & Hersham,Not Started
+2024-09-24T18:45:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Chertsey Town,Not Started
+2024-09-24T18:45:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,AFC Totton,Not Started
+2024-09-24T18:45:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Sholing,Not Started
+2024-09-24T18:45:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Frome Town,Not Started
+2024-09-24T18:45:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Winchester City,Not Started
+2024-09-24T18:45:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Plymouth Parkway,Not Started
+2024-09-24T18:45:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Swindon Supermarine,Not Started
+2024-09-24T18:45:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Gloucester City,Not Started
+2024-09-25T18:45:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Marlow,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Hanwell Town,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Merthyr Town,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Basingstoke Town,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Havant & Wville,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Bracknell Town,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Dorchester Town,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Wimborne Town,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Poole Town,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Tiverton Town,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Taunton Town,Not Started
+2024-10-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Hungerford Town,Not Started
+2024-10-15T18:30:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Tiverton Town,Not Started
+2024-10-15T18:45:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Frome Town,Not Started
+2024-10-15T18:45:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Basingstoke Town,Not Started
+2024-10-15T18:45:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Bracknell Town,Not Started
+2024-10-15T18:45:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Chertsey Town,Not Started
+2024-10-15T18:45:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,AFC Totton,Not Started
+2024-10-15T18:45:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Havant & Wville,Not Started
+2024-10-15T18:45:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Dorchester Town,Not Started
+2024-10-15T18:45:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Winchester City,Not Started
+2024-10-15T18:45:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Merthyr Town,Not Started
+2024-10-15T18:45:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Gosport Borough,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Gloucester City,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Taunton Town,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Wimborne Town,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Plymouth Parkway,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Hanwell Town,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Poole Town,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Swindon Supermarine,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Hungerford Town,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Marlow,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Sholing,Not Started
+2024-10-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Walton & Hersham,Not Started
+2024-10-22T18:45:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Taunton Town,Not Started
+2024-10-22T18:45:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Hungerford Town,Not Started
+2024-10-22T18:45:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Swindon Supermarine,Not Started
+2024-10-22T18:45:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Sholing,Not Started
+2024-10-22T18:45:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Plymouth Parkway,Not Started
+2024-10-22T18:45:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Walton & Hersham,Not Started
+2024-10-22T18:45:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Wimborne Town,Not Started
+2024-10-22T18:45:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Poole Town,Not Started
+2024-10-22T18:45:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Gloucester City,Not Started
+2024-10-23T18:45:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Marlow,Not Started
+2024-10-23T18:45:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Hanwell Town,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Basingstoke Town,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Winchester City,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Tiverton Town,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,AFC Totton,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Merthyr Town,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Gosport Borough,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Frome Town,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Dorchester Town,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Bracknell Town,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Havant & Wville,Not Started
+2024-11-02T15:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Chertsey Town,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Poole Town,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Dorchester Town,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Swindon Supermarine,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Winchester City,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,AFC Totton,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Walton & Hersham,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Havant & Wville,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Marlow,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Gloucester City,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Hanwell Town,Not Started
+2024-11-09T15:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Taunton Town,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Chertsey Town,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Merthyr Town,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Bracknell Town,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Frome Town,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Tiverton Town,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Wimborne Town,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Hungerford Town,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Plymouth Parkway,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Gosport Borough,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Sholing,Not Started
+2024-11-16T15:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Basingstoke Town,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Tiverton Town,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Gosport Borough,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Taunton Town,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Wimborne Town,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Sholing,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,AFC Totton,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Bracknell Town,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Hanwell Town,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Marlow,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Gloucester City,Not Started
+2024-11-23T15:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Havant & Wville,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Swindon Supermarine,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Merthyr Town,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Poole Town,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Plymouth Parkway,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Hungerford Town,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Basingstoke Town,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Frome Town,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Winchester City,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Chertsey Town,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Walton & Hersham,Not Started
+2024-11-30T15:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Dorchester Town,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Frome Town,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Sholing,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Poole Town,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Hungerford Town,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Gloucester City,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Tiverton Town,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Basingstoke Town,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Hanwell Town,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Walton & Hersham,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Winchester City,Not Started
+2024-12-07T15:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Havant & Wville,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Wimborne Town,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Swindon Supermarine,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Chertsey Town,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Gosport Borough,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Taunton Town,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Marlow,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Merthyr Town,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Plymouth Parkway,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,AFC Totton,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Dorchester Town,Not Started
+2024-12-14T15:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Bracknell Town,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Sholing,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Hanwell Town,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Havant & Wville,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Tiverton Town,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Hungerford Town,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Walton & Hersham,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Frome Town,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Gloucester City,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Basingstoke Town,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Poole Town,Not Started
+2024-12-21T15:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Winchester City,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Marlow,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Plymouth Parkway,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Swindon Supermarine,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Chertsey Town,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Gosport Borough,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Merthyr Town,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Dorchester Town,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Wimborne Town,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Taunton Town,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Bracknell Town,Not Started
+2024-12-26T15:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,AFC Totton,Not Started
+2024-12-28T15:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Poole Town,Not Started
+2024-12-28T15:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Frome Town,Not Started
+2024-12-28T15:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Tiverton Town,Not Started
+2024-12-28T15:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Basingstoke Town,Not Started
+2024-12-28T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Winchester City,Not Started
+2024-12-28T15:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Sholing,Not Started
+2024-12-28T15:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Walton & Hersham,Not Started
+2024-12-28T15:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Havant & Wville,Not Started
+2024-12-28T15:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Hanwell Town,Not Started
+2024-12-28T15:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Hungerford Town,Not Started
+2024-12-28T15:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Gloucester City,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Havant & Wville,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Basingstoke Town,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Walton & Hersham,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Winchester City,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Sholing,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Hanwell Town,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Gloucester City,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Tiverton Town,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Hungerford Town,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Frome Town,Not Started
+2025-01-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Poole Town,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Plymouth Parkway,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Gosport Borough,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Taunton Town,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Wimborne Town,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Dorchester Town,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Chertsey Town,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Bracknell Town,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Swindon Supermarine,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Merthyr Town,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,AFC Totton,Not Started
+2025-01-04T15:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Marlow,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Winchester City,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Gloucester City,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,AFC Totton,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Hanwell Town,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Taunton Town,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Poole Town,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Dorchester Town,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Swindon Supermarine,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Walton & Hersham,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Havant & Wville,Not Started
+2025-01-11T15:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Marlow,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Gosport Borough,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Bracknell Town,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Sholing,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Tiverton Town,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Merthyr Town,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Plymouth Parkway,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Basingstoke Town,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Chertsey Town,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Wimborne Town,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Hungerford Town,Not Started
+2025-01-18T15:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Frome Town,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Plymouth Parkway,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Hanwell Town,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Hungerford Town,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Marlow,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Sholing,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Gloucester City,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Walton & Hersham,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Poole Town,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Taunton Town,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Wimborne Town,Not Started
+2025-01-25T15:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Swindon Supermarine,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,AFC Totton,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Dorchester Town,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Havant & Wville,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Merthyr Town,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Chertsey Town,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Frome Town,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Tiverton Town,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Gosport Borough,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Basingstoke Town,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Winchester City,Not Started
+2025-02-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Bracknell Town,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Marlow,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Gloucester City,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Taunton Town,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Wimborne Town,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Swindon Supermarine,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Sholing,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Poole Town,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Walton & Hersham,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Plymouth Parkway,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Hungerford Town,Not Started
+2025-02-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Hanwell Town,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Winchester City,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Havant & Wville,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Basingstoke Town,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Gosport Borough,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Dorchester Town,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Tiverton Town,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Chertsey Town,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Bracknell Town,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,AFC Totton,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Frome Town,Not Started
+2025-02-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Merthyr Town,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Havant & Wville,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Taunton Town,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Wimborne Town,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Marlow,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Hanwell Town,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Bracknell Town,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Gosport Borough,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Gloucester City,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,AFC Totton,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Tiverton Town,Not Started
+2025-02-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Sholing,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Merthyr Town,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Plymouth Parkway,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Walton & Hersham,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Chertsey Town,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Poole Town,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Winchester City,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Swindon Supermarine,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Hungerford Town,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Dorchester Town,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Basingstoke Town,Not Started
+2025-03-01T15:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Frome Town,Not Started
+2025-03-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Chertsey Town,Not Started
+2025-03-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Marlow,Not Started
+2025-03-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Gosport Borough,Not Started
+2025-03-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Walton & Hersham,Not Started
+2025-03-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Sholing,Not Started
+2025-03-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Gloucester City,Not Started
+2025-03-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Swindon Supermarine,Not Started
+2025-03-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Winchester City,Not Started
+2025-03-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Plymouth Parkway,Not Started
+2025-03-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Frome Town,Not Started
+2025-03-08T15:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,AFC Totton,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Bracknell Town,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Dorchester Town,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Havant & Wville,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Hanwell Town,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Merthyr Town,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Taunton Town,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Hungerford Town,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Basingstoke Town,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Wimborne Town,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Poole Town,Not Started
+2025-03-15T15:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Tiverton Town,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Frome Town,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Gosport Borough,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Marlow,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,AFC Totton,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Gloucester City,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Winchester City,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Chertsey Town,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Sholing,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Walton & Hersham,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Swindon Supermarine,Not Started
+2025-03-22T15:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Plymouth Parkway,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Dorchester Town,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Bracknell Town,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Hungerford Town,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Tiverton Town,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Wimborne Town,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Havant & Wville,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Poole Town,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Hanwell Town,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Taunton Town,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Basingstoke Town,Not Started
+2025-03-29T15:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Merthyr Town,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Gosport Borough,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Chertsey Town,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Dorchester Town,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Merthyr Town,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Swindon Supermarine,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,AFC Totton,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Marlow,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Taunton Town,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Bracknell Town,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Wimborne Town,Not Started
+2025-04-05T14:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Plymouth Parkway,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Tiverton Town,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Winchester City,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Gloucester City,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Walton & Hersham,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Hanwell Town,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Hungerford Town,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Poole Town,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Sholing,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Frome Town,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Havant & Wville,Not Started
+2025-04-12T14:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Basingstoke Town,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,AFC Totton,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,Dorchester Town,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Marlow,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Taunton Town,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Bracknell Town,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Wimborne Town,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Swindon Supermarine,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Merthyr Town,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Gosport Borough,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Plymouth Parkway,Not Started
+2025-04-19T14:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Chertsey Town,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,AFC Totton,,,Winchester City,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Bracknell Town,,,Walton & Hersham,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Chertsey Town,,,Hanwell Town,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Dorchester Town,,,Poole Town,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Gosport Borough,,,Havant & Wville,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Marlow,,,Basingstoke Town,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Merthyr Town,,,Hungerford Town,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Plymouth Parkway,,,Frome Town,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Swindon Supermarine,,,Gloucester City,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Taunton Town,,,Tiverton Town,Not Started
+2025-04-21T14:00:00+00:00,2024,Non League Premier - Southern South,England,Wimborne Town,,,Sholing,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Basingstoke Town,,,Merthyr Town,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Frome Town,,,AFC Totton,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Gloucester City,,,Gosport Borough,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Hanwell Town,,,Plymouth Parkway,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Havant & Wville,,,Wimborne Town,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Hungerford Town,,,Dorchester Town,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Poole Town,,,Chertsey Town,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Sholing,,,Bracknell Town,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Tiverton Town,,,Marlow,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Walton & Hersham,,,Swindon Supermarine,Not Started
+2025-04-26T14:00:00+00:00,2024,Non League Premier - Southern South,England,Winchester City,,,Taunton Town,Not Started

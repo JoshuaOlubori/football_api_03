@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-04-13T21:30:00+00:00,2024,Serie A,Brazil,Internacional,2,1,Bahia,Match Finished
+2024-04-14T20:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,3,2,Botafogo,Match Finished
+2024-04-14T21:30:00+00:00,2024,Serie A,Brazil,Vitoria,0,1,Palmeiras,Match Finished
+2024-04-14T00:00:00+00:00,2024,Serie A,Brazil,Fluminense,2,2,RB Bragantino,Match Finished
+2024-04-14T19:00:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,2,1,Gremio,Match Finished
+2024-04-14T19:00:00+00:00,2024,Serie A,Brazil,Corinthians,0,0,Atletico-MG,Match Finished
+2024-04-14T00:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,1,2,Fortaleza EC,Match Finished
+2024-04-14T19:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,4,0,Cuiaba,Match Finished
+2024-04-14T19:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,1,2,Flamengo,Match Finished
+2024-04-13T21:30:00+00:00,2024,Serie A,Brazil,Criciuma,1,1,Juventude,Match Finished
+2024-04-18T22:00:00+00:00,2024,Serie A,Brazil,Gremio,2,0,Atletico Paranaense,Match Finished
+2024-04-17T23:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,1,1,Criciuma,Match Finished
+2024-04-17T00:30:00+00:00,2024,Serie A,Brazil,Bahia,2,1,Fluminense,Match Finished
+2024-04-18T00:30:00+00:00,2024,Serie A,Brazil,Flamengo,2,1,Sao Paulo,Match Finished
+2024-04-19T00:30:00+00:00,2024,Serie A,Brazil,Botafogo,1,0,Atletico Goianiense,Match Finished
+2024-04-17T23:00:00+00:00,2024,Serie A,Brazil,Palmeiras,0,1,Internacional,Match Finished
+2024-04-18T22:00:00+00:00,2024,Serie A,Brazil,RB Bragantino,2,1,Vasco DA Gama,Match Finished
+2024-04-17T23:00:00+00:00,2024,Serie A,Brazil,Fortaleza EC,1,1,Cruzeiro,Match Finished
+2024-06-05T23:00:00+00:00,2024,Serie A,Brazil,Cuiaba,0,0,Vitoria,Match Finished
+2024-04-17T23:00:00+00:00,2024,Serie A,Brazil,Juventude,2,0,Corinthians,Match Finished
+2024-04-20T21:30:00+00:00,2024,Serie A,Brazil,Gremio,1,0,Cuiaba,Match Finished
+2024-04-21T00:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,3,0,Cruzeiro,Match Finished
+2024-04-21T19:00:00+00:00,2024,Serie A,Brazil,Vitoria,2,2,Bahia,Match Finished
+2024-04-20T19:00:00+00:00,2024,Serie A,Brazil,Fluminense,2,1,Vasco DA Gama,Match Finished
+2024-04-21T21:30:00+00:00,2024,Serie A,Brazil,Botafogo,5,1,Juventude,Match Finished
+2024-04-21T19:00:00+00:00,2024,Serie A,Brazil,Palmeiras,0,0,Flamengo,Match Finished
+2024-04-20T21:30:00+00:00,2024,Serie A,Brazil,RB Bragantino,1,0,Corinthians,Match Finished
+2024-04-21T19:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,1,0,Internacional,Match Finished
+2024-04-21T21:30:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,0,3,Sao Paulo,Match Finished
+2024-07-24T22:00:00+00:00,2024,Serie A,Brazil,Criciuma,1,1,Fortaleza EC,Match Finished
+2024-04-28T23:00:00+00:00,2024,Serie A,Brazil,Internacional,1,1,Atletico Goianiense,Match Finished
+2024-04-28T19:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,3,1,Vitoria,Match Finished
+2024-04-28T00:00:00+00:00,2024,Serie A,Brazil,Bahia,1,0,Gremio,Match Finished
+2024-04-28T14:00:00+00:00,2024,Serie A,Brazil,Flamengo,0,2,Botafogo,Match Finished
+2024-04-27T19:00:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,0,4,Criciuma,Match Finished
+2024-04-28T19:00:00+00:00,2024,Serie A,Brazil,Corinthians,3,0,Fluminense,Match Finished
+2024-04-29T23:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,0,0,Palmeiras,Match Finished
+2024-04-28T21:30:00+00:00,2024,Serie A,Brazil,Fortaleza EC,1,1,RB Bragantino,Match Finished
+2024-04-27T21:30:00+00:00,2024,Serie A,Brazil,Cuiaba,0,3,Atletico-MG,Match Finished
+2024-04-28T21:30:00+00:00,2024,Serie A,Brazil,Juventude,1,1,Atletico Paranaense,Match Finished
+2024-05-05T19:00:00+00:00,2024,Serie A,Brazil,Gremio,,,Criciuma,Match Postponed
+2024-08-28T22:30:00+00:00,2024,Serie A,Brazil,Cruzeiro,,,Internacional,Not Started
+2024-05-05T19:00:00+00:00,2024,Serie A,Brazil,Vitoria,1,3,Sao Paulo,Match Finished
+2024-05-04T19:00:00+00:00,2024,Serie A,Brazil,Fluminense,2,2,Atletico-MG,Match Finished
+2024-05-05T21:30:00+00:00,2024,Serie A,Brazil,Botafogo,1,2,Bahia,Match Finished
+2024-05-05T00:00:00+00:00,2024,Serie A,Brazil,Corinthians,0,0,Fortaleza EC,Match Finished
+2024-05-04T21:30:00+00:00,2024,Serie A,Brazil,RB Bragantino,1,1,Flamengo,Match Finished
+2024-05-05T19:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,1,0,Vasco DA Gama,Match Finished
+2024-05-05T21:30:00+00:00,2024,Serie A,Brazil,Cuiaba,0,2,Palmeiras,Match Finished
+2024-06-05T22:00:00+00:00,2024,Serie A,Brazil,Juventude,1,0,Atletico Goianiense,Match Finished
+2024-08-14T22:30:00+00:00,2024,Serie A,Brazil,Internacional,,,Juventude,Not Started
+2024-05-12T00:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,,,Gremio,Match Postponed
+2024-05-12T21:30:00+00:00,2024,Serie A,Brazil,Bahia,1,0,RB Bragantino,Match Finished
+2024-05-11T19:00:00+00:00,2024,Serie A,Brazil,Flamengo,2,0,Corinthians,Match Finished
+2024-05-12T21:30:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,2,1,Vitoria,Match Finished
+2024-05-12T19:00:00+00:00,2024,Serie A,Brazil,Palmeiras,0,2,Atletico Paranaense,Match Finished
+2024-05-13T23:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,2,1,Fluminense,Match Finished
+2024-05-12T19:00:00+00:00,2024,Serie A,Brazil,Fortaleza EC,1,1,Botafogo,Match Finished
+2024-05-12T19:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,0,1,Cruzeiro,Match Finished
+2024-06-09T19:00:00+00:00,2024,Serie A,Brazil,Criciuma,2,5,Cuiaba,Match Finished
+2024-06-01T19:00:00+00:00,2024,Serie A,Brazil,Gremio,0,2,RB Bragantino,Match Finished
+2024-06-02T19:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,1,1,Bahia,Match Finished
+2024-06-01T19:00:00+00:00,2024,Serie A,Brazil,Vitoria,0,2,Atletico Goianiense,Match Finished
+2024-06-01T21:30:00+00:00,2024,Serie A,Brazil,Fluminense,1,1,Juventude,Match Finished
+2024-06-02T19:00:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,1,6,Flamengo,Match Finished
+2024-06-02T00:00:00+00:00,2024,Serie A,Brazil,Corinthians,0,1,Botafogo,Match Finished
+2024-06-02T21:30:00+00:00,2024,Serie A,Brazil,Sao Paulo,2,0,Cruzeiro,Match Finished
+2024-06-02T21:30:00+00:00,2024,Serie A,Brazil,Fortaleza EC,1,0,Atletico Paranaense,Match Finished
+2024-06-01T21:30:00+00:00,2024,Serie A,Brazil,Cuiaba,0,1,Internacional,Match Finished
+2024-06-02T19:00:00+00:00,2024,Serie A,Brazil,Criciuma,1,2,Palmeiras,Match Finished
+2024-06-13T23:00:00+00:00,2024,Serie A,Brazil,Internacional,0,0,Sao Paulo,Match Finished
+2024-06-13T22:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,2,1,Cuiaba,Match Finished
+2024-06-14T00:30:00+00:00,2024,Serie A,Brazil,Bahia,1,0,Fortaleza EC,Match Finished
+2024-06-13T23:00:00+00:00,2024,Serie A,Brazil,Flamengo,2,1,Gremio,Match Finished
+2024-06-11T23:00:00+00:00,2024,Serie A,Brazil,Botafogo,1,0,Fluminense,Match Finished
+2024-06-14T00:30:00+00:00,2024,Serie A,Brazil,Palmeiras,2,0,Vasco DA Gama,Match Finished
+2024-06-12T00:30:00+00:00,2024,Serie A,Brazil,RB Bragantino,1,2,Atletico-MG,Match Finished
+2024-06-13T23:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,3,1,Criciuma,Match Finished
+2024-06-11T22:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,2,2,Corinthians,Match Finished
+2024-06-11T22:00:00+00:00,2024,Serie A,Brazil,Juventude,1,1,Vitoria,Match Finished
+2024-06-16T21:30:00+00:00,2024,Serie A,Brazil,Gremio,1,2,Botafogo,Match Finished
+2024-06-17T23:30:00+00:00,2024,Serie A,Brazil,Atletico-MG,0,4,Palmeiras,Match Finished
+2024-06-16T19:00:00+00:00,2024,Serie A,Brazil,Vitoria,2,1,Internacional,Match Finished
+2024-06-16T00:00:00+00:00,2024,Serie A,Brazil,Fluminense,1,2,Atletico Goianiense,Match Finished
+2024-06-16T21:30:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,0,0,Cruzeiro,Match Finished
+2024-06-16T19:00:00+00:00,2024,Serie A,Brazil,Corinthians,2,2,Sao Paulo,Match Finished
+2024-06-15T21:30:00+00:00,2024,Serie A,Brazil,RB Bragantino,2,1,Juventude,Match Finished
+2024-06-16T19:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,1,1,Flamengo,Match Finished
+2024-06-16T21:30:00+00:00,2024,Serie A,Brazil,Cuiaba,5,0,Fortaleza EC,Match Finished
+2024-06-16T21:30:00+00:00,2024,Serie A,Brazil,Criciuma,2,2,Bahia,Match Finished
+2024-06-20T00:30:00+00:00,2024,Serie A,Brazil,Internacional,1,0,Corinthians,Match Finished
+2024-06-20T00:30:00+00:00,2024,Serie A,Brazil,Cruzeiro,2,0,Fluminense,Match Finished
+2024-06-20T21:30:00+00:00,2024,Serie A,Brazil,Vitoria,4,2,Atletico-MG,Match Finished
+2024-06-20T23:00:00+00:00,2024,Serie A,Brazil,Flamengo,2,1,Bahia,Match Finished
+2024-06-19T22:00:00+00:00,2024,Serie A,Brazil,Botafogo,1,1,Atletico Paranaense,Match Finished
+2024-06-21T00:30:00+00:00,2024,Serie A,Brazil,Palmeiras,2,1,RB Bragantino,Match Finished
+2024-06-19T23:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,0,1,Cuiaba,Match Finished
+2024-06-19T23:00:00+00:00,2024,Serie A,Brazil,Fortaleza EC,1,0,Gremio,Match Finished
+2024-06-19T22:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,1,2,Criciuma,Match Finished
+2024-06-19T23:00:00+00:00,2024,Serie A,Brazil,Juventude,2,0,Vasco DA Gama,Match Finished
+2024-06-22T20:30:00+00:00,2024,Serie A,Brazil,Gremio,0,1,Internacional,Match Finished
+2024-06-23T21:30:00+00:00,2024,Serie A,Brazil,Atletico-MG,1,1,Fortaleza EC,Match Finished
+2024-06-23T19:00:00+00:00,2024,Serie A,Brazil,Bahia,4,1,Cruzeiro,Match Finished
+2024-06-23T19:00:00+00:00,2024,Serie A,Brazil,Fluminense,0,1,Flamengo,Match Finished
+2024-06-23T00:30:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,4,1,Sao Paulo,Match Finished
+2024-06-23T21:30:00+00:00,2024,Serie A,Brazil,Palmeiras,3,1,Juventude,Match Finished
+2024-06-23T21:30:00+00:00,2024,Serie A,Brazil,RB Bragantino,2,1,Vitoria,Match Finished
+2024-06-23T19:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,1,1,Corinthians,Match Finished
+2024-06-22T21:30:00+00:00,2024,Serie A,Brazil,Cuiaba,0,0,Atletico Goianiense,Match Finished
+2024-06-22T19:00:00+00:00,2024,Serie A,Brazil,Criciuma,2,1,Botafogo,Match Finished
+2024-06-27T00:30:00+00:00,2024,Serie A,Brazil,Internacional,1,2,Atletico-MG,Match Finished
+2024-06-26T22:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,2,0,Atletico Paranaense,Match Finished
+2024-06-27T00:30:00+00:00,2024,Serie A,Brazil,Bahia,2,1,Vasco DA Gama,Match Finished
+2024-06-27T22:00:00+00:00,2024,Serie A,Brazil,Fluminense,0,1,Vitoria,Match Finished
+2024-06-26T22:00:00+00:00,2024,Serie A,Brazil,Botafogo,2,1,RB Bragantino,Match Finished
+2024-06-26T23:00:00+00:00,2024,Serie A,Brazil,Corinthians,1,1,Cuiaba,Match Finished
+2024-06-27T23:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,2,1,Criciuma,Match Finished
+2024-06-27T00:30:00+00:00,2024,Serie A,Brazil,Fortaleza EC,3,0,Palmeiras,Match Finished
+2024-06-26T23:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,1,1,Gremio,Match Finished
+2024-06-26T23:00:00+00:00,2024,Serie A,Brazil,Juventude,2,1,Flamengo,Match Finished
+2024-06-30T19:00:00+00:00,2024,Serie A,Brazil,Gremio,1,0,Fluminense,Match Finished
+2024-06-30T14:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,1,1,Atletico Goianiense,Match Finished
+2024-06-30T21:30:00+00:00,2024,Serie A,Brazil,Vitoria,0,1,Atletico Paranaense,Match Finished
+2024-06-30T21:30:00+00:00,2024,Serie A,Brazil,Flamengo,2,1,Cruzeiro,Match Finished
+2024-06-29T21:30:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,1,1,Botafogo,Match Finished
+2024-07-01T23:00:00+00:00,2024,Serie A,Brazil,Palmeiras,2,0,Corinthians,Match Finished
+2024-06-30T19:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,3,1,Bahia,Match Finished
+2024-06-30T19:00:00+00:00,2024,Serie A,Brazil,Fortaleza EC,2,1,Juventude,Match Finished
+2024-06-29T21:30:00+00:00,2024,Serie A,Brazil,Cuiaba,1,1,RB Bragantino,Match Finished
+2024-06-30T21:30:00+00:00,2024,Serie A,Brazil,Criciuma,1,1,Internacional,Match Finished
+2024-07-04T22:00:00+00:00,2024,Serie A,Brazil,Gremio,2,2,Palmeiras,Match Finished
+2024-07-04T00:30:00+00:00,2024,Serie A,Brazil,Atletico-MG,2,4,Flamengo,Match Finished
+2024-07-04T22:00:00+00:00,2024,Serie A,Brazil,Bahia,2,0,Juventude,Match Finished
+2024-07-04T23:00:00+00:00,2024,Serie A,Brazil,Fluminense,1,1,Internacional,Match Finished
+2024-07-03T23:00:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,2,0,Fortaleza EC,Match Finished
+2024-07-04T23:00:00+00:00,2024,Serie A,Brazil,Corinthians,3,2,Vitoria,Match Finished
+2024-07-04T00:30:00+00:00,2024,Serie A,Brazil,RB Bragantino,3,1,Atletico Goianiense,Match Finished
+2024-07-04T00:30:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,1,2,Sao Paulo,Match Finished
+2024-07-03T22:00:00+00:00,2024,Serie A,Brazil,Cuiaba,1,2,Botafogo,Match Finished
+2024-07-03T23:00:00+00:00,2024,Serie A,Brazil,Criciuma,1,0,Cruzeiro,Match Finished
+2024-07-07T21:00:00+00:00,2024,Serie A,Brazil,Internacional,1,2,Vasco DA Gama,Match Finished
+2024-07-07T19:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,3,0,Corinthians,Match Finished
+2024-07-07T21:30:00+00:00,2024,Serie A,Brazil,Vitoria,2,1,Criciuma,Match Finished
+2024-07-06T23:00:00+00:00,2024,Serie A,Brazil,Flamengo,1,1,Cuiaba,Match Finished
+2024-07-07T23:30:00+00:00,2024,Serie A,Brazil,Botafogo,3,0,Atletico-MG,Match Finished
+2024-07-07T21:30:00+00:00,2024,Serie A,Brazil,Palmeiras,2,0,Bahia,Match Finished
+2024-07-06T23:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,2,0,RB Bragantino,Match Finished
+2024-07-07T19:00:00+00:00,2024,Serie A,Brazil,Fortaleza EC,1,0,Fluminense,Match Finished
+2024-07-07T21:30:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,1,2,Atletico Paranaense,Match Finished
+2024-07-07T19:00:00+00:00,2024,Serie A,Brazil,Juventude,3,0,Gremio,Match Finished
+2024-07-10T21:30:00+00:00,2024,Serie A,Brazil,Gremio,0,2,Cruzeiro,Match Finished
+2024-07-12T00:30:00+00:00,2024,Serie A,Brazil,Atletico-MG,2,1,Sao Paulo,Match Finished
+2024-07-12T00:30:00+00:00,2024,Serie A,Brazil,Vitoria,0,1,Botafogo,Match Finished
+2024-07-11T23:00:00+00:00,2024,Serie A,Brazil,Flamengo,1,2,Fortaleza EC,Match Finished
+2024-07-10T22:00:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,2,0,Corinthians,Match Finished
+2024-07-11T22:30:00+00:00,2024,Serie A,Brazil,Palmeiras,3,1,Atletico Goianiense,Match Finished
+2024-07-10T00:00:00+00:00,2024,Serie A,Brazil,RB Bragantino,,,Internacional,Match Postponed
+2024-07-10T22:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,1,3,Bahia,Match Finished
+2024-07-10T00:00:00+00:00,2024,Serie A,Brazil,Cuiaba,,,Juventude,Match Postponed
+2024-07-11T23:00:00+00:00,2024,Serie A,Brazil,Criciuma,1,1,Fluminense,Match Finished
+2024-07-17T00:00:00+00:00,2024,Serie A,Brazil,Internacional,,,Flamengo,Match Postponed
+2024-07-13T19:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,2,1,RB Bragantino,Match Finished
+2024-07-13T19:00:00+00:00,2024,Serie A,Brazil,Bahia,1,2,Cuiaba,Match Finished
+2024-07-17T00:00:00+00:00,2024,Serie A,Brazil,Fluminense,,,Atletico Paranaense,Match Postponed
+2024-07-18T00:30:00+00:00,2024,Serie A,Brazil,Botafogo,1,0,Palmeiras,Match Finished
+2024-07-17T00:00:00+00:00,2024,Serie A,Brazil,Corinthians,2,1,Criciuma,Match Finished
+2024-07-17T23:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,1,0,Gremio,Match Finished
+2024-07-18T00:30:00+00:00,2024,Serie A,Brazil,Fortaleza EC,3,1,Vitoria,Match Finished
+2024-07-17T22:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,0,1,Vasco DA Gama,Match Finished
+2024-07-16T22:00:00+00:00,2024,Serie A,Brazil,Juventude,1,1,Atletico-MG,Match Finished
+2024-07-21T14:00:00+00:00,2024,Serie A,Brazil,Gremio,2,0,Vitoria,Match Finished
+2024-07-21T19:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,2,0,Vasco DA Gama,Match Finished
+2024-07-21T19:00:00+00:00,2024,Serie A,Brazil,Bahia,0,1,Corinthians,Match Finished
+2024-07-20T19:00:00+00:00,2024,Serie A,Brazil,Flamengo,2,1,Criciuma,Match Finished
+2024-07-20T21:30:00+00:00,2024,Serie A,Brazil,Botafogo,1,0,Internacional,Match Finished
+2024-07-21T00:00:00+00:00,2024,Serie A,Brazil,Palmeiras,2,0,Cruzeiro,Match Finished
+2024-07-21T21:30:00+00:00,2024,Serie A,Brazil,RB Bragantino,1,0,Atletico Paranaense,Match Finished
+2024-07-21T21:30:00+00:00,2024,Serie A,Brazil,Fortaleza EC,3,1,Atletico Goianiense,Match Finished
+2024-07-21T23:00:00+00:00,2024,Serie A,Brazil,Cuiaba,0,1,Fluminense,Match Finished
+2024-07-21T21:30:00+00:00,2024,Serie A,Brazil,Juventude,0,0,Sao Paulo,Match Finished
+2024-07-24T00:00:00+00:00,2024,Serie A,Brazil,Internacional,,,Fortaleza EC,Match Postponed
+2024-07-24T22:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,2,0,Juventude,Match Finished
+2024-07-24T23:00:00+00:00,2024,Serie A,Brazil,Vitoria,1,2,Flamengo,Match Finished
+2024-07-25T00:30:00+00:00,2024,Serie A,Brazil,Fluminense,1,0,Palmeiras,Match Finished
+2024-07-24T00:00:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,,,Cuiaba,Match Postponed
+2024-07-25T23:00:00+00:00,2024,Serie A,Brazil,Corinthians,2,2,Gremio,Match Finished
+2024-07-24T22:30:00+00:00,2024,Serie A,Brazil,Sao Paulo,2,2,Botafogo,Match Finished
+2024-07-24T00:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,,,Atletico-MG,Match Postponed
+2024-07-25T00:30:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,1,1,Bahia,Match Finished
+2024-07-24T00:00:00+00:00,2024,Serie A,Brazil,Criciuma,,,RB Bragantino,Match Postponed
+2024-07-28T22:00:00+00:00,2024,Serie A,Brazil,Gremio,1,0,Vasco DA Gama,Match Finished
+2024-07-28T22:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,2,1,Corinthians,Match Finished
+2024-07-27T23:00:00+00:00,2024,Serie A,Brazil,Bahia,1,1,Internacional,Match Finished
+2024-07-28T19:00:00+00:00,2024,Serie A,Brazil,Flamengo,2,0,Atletico Goianiense,Match Finished
+2024-07-28T00:30:00+00:00,2024,Serie A,Brazil,Botafogo,0,3,Cruzeiro,Match Finished
+2024-07-27T22:00:00+00:00,2024,Serie A,Brazil,Palmeiras,0,2,Vitoria,Match Finished
+2024-07-28T14:00:00+00:00,2024,Serie A,Brazil,RB Bragantino,0,1,Fluminense,Match Finished
+2024-07-28T00:30:00+00:00,2024,Serie A,Brazil,Fortaleza EC,1,0,Sao Paulo,Match Finished
+2024-07-28T22:00:00+00:00,2024,Serie A,Brazil,Cuiaba,1,2,Atletico Paranaense,Match Finished
+2024-07-27T22:00:00+00:00,2024,Serie A,Brazil,Juventude,1,2,Criciuma,Match Finished
+2024-08-04T20:00:00+00:00,2024,Serie A,Brazil,Internacional,1,1,Palmeiras,Match Finished
+2024-08-06T00:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,1,2,Fortaleza EC,Match Finished
+2024-08-03T19:00:00+00:00,2024,Serie A,Brazil,Vitoria,1,0,Cuiaba,Match Finished
+2024-08-04T19:00:00+00:00,2024,Serie A,Brazil,Fluminense,1,0,Bahia,Match Finished
+2024-08-03T22:00:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,2,2,RB Bragantino,Match Finished
+2024-08-04T19:00:00+00:00,2024,Serie A,Brazil,Corinthians,1,1,Juventude,Match Finished
+2024-08-04T00:30:00+00:00,2024,Serie A,Brazil,Sao Paulo,1,0,Flamengo,Match Finished
+2024-08-04T19:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,0,2,Gremio,Match Finished
+2024-08-03T23:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,1,4,Botafogo,Match Finished
+2024-08-03T23:00:00+00:00,2024,Serie A,Brazil,Criciuma,2,1,Atletico-MG,Match Finished
+2024-08-11T22:00:00+00:00,2024,Serie A,Brazil,Internacional,2,2,Atletico Paranaense,Match Finished
+2024-08-11T00:30:00+00:00,2024,Serie A,Brazil,Cruzeiro,0,0,Atletico-MG,Match Finished
+2024-08-11T19:00:00+00:00,2024,Serie A,Brazil,Bahia,2,0,Vitoria,Match Finished
+2024-08-11T19:00:00+00:00,2024,Serie A,Brazil,Flamengo,1,1,Palmeiras,Match Finished
+2024-08-11T00:30:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,2,0,Fluminense,Match Finished
+2024-08-11T00:30:00+00:00,2024,Serie A,Brazil,Corinthians,1,1,RB Bragantino,Match Finished
+2024-08-11T19:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,1,0,Atletico Goianiense,Match Finished
+2024-08-10T19:00:00+00:00,2024,Serie A,Brazil,Fortaleza EC,1,0,Criciuma,Match Finished
+2024-08-10T22:00:00+00:00,2024,Serie A,Brazil,Cuiaba,1,3,Gremio,Match Finished
+2024-08-11T14:00:00+00:00,2024,Serie A,Brazil,Juventude,3,2,Botafogo,Match Finished
+2024-08-17T19:00:00+00:00,2024,Serie A,Brazil,Gremio,,,Bahia,Not Started
+2024-08-17T19:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,,,Cuiaba,Not Started
+2024-08-19T23:00:00+00:00,2024,Serie A,Brazil,Vitoria,,,Cruzeiro,Not Started
+2024-08-18T00:00:00+00:00,2024,Serie A,Brazil,Fluminense,,,Corinthians,Not Started
+2024-08-18T21:30:00+00:00,2024,Serie A,Brazil,Botafogo,,,Flamengo,Not Started
+2024-08-18T19:00:00+00:00,2024,Serie A,Brazil,Palmeiras,,,Sao Paulo,Not Started
+2024-08-17T21:30:00+00:00,2024,Serie A,Brazil,RB Bragantino,,,Fortaleza EC,Not Started
+2024-08-18T21:30:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,,,Juventude,Not Started
+2024-08-18T19:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,,,Internacional,Not Started
+2024-08-18T19:00:00+00:00,2024,Serie A,Brazil,Criciuma,,,Vasco DA Gama,Not Started
+2024-08-25T22:00:00+00:00,2024,Serie A,Brazil,Internacional,,,Cruzeiro,Not Started
+2024-08-25T00:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,,,Fluminense,Not Started
+2024-08-25T19:00:00+00:00,2024,Serie A,Brazil,Bahia,,,Botafogo,Not Started
+2024-08-25T23:00:00+00:00,2024,Serie A,Brazil,Flamengo,,,RB Bragantino,Not Started
+2024-08-27T00:00:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,,,Atletico Paranaense,Not Started
+2024-08-24T21:30:00+00:00,2024,Serie A,Brazil,Palmeiras,,,Cuiaba,Not Started
+2024-08-25T21:30:00+00:00,2024,Serie A,Brazil,Sao Paulo,,,Vitoria,Not Started
+2024-08-25T19:00:00+00:00,2024,Serie A,Brazil,Fortaleza EC,,,Corinthians,Not Started
+2024-08-24T19:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,,,Juventude,Not Started
+2024-08-25T19:00:00+00:00,2024,Serie A,Brazil,Criciuma,,,Gremio,Not Started
+2024-09-01T19:00:00+00:00,2024,Serie A,Brazil,Gremio,,,Atletico-MG,Not Started
+2024-09-01T14:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,,,Atletico Goianiense,Not Started
+2024-09-01T21:30:00+00:00,2024,Serie A,Brazil,Vitoria,,,Vasco DA Gama,Not Started
+2024-09-01T21:30:00+00:00,2024,Serie A,Brazil,Fluminense,,,Sao Paulo,Not Started
+2024-09-01T00:00:00+00:00,2024,Serie A,Brazil,Botafogo,,,Fortaleza EC,Not Started
+2024-09-01T19:00:00+00:00,2024,Serie A,Brazil,Corinthians,,,Flamengo,Not Started
+2024-08-31T19:00:00+00:00,2024,Serie A,Brazil,RB Bragantino,,,Bahia,Not Started
+2024-09-01T19:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,,,Palmeiras,Not Started
+2024-08-31T21:30:00+00:00,2024,Serie A,Brazil,Cuiaba,,,Criciuma,Not Started
+2024-09-01T21:30:00+00:00,2024,Serie A,Brazil,Juventude,,,Internacional,Not Started
+2024-09-15T00:00:00+00:00,2024,Serie A,Brazil,Internacional,,,Cuiaba,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,,,Sao Paulo,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Brazil,Bahia,,,Atletico-MG,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Brazil,Flamengo,,,Vasco DA Gama,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Brazil,Botafogo,,,Corinthians,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Brazil,Palmeiras,,,Criciuma,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Brazil,RB Bragantino,,,Gremio,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,,,Fortaleza EC,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,,,Vitoria,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Serie A,Brazil,Juventude,,,Fluminense,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Brazil,Gremio,,,Flamengo,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,,,RB Bragantino,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Brazil,Vitoria,,,Juventude,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Brazil,Fluminense,,,Botafogo,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,,,Palmeiras,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Brazil,Corinthians,,,Atletico Goianiense,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,,,Internacional,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Brazil,Fortaleza EC,,,Bahia,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Brazil,Cuiaba,,,Cruzeiro,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Serie A,Brazil,Criciuma,,,Atletico Paranaense,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Brazil,Internacional,,,Vitoria,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,,,Vasco DA Gama,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Brazil,Bahia,,,Criciuma,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Brazil,Flamengo,,,Atletico Paranaense,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Brazil,Botafogo,,,Gremio,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Brazil,Palmeiras,,,Atletico-MG,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,,,Corinthians,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Brazil,Fortaleza EC,,,Cuiaba,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,,,Fluminense,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Serie A,Brazil,Juventude,,,RB Bragantino,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie A,Brazil,Gremio,,,Fortaleza EC,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,,,Vitoria,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie A,Brazil,Bahia,,,Flamengo,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie A,Brazil,Fluminense,,,Cruzeiro,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,,,Juventude,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie A,Brazil,Corinthians,,,Internacional,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie A,Brazil,RB Bragantino,,,Palmeiras,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,,,Botafogo,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie A,Brazil,Cuiaba,,,Sao Paulo,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Serie A,Brazil,Criciuma,,,Atletico Goianiense,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Brazil,Internacional,,,Gremio,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,,,Bahia,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Brazil,Vitoria,,,RB Bragantino,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Brazil,Flamengo,,,Fluminense,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Brazil,Botafogo,,,Criciuma,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Brazil,Corinthians,,,Atletico Paranaense,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,,,Vasco DA Gama,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Brazil,Fortaleza EC,,,Atletico-MG,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,,,Cuiaba,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Serie A,Brazil,Juventude,,,Palmeiras,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie A,Brazil,Gremio,,,Atletico Goianiense,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,,,Internacional,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie A,Brazil,Vitoria,,,Fluminense,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie A,Brazil,Flamengo,,,Juventude,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,,,Bahia,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie A,Brazil,Palmeiras,,,Fortaleza EC,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie A,Brazil,RB Bragantino,,,Botafogo,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,,,Cruzeiro,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie A,Brazil,Cuiaba,,,Corinthians,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Serie A,Brazil,Criciuma,,,Sao Paulo,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Serie A,Brazil,Internacional,,,Criciuma,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,,,Flamengo,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Serie A,Brazil,Bahia,,,Sao Paulo,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Serie A,Brazil,Fluminense,,,Gremio,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Serie A,Brazil,Botafogo,,,Vasco DA Gama,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Serie A,Brazil,Corinthians,,,Palmeiras,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Serie A,Brazil,RB Bragantino,,,Cuiaba,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,,,Vitoria,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,,,Atletico-MG,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Serie A,Brazil,Juventude,,,Fortaleza EC,Time to be defined
+2024-11-13T00:00:00+00:00,2024,Serie A,Brazil,Internacional,,,Fluminense,Time to be defined
+2024-11-13T00:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,,,Criciuma,Time to be defined
+2024-11-13T00:00:00+00:00,2024,Serie A,Brazil,Vitoria,,,Corinthians,Time to be defined
+2024-11-13T00:00:00+00:00,2024,Serie A,Brazil,Flamengo,,,Atletico-MG,Time to be defined
+2024-11-13T00:00:00+00:00,2024,Serie A,Brazil,Botafogo,,,Cuiaba,Time to be defined
+2024-11-13T00:00:00+00:00,2024,Serie A,Brazil,Palmeiras,,,Gremio,Time to be defined
+2024-11-13T00:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,,,Atletico Paranaense,Time to be defined
+2024-11-13T00:00:00+00:00,2024,Serie A,Brazil,Fortaleza EC,,,Vasco DA Gama,Time to be defined
+2024-11-13T00:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,,,RB Bragantino,Time to be defined
+2024-11-13T00:00:00+00:00,2024,Serie A,Brazil,Juventude,,,Bahia,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Serie A,Brazil,Gremio,,,Juventude,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,,,Botafogo,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Serie A,Brazil,Bahia,,,Palmeiras,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Serie A,Brazil,Fluminense,,,Fortaleza EC,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,,,Internacional,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Serie A,Brazil,Corinthians,,,Cruzeiro,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Serie A,Brazil,RB Bragantino,,,Sao Paulo,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,,,Atletico Goianiense,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Serie A,Brazil,Cuiaba,,,Flamengo,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Serie A,Brazil,Criciuma,,,Vitoria,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Brazil,Internacional,,,RB Bragantino,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,,,Gremio,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Brazil,Bahia,,,Atletico Paranaense,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Brazil,Fluminense,,,Criciuma,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Brazil,Botafogo,,,Vitoria,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Brazil,Corinthians,,,Vasco DA Gama,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,,,Atletico-MG,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Brazil,Fortaleza EC,,,Flamengo,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,,,Palmeiras,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Serie A,Brazil,Juventude,,,Cuiaba,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Brazil,Gremio,,,Sao Paulo,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,,,Juventude,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Brazil,Vitoria,,,Fortaleza EC,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Brazil,Flamengo,,,Internacional,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,,,Atletico Goianiense,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Brazil,Palmeiras,,,Botafogo,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Brazil,RB Bragantino,,,Cruzeiro,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,,,Fluminense,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Brazil,Cuiaba,,,Bahia,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Serie A,Brazil,Criciuma,,,Corinthians,Time to be defined
+2024-12-04T00:00:00+00:00,2024,Serie A,Brazil,Internacional,,,Botafogo,Time to be defined
+2024-12-04T00:00:00+00:00,2024,Serie A,Brazil,Cruzeiro,,,Palmeiras,Time to be defined
+2024-12-04T00:00:00+00:00,2024,Serie A,Brazil,Vitoria,,,Gremio,Time to be defined
+2024-12-04T00:00:00+00:00,2024,Serie A,Brazil,Fluminense,,,Cuiaba,Time to be defined
+2024-12-04T00:00:00+00:00,2024,Serie A,Brazil,Vasco DA Gama,,,Atletico-MG,Time to be defined
+2024-12-04T00:00:00+00:00,2024,Serie A,Brazil,Corinthians,,,Bahia,Time to be defined
+2024-12-04T00:00:00+00:00,2024,Serie A,Brazil,Sao Paulo,,,Juventude,Time to be defined
+2024-12-04T00:00:00+00:00,2024,Serie A,Brazil,Atletico Paranaense,,,RB Bragantino,Time to be defined
+2024-12-04T00:00:00+00:00,2024,Serie A,Brazil,Atletico Goianiense,,,Fortaleza EC,Time to be defined
+2024-12-04T00:00:00+00:00,2024,Serie A,Brazil,Criciuma,,,Flamengo,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Brazil,Gremio,,,Corinthians,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Brazil,Atletico-MG,,,Atletico Paranaense,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Brazil,Bahia,,,Atletico Goianiense,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Brazil,Flamengo,,,Vitoria,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Brazil,Botafogo,,,Sao Paulo,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Brazil,Palmeiras,,,Fluminense,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Brazil,RB Bragantino,,,Criciuma,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Brazil,Fortaleza EC,,,Internacional,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Brazil,Cuiaba,,,Vasco DA Gama,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Serie A,Brazil,Juventude,,,Cruzeiro,Time to be defined

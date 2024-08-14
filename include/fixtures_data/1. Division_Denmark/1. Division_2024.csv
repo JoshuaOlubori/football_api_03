@@ -1,0 +1,133 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-19T17:00:00+00:00,2024,1. Division,Denmark,B 93,0,0,Kolding IF,Match Finished
+2024-07-19T17:00:00+00:00,2024,1. Division,Denmark,Hvidovre,1,0,HB Koge,Match Finished
+2024-07-19T17:00:00+00:00,2024,1. Division,Denmark,Vendsyssel FF,3,0,Roskilde,Match Finished
+2024-07-20T14:00:00+00:00,2024,1. Division,Denmark,Esbjerg,1,2,Odense,Match Finished
+2024-07-21T13:00:00+00:00,2024,1. Division,Denmark,AC Horsens,1,3,FC Fredericia,Match Finished
+2024-07-21T14:00:00+00:00,2024,1. Division,Denmark,Hillerød,2,2,Hobro,Match Finished
+2024-07-26T17:00:00+00:00,2024,1. Division,Denmark,HB Koge,0,4,Odense,Match Finished
+2024-07-26T17:00:00+00:00,2024,1. Division,Denmark,Hobro,3,6,Esbjerg,Match Finished
+2024-07-26T17:00:00+00:00,2024,1. Division,Denmark,AC Horsens,3,2,Hillerød,Match Finished
+2024-07-26T17:00:00+00:00,2024,1. Division,Denmark,Kolding IF,0,0,Hvidovre,Match Finished
+2024-07-27T11:00:00+00:00,2024,1. Division,Denmark,Roskilde,1,2,B 93,Match Finished
+2024-07-27T12:00:00+00:00,2024,1. Division,Denmark,FC Fredericia,4,2,Vendsyssel FF,Match Finished
+2024-08-02T17:00:00+00:00,2024,1. Division,Denmark,B 93,1,2,Vendsyssel FF,Match Finished
+2024-08-02T17:00:00+00:00,2024,1. Division,Denmark,Hobro,2,1,HB Koge,Match Finished
+2024-08-02T17:00:00+00:00,2024,1. Division,Denmark,Kolding IF,1,0,FC Fredericia,Match Finished
+2024-08-02T17:00:00+00:00,2024,1. Division,Denmark,Hillerød,2,0,Roskilde,Match Finished
+2024-08-03T11:00:00+00:00,2024,1. Division,Denmark,Odense,2,0,Hvidovre,Match Finished
+2024-08-04T12:00:00+00:00,2024,1. Division,Denmark,Esbjerg,0,1,AC Horsens,Match Finished
+2024-08-09T17:00:00+00:00,2024,1. Division,Denmark,Hvidovre,4,0,B 93,Match Finished
+2024-08-10T12:00:00+00:00,2024,1. Division,Denmark,Roskilde,0,2,Hobro,Match Finished
+2024-08-10T12:00:00+00:00,2024,1. Division,Denmark,Vendsyssel FF,2,1,Kolding IF,Match Finished
+2024-08-10T15:00:00+00:00,2024,1. Division,Denmark,Odense,1,0,Hillerød,Match Finished
+2024-08-11T11:00:00+00:00,2024,1. Division,Denmark,HB Koge,0,2,AC Horsens,Match Finished
+2024-08-11T13:00:00+00:00,2024,1. Division,Denmark,FC Fredericia,4,0,Esbjerg,Match Finished
+2024-08-16T17:00:00+00:00,2024,1. Division,Denmark,AC Horsens,,,Kolding IF,Not Started
+2024-08-16T17:00:00+00:00,2024,1. Division,Denmark,B 93,,,Odense,Not Started
+2024-08-16T17:00:00+00:00,2024,1. Division,Denmark,Hillerød,,,HB Koge,Not Started
+2024-08-16T17:00:00+00:00,2024,1. Division,Denmark,FC Fredericia,,,Roskilde,Not Started
+2024-08-17T11:00:00+00:00,2024,1. Division,Denmark,Hobro,,,Hvidovre,Not Started
+2024-08-17T13:00:00+00:00,2024,1. Division,Denmark,Esbjerg,,,Vendsyssel FF,Not Started
+2024-08-20T16:00:00+00:00,2024,1. Division,Denmark,Roskilde,,,AC Horsens,Not Started
+2024-08-20T16:30:00+00:00,2024,1. Division,Denmark,HB Koge,,,B 93,Not Started
+2024-08-20T17:00:00+00:00,2024,1. Division,Denmark,Hvidovre,,,Hillerød,Not Started
+2024-08-21T16:30:00+00:00,2024,1. Division,Denmark,Kolding IF,,,Esbjerg,Not Started
+2024-08-21T16:30:00+00:00,2024,1. Division,Denmark,Odense,,,FC Fredericia,Not Started
+2024-08-21T17:00:00+00:00,2024,1. Division,Denmark,Vendsyssel FF,,,Hobro,Not Started
+2024-08-23T17:00:00+00:00,2024,1. Division,Denmark,B 93,,,Hillerød,Not Started
+2024-08-24T11:00:00+00:00,2024,1. Division,Denmark,Esbjerg,,,HB Koge,Not Started
+2024-08-24T15:00:00+00:00,2024,1. Division,Denmark,AC Horsens,,,Vendsyssel FF,Not Started
+2024-08-24T17:00:00+00:00,2024,1. Division,Denmark,Kolding IF,,,Roskilde,Not Started
+2024-08-25T12:00:00+00:00,2024,1. Division,Denmark,Hobro,,,Odense,Not Started
+2024-08-25T13:00:00+00:00,2024,1. Division,Denmark,FC Fredericia,,,Hvidovre,Not Started
+2024-08-30T17:00:00+00:00,2024,1. Division,Denmark,Hillerød,,,Kolding IF,Not Started
+2024-08-30T17:00:00+00:00,2024,1. Division,Denmark,Odense,,,Vendsyssel FF,Not Started
+2024-08-30T17:00:00+00:00,2024,1. Division,Denmark,Roskilde,,,Esbjerg,Not Started
+2024-08-30T17:00:00+00:00,2024,1. Division,Denmark,Hvidovre,,,AC Horsens,Not Started
+2024-09-01T11:00:00+00:00,2024,1. Division,Denmark,HB Koge,,,FC Fredericia,Not Started
+2024-11-24T17:00:00+00:00,2024,1. Division,Denmark,B 93,,,Hobro,Time to be defined
+2024-09-15T00:00:00+00:00,2024,1. Division,Denmark,AC Horsens,,,Odense,Time to be defined
+2024-09-15T00:00:00+00:00,2024,1. Division,Denmark,FC Fredericia,,,Hobro,Time to be defined
+2024-09-15T00:00:00+00:00,2024,1. Division,Denmark,Roskilde,,,Hvidovre,Time to be defined
+2024-09-15T00:00:00+00:00,2024,1. Division,Denmark,Esbjerg,,,B 93,Time to be defined
+2024-09-15T00:00:00+00:00,2024,1. Division,Denmark,Kolding IF,,,HB Koge,Time to be defined
+2024-09-15T00:00:00+00:00,2024,1. Division,Denmark,Vendsyssel FF,,,Hillerød,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Division,Denmark,B 93,,,AC Horsens,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Division,Denmark,HB Koge,,,Vendsyssel FF,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Division,Denmark,Hobro,,,Kolding IF,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Division,Denmark,Hvidovre,,,Esbjerg,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Division,Denmark,Hillerød,,,FC Fredericia,Time to be defined
+2024-09-22T00:00:00+00:00,2024,1. Division,Denmark,Odense,,,Roskilde,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Division,Denmark,Esbjerg,,,Hillerød,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Division,Denmark,Kolding IF,,,Odense,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Division,Denmark,Roskilde,,,HB Koge,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Division,Denmark,FC Fredericia,,,B 93,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Division,Denmark,AC Horsens,,,Hobro,Time to be defined
+2024-09-29T00:00:00+00:00,2024,1. Division,Denmark,Vendsyssel FF,,,Hvidovre,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Division,Denmark,B 93,,,Esbjerg,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Division,Denmark,FC Fredericia,,,AC Horsens,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Division,Denmark,Hillerød,,,Vendsyssel FF,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Division,Denmark,Hvidovre,,,Kolding IF,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Division,Denmark,Odense,,,HB Koge,Time to be defined
+2024-10-06T00:00:00+00:00,2024,1. Division,Denmark,Hobro,,,Roskilde,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Division,Denmark,AC Horsens,,,Hvidovre,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Division,Denmark,Esbjerg,,,FC Fredericia,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Division,Denmark,Roskilde,,,Odense,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Division,Denmark,Vendsyssel FF,,,B 93,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Division,Denmark,Kolding IF,,,Hillerød,Time to be defined
+2024-10-20T00:00:00+00:00,2024,1. Division,Denmark,HB Koge,,,Hobro,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Division,Denmark,HB Koge,,,Kolding IF,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Division,Denmark,Hillerød,,,AC Horsens,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Division,Denmark,Hvidovre,,,Vendsyssel FF,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Division,Denmark,Odense,,,Esbjerg,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Division,Denmark,Hobro,,,FC Fredericia,Time to be defined
+2024-10-27T00:00:00+00:00,2024,1. Division,Denmark,B 93,,,Roskilde,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Division,Denmark,Esbjerg,,,Hobro,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Division,Denmark,FC Fredericia,,,Odense,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Division,Denmark,Hillerød,,,Hvidovre,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Division,Denmark,Roskilde,,,Kolding IF,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Division,Denmark,AC Horsens,,,B 93,Time to be defined
+2024-11-03T00:00:00+00:00,2024,1. Division,Denmark,Vendsyssel FF,,,HB Koge,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Division,Denmark,B 93,,,FC Fredericia,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Division,Denmark,Kolding IF,,,Vendsyssel FF,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Division,Denmark,Odense,,,AC Horsens,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Division,Denmark,Hobro,,,Hillerød,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Division,Denmark,HB Koge,,,Hvidovre,Time to be defined
+2024-11-10T00:00:00+00:00,2024,1. Division,Denmark,Esbjerg,,,Roskilde,Time to be defined
+2024-11-24T00:00:00+00:00,2024,1. Division,Denmark,AC Horsens,,,HB Koge,Time to be defined
+2024-11-24T00:00:00+00:00,2024,1. Division,Denmark,FC Fredericia,,,Kolding IF,Time to be defined
+2024-09-02T17:00:00+00:00,2024,1. Division,Denmark,Hobro,,,B 93,Not Started
+2024-11-24T00:00:00+00:00,2024,1. Division,Denmark,Hillerød,,,Esbjerg,Time to be defined
+2024-11-24T00:00:00+00:00,2024,1. Division,Denmark,Vendsyssel FF,,,Odense,Time to be defined
+2024-11-24T00:00:00+00:00,2024,1. Division,Denmark,Hvidovre,,,Roskilde,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Division,Denmark,Roskilde,,,FC Fredericia,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Division,Denmark,Kolding IF,,,AC Horsens,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Division,Denmark,Odense,,,B 93,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Division,Denmark,Vendsyssel FF,,,Esbjerg,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Division,Denmark,HB Koge,,,Hillerød,Time to be defined
+2024-12-01T00:00:00+00:00,2024,1. Division,Denmark,Hvidovre,,,Hobro,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Division,Denmark,B 93,,,Hvidovre,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Division,Denmark,Esbjerg,,,Kolding IF,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Division,Denmark,FC Fredericia,,,HB Koge,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Division,Denmark,Hillerød,,,Odense,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Division,Denmark,Hobro,,,Vendsyssel FF,Time to be defined
+2025-02-23T00:00:00+00:00,2024,1. Division,Denmark,AC Horsens,,,Roskilde,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Division,Denmark,Roskilde,,,Hillerød,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Division,Denmark,Vendsyssel FF,,,AC Horsens,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Division,Denmark,Kolding IF,,,B 93,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Division,Denmark,HB Koge,,,Esbjerg,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Division,Denmark,Hvidovre,,,FC Fredericia,Time to be defined
+2025-03-02T00:00:00+00:00,2024,1. Division,Denmark,Odense,,,Hobro,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Division,Denmark,B 93,,,HB Koge,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Division,Denmark,Esbjerg,,,Hvidovre,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Division,Denmark,FC Fredericia,,,Hillerød,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Division,Denmark,Hobro,,,AC Horsens,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Division,Denmark,Roskilde,,,Vendsyssel FF,Time to be defined
+2025-03-09T00:00:00+00:00,2024,1. Division,Denmark,Odense,,,Kolding IF,Time to be defined
+2025-03-15T00:00:00+00:00,2024,1. Division,Denmark,Hvidovre,,,Odense,Time to be defined
+2025-03-15T00:00:00+00:00,2024,1. Division,Denmark,Hillerød,,,B 93,Time to be defined
+2025-03-15T00:00:00+00:00,2024,1. Division,Denmark,AC Horsens,,,Esbjerg,Time to be defined
+2025-03-15T00:00:00+00:00,2024,1. Division,Denmark,Vendsyssel FF,,,FC Fredericia,Time to be defined
+2025-03-15T00:00:00+00:00,2024,1. Division,Denmark,Kolding IF,,,Hobro,Time to be defined
+2025-03-15T00:00:00+00:00,2024,1. Division,Denmark,HB Koge,,,Roskilde,Time to be defined

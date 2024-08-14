@@ -1,0 +1,133 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-02T18:30:00+00:00,2024,Bundesliga,Austria,Grazer AK,2,3,Red Bull Salzburg,Match Finished
+2024-08-03T15:00:00+00:00,2024,Bundesliga,Austria,SCR Altach,1,2,WSG Wattens,Match Finished
+2024-08-03T15:00:00+00:00,2024,Bundesliga,Austria,TSV Hartberg,1,2,Lask Linz,Match Finished
+2024-08-03T17:30:00+00:00,2024,Bundesliga,Austria,Wolfsberger AC,4,1,Austria Klagenfurt,Match Finished
+2024-08-04T15:00:00+00:00,2024,Bundesliga,Austria,Rapid Vienna,1,0,Sturm Graz,Match Finished
+2024-08-04T15:00:00+00:00,2024,Bundesliga,Austria,FC BW Linz,1,0,Austria Vienna,Match Finished
+2024-08-10T15:00:00+00:00,2024,Bundesliga,Austria,Lask Linz,1,2,SCR Altach,Match Finished
+2024-08-10T15:00:00+00:00,2024,Bundesliga,Austria,WSG Wattens,0,0,Grazer AK,Match Finished
+2024-08-10T17:30:00+00:00,2024,Bundesliga,Austria,Red Bull Salzburg,5,1,FC BW Linz,Match Finished
+2024-08-11T15:00:00+00:00,2024,Bundesliga,Austria,Austria Vienna,3,1,Wolfsberger AC,Match Finished
+2024-08-11T15:00:00+00:00,2024,Bundesliga,Austria,Sturm Graz,2,0,TSV Hartberg,Match Finished
+2024-08-11T15:00:00+00:00,2024,Bundesliga,Austria,Austria Klagenfurt,1,1,Rapid Vienna,Match Finished
+2024-08-17T15:00:00+00:00,2024,Bundesliga,Austria,Grazer AK,,,FC BW Linz,Not Started
+2024-08-17T15:00:00+00:00,2024,Bundesliga,Austria,Austria Klagenfurt,,,Sturm Graz,Not Started
+2024-08-17T17:30:00+00:00,2024,Bundesliga,Austria,Lask Linz,,,Red Bull Salzburg,Not Started
+2024-08-18T15:00:00+00:00,2024,Bundesliga,Austria,Rapid Vienna,,,WSG Wattens,Not Started
+2024-08-18T15:00:00+00:00,2024,Bundesliga,Austria,SCR Altach,,,Wolfsberger AC,Not Started
+2024-08-18T15:00:00+00:00,2024,Bundesliga,Austria,TSV Hartberg,,,Austria Vienna,Not Started
+2024-08-24T15:00:00+00:00,2024,Bundesliga,Austria,Red Bull Salzburg,,,TSV Hartberg,Not Started
+2024-08-24T15:00:00+00:00,2024,Bundesliga,Austria,WSG Wattens,,,Austria Klagenfurt,Not Started
+2024-08-24T17:30:00+00:00,2024,Bundesliga,Austria,Sturm Graz,,,SCR Altach,Not Started
+2024-08-25T15:00:00+00:00,2024,Bundesliga,Austria,Wolfsberger AC,,,Grazer AK,Not Started
+2024-08-25T15:00:00+00:00,2024,Bundesliga,Austria,Austria Vienna,,,Lask Linz,Not Started
+2024-08-25T15:00:00+00:00,2024,Bundesliga,Austria,FC BW Linz,,,Rapid Vienna,Not Started
+2024-08-31T15:00:00+00:00,2024,Bundesliga,Austria,Austria Klagenfurt,,,FC BW Linz,Not Started
+2024-08-31T15:00:00+00:00,2024,Bundesliga,Austria,TSV Hartberg,,,Grazer AK,Not Started
+2024-08-31T17:30:00+00:00,2024,Bundesliga,Austria,Sturm Graz,,,WSG Wattens,Not Started
+2024-09-01T15:00:00+00:00,2024,Bundesliga,Austria,Lask Linz,,,Wolfsberger AC,Not Started
+2024-09-01T15:00:00+00:00,2024,Bundesliga,Austria,Rapid Vienna,,,Red Bull Salzburg,Not Started
+2024-09-01T15:00:00+00:00,2024,Bundesliga,Austria,SCR Altach,,,Austria Vienna,Not Started
+2024-09-14T00:00:00+00:00,2024,Bundesliga,Austria,Red Bull Salzburg,,,Austria Klagenfurt,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Bundesliga,Austria,Wolfsberger AC,,,Rapid Vienna,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Bundesliga,Austria,Austria Vienna,,,Sturm Graz,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Bundesliga,Austria,FC BW Linz,,,Lask Linz,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Bundesliga,Austria,Grazer AK,,,SCR Altach,Time to be defined
+2024-09-14T00:00:00+00:00,2024,Bundesliga,Austria,TSV Hartberg,,,WSG Wattens,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Bundesliga,Austria,Lask Linz,,,Grazer AK,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Bundesliga,Austria,Sturm Graz,,,Wolfsberger AC,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Bundesliga,Austria,Austria Klagenfurt,,,TSV Hartberg,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Bundesliga,Austria,Rapid Vienna,,,Austria Vienna,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Bundesliga,Austria,SCR Altach,,,FC BW Linz,Time to be defined
+2024-09-21T00:00:00+00:00,2024,Bundesliga,Austria,WSG Wattens,,,Red Bull Salzburg,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Bundesliga,Austria,Red Bull Salzburg,,,Austria Vienna,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Bundesliga,Austria,Wolfsberger AC,,,WSG Wattens,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Bundesliga,Austria,Rapid Vienna,,,Lask Linz,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Bundesliga,Austria,FC BW Linz,,,Sturm Graz,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Bundesliga,Austria,Grazer AK,,,Austria Klagenfurt,Time to be defined
+2024-09-28T00:00:00+00:00,2024,Bundesliga,Austria,TSV Hartberg,,,SCR Altach,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Austria,Lask Linz,,,Austria Klagenfurt,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Austria,Wolfsberger AC,,,TSV Hartberg,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Austria,Austria Vienna,,,Grazer AK,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Austria,Sturm Graz,,,Red Bull Salzburg,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Austria,SCR Altach,,,Rapid Vienna,Time to be defined
+2024-10-05T00:00:00+00:00,2024,Bundesliga,Austria,WSG Wattens,,,FC BW Linz,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Austria,Red Bull Salzburg,,,SCR Altach,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Austria,Sturm Graz,,,Grazer AK,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Austria,Austria Klagenfurt,,,Austria Vienna,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Austria,Rapid Vienna,,,TSV Hartberg,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Austria,FC BW Linz,,,Wolfsberger AC,Time to be defined
+2024-10-19T00:00:00+00:00,2024,Bundesliga,Austria,WSG Wattens,,,Lask Linz,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Austria,Lask Linz,,,Sturm Graz,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Austria,Wolfsberger AC,,,Red Bull Salzburg,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Austria,Austria Vienna,,,WSG Wattens,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Austria,SCR Altach,,,Austria Klagenfurt,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Austria,Grazer AK,,,Rapid Vienna,Time to be defined
+2024-10-26T00:00:00+00:00,2024,Bundesliga,Austria,TSV Hartberg,,,FC BW Linz,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Austria,Red Bull Salzburg,,,Grazer AK,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Austria,Lask Linz,,,TSV Hartberg,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Austria,Austria Vienna,,,FC BW Linz,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Austria,Sturm Graz,,,Rapid Vienna,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Austria,Austria Klagenfurt,,,Wolfsberger AC,Time to be defined
+2024-11-02T00:00:00+00:00,2024,Bundesliga,Austria,WSG Wattens,,,SCR Altach,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Austria,Wolfsberger AC,,,Austria Vienna,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Austria,Rapid Vienna,,,Austria Klagenfurt,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Austria,FC BW Linz,,,Red Bull Salzburg,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Austria,SCR Altach,,,Lask Linz,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Austria,Grazer AK,,,WSG Wattens,Time to be defined
+2024-11-09T00:00:00+00:00,2024,Bundesliga,Austria,TSV Hartberg,,,Sturm Graz,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Austria,Red Bull Salzburg,,,Lask Linz,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Austria,Wolfsberger AC,,,SCR Altach,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Austria,Austria Vienna,,,TSV Hartberg,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Austria,Sturm Graz,,,Austria Klagenfurt,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Austria,FC BW Linz,,,Grazer AK,Time to be defined
+2024-11-23T00:00:00+00:00,2024,Bundesliga,Austria,WSG Wattens,,,Rapid Vienna,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Austria,Lask Linz,,,Austria Vienna,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Austria,Austria Klagenfurt,,,WSG Wattens,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Austria,Rapid Vienna,,,FC BW Linz,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Austria,SCR Altach,,,Sturm Graz,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Austria,Grazer AK,,,Wolfsberger AC,Time to be defined
+2024-11-30T00:00:00+00:00,2024,Bundesliga,Austria,TSV Hartberg,,,Red Bull Salzburg,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Austria,Red Bull Salzburg,,,Rapid Vienna,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Austria,Wolfsberger AC,,,Lask Linz,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Austria,Austria Vienna,,,SCR Altach,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Austria,FC BW Linz,,,Austria Klagenfurt,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Austria,Grazer AK,,,TSV Hartberg,Time to be defined
+2024-12-07T00:00:00+00:00,2024,Bundesliga,Austria,WSG Wattens,,,Sturm Graz,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Austria,Lask Linz,,,FC BW Linz,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Austria,Sturm Graz,,,Austria Vienna,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Austria,Austria Klagenfurt,,,Red Bull Salzburg,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Austria,Rapid Vienna,,,Wolfsberger AC,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Austria,SCR Altach,,,Grazer AK,Time to be defined
+2025-02-08T00:00:00+00:00,2024,Bundesliga,Austria,WSG Wattens,,,TSV Hartberg,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Austria,Red Bull Salzburg,,,WSG Wattens,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Austria,Wolfsberger AC,,,Sturm Graz,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Austria,Austria Vienna,,,Rapid Vienna,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Austria,FC BW Linz,,,SCR Altach,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Austria,Grazer AK,,,Lask Linz,Time to be defined
+2025-02-15T00:00:00+00:00,2024,Bundesliga,Austria,TSV Hartberg,,,Austria Klagenfurt,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Austria,Lask Linz,,,Rapid Vienna,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Austria,Austria Vienna,,,Red Bull Salzburg,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Austria,Sturm Graz,,,FC BW Linz,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Austria,Austria Klagenfurt,,,Grazer AK,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Austria,SCR Altach,,,TSV Hartberg,Time to be defined
+2025-02-22T00:00:00+00:00,2024,Bundesliga,Austria,WSG Wattens,,,Wolfsberger AC,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Austria,Red Bull Salzburg,,,Sturm Graz,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Austria,Austria Klagenfurt,,,Lask Linz,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Austria,Rapid Vienna,,,SCR Altach,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Austria,FC BW Linz,,,WSG Wattens,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Austria,Grazer AK,,,Austria Vienna,Time to be defined
+2025-03-01T00:00:00+00:00,2024,Bundesliga,Austria,TSV Hartberg,,,Wolfsberger AC,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Austria,Lask Linz,,,WSG Wattens,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Austria,Wolfsberger AC,,,FC BW Linz,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Austria,Austria Vienna,,,Austria Klagenfurt,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Austria,SCR Altach,,,Red Bull Salzburg,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Austria,Grazer AK,,,Sturm Graz,Time to be defined
+2025-03-08T00:00:00+00:00,2024,Bundesliga,Austria,TSV Hartberg,,,Rapid Vienna,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Austria,Red Bull Salzburg,,,Wolfsberger AC,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Austria,Sturm Graz,,,Lask Linz,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Austria,Austria Klagenfurt,,,SCR Altach,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Austria,Rapid Vienna,,,Grazer AK,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Austria,FC BW Linz,,,TSV Hartberg,Time to be defined
+2025-03-15T00:00:00+00:00,2024,Bundesliga,Austria,WSG Wattens,,,Austria Vienna,Time to be defined

@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-02T18:30:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,1,2,Hamburger SV,Match Finished
+2024-08-04T11:30:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,0,2,Fortuna Dusseldorf,Match Finished
+2024-08-03T11:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,3,2,FC Nurnberg,Match Finished
+2024-08-03T11:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,2,0,Jahn Regensburg,Match Finished
+2024-08-04T11:30:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,3,1,Preussen Munster,Match Finished
+2024-08-03T11:00:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,1,2,SC Paderborn 07,Match Finished
+2024-08-03T18:30:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,5,1,Eintracht Braunschweig,Match Finished
+2024-08-03T11:00:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,0,0,SV Elversberg,Match Finished
+2024-08-04T11:30:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,1,2,FC Kaiserslautern,Match Finished
+2024-08-10T11:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,0,0,Karlsruher SC,Match Finished
+2024-08-10T18:30:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,1,1,Hertha Berlin,Match Finished
+2024-08-11T11:30:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,3,1,SV Darmstadt 98,Match Finished
+2024-08-10T11:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,2,2,1.FC Köln,Match Finished
+2024-08-10T11:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,3,1,FC Schalke 04,Match Finished
+2024-08-09T16:30:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,2,2,SpVgg Greuther Furth,Match Finished
+2024-08-11T11:30:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,1,3,FC Magdeburg,Match Finished
+2024-08-11T11:30:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,0,0,Hannover 96,Match Finished
+2024-08-09T16:30:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,1,0,SSV ULM 1846,Match Finished
+2024-08-24T18:30:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,Eintracht Braunschweig,Not Started
+2024-08-25T11:30:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,FC Nurnberg,Not Started
+2024-08-23T16:30:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,SV Elversberg,Not Started
+2024-08-23T16:30:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,Hamburger SV,Not Started
+2024-08-24T11:00:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,SC Paderborn 07,Not Started
+2024-08-24T11:00:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,Jahn Regensburg,Not Started
+2024-08-25T11:30:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,FC Schalke 04,Not Started
+2024-08-25T11:30:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,Fortuna Dusseldorf,Not Started
+2024-08-24T11:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,FC Kaiserslautern,Not Started
+2024-08-30T16:30:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,Hannover 96,Not Started
+2024-08-31T11:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,Preussen Munster,Not Started
+2024-09-01T11:30:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,SSV ULM 1846,Not Started
+2024-09-01T11:30:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,1.FC Köln,Not Started
+2024-08-31T11:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,SV Darmstadt 98,Not Started
+2024-08-31T11:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,FC Magdeburg,Not Started
+2024-08-31T18:30:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,Hertha Berlin,Not Started
+2024-09-01T11:30:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,Karlsruher SC,Not Started
+2024-08-30T16:30:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,SpVgg Greuther Furth,Not Started
+2024-09-14T18:30:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,FC Magdeburg,Not Started
+2024-09-14T11:00:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,Eintracht Braunschweig,Not Started
+2024-09-15T11:30:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,Jahn Regensburg,Not Started
+2024-09-14T00:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,FC Schalke 04,Time to be defined
+2024-09-14T11:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,FC Kaiserslautern,Not Started
+2024-09-15T11:30:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,SV Elversberg,Not Started
+2024-09-15T11:30:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,Fortuna Dusseldorf,Not Started
+2024-09-14T11:00:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,FC Nurnberg,Not Started
+2024-09-14T00:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,SC Paderborn 07,Time to be defined
+2024-09-21T11:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,1.FC Köln,Not Started
+2024-09-21T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,Hannover 96,Time to be defined
+2024-09-21T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,SV Darmstadt 98,Time to be defined
+2024-09-22T11:30:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,SSV ULM 1846,Not Started
+2024-09-21T11:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,Hertha Berlin,Not Started
+2024-09-21T18:30:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,Hamburger SV,Not Started
+2024-09-22T11:30:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,Karlsruher SC,Not Started
+2024-09-21T11:00:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,SpVgg Greuther Furth,Not Started
+2024-09-22T11:30:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,Preussen Munster,Not Started
+2024-09-29T11:30:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,Karlsruher SC,Not Started
+2024-09-28T11:00:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,FC Magdeburg,Not Started
+2024-09-28T11:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,SC Paderborn 07,Not Started
+2024-09-29T11:30:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,FC Nurnberg,Not Started
+2024-09-28T00:00:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,Fortuna Dusseldorf,Time to be defined
+2024-09-29T11:30:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,SV Elversberg,Not Started
+2024-09-28T00:00:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,Eintracht Braunschweig,Time to be defined
+2024-09-28T18:30:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,FC Schalke 04,Not Started
+2024-09-28T11:00:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,FC Kaiserslautern,Not Started
+2024-10-05T00:00:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,SSV ULM 1846,Time to be defined
+2024-10-05T00:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,Hamburger SV,Time to be defined
+2024-10-05T00:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,SV Darmstadt 98,Time to be defined
+2024-10-05T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,Jahn Regensburg,Time to be defined
+2024-10-05T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,Hertha Berlin,Time to be defined
+2024-10-05T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,FC Kaiserslautern,Time to be defined
+2024-10-05T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,Preussen Munster,Time to be defined
+2024-10-05T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,SpVgg Greuther Furth,Time to be defined
+2024-10-05T00:00:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,Hannover 96,Time to be defined
+2024-10-19T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,1.FC Köln,Time to be defined
+2024-10-19T00:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,FC Magdeburg,Time to be defined
+2024-10-19T00:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,FC Schalke 04,Time to be defined
+2024-10-19T00:00:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,FC Nurnberg,Time to be defined
+2024-10-19T00:00:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,Eintracht Braunschweig,Time to be defined
+2024-10-19T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,SC Paderborn 07,Time to be defined
+2024-10-19T00:00:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,Karlsruher SC,Time to be defined
+2024-10-19T00:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,SV Elversberg,Time to be defined
+2024-10-19T00:00:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,Fortuna Dusseldorf,Time to be defined
+2024-10-26T00:00:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,SC Paderborn 07,Time to be defined
+2024-10-26T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,SSV ULM 1846,Time to be defined
+2024-10-26T00:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,FC Kaiserslautern,Time to be defined
+2024-10-26T00:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,Hertha Berlin,Time to be defined
+2024-10-26T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,SpVgg Greuther Furth,Time to be defined
+2024-10-26T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,Hamburger SV,Time to be defined
+2024-10-26T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,Jahn Regensburg,Time to be defined
+2024-10-26T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,Hannover 96,Time to be defined
+2024-10-26T00:00:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,Preussen Munster,Time to be defined
+2024-11-02T00:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,FC Nurnberg,Time to be defined
+2024-11-02T00:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,Karlsruher SC,Time to be defined
+2024-11-02T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,Eintracht Braunschweig,Time to be defined
+2024-11-02T00:00:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,SV Darmstadt 98,Time to be defined
+2024-11-02T00:00:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,1.FC Köln,Time to be defined
+2024-11-02T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,FC Magdeburg,Time to be defined
+2024-11-02T00:00:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,FC Schalke 04,Time to be defined
+2024-11-02T00:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,Fortuna Dusseldorf,Time to be defined
+2024-11-02T00:00:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,SV Elversberg,Time to be defined
+2024-11-09T00:00:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,SpVgg Greuther Furth,Time to be defined
+2024-11-09T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,Hertha Berlin,Time to be defined
+2024-11-09T00:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,SC Paderborn 07,Time to be defined
+2024-11-09T00:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,Preussen Munster,Time to be defined
+2024-11-09T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,Jahn Regensburg,Time to be defined
+2024-11-09T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,Hannover 96,Time to be defined
+2024-11-09T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,FC Kaiserslautern,Time to be defined
+2024-11-09T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,SSV ULM 1846,Time to be defined
+2024-11-09T00:00:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,Hamburger SV,Time to be defined
+2024-11-23T00:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,SV Elversberg,Time to be defined
+2024-11-23T00:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,FC Schalke 04,Time to be defined
+2024-11-23T00:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,SV Darmstadt 98,Time to be defined
+2024-11-23T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,FC Nurnberg,Time to be defined
+2024-11-23T00:00:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,Karlsruher SC,Time to be defined
+2024-11-23T00:00:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,SSV ULM 1846,Time to be defined
+2024-11-23T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,Eintracht Braunschweig,Time to be defined
+2024-11-23T00:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,1.FC Köln,Time to be defined
+2024-11-23T00:00:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,FC Magdeburg,Time to be defined
+2024-11-30T00:00:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,Hannover 96,Time to be defined
+2024-11-30T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,Preussen Munster,Time to be defined
+2024-11-30T00:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,Hamburger SV,Time to be defined
+2024-11-30T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,FC Kaiserslautern,Time to be defined
+2024-11-30T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,SC Paderborn 07,Time to be defined
+2024-11-30T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,Fortuna Dusseldorf,Time to be defined
+2024-11-30T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,Hertha Berlin,Time to be defined
+2024-11-30T00:00:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,Jahn Regensburg,Time to be defined
+2024-11-30T00:00:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,SpVgg Greuther Furth,Time to be defined
+2024-12-07T00:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,Eintracht Braunschweig,Time to be defined
+2024-12-07T00:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,SV Darmstadt 98,Time to be defined
+2024-12-07T00:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,SSV ULM 1846,Time to be defined
+2024-12-07T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,FC Schalke 04,Time to be defined
+2024-12-07T00:00:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,Hertha Berlin,Time to be defined
+2024-12-07T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,FC Nurnberg,Time to be defined
+2024-12-07T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,Karlsruher SC,Time to be defined
+2024-12-07T00:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,FC Magdeburg,Time to be defined
+2024-12-07T00:00:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,1.FC Köln,Time to be defined
+2024-12-14T00:00:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,FC Nurnberg,Time to be defined
+2024-12-14T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,FC Kaiserslautern,Time to be defined
+2024-12-14T00:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,Jahn Regensburg,Time to be defined
+2024-12-14T00:00:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,Hannover 96,Time to be defined
+2024-12-14T00:00:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,Preussen Munster,Time to be defined
+2024-12-14T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,Fortuna Dusseldorf,Time to be defined
+2024-12-14T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,SC Paderborn 07,Time to be defined
+2024-12-14T00:00:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,SV Elversberg,Time to be defined
+2024-12-14T00:00:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,Hamburger SV,Time to be defined
+2024-12-21T00:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,FC Magdeburg,Time to be defined
+2024-12-21T00:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,SpVgg Greuther Furth,Time to be defined
+2024-12-21T00:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,Hertha Berlin,Time to be defined
+2024-12-21T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,Karlsruher SC,Time to be defined
+2024-12-21T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,FC Schalke 04,Time to be defined
+2024-12-21T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,Eintracht Braunschweig,Time to be defined
+2024-12-21T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,1.FC Köln,Time to be defined
+2024-12-21T00:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,SSV ULM 1846,Time to be defined
+2024-12-21T00:00:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,SV Darmstadt 98,Time to be defined
+2025-01-18T00:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,SV Darmstadt 98,Time to be defined
+2025-01-18T00:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,1.FC Köln,Time to be defined
+2025-01-18T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,Hertha Berlin,Time to be defined
+2025-01-18T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,FC Magdeburg,Time to be defined
+2025-01-18T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,Karlsruher SC,Time to be defined
+2025-01-18T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,SSV ULM 1846,Time to be defined
+2025-01-18T00:00:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,FC Schalke 04,Time to be defined
+2025-01-18T00:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,SpVgg Greuther Furth,Time to be defined
+2025-01-18T00:00:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,Hannover 96,Time to be defined
+2025-01-25T00:00:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,SV Elversberg,Time to be defined
+2025-01-25T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,SC Paderborn 07,Time to be defined
+2025-01-25T00:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,Fortuna Dusseldorf,Time to be defined
+2025-01-25T00:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,Preussen Munster,Time to be defined
+2025-01-25T00:00:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,FC Kaiserslautern,Time to be defined
+2025-01-25T00:00:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,Hamburger SV,Time to be defined
+2025-01-25T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,FC Nurnberg,Time to be defined
+2025-01-25T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,Eintracht Braunschweig,Time to be defined
+2025-01-25T00:00:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,Jahn Regensburg,Time to be defined
+2025-02-01T00:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,SSV ULM 1846,Time to be defined
+2025-02-01T00:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,Hannover 96,Time to be defined
+2025-02-01T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,SpVgg Greuther Furth,Time to be defined
+2025-02-01T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,FC Magdeburg,Time to be defined
+2025-02-01T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,Karlsruher SC,Time to be defined
+2025-02-01T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,SV Darmstadt 98,Time to be defined
+2025-02-01T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,Preussen Munster,Time to be defined
+2025-02-01T00:00:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,1.FC Köln,Time to be defined
+2025-02-01T00:00:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,Hertha Berlin,Time to be defined
+2025-02-08T00:00:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,FC Schalke 04,Time to be defined
+2025-02-08T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,SV Elversberg,Time to be defined
+2025-02-08T00:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,Eintracht Braunschweig,Time to be defined
+2025-02-08T00:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,Fortuna Dusseldorf,Time to be defined
+2025-02-08T00:00:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,Jahn Regensburg,Time to be defined
+2025-02-08T00:00:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,FC Kaiserslautern,Time to be defined
+2025-02-08T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,FC Nurnberg,Time to be defined
+2025-02-08T00:00:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,SC Paderborn 07,Time to be defined
+2025-02-08T00:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,Hamburger SV,Time to be defined
+2025-02-15T00:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,Hertha Berlin,Time to be defined
+2025-02-15T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,Preussen Munster,Time to be defined
+2025-02-15T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,Karlsruher SC,Time to be defined
+2025-02-15T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,SpVgg Greuther Furth,Time to be defined
+2025-02-15T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,SSV ULM 1846,Time to be defined
+2025-02-15T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,Hannover 96,Time to be defined
+2025-02-15T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,1.FC Köln,Time to be defined
+2025-02-15T00:00:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,SV Darmstadt 98,Time to be defined
+2025-02-15T00:00:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,Hamburger SV,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,Fortuna Dusseldorf,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,FC Schalke 04,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,FC Kaiserslautern,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,FC Magdeburg,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,SC Paderborn 07,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,Eintracht Braunschweig,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,FC Nurnberg,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,SV Elversberg,Time to be defined
+2025-02-22T00:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,Jahn Regensburg,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,SpVgg Greuther Furth,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,1.FC Köln,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,Hamburger SV,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,Preussen Munster,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,Hertha Berlin,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,Hannover 96,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,Jahn Regensburg,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,SV Darmstadt 98,Time to be defined
+2025-03-01T00:00:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,SSV ULM 1846,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,Karlsruher SC,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,Fortuna Dusseldorf,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,Eintracht Braunschweig,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,FC Magdeburg,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,FC Schalke 04,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,SV Elversberg,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,1.FC Köln,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,FC Nurnberg,Time to be defined
+2025-03-08T00:00:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,SC Paderborn 07,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,SV Darmstadt 98,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,Jahn Regensburg,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,SSV ULM 1846,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,FC Kaiserslautern,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,Hannover 96,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,Preussen Munster,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,SpVgg Greuther Furth,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,Hamburger SV,Time to be defined
+2025-03-15T00:00:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,Hertha Berlin,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,SV Elversberg,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,FC Magdeburg,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,1.FC Köln,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,FC Schalke 04,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,Karlsruher SC,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,Fortuna Dusseldorf,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,SV Darmstadt 98,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,Eintracht Braunschweig,Time to be defined
+2025-03-29T00:00:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,FC Nurnberg,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,Hertha Berlin,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,SpVgg Greuther Furth,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,Preussen Munster,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,Hannover 96,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,SSV ULM 1846,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,Jahn Regensburg,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,Hamburger SV,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,FC Kaiserslautern,Time to be defined
+2025-04-05T00:00:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,SC Paderborn 07,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,Eintracht Braunschweig,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,SV Elversberg,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,Fortuna Dusseldorf,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,1.FC Köln,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,SV Darmstadt 98,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,FC Nurnberg,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,FC Magdeburg,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,Karlsruher SC,Time to be defined
+2025-04-12T00:00:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,FC Schalke 04,Time to be defined
+2025-04-19T00:00:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,Preussen Munster,Time to be defined
+2025-04-19T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,Hannover 96,Time to be defined
+2025-04-19T00:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,SpVgg Greuther Furth,Time to be defined
+2025-04-19T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,Hamburger SV,Time to be defined
+2025-04-19T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,Fortuna Dusseldorf,Time to be defined
+2025-04-19T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,SC Paderborn 07,Time to be defined
+2025-04-19T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,Jahn Regensburg,Time to be defined
+2025-04-19T00:00:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,FC Kaiserslautern,Time to be defined
+2025-04-19T00:00:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,Hertha Berlin,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,FC Nurnberg,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,Karlsruher SC,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,1.FC Köln,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,SV Elversberg,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,SSV ULM 1846,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,FC Magdeburg,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,FC Schalke 04,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,SV Darmstadt 98,Time to be defined
+2025-04-26T00:00:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,Eintracht Braunschweig,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,Jahn Regensburg,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,Hamburger SV,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,FC Kaiserslautern,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,SpVgg Greuther Furth,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,SC Paderborn 07,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,SV Elversberg,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,Preussen Munster,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,Fortuna Dusseldorf,Time to be defined
+2025-05-03T00:00:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,Hannover 96,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Bundesliga,Germany,Fortuna Dusseldorf,,,FC Schalke 04,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Bundesliga,Germany,Hamburger SV,,,SSV ULM 1846,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Bundesliga,Germany,Hannover 96,,,SpVgg Greuther Furth,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Bundesliga,Germany,SC Paderborn 07,,,FC Magdeburg,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Bundesliga,Germany,SV Elversberg,,,Eintracht Braunschweig,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Nurnberg,,,1.FC Köln,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Bundesliga,Germany,FC Kaiserslautern,,,SV Darmstadt 98,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Bundesliga,Germany,Preussen Munster,,,Hertha Berlin,Time to be defined
+2025-05-10T00:00:00+00:00,2024,2. Bundesliga,Germany,Jahn Regensburg,,,Karlsruher SC,Time to be defined
+2025-05-18T13:30:00+00:00,2024,2. Bundesliga,Germany,1.FC Köln,,,FC Kaiserslautern,Not Started
+2025-05-18T13:30:00+00:00,2024,2. Bundesliga,Germany,SV Darmstadt 98,,,Jahn Regensburg,Not Started
+2025-05-18T13:30:00+00:00,2024,2. Bundesliga,Germany,Karlsruher SC,,,SC Paderborn 07,Not Started
+2025-05-18T13:30:00+00:00,2024,2. Bundesliga,Germany,SpVgg Greuther Furth,,,Hamburger SV,Not Started
+2025-05-18T13:30:00+00:00,2024,2. Bundesliga,Germany,Hertha Berlin,,,Hannover 96,Not Started
+2025-05-18T13:30:00+00:00,2024,2. Bundesliga,Germany,FC Schalke 04,,,SV Elversberg,Not Started
+2025-05-18T13:30:00+00:00,2024,2. Bundesliga,Germany,FC Magdeburg,,,Fortuna Dusseldorf,Not Started
+2025-05-18T13:30:00+00:00,2024,2. Bundesliga,Germany,Eintracht Braunschweig,,,FC Nurnberg,Not Started
+2025-05-18T13:30:00+00:00,2024,2. Bundesliga,Germany,SSV ULM 1846,,,Preussen Munster,Not Started

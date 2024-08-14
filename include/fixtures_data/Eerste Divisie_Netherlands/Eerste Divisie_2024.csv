@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,2,0,Den Bosch,Match Finished
+2024-08-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,1,2,Dordrecht,Match Finished
+2024-08-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,1,1,Jong Utrecht,Match Finished
+2024-08-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,MVV,0,1,Cambuur,Match Finished
+2024-08-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,3,1,Excelsior,Match Finished
+2024-08-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,2,3,Telstar,Match Finished
+2024-08-10T14:30:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,1,1,VVV Venlo,Match Finished
+2024-08-11T14:45:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,4,3,FC Volendam,Match Finished
+2024-08-12T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,6,1,Roda,Match Finished
+2024-08-12T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,2,2,Jong Ajax,Match Finished
+2024-08-16T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,De Graafschap,Not Started
+2024-08-16T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,Jong AZ,Not Started
+2024-08-16T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,Jong PSV,Not Started
+2024-08-16T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,FC OSS,Not Started
+2024-08-18T10:15:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,Helmond Sport,Not Started
+2024-08-16T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,FC Eindhoven,Not Started
+2024-08-16T18:00:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,Vitesse,Not Started
+2024-08-17T14:30:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,ADO Den Haag,Not Started
+2024-08-18T14:45:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,Emmen,Not Started
+2024-08-19T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,MVV,Not Started
+2024-08-23T18:00:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,FC Volendam,Not Started
+2024-08-23T18:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,Jong Utrecht,Not Started
+2024-08-23T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,MVV,Not Started
+2024-08-23T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,Helmond Sport,Not Started
+2024-08-23T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,Cambuur,Not Started
+2024-08-25T10:15:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,Excelsior,Not Started
+2024-08-24T14:30:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,Jong Ajax,Not Started
+2024-08-25T14:45:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,Roda,Not Started
+2024-08-26T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,Dordrecht,Not Started
+2024-08-26T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,Telstar,Not Started
+2024-08-30T18:00:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,Excelsior,Not Started
+2024-08-30T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,Cambuur,Not Started
+2024-08-30T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,VVV Venlo,Not Started
+2024-08-30T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,Den Bosch,Not Started
+2024-08-30T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,Emmen,Not Started
+2024-08-30T18:00:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,Jong PSV,Not Started
+2024-08-30T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,Jong AZ,Not Started
+2024-08-30T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,FC Eindhoven,Not Started
+2024-08-31T14:30:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,FC OSS,Not Started
+2024-09-01T14:45:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,De Graafschap,Not Started
+2024-09-06T18:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,FC Eindhoven,Not Started
+2024-09-08T12:30:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,MVV,Not Started
+2024-09-16T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,VVV Venlo,Not Started
+2024-09-16T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,Vitesse,Not Started
+2024-09-17T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,Dordrecht,Not Started
+2024-09-16T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,FC OSS,Not Started
+2024-09-17T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,Jong AZ,Not Started
+2024-09-16T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,Den Bosch,Not Started
+2024-09-16T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,ADO Den Haag,Not Started
+2024-09-16T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,Roda,Not Started
+2024-09-13T18:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,Helmond Sport,Not Started
+2024-09-13T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,Telstar,Not Started
+2024-09-13T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,ADO Den Haag,Not Started
+2024-09-13T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,Dordrecht,Not Started
+2024-09-13T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,Roda,Not Started
+2024-09-13T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,Vitesse,Not Started
+2024-09-13T18:00:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,FC Volendam,Not Started
+2024-09-13T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,Jong Ajax,Not Started
+2024-09-13T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,Jong PSV,Not Started
+2024-09-13T18:00:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,Jong Utrecht,Not Started
+2024-09-20T18:00:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,Telstar,Not Started
+2024-09-20T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,Emmen,Not Started
+2024-09-20T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,Excelsior,Not Started
+2024-09-20T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,FC Volendam,Not Started
+2024-09-20T18:00:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,Jong PSV,Not Started
+2024-09-21T14:30:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,MVV,Not Started
+2024-09-21T16:45:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,Jong Ajax,Not Started
+2024-09-22T14:45:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,FC Eindhoven,Not Started
+2024-09-23T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,De Graafschap,Not Started
+2024-09-23T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,Cambuur,Not Started
+2024-09-27T18:00:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,Jong Utrecht,Not Started
+2024-09-27T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,Jong AZ,Not Started
+2024-09-27T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,Roda,Not Started
+2024-09-27T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,VVV Venlo,Not Started
+2024-09-27T18:00:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,FC OSS,Not Started
+2024-09-29T12:30:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,Vitesse,Not Started
+2024-09-29T14:45:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,Emmen,Not Started
+2024-09-30T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,Dordrecht,Not Started
+2024-09-30T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,Helmond Sport,Not Started
+2024-09-28T14:30:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,Den Bosch,Not Started
+2024-10-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,De Graafschap,Not Started
+2024-10-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,Jong PSV,Not Started
+2024-10-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,MVV,Not Started
+2024-10-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,Jong Ajax,Not Started
+2024-10-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,FC Eindhoven,Not Started
+2024-10-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,Telstar,Not Started
+2024-10-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,Excelsior,Not Started
+2024-10-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,ADO Den Haag,Not Started
+2024-10-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,FC Volendam,Not Started
+2024-10-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,Cambuur,Not Started
+2024-10-12T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,De Graafschap,Not Started
+2024-10-13T12:30:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,VVV Venlo,Not Started
+2024-10-22T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,Vitesse,Not Started
+2024-10-22T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,FC OSS,Not Started
+2024-10-22T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,Den Bosch,Not Started
+2024-10-21T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,Roda,Not Started
+2024-10-21T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,ADO Den Haag,Not Started
+2024-10-22T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,Jong AZ,Not Started
+2024-10-21T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,Excelsior,Not Started
+2024-10-21T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,FC Eindhoven,Not Started
+2024-10-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,Roda,Not Started
+2024-10-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,Jong PSV,Not Started
+2024-10-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,MVV,Not Started
+2024-10-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,Vitesse,Not Started
+2024-10-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,Emmen,Not Started
+2024-10-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,Jong Utrecht,Not Started
+2024-10-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,Helmond Sport,Not Started
+2024-10-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,FC Volendam,Not Started
+2024-10-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,Telstar,Not Started
+2024-10-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,Dordrecht,Not Started
+2024-10-25T18:00:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,De Graafschap,Not Started
+2024-10-25T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,Jong Utrecht,Not Started
+2024-10-27T10:15:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,Telstar,Not Started
+2024-10-25T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,FC Eindhoven,Not Started
+2024-10-25T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,Jong Ajax,Not Started
+2024-10-25T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,Jong AZ,Not Started
+2024-10-25T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,Jong PSV,Not Started
+2024-10-25T18:00:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,Den Bosch,Not Started
+2024-10-26T14:30:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,Cambuur,Not Started
+2024-10-27T14:45:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,Helmond Sport,Not Started
+2024-11-01T19:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,Dordrecht,Not Started
+2024-11-01T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,ADO Den Haag,Not Started
+2024-11-01T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,VVV Venlo,Not Started
+2024-11-01T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,Cambuur,Not Started
+2024-11-01T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,FC Volendam,Not Started
+2024-11-01T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,FC OSS,Not Started
+2024-11-02T15:30:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,Roda,Not Started
+2024-11-03T15:45:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,Excelsior,Not Started
+2024-11-04T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,MVV,Not Started
+2024-11-04T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,Emmen,Not Started
+2024-11-08T19:00:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,Vitesse,Not Started
+2024-11-08T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,FC Eindhoven,Not Started
+2024-11-08T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,Jong Ajax,Not Started
+2024-11-08T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,Jong Utrecht,Not Started
+2024-11-08T19:00:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,De Graafschap,Not Started
+2024-11-08T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,Jong PSV,Not Started
+2024-11-08T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,Den Bosch,Not Started
+2024-11-08T19:00:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,Jong AZ,Not Started
+2024-11-09T15:30:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,Telstar,Not Started
+2024-11-10T15:45:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,Helmond Sport,Not Started
+2024-11-15T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,VVV Venlo,Not Started
+2024-11-17T13:30:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,MVV,Not Started
+2024-11-25T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,FC OSS,Not Started
+2024-11-25T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,De Graafschap,Not Started
+2024-11-25T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,Jong Ajax,Not Started
+2024-11-25T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,ADO Den Haag,Not Started
+2024-11-26T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,Excelsior,Not Started
+2024-11-25T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,Jong AZ,Not Started
+2024-11-26T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,Vitesse,Not Started
+2024-11-26T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,Den Bosch,Not Started
+2024-11-22T19:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,FC OSS,Not Started
+2024-11-22T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,Excelsior,Not Started
+2024-11-22T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,FC Eindhoven,Not Started
+2024-11-22T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,Telstar,Not Started
+2024-11-22T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,ADO Den Haag,Not Started
+2024-11-22T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,Roda,Not Started
+2024-11-22T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,FC Volendam,Not Started
+2024-11-22T19:00:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,Dordrecht,Not Started
+2024-11-22T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,Cambuur,Not Started
+2024-11-22T19:00:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,Emmen,Not Started
+2024-11-29T19:00:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,Emmen,Not Started
+2024-12-01T11:15:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,VVV Venlo,Not Started
+2024-11-29T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,Jong Ajax,Not Started
+2024-11-29T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,Jong PSV,Not Started
+2024-11-29T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,FC Volendam,Not Started
+2024-11-29T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,Cambuur,Not Started
+2024-11-29T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,Helmond Sport,Not Started
+2024-11-30T15:30:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,Jong Utrecht,Not Started
+2024-12-01T15:45:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,Dordrecht,Not Started
+2024-12-02T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,MVV,Not Started
+2024-12-06T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,Telstar,Not Started
+2024-12-06T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,Jong AZ,Not Started
+2024-12-06T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,Den Bosch,Not Started
+2024-12-06T19:00:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,Vitesse,Not Started
+2024-12-06T19:00:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,FC OSS,Not Started
+2024-12-07T15:30:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,ADO Den Haag,Not Started
+2024-12-08T15:45:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,Excelsior,Not Started
+2024-12-09T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,De Graafschap,Not Started
+2024-12-09T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,FC Eindhoven,Not Started
+2024-12-09T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,Roda,Not Started
+2024-12-13T19:00:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,MVV,Not Started
+2024-12-13T19:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,Cambuur,Not Started
+2024-12-13T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,FC Volendam,Not Started
+2024-12-13T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,Jong PSV,Not Started
+2024-12-13T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,VVV Venlo,Not Started
+2024-12-13T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,Emmen,Not Started
+2024-12-13T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,Dordrecht,Not Started
+2024-12-13T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,Helmond Sport,Not Started
+2024-12-13T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,Jong Ajax,Not Started
+2024-12-13T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,Jong Utrecht,Not Started
+2024-12-20T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,FC Eindhoven,Not Started
+2024-12-20T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,Den Bosch,Not Started
+2024-12-20T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,De Graafschap,Not Started
+2024-12-20T19:00:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,Telstar,Not Started
+2024-12-20T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,Jong AZ,Not Started
+2024-12-21T15:30:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,Excelsior,Not Started
+2024-12-22T15:45:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,FC OSS,Not Started
+2024-12-23T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,Roda,Not Started
+2024-12-20T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,Helmond Sport,Not Started
+2024-12-23T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,Vitesse,Not Started
+2025-01-10T19:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,ADO Den Haag,Not Started
+2025-01-10T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,Dordrecht,Not Started
+2025-01-10T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,Jong Utrecht,Not Started
+2025-01-10T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,Emmen,Not Started
+2025-01-10T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,Cambuur,Not Started
+2025-01-10T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,Jong PSV,Not Started
+2025-01-10T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,MVV,Not Started
+2025-01-11T15:30:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,FC Volendam,Not Started
+2025-01-12T15:45:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,VVV Venlo,Not Started
+2025-01-13T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,Jong Ajax,Not Started
+2025-01-17T19:00:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,Helmond Sport,Not Started
+2025-01-17T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,Jong AZ,Not Started
+2025-01-17T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,Vitesse,Not Started
+2025-01-17T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,Excelsior,Not Started
+2025-01-17T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,Roda,Not Started
+2025-01-17T19:00:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,Telstar,Not Started
+2025-01-18T15:30:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,Den Bosch,Not Started
+2025-01-19T15:45:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,FC Eindhoven,Not Started
+2025-01-20T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,Jong PSV,Not Started
+2025-01-20T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,De Graafschap,Not Started
+2025-01-24T19:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,Emmen,Not Started
+2025-01-24T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,FC OSS,Not Started
+2025-01-24T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,Cambuur,Not Started
+2025-01-24T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,MVV,Not Started
+2025-01-24T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,Jong Utrecht,Not Started
+2025-01-24T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,Dordrecht,Not Started
+2025-01-25T15:30:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,Jong Ajax,Not Started
+2025-01-26T11:15:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,ADO Den Haag,Not Started
+2025-01-26T15:45:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,Jong AZ,Not Started
+2025-01-27T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,VVV Venlo,Not Started
+2025-01-31T19:00:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,FC Eindhoven,Not Started
+2025-01-31T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,FC Volendam,Not Started
+2025-01-31T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,De Graafschap,Not Started
+2025-01-31T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,Jong PSV,Not Started
+2025-01-31T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,Telstar,Not Started
+2025-02-01T15:30:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,Vitesse,Not Started
+2025-02-02T11:15:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,Roda,Not Started
+2025-02-02T15:45:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,Helmond Sport,Not Started
+2025-02-03T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,VVV Venlo,Not Started
+2025-02-03T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,Jong Ajax,Not Started
+2025-02-07T19:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,Den Bosch,Not Started
+2025-02-07T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,FC OSS,Not Started
+2025-02-07T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,ADO Den Haag,Not Started
+2025-02-07T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,Jong AZ,Not Started
+2025-02-08T15:30:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,Dordrecht,Not Started
+2025-02-09T11:15:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,MVV,Not Started
+2025-02-09T15:45:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,Jong Utrecht,Not Started
+2025-02-10T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,Excelsior,Not Started
+2025-02-10T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,Cambuur,Not Started
+2025-02-10T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,Emmen,Not Started
+2025-02-14T19:00:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,Jong Ajax,Not Started
+2025-02-16T15:45:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,Helmond Sport,Not Started
+2025-02-14T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,Telstar,Not Started
+2025-02-14T19:00:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,FC Eindhoven,Not Started
+2025-02-14T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,FC OSS,Not Started
+2025-02-15T15:30:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,FC Volendam,Not Started
+2025-02-16T11:15:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,De Graafschap,Not Started
+2025-02-14T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,Roda,Not Started
+2025-02-17T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,Jong PSV,Not Started
+2025-02-17T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,VVV Venlo,Not Started
+2025-02-21T19:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,Jong AZ,Not Started
+2025-02-23T11:15:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,Jong Utrecht,Not Started
+2025-02-21T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,Vitesse,Not Started
+2025-02-21T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,Den Bosch,Not Started
+2025-02-21T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,Excelsior,Not Started
+2025-02-21T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,Emmen,Not Started
+2025-02-22T15:30:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,FC Volendam,Not Started
+2025-02-23T15:45:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,ADO Den Haag,Not Started
+2025-02-24T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,Cambuur,Not Started
+2025-02-24T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,Dordrecht,Not Started
+2025-02-28T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,Emmen,Not Started
+2025-02-28T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,Helmond Sport,Not Started
+2025-02-28T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,De Graafschap,Not Started
+2025-03-01T15:30:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,MVV,Not Started
+2025-02-28T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,VVV Venlo,Not Started
+2025-03-02T11:15:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,Den Bosch,Not Started
+2025-03-02T15:45:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,Roda,Not Started
+2025-03-03T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,FC Eindhoven,Not Started
+2025-03-03T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,Telstar,Not Started
+2025-03-03T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,FC OSS,Not Started
+2025-03-07T19:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,Excelsior,Not Started
+2025-03-07T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,Cambuur,Not Started
+2025-03-07T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,Vitesse,Not Started
+2025-03-07T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,ADO Den Haag,Not Started
+2025-03-07T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,MVV,Not Started
+2025-03-07T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,Jong Utrecht,Not Started
+2025-03-07T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,Jong PSV,Not Started
+2025-03-07T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,Dordrecht,Not Started
+2025-03-07T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,FC Volendam,Not Started
+2025-03-07T19:00:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,Jong Ajax,Not Started
+2025-03-14T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,VVV Venlo,Not Started
+2025-03-14T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,Excelsior,Not Started
+2025-03-14T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,Jong Utrecht,Not Started
+2025-03-14T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,Jong PSV,Not Started
+2025-03-14T19:00:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,Jong AZ,Not Started
+2025-03-14T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,Roda,Not Started
+2025-03-16T11:15:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,De Graafschap,Not Started
+2025-03-14T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,ADO Den Haag,Not Started
+2025-03-15T15:30:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,Cambuur,Not Started
+2025-03-16T15:45:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,Jong Ajax,Not Started
+2025-03-23T19:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,MVV,Not Started
+2025-03-23T19:00:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,FC Eindhoven,Not Started
+2025-03-11T19:00:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,Jong AZ,Not Started
+2025-03-10T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,Den Bosch,Not Started
+2025-03-23T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,Telstar,Not Started
+2025-03-11T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,Emmen,Not Started
+2025-03-10T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,Vitesse,Not Started
+2025-03-10T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,FC OSS,Not Started
+2025-03-11T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,Helmond Sport,Not Started
+2025-03-10T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,Dordrecht,Not Started
+2025-03-28T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,Jong Utrecht,Not Started
+2025-03-28T19:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,Helmond Sport,Not Started
+2025-03-28T19:00:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,Emmen,Not Started
+2025-03-28T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,De Graafschap,Not Started
+2025-03-28T19:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,Vitesse,Not Started
+2025-03-29T15:30:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,VVV Venlo,Not Started
+2025-03-30T15:45:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,Dordrecht,Not Started
+2025-03-31T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,FC Volendam,Not Started
+2025-03-31T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,FC OSS,Not Started
+2025-03-31T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,Den Bosch,Not Started
+2025-04-06T10:15:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,FC Eindhoven,Not Started
+2025-04-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,Jong Ajax,Not Started
+2025-04-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,Cambuur,Not Started
+2025-04-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,Jong PSV,Not Started
+2025-04-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,Excelsior,Not Started
+2025-04-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,VVV Venlo,Not Started
+2025-04-04T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,Jong AZ,Not Started
+2025-04-05T14:30:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,Telstar,Not Started
+2025-04-06T14:45:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,Roda,Not Started
+2025-04-07T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,ADO Den Haag,Not Started
+2025-04-11T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,FC OSS,Not Started
+2025-04-11T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,De Graafschap,Not Started
+2025-04-11T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,Emmen,Not Started
+2025-04-13T10:15:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,Jong Utrecht,Not Started
+2025-04-11T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,ADO Den Haag,Not Started
+2025-04-12T14:30:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,Den Bosch,Not Started
+2025-04-13T14:45:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,Helmond Sport,Not Started
+2025-04-14T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,Vitesse,Not Started
+2025-04-14T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,FC Volendam,Not Started
+2025-04-14T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,MVV,Not Started
+2025-04-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,VVV Venlo,Not Started
+2025-04-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,Telstar,Not Started
+2025-04-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,Jong AZ,Not Started
+2025-04-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,Cambuur,Not Started
+2025-04-18T18:00:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,Jong Utrecht,Not Started
+2025-04-19T14:30:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,Roda,Not Started
+2025-04-19T16:45:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,Dordrecht,Not Started
+2025-04-19T19:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,Jong Ajax,Not Started
+2025-04-20T12:30:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,Jong PSV,Not Started
+2025-04-20T14:45:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,Excelsior,Not Started
+2025-04-25T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,MVV,Not Started
+2025-04-24T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,ADO Den Haag,Not Started
+2025-04-25T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,Vitesse,Not Started
+2025-04-25T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,FC OSS,Not Started
+2025-04-28T18:00:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,De Graafschap,Not Started
+2025-04-27T14:45:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,Emmen,Not Started
+2025-04-28T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,Helmond Sport,Not Started
+2025-04-28T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,Den Bosch,Not Started
+2025-04-28T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,FC Volendam,Not Started
+2025-04-28T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,FC Eindhoven,Not Started
+2025-05-02T18:00:00+00:00,2024,Eerste Divisie,Netherlands,ADO Den Haag,,,Cambuur,Not Started
+2025-05-02T18:00:00+00:00,2024,Eerste Divisie,Netherlands,De Graafschap,,,Telstar,Not Started
+2025-05-02T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Excelsior,,,Jong PSV,Not Started
+2025-05-02T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Den Bosch,,,Helmond Sport,Not Started
+2025-05-02T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Eindhoven,,,Jong AZ,Not Started
+2025-05-02T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Emmen,,,VVV Venlo,Not Started
+2025-05-02T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC Volendam,,,Roda,Not Started
+2025-05-02T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Utrecht,,,Dordrecht,Not Started
+2025-05-02T18:00:00+00:00,2024,Eerste Divisie,Netherlands,MVV,,,Jong Ajax,Not Started
+2025-05-02T18:00:00+00:00,2024,Eerste Divisie,Netherlands,FC OSS,,,Vitesse,Not Started
+2025-05-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Dordrecht,,,FC Volendam,Not Started
+2025-05-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Helmond Sport,,,De Graafschap,Not Started
+2025-05-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong Ajax,,,FC OSS,Not Started
+2025-05-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong AZ,,,Excelsior,Not Started
+2025-05-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Jong PSV,,,Jong Utrecht,Not Started
+2025-05-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Roda,,,FC Eindhoven,Not Started
+2025-05-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Cambuur,,,MVV,Not Started
+2025-05-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Telstar,,,Emmen,Not Started
+2025-05-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,Vitesse,,,Den Bosch,Not Started
+2025-05-09T18:00:00+00:00,2024,Eerste Divisie,Netherlands,VVV Venlo,,,ADO Den Haag,Not Started

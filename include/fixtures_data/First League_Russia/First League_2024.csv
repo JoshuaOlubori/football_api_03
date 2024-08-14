@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-13T13:00:00+00:00,2024,First League,Russia,Arsenal Tula,1,0,Chernomorets,Match Finished
+2024-07-14T15:30:00+00:00,2024,First League,Russia,Torpedo Moskva,4,0,Ska-khabarovsk,Match Finished
+2024-07-14T10:00:00+00:00,2024,First League,Russia,Enisey,2,1,KAMAZ,Match Finished
+2024-07-14T15:00:00+00:00,2024,First League,Russia,FK Neftekhimik,3,0,Tyumen,Match Finished
+2024-07-14T13:00:00+00:00,2024,First League,Russia,Ural,2,0,FC Sochi,Match Finished
+2024-07-14T17:00:00+00:00,2024,First League,Russia,Chayka,1,1,FK Sokol Saratov,Match Finished
+2024-07-14T13:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,0,1,Rotor Volgograd,Match Finished
+2024-07-14T16:30:00+00:00,2024,First League,Russia,Rodina Moskva,0,0,Baltika,Match Finished
+2024-07-15T16:30:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,0,0,FC UFA,Match Finished
+2024-07-20T17:00:00+00:00,2024,First League,Russia,Rodina Moskva,1,0,Ska-khabarovsk,Match Finished
+2024-07-20T16:00:00+00:00,2024,First League,Russia,Arsenal Tula,1,0,KAMAZ,Match Finished
+2024-07-20T15:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,1,0,Enisey,Match Finished
+2024-07-20T09:30:00+00:00,2024,First League,Russia,Ural,2,1,Shinnik Yaroslavl,Match Finished
+2024-07-21T15:00:00+00:00,2024,First League,Russia,FK Neftekhimik,2,1,FC UFA,Match Finished
+2024-07-21T16:00:00+00:00,2024,First League,Russia,FC Sochi,1,1,Baltika,Match Finished
+2024-07-21T16:30:00+00:00,2024,First League,Russia,Chernomorets,1,2,Chayka,Match Finished
+2024-07-21T09:30:00+00:00,2024,First League,Russia,Tyumen,0,1,Alaniya Vladikavkaz,Match Finished
+2024-07-22T15:00:00+00:00,2024,First League,Russia,Rotor Volgograd,1,1,Torpedo Moskva,Match Finished
+2024-07-26T17:15:00+00:00,2024,First League,Russia,Baltika,1,1,FC UFA,Match Finished
+2024-07-28T16:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,0,1,Rodina Moskva,Match Finished
+2024-07-27T11:00:00+00:00,2024,First League,Russia,Enisey,0,1,Torpedo Moskva,Match Finished
+2024-07-28T15:30:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,0,2,Tyumen,Match Finished
+2024-07-29T17:30:00+00:00,2024,First League,Russia,Rotor Volgograd,0,1,Arsenal Tula,Match Finished
+2024-07-28T16:00:00+00:00,2024,First League,Russia,FC Sochi,1,2,Ska-khabarovsk,Match Finished
+2024-07-27T16:30:00+00:00,2024,First League,Russia,Chernomorets,3,2,Ural,Match Finished
+2024-07-28T16:30:00+00:00,2024,First League,Russia,Chayka,4,0,FK Neftekhimik,Match Finished
+2024-07-27T15:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,1,0,KAMAZ,Match Finished
+2024-08-03T12:00:00+00:00,2024,First League,Russia,Torpedo Moskva,1,1,Chayka,Match Finished
+2024-08-02T17:00:00+00:00,2024,First League,Russia,Baltika,2,0,Chernomorets,Match Finished
+2024-08-04T17:00:00+00:00,2024,First League,Russia,Rodina Moskva,0,1,KAMAZ,Match Finished
+2024-08-04T15:00:00+00:00,2024,First League,Russia,FK Neftekhimik,1,0,Rotor Volgograd,Match Finished
+2024-08-04T14:30:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,0,2,FC Sochi,Match Finished
+2024-08-03T13:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,0,3,Alaniya Vladikavkaz,Match Finished
+2024-08-03T13:00:00+00:00,2024,First League,Russia,Ural,0,0,FK Sokol Saratov,Match Finished
+2024-08-05T16:00:00+00:00,2024,First League,Russia,Arsenal Tula,2,1,Enisey,Match Finished
+2024-08-02T14:30:00+00:00,2024,First League,Russia,FC UFA,2,2,Tyumen,Match Finished
+2024-08-10T16:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,0,1,Enisey,Match Finished
+2024-08-10T16:00:00+00:00,2024,First League,Russia,FC Sochi,2,1,Chernomorets,Match Finished
+2024-08-10T13:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,0,0,Shinnik Yaroslavl,Match Finished
+2024-08-12T17:00:00+00:00,2024,First League,Russia,KAMAZ,1,1,Torpedo Moskva,Match Finished
+2024-08-11T16:00:00+00:00,2024,First League,Russia,Arsenal Tula,1,1,FK Neftekhimik,Match Finished
+2024-08-12T14:30:00+00:00,2024,First League,Russia,FC UFA,0,2,Ural,Match Finished
+2024-08-11T16:00:00+00:00,2024,First League,Russia,Chayka,2,2,Rodina Moskva,Match Finished
+2024-08-11T12:00:00+00:00,2024,First League,Russia,Tyumen,0,1,Rotor Volgograd,Match Finished
+2024-08-10T15:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,1,1,Baltika,Match Finished
+2024-08-17T16:24:00+00:00,2024,First League,Russia,Torpedo Moskva,,,FK Neftekhimik,Not Started
+2024-11-09T00:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,,,Arsenal Tula,Time to be defined
+2024-08-18T07:00:00+00:00,2024,First League,Russia,Enisey,,,FC Sochi,Not Started
+2024-08-17T14:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,,,Rodina Moskva,Not Started
+2024-08-16T16:30:00+00:00,2024,First League,Russia,Rotor Volgograd,,,Baltika,Not Started
+2024-08-17T14:30:00+00:00,2024,First League,Russia,KAMAZ,,,Ska-khabarovsk,Not Started
+2024-08-18T09:30:00+00:00,2024,First League,Russia,Ural,,,Chayka,Not Started
+2024-08-18T16:30:00+00:00,2024,First League,Russia,Chernomorets,,,Tyumen,Not Started
+2024-08-18T15:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,,,FC UFA,Not Started
+2024-08-25T14:00:00+00:00,2024,First League,Russia,Torpedo Moskva,,,Chernomorets,Not Started
+2024-08-25T16:00:00+00:00,2024,First League,Russia,Baltika,,,KAMAZ,Not Started
+2024-08-26T16:30:00+00:00,2024,First League,Russia,Rodina Moskva,,,Rotor Volgograd,Not Started
+2024-08-24T15:00:00+00:00,2024,First League,Russia,FK Neftekhimik,,,Ural,Not Started
+2024-08-24T00:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,,,Alaniya Vladikavkaz,Time to be defined
+2024-08-23T12:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,FK Sokol Saratov,Not Started
+2024-08-25T09:00:00+00:00,2024,First League,Russia,FC UFA,,,FC Sochi,Not Started
+2024-08-25T00:00:00+00:00,2024,First League,Russia,Chayka,,,Enisey,Time to be defined
+2024-08-23T14:30:00+00:00,2024,First League,Russia,Tyumen,,,Arsenal Tula,Not Started
+2024-08-31T07:00:00+00:00,2024,First League,Russia,Enisey,,,Baltika,Not Started
+2024-09-02T16:30:00+00:00,2024,First League,Russia,Rotor Volgograd,,,Chayka,Not Started
+2024-09-01T00:00:00+00:00,2024,First League,Russia,FC Sochi,,,Tyumen,Time to be defined
+2024-09-01T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,FK Neftekhimik,Time to be defined
+2024-08-31T00:00:00+00:00,2024,First League,Russia,Ural,,,Alaniya Vladikavkaz,Time to be defined
+2024-08-31T00:00:00+00:00,2024,First League,Russia,Arsenal Tula,,,Ska-khabarovsk,Time to be defined
+2024-08-31T09:30:00+00:00,2024,First League,Russia,FC UFA,,,Torpedo Moskva,Not Started
+2024-09-01T00:00:00+00:00,2024,First League,Russia,Chernomorets,,,Rodina Moskva,Time to be defined
+2024-09-01T00:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,,,Shinnik Yaroslavl,Time to be defined
+2024-09-07T00:00:00+00:00,2024,First League,Russia,Torpedo Moskva,,,Arsenal Tula,Time to be defined
+2024-09-07T00:00:00+00:00,2024,First League,Russia,Baltika,,,Tyumen,Time to be defined
+2024-09-07T00:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,,,FC Sochi,Time to be defined
+2024-09-07T00:00:00+00:00,2024,First League,Russia,Rodina Moskva,,,FK Sokol Saratov,Time to be defined
+2024-09-07T00:00:00+00:00,2024,First League,Russia,FK Neftekhimik,,,Enisey,Time to be defined
+2024-09-07T00:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,,,FC UFA,Time to be defined
+2024-09-07T00:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,Chayka,Time to be defined
+2024-09-07T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,Chernomorets,Time to be defined
+2024-09-07T00:00:00+00:00,2024,First League,Russia,Ural,,,Rotor Volgograd,Time to be defined
+2024-09-14T00:00:00+00:00,2024,First League,Russia,Torpedo Moskva,,,Baltika,Time to be defined
+2024-09-14T00:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,,,KAMAZ,Time to be defined
+2024-09-14T00:00:00+00:00,2024,First League,Russia,FC Sochi,,,Rotor Volgograd,Time to be defined
+2024-09-14T00:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,FK Neftekhimik,Time to be defined
+2024-09-14T00:00:00+00:00,2024,First League,Russia,Arsenal Tula,,,Ural,Time to be defined
+2024-09-14T00:00:00+00:00,2024,First League,Russia,FC UFA,,,Rodina Moskva,Time to be defined
+2024-09-14T00:00:00+00:00,2024,First League,Russia,Chernomorets,,,Enisey,Time to be defined
+2024-09-14T00:00:00+00:00,2024,First League,Russia,Chayka,,,Shinnik Yaroslavl,Time to be defined
+2024-09-14T00:00:00+00:00,2024,First League,Russia,Tyumen,,,FK Sokol Saratov,Time to be defined
+2024-09-21T00:00:00+00:00,2024,First League,Russia,Baltika,,,Arsenal Tula,Time to be defined
+2024-09-21T00:00:00+00:00,2024,First League,Russia,Enisey,,,Ska-khabarovsk,Time to be defined
+2024-09-21T00:00:00+00:00,2024,First League,Russia,FK Neftekhimik,,,Alaniya Vladikavkaz,Time to be defined
+2024-09-21T00:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,,,Torpedo Moskva,Time to be defined
+2024-09-21T00:00:00+00:00,2024,First League,Russia,Rotor Volgograd,,,Chernomorets,Time to be defined
+2024-09-21T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,Ural,Time to be defined
+2024-09-21T00:00:00+00:00,2024,First League,Russia,FC UFA,,,Chayka,Time to be defined
+2024-09-21T00:00:00+00:00,2024,First League,Russia,Tyumen,,,Rodina Moskva,Time to be defined
+2024-09-21T00:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,,,FC Sochi,Time to be defined
+2024-09-28T00:00:00+00:00,2024,First League,Russia,Torpedo Moskva,,,FC Sochi,Time to be defined
+2024-09-28T00:00:00+00:00,2024,First League,Russia,Enisey,,,Ural,Time to be defined
+2024-09-28T00:00:00+00:00,2024,First League,Russia,FK Neftekhimik,,,Rodina Moskva,Time to be defined
+2024-09-28T00:00:00+00:00,2024,First League,Russia,Rotor Volgograd,,,Alaniya Vladikavkaz,Time to be defined
+2024-09-28T00:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,Tyumen,Time to be defined
+2024-09-28T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,Shinnik Yaroslavl,Time to be defined
+2024-09-28T00:00:00+00:00,2024,First League,Russia,Arsenal Tula,,,FC UFA,Time to be defined
+2024-09-28T00:00:00+00:00,2024,First League,Russia,Chernomorets,,,FK Sokol Saratov,Time to be defined
+2024-09-28T00:00:00+00:00,2024,First League,Russia,Chayka,,,Baltika,Time to be defined
+2024-10-05T00:00:00+00:00,2024,First League,Russia,Baltika,,,FK Neftekhimik,Time to be defined
+2024-10-05T00:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,,,Chernomorets,Time to be defined
+2024-10-05T00:00:00+00:00,2024,First League,Russia,Rodina Moskva,,,Arsenal Tula,Time to be defined
+2024-10-05T00:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,,,Enisey,Time to be defined
+2024-10-05T00:00:00+00:00,2024,First League,Russia,FC Sochi,,,Chayka,Time to be defined
+2024-10-05T00:00:00+00:00,2024,First League,Russia,Ural,,,Torpedo Moskva,Time to be defined
+2024-10-05T00:00:00+00:00,2024,First League,Russia,FC UFA,,,Ska-khabarovsk,Time to be defined
+2024-10-05T00:00:00+00:00,2024,First League,Russia,Tyumen,,,KAMAZ,Time to be defined
+2024-10-05T00:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,,,Rotor Volgograd,Time to be defined
+2024-10-12T00:00:00+00:00,2024,First League,Russia,Torpedo Moskva,,,FK Sokol Saratov,Time to be defined
+2024-10-12T00:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,,,Baltika,Time to be defined
+2024-10-12T00:00:00+00:00,2024,First League,Russia,Rodina Moskva,,,Enisey,Time to be defined
+2024-10-12T00:00:00+00:00,2024,First League,Russia,FK Neftekhimik,,,Shinnik Yaroslavl,Time to be defined
+2024-10-12T00:00:00+00:00,2024,First League,Russia,Rotor Volgograd,,,Ska-khabarovsk,Time to be defined
+2024-10-12T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,Chayka,Time to be defined
+2024-10-12T00:00:00+00:00,2024,First League,Russia,Ural,,,Tyumen,Time to be defined
+2024-10-12T00:00:00+00:00,2024,First League,Russia,Arsenal Tula,,,FC Sochi,Time to be defined
+2024-10-12T00:00:00+00:00,2024,First League,Russia,FC UFA,,,Chernomorets,Time to be defined
+2024-10-19T00:00:00+00:00,2024,First League,Russia,Enisey,,,FC UFA,Time to be defined
+2024-10-19T00:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,,,Baltika,Time to be defined
+2024-10-19T00:00:00+00:00,2024,First League,Russia,Rotor Volgograd,,,KAMAZ,Time to be defined
+2024-10-19T00:00:00+00:00,2024,First League,Russia,FC Sochi,,,Rodina Moskva,Time to be defined
+2024-10-19T00:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,Ural,Time to be defined
+2024-10-19T00:00:00+00:00,2024,First League,Russia,Chernomorets,,,FK Neftekhimik,Time to be defined
+2024-10-19T00:00:00+00:00,2024,First League,Russia,Chayka,,,Arsenal Tula,Time to be defined
+2024-10-19T00:00:00+00:00,2024,First League,Russia,Tyumen,,,Torpedo Moskva,Time to be defined
+2024-10-19T00:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,,,Alaniya Vladikavkaz,Time to be defined
+2024-10-26T00:00:00+00:00,2024,First League,Russia,Baltika,,,Ural,Time to be defined
+2024-10-26T00:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,,,Chayka,Time to be defined
+2024-10-26T00:00:00+00:00,2024,First League,Russia,Rodina Moskva,,,Torpedo Moskva,Time to be defined
+2024-10-26T00:00:00+00:00,2024,First League,Russia,FK Neftekhimik,,,FK Sokol Saratov,Time to be defined
+2024-10-26T00:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,Chernomorets,Time to be defined
+2024-10-26T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,FC Sochi,Time to be defined
+2024-10-26T00:00:00+00:00,2024,First League,Russia,Arsenal Tula,,,Shinnik Yaroslavl,Time to be defined
+2024-10-26T00:00:00+00:00,2024,First League,Russia,FC UFA,,,Rotor Volgograd,Time to be defined
+2024-10-26T00:00:00+00:00,2024,First League,Russia,Tyumen,,,Enisey,Time to be defined
+2024-11-02T00:00:00+00:00,2024,First League,Russia,Torpedo Moskva,,,Alaniya Vladikavkaz,Time to be defined
+2024-11-02T00:00:00+00:00,2024,First League,Russia,Baltika,,,Ska-khabarovsk,Time to be defined
+2024-11-02T00:00:00+00:00,2024,First League,Russia,Enisey,,,Rotor Volgograd,Time to be defined
+2024-11-02T00:00:00+00:00,2024,First League,Russia,FC Sochi,,,FK Neftekhimik,Time to be defined
+2024-11-02T00:00:00+00:00,2024,First League,Russia,Ural,,,Rodina Moskva,Time to be defined
+2024-11-02T00:00:00+00:00,2024,First League,Russia,FC UFA,,,KAMAZ,Time to be defined
+2024-11-02T00:00:00+00:00,2024,First League,Russia,Chernomorets,,,Shinnik Yaroslavl,Time to be defined
+2024-11-02T00:00:00+00:00,2024,First League,Russia,Chayka,,,Tyumen,Time to be defined
+2024-11-02T00:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,,,Arsenal Tula,Time to be defined
+2024-11-09T00:00:00+00:00,2024,First League,Russia,Torpedo Moskva,,,Enisey,Time to be defined
+2024-11-09T00:00:00+00:00,2024,First League,Russia,Rodina Moskva,,,Chayka,Time to be defined
+2024-11-09T00:00:00+00:00,2024,First League,Russia,FK Neftekhimik,,,Baltika,Time to be defined
+2024-11-09T00:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,,,Ural,Time to be defined
+2024-11-09T00:00:00+00:00,2024,First League,Russia,Rotor Volgograd,,,FC Sochi,Time to be defined
+2024-11-09T00:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,FC UFA,Time to be defined
+2024-11-09T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,FK Sokol Saratov,Time to be defined
+2024-08-17T16:00:00+00:00,2024,First League,Russia,Arsenal Tula,,,Alaniya Vladikavkaz,Not Started
+2024-11-09T00:00:00+00:00,2024,First League,Russia,Tyumen,,,Chernomorets,Time to be defined
+2024-11-16T00:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,,,Rotor Volgograd,Time to be defined
+2024-11-16T00:00:00+00:00,2024,First League,Russia,Rodina Moskva,,,Chernomorets,Time to be defined
+2024-11-16T00:00:00+00:00,2024,First League,Russia,FK Neftekhimik,,,Arsenal Tula,Time to be defined
+2024-11-16T00:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,,,Chayka,Time to be defined
+2024-11-16T00:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,Torpedo Moskva,Time to be defined
+2024-11-16T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,Baltika,Time to be defined
+2024-11-16T00:00:00+00:00,2024,First League,Russia,Ural,,,Enisey,Time to be defined
+2024-11-16T00:00:00+00:00,2024,First League,Russia,FC UFA,,,FK Sokol Saratov,Time to be defined
+2024-11-16T00:00:00+00:00,2024,First League,Russia,Tyumen,,,FC Sochi,Time to be defined
+2024-11-23T00:00:00+00:00,2024,First League,Russia,Baltika,,,Rodina Moskva,Time to be defined
+2024-11-23T00:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,,,Ural,Time to be defined
+2024-11-23T00:00:00+00:00,2024,First League,Russia,Enisey,,,Shinnik Yaroslavl,Time to be defined
+2024-11-23T00:00:00+00:00,2024,First League,Russia,Rotor Volgograd,,,FK Neftekhimik,Time to be defined
+2024-11-23T00:00:00+00:00,2024,First League,Russia,FC Sochi,,,FC UFA,Time to be defined
+2024-11-23T00:00:00+00:00,2024,First League,Russia,Arsenal Tula,,,Tyumen,Time to be defined
+2024-11-23T00:00:00+00:00,2024,First League,Russia,Chernomorets,,,KAMAZ,Time to be defined
+2024-11-23T00:00:00+00:00,2024,First League,Russia,Chayka,,,Ska-khabarovsk,Time to be defined
+2024-11-23T00:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,,,Torpedo Moskva,Time to be defined
+2024-11-30T00:00:00+00:00,2024,First League,Russia,Torpedo Moskva,,,Tyumen,Time to be defined
+2024-11-30T00:00:00+00:00,2024,First League,Russia,Baltika,,,Alaniya Vladikavkaz,Time to be defined
+2024-11-30T00:00:00+00:00,2024,First League,Russia,Enisey,,,Arsenal Tula,Time to be defined
+2024-11-30T00:00:00+00:00,2024,First League,Russia,Rodina Moskva,,,FK Neftekhimik,Time to be defined
+2024-11-30T00:00:00+00:00,2024,First League,Russia,Rotor Volgograd,,,Shinnik Yaroslavl,Time to be defined
+2024-11-30T00:00:00+00:00,2024,First League,Russia,FC Sochi,,,KAMAZ,Time to be defined
+2024-11-30T00:00:00+00:00,2024,First League,Russia,Chernomorets,,,FC UFA,Time to be defined
+2024-11-30T00:00:00+00:00,2024,First League,Russia,Chayka,,,Ural,Time to be defined
+2024-11-30T00:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,,,Ska-khabarovsk,Time to be defined
+2025-03-01T00:00:00+00:00,2024,First League,Russia,Baltika,,,Shinnik Yaroslavl,Time to be defined
+2025-03-01T00:00:00+00:00,2024,First League,Russia,Enisey,,,Alaniya Vladikavkaz,Time to be defined
+2025-03-01T00:00:00+00:00,2024,First League,Russia,Rodina Moskva,,,Tyumen,Time to be defined
+2025-03-01T00:00:00+00:00,2024,First League,Russia,FK Neftekhimik,,,Ska-khabarovsk,Time to be defined
+2025-03-01T00:00:00+00:00,2024,First League,Russia,Rotor Volgograd,,,Ural,Time to be defined
+2025-03-01T00:00:00+00:00,2024,First League,Russia,FC Sochi,,,FK Sokol Saratov,Time to be defined
+2025-03-01T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,Arsenal Tula,Time to be defined
+2025-03-01T00:00:00+00:00,2024,First League,Russia,Chernomorets,,,Torpedo Moskva,Time to be defined
+2025-03-01T00:00:00+00:00,2024,First League,Russia,Chayka,,,FC UFA,Time to be defined
+2025-03-08T00:00:00+00:00,2024,First League,Russia,Torpedo Moskva,,,FC UFA,Time to be defined
+2025-03-08T00:00:00+00:00,2024,First League,Russia,Baltika,,,Rotor Volgograd,Time to be defined
+2025-03-08T00:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,,,Tyumen,Time to be defined
+2025-03-08T00:00:00+00:00,2024,First League,Russia,Enisey,,,Rodina Moskva,Time to be defined
+2025-03-08T00:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,,,Ska-khabarovsk,Time to be defined
+2025-03-08T00:00:00+00:00,2024,First League,Russia,FC Sochi,,,Ural,Time to be defined
+2025-03-08T00:00:00+00:00,2024,First League,Russia,Chernomorets,,,Arsenal Tula,Time to be defined
+2025-03-08T00:00:00+00:00,2024,First League,Russia,Chayka,,,KAMAZ,Time to be defined
+2025-03-08T00:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,,,FK Neftekhimik,Time to be defined
+2025-03-15T00:00:00+00:00,2024,First League,Russia,Rodina Moskva,,,Alaniya Vladikavkaz,Time to be defined
+2025-03-15T00:00:00+00:00,2024,First League,Russia,FK Neftekhimik,,,Torpedo Moskva,Time to be defined
+2025-03-15T00:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,,,KAMAZ,Time to be defined
+2025-03-15T00:00:00+00:00,2024,First League,Russia,Rotor Volgograd,,,FK Sokol Saratov,Time to be defined
+2025-03-15T00:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,FC Sochi,Time to be defined
+2025-03-15T00:00:00+00:00,2024,First League,Russia,Ural,,,Chernomorets,Time to be defined
+2025-03-15T00:00:00+00:00,2024,First League,Russia,Arsenal Tula,,,Chayka,Time to be defined
+2025-03-15T00:00:00+00:00,2024,First League,Russia,FC UFA,,,Enisey,Time to be defined
+2025-03-15T00:00:00+00:00,2024,First League,Russia,Tyumen,,,Baltika,Time to be defined
+2025-03-22T00:00:00+00:00,2024,First League,Russia,Torpedo Moskva,,,Rodina Moskva,Time to be defined
+2025-03-22T00:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,,,FK Sokol Saratov,Time to be defined
+2025-03-22T00:00:00+00:00,2024,First League,Russia,Enisey,,,FK Neftekhimik,Time to be defined
+2025-03-22T00:00:00+00:00,2024,First League,Russia,FC Sochi,,,Shinnik Yaroslavl,Time to be defined
+2025-03-22T00:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,Rotor Volgograd,Time to be defined
+2025-03-22T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,Tyumen,Time to be defined
+2025-03-22T00:00:00+00:00,2024,First League,Russia,Ural,,,Arsenal Tula,Time to be defined
+2025-03-22T00:00:00+00:00,2024,First League,Russia,FC UFA,,,Baltika,Time to be defined
+2025-03-22T00:00:00+00:00,2024,First League,Russia,Chayka,,,Chernomorets,Time to be defined
+2025-03-29T00:00:00+00:00,2024,First League,Russia,Baltika,,,Chayka,Time to be defined
+2025-03-29T00:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,,,FK Neftekhimik,Time to be defined
+2025-03-29T00:00:00+00:00,2024,First League,Russia,Rotor Volgograd,,,Rodina Moskva,Time to be defined
+2025-03-29T00:00:00+00:00,2024,First League,Russia,FC Sochi,,,Enisey,Time to be defined
+2025-03-29T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,FC UFA,Time to be defined
+2025-03-29T00:00:00+00:00,2024,First League,Russia,Arsenal Tula,,,Torpedo Moskva,Time to be defined
+2025-03-29T00:00:00+00:00,2024,First League,Russia,Chernomorets,,,Alaniya Vladikavkaz,Time to be defined
+2025-03-29T00:00:00+00:00,2024,First League,Russia,Tyumen,,,Ska-khabarovsk,Time to be defined
+2025-03-29T00:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,,,Ural,Time to be defined
+2025-04-05T00:00:00+00:00,2024,First League,Russia,Torpedo Moskva,,,Rotor Volgograd,Time to be defined
+2025-04-05T00:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,,,Shinnik Yaroslavl,Time to be defined
+2025-04-05T00:00:00+00:00,2024,First League,Russia,Enisey,,,Chernomorets,Time to be defined
+2025-04-05T00:00:00+00:00,2024,First League,Russia,Rodina Moskva,,,FC Sochi,Time to be defined
+2025-04-05T00:00:00+00:00,2024,First League,Russia,FK Neftekhimik,,,Chayka,Time to be defined
+2025-04-05T00:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,Baltika,Time to be defined
+2025-04-05T00:00:00+00:00,2024,First League,Russia,Ural,,,KAMAZ,Time to be defined
+2025-04-05T00:00:00+00:00,2024,First League,Russia,Arsenal Tula,,,FK Sokol Saratov,Time to be defined
+2025-04-05T00:00:00+00:00,2024,First League,Russia,Tyumen,,,FC UFA,Time to be defined
+2025-04-12T00:00:00+00:00,2024,First League,Russia,Baltika,,,FC Sochi,Time to be defined
+2025-04-12T00:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,Arsenal Tula,Time to be defined
+2025-04-12T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,Enisey,Time to be defined
+2025-04-12T00:00:00+00:00,2024,First League,Russia,Ural,,,FK Neftekhimik,Time to be defined
+2025-04-12T00:00:00+00:00,2024,First League,Russia,FC UFA,,,Alaniya Vladikavkaz,Time to be defined
+2025-04-12T00:00:00+00:00,2024,First League,Russia,Chernomorets,,,Rotor Volgograd,Time to be defined
+2025-04-12T00:00:00+00:00,2024,First League,Russia,Chayka,,,Torpedo Moskva,Time to be defined
+2025-04-12T00:00:00+00:00,2024,First League,Russia,Tyumen,,,Shinnik Yaroslavl,Time to be defined
+2025-04-12T00:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,,,Rodina Moskva,Time to be defined
+2025-04-19T00:00:00+00:00,2024,First League,Russia,Torpedo Moskva,,,Ural,Time to be defined
+2025-04-19T00:00:00+00:00,2024,First League,Russia,Baltika,,,FK Sokol Saratov,Time to be defined
+2025-04-19T00:00:00+00:00,2024,First League,Russia,Enisey,,,Chayka,Time to be defined
+2025-04-19T00:00:00+00:00,2024,First League,Russia,Rodina Moskva,,,FC UFA,Time to be defined
+2025-04-19T00:00:00+00:00,2024,First League,Russia,FK Neftekhimik,,,KAMAZ,Time to be defined
+2025-04-19T00:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,,,Arsenal Tula,Time to be defined
+2025-04-19T00:00:00+00:00,2024,First League,Russia,Rotor Volgograd,,,Tyumen,Time to be defined
+2025-04-19T00:00:00+00:00,2024,First League,Russia,FC Sochi,,,Alaniya Vladikavkaz,Time to be defined
+2025-04-19T00:00:00+00:00,2024,First League,Russia,Chernomorets,,,Ska-khabarovsk,Time to be defined
+2025-04-26T00:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,,,Torpedo Moskva,Time to be defined
+2025-04-26T00:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,Enisey,Time to be defined
+2025-04-26T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,Rodina Moskva,Time to be defined
+2025-04-26T00:00:00+00:00,2024,First League,Russia,Ural,,,Baltika,Time to be defined
+2025-04-26T00:00:00+00:00,2024,First League,Russia,Arsenal Tula,,,Rotor Volgograd,Time to be defined
+2025-04-26T00:00:00+00:00,2024,First League,Russia,FC UFA,,,Shinnik Yaroslavl,Time to be defined
+2025-04-26T00:00:00+00:00,2024,First League,Russia,Chayka,,,FC Sochi,Time to be defined
+2025-04-26T00:00:00+00:00,2024,First League,Russia,Tyumen,,,FK Neftekhimik,Time to be defined
+2025-04-26T00:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,,,Chernomorets,Time to be defined
+2025-05-03T00:00:00+00:00,2024,First League,Russia,Baltika,,,Torpedo Moskva,Time to be defined
+2025-05-03T00:00:00+00:00,2024,First League,Russia,Rodina Moskva,,,Ural,Time to be defined
+2025-05-03T00:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,,,Chernomorets,Time to be defined
+2025-05-03T00:00:00+00:00,2024,First League,Russia,Rotor Volgograd,,,Enisey,Time to be defined
+2025-05-03T00:00:00+00:00,2024,First League,Russia,FC Sochi,,,Arsenal Tula,Time to be defined
+2025-05-03T00:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,KAMAZ,Time to be defined
+2025-05-03T00:00:00+00:00,2024,First League,Russia,FC UFA,,,FK Neftekhimik,Time to be defined
+2025-05-03T00:00:00+00:00,2024,First League,Russia,Chayka,,,Alaniya Vladikavkaz,Time to be defined
+2025-05-03T00:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,,,Tyumen,Time to be defined
+2025-05-10T00:00:00+00:00,2024,First League,Russia,Torpedo Moskva,,,Shinnik Yaroslavl,Time to be defined
+2025-05-10T00:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,,,Ska-khabarovsk,Time to be defined
+2025-05-10T00:00:00+00:00,2024,First League,Russia,Enisey,,,FK Sokol Saratov,Time to be defined
+2025-05-10T00:00:00+00:00,2024,First League,Russia,FK Neftekhimik,,,FC Sochi,Time to be defined
+2025-05-10T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,Rotor Volgograd,Time to be defined
+2025-05-10T00:00:00+00:00,2024,First League,Russia,Ural,,,FC UFA,Time to be defined
+2025-05-10T00:00:00+00:00,2024,First League,Russia,Arsenal Tula,,,Rodina Moskva,Time to be defined
+2025-05-10T00:00:00+00:00,2024,First League,Russia,Chernomorets,,,Baltika,Time to be defined
+2025-05-10T00:00:00+00:00,2024,First League,Russia,Tyumen,,,Chayka,Time to be defined
+2025-05-17T00:00:00+00:00,2024,First League,Russia,Baltika,,,Enisey,Time to be defined
+2025-05-17T00:00:00+00:00,2024,First League,Russia,FK Neftekhimik,,,Chernomorets,Time to be defined
+2025-05-17T00:00:00+00:00,2024,First League,Russia,Shinnik Yaroslavl,,,FK Sokol Saratov,Time to be defined
+2025-05-17T00:00:00+00:00,2024,First League,Russia,FC Sochi,,,Torpedo Moskva,Time to be defined
+2025-05-17T00:00:00+00:00,2024,First League,Russia,Ska-khabarovsk,,,Rodina Moskva,Time to be defined
+2025-05-17T00:00:00+00:00,2024,First League,Russia,KAMAZ,,,Alaniya Vladikavkaz,Time to be defined
+2025-05-17T00:00:00+00:00,2024,First League,Russia,FC UFA,,,Arsenal Tula,Time to be defined
+2025-05-17T00:00:00+00:00,2024,First League,Russia,Chayka,,,Rotor Volgograd,Time to be defined
+2025-05-17T00:00:00+00:00,2024,First League,Russia,Tyumen,,,Ural,Time to be defined
+2025-05-24T00:00:00+00:00,2024,First League,Russia,Torpedo Moskva,,,KAMAZ,Time to be defined
+2025-05-24T00:00:00+00:00,2024,First League,Russia,Alaniya Vladikavkaz,,,FK Neftekhimik,Time to be defined
+2025-05-24T00:00:00+00:00,2024,First League,Russia,Enisey,,,Tyumen,Time to be defined
+2025-05-24T00:00:00+00:00,2024,First League,Russia,Rodina Moskva,,,Shinnik Yaroslavl,Time to be defined
+2025-05-24T00:00:00+00:00,2024,First League,Russia,Rotor Volgograd,,,FC UFA,Time to be defined
+2025-05-24T00:00:00+00:00,2024,First League,Russia,Ural,,,Ska-khabarovsk,Time to be defined
+2025-05-24T00:00:00+00:00,2024,First League,Russia,Arsenal Tula,,,Baltika,Time to be defined
+2025-05-24T00:00:00+00:00,2024,First League,Russia,Chernomorets,,,FC Sochi,Time to be defined
+2025-05-24T00:00:00+00:00,2024,First League,Russia,FK Sokol Saratov,,,Chayka,Time to be defined

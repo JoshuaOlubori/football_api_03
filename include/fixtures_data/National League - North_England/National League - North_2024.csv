@@ -1,0 +1,553 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-10T14:00:00+00:00,2024,National League - North,England,Brackley Town,0,3,Scunthorpe,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - North,England,Buxton,2,1,Leamington,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - North,England,Curzon Ashton,3,0,Needham Market,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - North,England,Darlington 1883,1,2,Kidderminster Harriers,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - North,England,Hereford,3,0,South Shields,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - North,England,King's Lynn Town,3,1,Warrington Town,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - North,England,Marine,1,1,Oxford City,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - North,England,Peterborough Sports,0,1,Chorley,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - North,England,Radcliffe,3,3,Scarborough Athletic,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - North,England,Rushall Olympic,2,3,Farsley Celtic FC,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - North,England,Southport,3,1,Alfreton Town,Match Finished
+2024-08-10T14:00:00+00:00,2024,National League - North,England,Spennymoor Town,3,0,Chester,Match Finished
+2024-08-17T14:00:00+00:00,2024,National League - North,England,Alfreton Town,,,King's Lynn Town,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - North,England,Chester,,,Brackley Town,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - North,England,Chorley,,,Hereford,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Buxton,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Radcliffe,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - North,England,Leamington,,,Spennymoor Town,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - North,England,Needham Market,,,Southport,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - North,England,Oxford City,,,Darlington 1883,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Rushall Olympic,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Marine,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - North,England,South Shields,,,Curzon Ashton,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - North,England,Warrington Town,,,Peterborough Sports,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - North,England,Buxton,,,Darlington 1883,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - North,England,Chester,,,Radcliffe,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - North,England,Chorley,,,Scarborough Athletic,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - North,England,Curzon Ashton,,,Oxford City,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Marine,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - North,England,Hereford,,,Peterborough Sports,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Brackley Town,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - North,England,King's Lynn Town,,,Rushall Olympic,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - North,England,Leamington,,,Alfreton Town,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - North,England,Needham Market,,,Scunthorpe,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - North,England,South Shields,,,Warrington Town,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - North,England,Spennymoor Town,,,Southport,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Chester,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - North,England,Brackley Town,,,Curzon Ashton,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Leamington,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - North,England,Marine,,,King's Lynn Town,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - North,England,Oxford City,,,South Shields,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Buxton,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - North,England,Radcliffe,,,Needham Market,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Spennymoor Town,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Farsley Celtic FC,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Chorley,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - North,England,Southport,,,Hereford,Not Started
+2024-08-24T14:00:00+00:00,2024,National League - North,England,Warrington Town,,,Kidderminster Harriers,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - North,England,Buxton,,,Marine,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - North,England,Chester,,,Scarborough Athletic,Not Started
+2024-08-26T12:00:00+00:00,2024,National League - North,England,Chorley,,,Southport,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Darlington 1883,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Warrington Town,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - North,England,Hereford,,,Radcliffe,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Oxford City,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Peterborough Sports,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - North,England,Leamington,,,Rushall Olympic,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - North,England,Needham Market,,,Alfreton Town,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - North,England,South Shields,,,Scunthorpe,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Brackley Town,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Farsley Celtic FC,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - North,England,Brackley Town,,,Hereford,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Spennymoor Town,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - North,England,Marine,,,Leamington,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - North,England,Oxford City,,,Chorley,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Chester,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - North,England,Radcliffe,,,King's Lynn Town,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Curzon Ashton,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,South Shields,Not Started
+2024-08-30T18:45:00+00:00,2024,National League - North,England,Scunthorpe,,,Kidderminster Harriers,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - North,England,Southport,,,Buxton,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - North,England,Warrington Town,,,Needham Market,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - North,England,Brackley Town,,,Chorley,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - North,England,Curzon Ashton,,,Scunthorpe,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - North,England,Darlington 1883,,,Alfreton Town,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Southport,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - North,England,Hereford,,,Needham Market,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Chester,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - North,England,Oxford City,,,Peterborough Sports,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - North,England,Radcliffe,,,Spennymoor Town,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - North,England,Rushall Olympic,,,Marine,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - North,England,Scarborough Athletic,,,King's Lynn Town,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - North,England,South Shields,,,Buxton,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - North,England,Warrington Town,,,Leamington,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Scarborough Athletic,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - North,England,Buxton,,,Rushall Olympic,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - North,England,Chester,,,South Shields,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - North,England,Chorley,,,Kidderminster Harriers,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Curzon Ashton,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - North,England,Leamington,,,Oxford City,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - North,England,Marine,,,Darlington 1883,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - North,England,Needham Market,,,Farsley Celtic FC,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Brackley Town,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Warrington Town,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - North,England,Southport,,,Radcliffe,Not Started
+2024-09-07T14:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Hereford,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - North,England,Brackley Town,,,Marine,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Peterborough Sports,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Southport,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Leamington,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - North,England,Hereford,,,King's Lynn Town,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Alfreton Town,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - North,England,Oxford City,,,Needham Market,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - North,England,Radcliffe,,,Buxton,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Chester,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Scunthorpe,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - North,England,South Shields,,,Chorley,Not Started
+2024-09-21T14:00:00+00:00,2024,National League - North,England,Warrington Town,,,Spennymoor Town,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Hereford,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - North,England,Buxton,,,Curzon Ashton,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - North,England,Chester,,,Farsley Celtic FC,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - North,England,Chorley,,,Warrington Town,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Darlington 1883,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - North,England,Leamington,,,Scarborough Athletic,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - North,England,Marine,,,Radcliffe,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - North,England,Needham Market,,,South Shields,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Rushall Olympic,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Oxford City,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - North,England,Southport,,,Brackley Town,Not Started
+2024-10-05T14:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Kidderminster Harriers,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - North,England,Buxton,,,Brackley Town,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - North,England,Chorley,,,Needham Market,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Peterborough Sports,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - North,England,Hereford,,,Scarborough Athletic,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,South Shields,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - North,England,Leamington,,,Chester,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - North,England,Marine,,,Curzon Ashton,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - North,England,Oxford City,,,Alfreton Town,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - North,England,Radcliffe,,,Warrington Town,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Farsley Celtic FC,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - North,England,Southport,,,Rushall Olympic,Not Started
+2024-10-12T14:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,King's Lynn Town,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Chorley,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - North,England,Brackley Town,,,Radcliffe,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - North,England,Chester,,,Scunthorpe,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Hereford,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Spennymoor Town,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Buxton,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - North,England,Needham Market,,,Kidderminster Harriers,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Marine,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Darlington 1883,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Southport,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - North,England,South Shields,,,Leamington,Not Started
+2024-10-19T14:00:00+00:00,2024,National League - North,England,Warrington Town,,,Oxford City,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - North,England,Alfreton Town,,,Spennymoor Town,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - North,England,Chester,,,Buxton,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - North,England,Chorley,,,Darlington 1883,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Peterborough Sports,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Marine,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - North,England,Leamington,,,Southport,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - North,England,Needham Market,,,Brackley Town,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - North,England,Oxford City,,,King's Lynn Town,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Curzon Ashton,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - North,England,Scunthorpe,,,Rushall Olympic,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - North,England,South Shields,,,Radcliffe,Not Started
+2024-10-22T18:45:00+00:00,2024,National League - North,England,Warrington Town,,,Hereford,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - North,England,Brackley Town,,,South Shields,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - North,England,Buxton,,,Needham Market,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Chester,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Warrington Town,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - North,England,Hereford,,,Farsley Celtic FC,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Leamington,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - North,England,Marine,,,Scarborough Athletic,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Kidderminster Harriers,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - North,England,Radcliffe,,,Oxford City,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Alfreton Town,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - North,England,Southport,,,Scunthorpe,Not Started
+2024-10-26T14:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Chorley,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Marine,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - North,England,Chester,,,Hereford,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - North,England,Chorley,,,King's Lynn Town,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Darlington 1883,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Buxton,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - North,England,Leamington,,,Peterborough Sports,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - North,England,Needham Market,,,Spennymoor Town,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - North,England,Oxford City,,,Southport,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Brackley Town,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Radcliffe,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - North,England,South Shields,,,Rushall Olympic,Not Started
+2024-11-02T15:00:00+00:00,2024,National League - North,England,Warrington Town,,,Curzon Ashton,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - North,England,Brackley Town,,,Warrington Town,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - North,England,Buxton,,,Scarborough Athletic,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - North,England,Curzon Ashton,,,Kidderminster Harriers,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - North,England,Darlington 1883,,,Chester,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - North,England,Hereford,,,Oxford City,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - North,England,King's Lynn Town,,,Farsley Celtic FC,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - North,England,Marine,,,Chorley,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - North,England,Peterborough Sports,,,Alfreton Town,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - North,England,Radcliffe,,,Leamington,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - North,England,Rushall Olympic,,,Needham Market,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - North,England,Southport,,,South Shields,Not Started
+2024-11-05T19:45:00+00:00,2024,National League - North,England,Spennymoor Town,,,Scunthorpe,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - North,England,Brackley Town,,,Darlington 1883,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - North,England,Chorley,,,Leamington,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - North,England,Hereford,,,Marine,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Farsley Celtic FC,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - North,England,Needham Market,,,Chester,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - North,England,Oxford City,,,Scarborough Athletic,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - North,England,Radcliffe,,,Rushall Olympic,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Buxton,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - North,England,South Shields,,,King's Lynn Town,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - North,England,Southport,,,Peterborough Sports,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Curzon Ashton,Not Started
+2024-11-09T15:00:00+00:00,2024,National League - North,England,Warrington Town,,,Alfreton Town,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Brackley Town,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - North,England,Buxton,,,Oxford City,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - North,England,Chester,,,Chorley,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Radcliffe,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Hereford,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,South Shields,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Southport,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - North,England,Leamington,,,Scunthorpe,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - North,England,Marine,,,Needham Market,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Spennymoor Town,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Warrington Town,Not Started
+2024-11-23T15:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Kidderminster Harriers,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - North,England,Alfreton Town,,,South Shields,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - North,England,Buxton,,,Hereford,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - North,England,Chester,,,Oxford City,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - North,England,Curzon Ashton,,,Southport,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - North,England,Darlington 1883,,,Scunthorpe,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Chorley,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - North,England,King's Lynn Town,,,Kidderminster Harriers,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - North,England,Leamington,,,Needham Market,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - North,England,Marine,,,Spennymoor Town,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - North,England,Peterborough Sports,,,Radcliffe,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - North,England,Rushall Olympic,,,Brackley Town,Not Started
+2024-11-26T19:45:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Warrington Town,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - North,England,Brackley Town,,,King's Lynn Town,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - North,England,Chorley,,,Curzon Ashton,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - North,England,Hereford,,,Rushall Olympic,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Leamington,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - North,England,Needham Market,,,Scarborough Athletic,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - North,England,Oxford City,,,Farsley Celtic FC,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - North,England,Radcliffe,,,Darlington 1883,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Alfreton Town,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - North,England,South Shields,,,Peterborough Sports,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - North,England,Southport,,,Marine,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Buxton,Not Started
+2024-11-30T15:00:00+00:00,2024,National League - North,England,Warrington Town,,,Chester,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - North,England,Brackley Town,,,Chester,Not Started
+2024-08-17T14:00:00+00:00,2024,National League - North,England,Buxton,,,Farsley Celtic FC,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,South Shields,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Oxford City,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - North,England,Hereford,,,Chorley,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Alfreton Town,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - North,England,Marine,,,Scunthorpe,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Warrington Town,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - North,England,Radcliffe,,,Kidderminster Harriers,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Scarborough Athletic,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - North,England,Southport,,,Needham Market,Not Started
+2024-12-14T15:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Leamington,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Radcliffe,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - North,England,Chester,,,King's Lynn Town,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - North,England,Chorley,,,Rushall Olympic,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Brackley Town,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Southport,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - North,England,Leamington,,,Curzon Ashton,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - North,England,Needham Market,,,Darlington 1883,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - North,England,Oxford City,,,Spennymoor Town,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Peterborough Sports,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Hereford,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - North,England,South Shields,,,Marine,Not Started
+2024-12-21T15:00:00+00:00,2024,National League - North,England,Warrington Town,,,Buxton,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - North,England,Brackley Town,,,Leamington,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - North,England,Buxton,,,Alfreton Town,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Farsley Celtic FC,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Scarborough Athletic,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - North,England,Hereford,,,Kidderminster Harriers,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Needham Market,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - North,England,Marine,,,Chester,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Scunthorpe,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - North,England,Radcliffe,,,Chorley,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Oxford City,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - North,England,Southport,,,Warrington Town,Not Started
+2024-12-26T15:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,South Shields,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Curzon Ashton,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - North,England,Chester,,,Southport,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - North,England,Chorley,,,Buxton,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Radcliffe,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Rushall Olympic,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - North,England,Leamington,,,Hereford,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - North,England,Needham Market,,,Peterborough Sports,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - North,England,Oxford City,,,Brackley Town,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Spennymoor Town,Not Started
+2024-12-31T15:00:00+00:00,2024,National League - North,England,Scunthorpe,,,King's Lynn Town,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - North,England,South Shields,,,Darlington 1883,Not Started
+2025-01-01T15:00:00+00:00,2024,National League - North,England,Warrington Town,,,Marine,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Southport,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - North,England,Chester,,,Spennymoor Town,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - North,England,Chorley,,,Peterborough Sports,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Rushall Olympic,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Darlington 1883,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - North,England,Leamington,,,Buxton,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - North,England,Needham Market,,,Curzon Ashton,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - North,England,Oxford City,,,Marine,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Radcliffe,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Brackley Town,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - North,England,South Shields,,,Hereford,Not Started
+2025-01-04T15:00:00+00:00,2024,National League - North,England,Warrington Town,,,King's Lynn Town,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - North,England,Brackley Town,,,Needham Market,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - North,England,Buxton,,,Chester,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Scarborough Athletic,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Chorley,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - North,England,Hereford,,,Warrington Town,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Oxford City,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - North,England,Marine,,,Kidderminster Harriers,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Farsley Celtic FC,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - North,England,Radcliffe,,,South Shields,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Scunthorpe,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - North,England,Southport,,,Leamington,Not Started
+2025-01-11T15:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Alfreton Town,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - North,England,Buxton,,,Peterborough Sports,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - North,England,Chester,,,Alfreton Town,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - North,England,Chorley,,,Scunthorpe,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Brackley Town,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Scarborough Athletic,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - North,England,Hereford,,,Southport,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Warrington Town,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Marine,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - North,England,Leamington,,,Darlington 1883,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - North,England,Needham Market,,,Radcliffe,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - North,England,South Shields,,,Oxford City,Not Started
+2025-01-18T15:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Rushall Olympic,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Needham Market,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - North,England,Brackley Town,,,Spennymoor Town,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Curzon Ashton,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - North,England,Marine,,,Buxton,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - North,England,Oxford City,,,Kidderminster Harriers,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,King's Lynn Town,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - North,England,Radcliffe,,,Hereford,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Leamington,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Chester,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - North,England,Scunthorpe,,,South Shields,Not Started
+2025-01-25T15:00:00+00:00,2024,National League - North,England,Southport,,,Chorley,Not Started
+2024-08-26T14:00:00+00:00,2024,National League - North,England,Warrington Town,,,Farsley Celtic FC,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - North,England,Alfreton Town,,,Leamington,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - North,England,Brackley Town,,,Kidderminster Harriers,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - North,England,Darlington 1883,,,Buxton,Not Started
+2024-08-20T18:45:00+00:00,2024,National League - North,England,Marine,,,Farsley Celtic FC,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - North,England,Oxford City,,,Curzon Ashton,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - North,England,Peterborough Sports,,,Hereford,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - North,England,Radcliffe,,,Chester,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - North,England,Rushall Olympic,,,King's Lynn Town,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Chorley,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - North,England,Scunthorpe,,,Needham Market,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - North,England,Southport,,,Spennymoor Town,Not Started
+2025-01-28T19:45:00+00:00,2024,National League - North,England,Warrington Town,,,South Shields,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - North,England,Buxton,,,Southport,Not Started
+2024-08-31T14:00:00+00:00,2024,National League - North,England,Chester,,,Peterborough Sports,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - North,England,Chorley,,,Oxford City,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Rushall Olympic,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Alfreton Town,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - North,England,Hereford,,,Brackley Town,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Scunthorpe,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Radcliffe,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - North,England,Leamington,,,Marine,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - North,England,Needham Market,,,Warrington Town,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - North,England,South Shields,,,Scarborough Athletic,Not Started
+2025-02-01T15:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Darlington 1883,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - North,England,Brackley Town,,,Peterborough Sports,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,King's Lynn Town,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Marine,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Needham Market,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - North,England,Hereford,,,Spennymoor Town,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Chorley,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - North,England,Oxford City,,,Leamington,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - North,England,Radcliffe,,,Southport,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Buxton,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Alfreton Town,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - North,England,South Shields,,,Chester,Not Started
+2025-02-08T15:00:00+00:00,2024,National League - North,England,Warrington Town,,,Scunthorpe,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - North,England,Alfreton Town,,,Darlington 1883,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - North,England,Buxton,,,South Shields,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - North,England,Chester,,,Kidderminster Harriers,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - North,England,Chorley,,,Brackley Town,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - North,England,King's Lynn Town,,,Scarborough Athletic,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - North,England,Leamington,,,Warrington Town,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - North,England,Marine,,,Rushall Olympic,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - North,England,Needham Market,,,Hereford,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - North,England,Peterborough Sports,,,Oxford City,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - North,England,Scunthorpe,,,Curzon Ashton,Not Started
+2024-09-03T18:45:00+00:00,2024,National League - North,England,Southport,,,Farsley Celtic FC,Not Started
+2025-02-11T19:45:00+00:00,2024,National League - North,England,Spennymoor Town,,,Radcliffe,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Kidderminster Harriers,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - North,England,Buxton,,,Radcliffe,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - North,England,Chester,,,Rushall Olympic,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - North,England,Chorley,,,South Shields,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Hereford,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - North,England,Leamington,,,Farsley Celtic FC,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - North,England,Marine,,,Brackley Town,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - North,England,Needham Market,,,Oxford City,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Curzon Ashton,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Scarborough Athletic,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - North,England,Southport,,,Darlington 1883,Not Started
+2025-02-15T15:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Warrington Town,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - North,England,Brackley Town,,,Southport,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Buxton,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - North,England,Darlington 1883,,,King's Lynn Town,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Chester,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - North,England,Hereford,,,Alfreton Town,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Spennymoor Town,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - North,England,Oxford City,,,Scunthorpe,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - North,England,Radcliffe,,,Marine,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Peterborough Sports,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Leamington,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - North,England,South Shields,,,Needham Market,Not Started
+2025-02-22T15:00:00+00:00,2024,National League - North,England,Warrington Town,,,Chorley,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - North,England,Brackley Town,,,Rushall Olympic,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - North,England,Chorley,,,Farsley Celtic FC,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - North,England,Hereford,,,Buxton,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,King's Lynn Town,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - North,England,Needham Market,,,Leamington,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - North,England,Oxford City,,,Chester,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - North,England,Radcliffe,,,Peterborough Sports,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - North,England,Scunthorpe,,,Darlington 1883,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - North,England,South Shields,,,Alfreton Town,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - North,England,Southport,,,Curzon Ashton,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - North,England,Spennymoor Town,,,Marine,Not Started
+2025-02-25T19:45:00+00:00,2024,National League - North,England,Warrington Town,,,Scarborough Athletic,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Warrington Town,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - North,England,Buxton,,,Scunthorpe,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - North,England,Chester,,,Needham Market,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Spennymoor Town,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Brackley Town,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Kidderminster Harriers,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,South Shields,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - North,England,Leamington,,,Chorley,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - North,England,Marine,,,Hereford,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Southport,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Radcliffe,Not Started
+2025-03-01T15:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Oxford City,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - North,England,Brackley Town,,,Alfreton Town,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - North,England,Chorley,,,Chester,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - North,England,Hereford,,,Darlington 1883,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Scarborough Athletic,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - North,England,Needham Market,,,Marine,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - North,England,Oxford City,,,Buxton,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - North,England,Radcliffe,,,Curzon Ashton,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Leamington,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - North,England,South Shields,,,Farsley Celtic FC,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - North,England,Southport,,,King's Lynn Town,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Peterborough Sports,Not Started
+2025-03-08T15:00:00+00:00,2024,National League - North,England,Warrington Town,,,Rushall Olympic,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - North,England,Alfreton Town,,,Scunthorpe,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - North,England,Buxton,,,Spennymoor Town,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - North,England,Chester,,,Warrington Town,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - North,England,Curzon Ashton,,,Chorley,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - North,England,Darlington 1883,,,Radcliffe,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Oxford City,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - North,England,King's Lynn Town,,,Brackley Town,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - North,England,Leamington,,,Kidderminster Harriers,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - North,England,Marine,,,Southport,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - North,England,Peterborough Sports,,,South Shields,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - North,England,Rushall Olympic,,,Hereford,Not Started
+2025-03-11T19:45:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Needham Market,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Oxford City,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - North,England,Brackley Town,,,Buxton,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - North,England,Chester,,,Leamington,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Marine,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Scunthorpe,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Spennymoor Town,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - North,England,Needham Market,,,Chorley,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Darlington 1883,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Southport,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Hereford,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - North,England,South Shields,,,Kidderminster Harriers,Not Started
+2025-03-15T15:00:00+00:00,2024,National League - North,England,Warrington Town,,,Radcliffe,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - North,England,Buxton,,,King's Lynn Town,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - North,England,Chorley,,,Alfreton Town,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Rushall Olympic,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - North,England,Hereford,,,Curzon Ashton,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Needham Market,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - North,England,Leamington,,,South Shields,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - North,England,Marine,,,Peterborough Sports,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - North,England,Oxford City,,,Warrington Town,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - North,England,Radcliffe,,,Brackley Town,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Chester,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - North,England,Southport,,,Scarborough Athletic,Not Started
+2025-03-22T15:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Farsley Celtic FC,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - North,England,Brackley Town,,,Scarborough Athletic,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - North,England,Chester,,,Curzon Ashton,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - North,England,Chorley,,,Spennymoor Town,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Hereford,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Peterborough Sports,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - North,England,Leamington,,,King's Lynn Town,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - North,England,Marine,,,Alfreton Town,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - North,England,Needham Market,,,Buxton,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - North,England,Oxford City,,,Radcliffe,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,South Shields,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Southport,Not Started
+2025-03-29T15:00:00+00:00,2024,National League - North,England,Warrington Town,,,Darlington 1883,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Rushall Olympic,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - North,England,Buxton,,,Kidderminster Harriers,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Warrington Town,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Farsley Celtic FC,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - North,England,Hereford,,,Chester,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Chorley,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Leamington,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - North,England,Radcliffe,,,Scunthorpe,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Marine,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - North,England,South Shields,,,Brackley Town,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - North,England,Southport,,,Oxford City,Not Started
+2025-04-05T14:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Needham Market,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Peterborough Sports,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - North,England,Chester,,,Darlington 1883,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - North,England,Chorley,,,Marine,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,King's Lynn Town,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Curzon Ashton,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - North,England,Leamington,,,Radcliffe,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - North,England,Needham Market,,,Rushall Olympic,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - North,England,Oxford City,,,Hereford,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Buxton,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Spennymoor Town,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - North,England,South Shields,,,Southport,Not Started
+2025-04-12T14:00:00+00:00,2024,National League - North,England,Warrington Town,,,Brackley Town,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - North,England,Brackley Town,,,Oxford City,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - North,England,Buxton,,,Chorley,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Alfreton Town,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - North,England,Darlington 1883,,,South Shields,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - North,England,Hereford,,,Leamington,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Scunthorpe,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - North,England,Marine,,,Warrington Town,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Needham Market,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - North,England,Radcliffe,,,Farsley Celtic FC,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Kidderminster Harriers,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - North,England,Southport,,,Chester,Not Started
+2025-04-18T14:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Scarborough Athletic,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - North,England,Alfreton Town,,,Buxton,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - North,England,Chester,,,Marine,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - North,England,Chorley,,,Radcliffe,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - North,England,Farsley Celtic FC,,,Curzon Ashton,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - North,England,Kidderminster Harriers,,,Hereford,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - North,England,Leamington,,,Brackley Town,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - North,England,Needham Market,,,King's Lynn Town,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - North,England,Oxford City,,,Rushall Olympic,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - North,England,Scarborough Athletic,,,Darlington 1883,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - North,England,Scunthorpe,,,Peterborough Sports,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - North,England,South Shields,,,Spennymoor Town,Not Started
+2025-04-21T14:00:00+00:00,2024,National League - North,England,Warrington Town,,,Southport,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - North,England,Brackley Town,,,Farsley Celtic FC,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - North,England,Buxton,,,Warrington Town,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - North,England,Curzon Ashton,,,Leamington,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - North,England,Darlington 1883,,,Needham Market,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - North,England,Hereford,,,Scunthorpe,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - North,England,King's Lynn Town,,,Chester,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - North,England,Marine,,,South Shields,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - North,England,Peterborough Sports,,,Scarborough Athletic,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - North,England,Radcliffe,,,Alfreton Town,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - North,England,Rushall Olympic,,,Chorley,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - North,England,Southport,,,Kidderminster Harriers,Not Started
+2025-04-26T14:00:00+00:00,2024,National League - North,England,Spennymoor Town,,,Oxford City,Not Started

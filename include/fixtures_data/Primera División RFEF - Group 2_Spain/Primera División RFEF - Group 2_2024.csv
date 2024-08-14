@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-24T17:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Sanluqueño,Not Started
+2024-08-24T17:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Villarreal II,Not Started
+2024-08-25T18:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Algeciras,Not Started
+2024-08-24T19:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Intercity,Not Started
+2024-08-24T17:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Real Madrid II,Not Started
+2024-08-25T17:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Alcorcon,Not Started
+2024-08-25T18:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Real Murcia,Not Started
+2024-08-24T18:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,AD Ceuta FC,Not Started
+2024-08-25T17:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Antequera,Not Started
+2024-08-25T18:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Recreativo Huelva,Not Started
+2024-08-31T18:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Ibiza,Not Started
+2024-08-31T17:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Hércules,Not Started
+2024-09-01T17:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Yeclano,Not Started
+2024-08-31T17:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Fuenlabrada,Not Started
+2024-09-01T17:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Marbella,Not Started
+2024-09-01T17:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Sevilla Atletico,Not Started
+2024-09-01T17:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Atlético Madrid II,Not Started
+2024-08-31T19:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Alcoyano,Not Started
+2024-09-01T18:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Real Betis II,Not Started
+2024-09-01T18:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Mérida AD,Not Started
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Real Murcia,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Intercity,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Recreativo Huelva,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Sanluqueño,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Real Madrid II,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Alcorcon,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Ibiza,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,AD Ceuta FC,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Antequera,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Algeciras,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Atlético Madrid II,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Sanluqueño,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Villarreal II,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Marbella,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Sevilla Atletico,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Fuenlabrada,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Alcoyano,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Hércules,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Real Betis II,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Mérida AD,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Yeclano,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Real Murcia,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,AD Ceuta FC,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Real Madrid II,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Fuenlabrada,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Alcorcon,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Ibiza,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Antequera,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Algeciras,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Recreativo Huelva,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Hércules,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Sevilla Atletico,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Recreativo Huelva,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Mérida AD,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Intercity,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Villarreal II,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Atlético Madrid II,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Alcoyano,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Sanluqueño,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Real Betis II,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,AD Ceuta FC,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Marbella,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Yeclano,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Villarreal II,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Real Madrid II,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Fuenlabrada,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Alcorcon,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Ibiza,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Antequera,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Algeciras,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Yeclano,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Real Betis II,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Intercity,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Sevilla Atletico,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Mérida AD,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Hércules,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Real Murcia,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Atlético Madrid II,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Alcoyano,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Sanluqueño,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Recreativo Huelva,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Real Madrid II,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Antequera,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,AD Ceuta FC,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Villarreal II,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Fuenlabrada,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Ibiza,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Hércules,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Marbella,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Real Betis II,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Ibiza,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Sanluqueño,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Yeclano,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Atlético Madrid II,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Alcorcon,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Alcoyano,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Intercity,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Real Murcia,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,AD Ceuta FC,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Algeciras,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Real Madrid II,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Mérida AD,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Villarreal II,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Sevilla Atletico,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Marbella,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Real Murcia,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Fuenlabrada,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Antequera,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Real Betis II,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Recreativo Huelva,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Intercity,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Hércules,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Sanluqueño,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Ibiza,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Yeclano,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Atlético Madrid II,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Alcorcon,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Alcoyano,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,AD Ceuta FC,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Algeciras,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Mérida AD,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Marbella,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Sevilla Atletico,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Villarreal II,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Real Murcia,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Fuenlabrada,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Alcorcon,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Antequera,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Real Betis II,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Recreativo Huelva,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Algeciras,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,AD Ceuta FC,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Sanluqueño,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Yeclano,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Real Madrid II,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Atlético Madrid II,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Ibiza,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Intercity,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Hércules,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Antequera,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Mérida AD,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Marbella,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Real Murcia,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Sevilla Atletico,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Villarreal II,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Recreativo Huelva,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Alcorcon,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Alcoyano,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Algeciras,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Real Betis II,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Antequera,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Sanluqueño,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Ibiza,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Yeclano,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Intercity,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Real Madrid II,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Atlético Madrid II,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Fuenlabrada,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Hércules,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Marbella,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Recreativo Huelva,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Sevilla Atletico,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Real Murcia,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Villarreal II,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,AD Ceuta FC,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Alcorcon,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Alcoyano,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Algeciras,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Real Betis II,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Mérida AD,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Ibiza,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Yeclano,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Atlético Madrid II,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Antequera,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Sevilla Atletico,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Marbella,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Real Madrid II,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Fuenlabrada,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Intercity,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Hércules,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Villarreal II,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Sanluqueño,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Real Murcia,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Alcorcon,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Alcoyano,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,AD Ceuta FC,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Algeciras,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Real Betis II,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Recreativo Huelva,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Mérida AD,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Fuenlabrada,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Ibiza,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Sevilla Atletico,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Intercity,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Yeclano,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Real Madrid II,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Atlético Madrid II,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Hércules,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Marbella,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Antequera,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Villarreal II,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Sanluqueño,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Mérida AD,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Alcorcon,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Alcoyano,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Hércules,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Real Murcia,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,AD Ceuta FC,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Algeciras,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Real Betis II,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Recreativo Huelva,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Marbella,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Yeclano,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Fuenlabrada,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Real Madrid II,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Mérida AD,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Atlético Madrid II,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Ibiza,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Alcoyano,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Sevilla Atletico,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Sanluqueño,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Hércules,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Yeclano,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Real Betis II,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Real Murcia,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Villarreal II,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Alcorcon,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Intercity,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Antequera,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Algeciras,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,AD Ceuta FC,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Mérida AD,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Sevilla Atletico,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Real Madrid II,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Recreativo Huelva,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Ibiza,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Atlético Madrid II,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Fuenlabrada,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Alcoyano,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Marbella,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Villarreal II,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Intercity,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Sanluqueño,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Yeclano,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Real Murcia,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Alcorcon,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Hércules,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Antequera,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Algeciras,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Real Betis II,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Alcoyano,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Recreativo Huelva,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Atlético Madrid II,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Mérida AD,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Fuenlabrada,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Real Madrid II,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Ibiza,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,AD Ceuta FC,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Marbella,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Sevilla Atletico,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Sevilla Atletico,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Real Murcia,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Intercity,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Yeclano,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Hércules,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Villarreal II,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Sanluqueño,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Antequera,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Algeciras,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Real Betis II,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Ibiza,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Marbella,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Real Madrid II,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Atlético Madrid II,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Fuenlabrada,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Alcorcon,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Alcoyano,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,AD Ceuta FC,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Recreativo Huelva,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Mérida AD,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Real Murcia,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Real Betis II,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Sevilla Atletico,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Villarreal II,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Intercity,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Hércules,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Sanluqueño,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Yeclano,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Alcoyano,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Algeciras,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Mérida AD,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Ibiza,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Atlético Madrid II,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Real Madrid II,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Fuenlabrada,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Alcorcon,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,AD Ceuta FC,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Marbella,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Antequera,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Recreativo Huelva,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Intercity,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Marbella,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Sanluqueño,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Hércules,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Real Murcia,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Yeclano,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Sevilla Atletico,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Real Madrid II,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Alcoyano,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Algeciras,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Fuenlabrada,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Mérida AD,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Villarreal II,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Atlético Madrid II,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Alcorcon,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Ibiza,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,AD Ceuta FC,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Antequera,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Real Betis II,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Recreativo Huelva,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Mérida AD,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Real Murcia,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Sevilla Atletico,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Marbella,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Yeclano,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Sanluqueño,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Hércules,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Real Madrid II,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Alcoyano,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Intercity,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,AD Ceuta FC,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Recreativo Huelva,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Villarreal II,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Atlético Madrid II,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Fuenlabrada,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Alcorcon,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Intercity,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Antequera,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Algeciras,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Real Betis II,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Marbella,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Fuenlabrada,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Yeclano,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Real Murcia,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Mérida AD,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Sevilla Atletico,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Real Betis II,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Ibiza,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Alcoyano,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Hércules,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Intercity,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Sanluqueño,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Real Madrid II,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Atlético Madrid II,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,Alcorcon,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Villarreal II,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,AD Ceuta FC,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Antequera,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Algeciras,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Recreativo Huelva,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Fuenlabrada,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Ibiza,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcorcon,,,Marbella,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Yeclano,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Antequera,,,Real Betis II,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Mérida AD,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Algeciras,,,Alcoyano,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Intercity,,,Hércules,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Real Murcia,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Villarreal II,,,Sevilla Atletico,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Fuenlabrada,,,Recreativo Huelva,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Alcoyano,,,Real Madrid II,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Hércules,,,Sanluqueño,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Betis II,,,Villarreal II,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Mérida AD,,,Atlético Madrid II,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Sevilla Atletico,,,Alcorcon,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Yeclano,,,Intercity,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Ibiza,,,AD Ceuta FC,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Marbella,,,Antequera,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 2,Spain,Real Murcia,,,Algeciras,Time to be defined

@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-17T15:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Marseille,Not Started
+2024-08-18T15:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Strasbourg,Not Started
+2024-08-18T15:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Nantes,Not Started
+2024-08-18T15:00:00+00:00,2024,Ligue 1,France,Angers,,,Lens,Not Started
+2024-08-17T19:00:00+00:00,2024,Ligue 1,France,Monaco,,,Saint Etienne,Not Started
+2024-08-17T17:00:00+00:00,2024,Ligue 1,France,Reims,,,Lille,Not Started
+2024-08-18T13:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Nice,Not Started
+2024-08-16T18:45:00+00:00,2024,Ligue 1,France,LE Havre,,,Paris Saint Germain,Not Started
+2024-08-18T18:45:00+00:00,2024,Ligue 1,France,Rennes,,,Lyon,Not Started
+2024-08-23T18:45:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Montpellier,Not Started
+2024-08-25T15:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Rennes,Not Started
+2024-08-25T15:00:00+00:00,2024,Ligue 1,France,Nantes,,,Auxerre,Not Started
+2024-08-24T19:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,LE Havre,Not Started
+2024-08-24T17:00:00+00:00,2024,Ligue 1,France,Lille,,,Angers,Not Started
+2024-08-25T15:00:00+00:00,2024,Ligue 1,France,Nice,,,Toulouse,Not Started
+2024-08-25T13:00:00+00:00,2024,Ligue 1,France,Lens,,,Stade Brestois 29,Not Started
+2024-08-24T15:00:00+00:00,2024,Ligue 1,France,Lyon,,,Monaco,Not Started
+2024-08-25T18:45:00+00:00,2024,Ligue 1,France,Marseille,,,Reims,Not Started
+2024-09-01T18:45:00+00:00,2024,Ligue 1,France,Lille,,,Paris Saint Germain,Not Started
+2024-08-30T18:45:00+00:00,2024,Ligue 1,France,Lyon,,,Strasbourg,Not Started
+2024-08-31T15:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Saint Etienne,Not Started
+2024-08-31T17:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Nantes,Not Started
+2024-09-01T15:00:00+00:00,2024,Ligue 1,France,Angers,,,Nice,Not Started
+2024-09-01T13:00:00+00:00,2024,Ligue 1,France,Monaco,,,Lens,Not Started
+2024-09-01T15:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Auxerre,Not Started
+2024-09-01T15:00:00+00:00,2024,Ligue 1,France,Reims,,,Rennes,Not Started
+2024-08-31T19:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Marseille,Not Started
+2024-09-15T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Monaco,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Montpellier,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Lyon,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Reims,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,LE Havre,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Angers,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Lille,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Nice,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Stade Brestois 29,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,Marseille,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Saint Etienne,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Ligue 1,France,Reims,,,Paris Saint Germain,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Toulouse,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Ligue 1,France,Angers,,,Nantes,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Auxerre,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Ligue 1,France,Lille,,,Strasbourg,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Lens,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,LE Havre,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Marseille,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Rennes,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Stade Brestois 29,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Nice,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Saint Etienne,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Lille,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Lyon,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,Montpellier,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Ligue 1,France,Angers,,,Reims,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,Nantes,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Paris Saint Germain,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Ligue 1,France,Lille,,,Toulouse,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Auxerre,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,LE Havre,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Angers,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Monaco,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Lens,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Ligue 1,France,Reims,,,Montpellier,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Reims,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Angers,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Lyon,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Nice,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Marseille,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,Lille,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Lens,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Rennes,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Strasbourg,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Monaco,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Lille,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Paris Saint Germain,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,Auxerre,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Toulouse,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Nantes,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,LE Havre,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Ligue 1,France,Angers,,,Saint Etienne,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Ligue 1,France,Reims,,,Stade Brestois 29,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Rennes,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Reims,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,Angers,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Montpellier,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Marseille,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Ligue 1,France,Lille,,,Lyon,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Strasbourg,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Nice,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Lens,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Auxerre,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,Saint Etienne,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Stade Brestois 29,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Reims,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Monaco,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Nantes,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Toulouse,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Lille,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Ligue 1,France,Angers,,,Paris Saint Germain,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Toulouse,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Marseille,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Strasbourg,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Montpellier,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Ligue 1,France,Lille,,,Rennes,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,LE Havre,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,Stade Brestois 29,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Angers,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Ligue 1,France,Reims,,,Lyon,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Ligue 1,France,Reims,,,Lens,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Saint Etienne,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Angers,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Auxerre,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Strasbourg,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Lille,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Nantes,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Monaco,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,Nice,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Ligue 1,France,Nice,,,LE Havre,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Paris Saint Germain,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Marseille,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Ligue 1,France,Angers,,,Lyon,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Ligue 1,France,Lille,,,Stade Brestois 29,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Montpellier,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Reims,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Rennes,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,Toulouse,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Angers,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Strasbourg,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Ligue 1,France,Reims,,,Monaco,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Lens,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Saint Etienne,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Nice,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Nantes,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Lille,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Lyon,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,Paris Saint Germain,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,Montpellier,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Toulouse,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Reims,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Ligue 1,France,Angers,,,Stade Brestois 29,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Ligue 1,France,Lille,,,Nantes,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,LE Havre,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Auxerre,Time to be defined
+2025-01-05T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Rennes,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Strasbourg,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Monaco,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Lille,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Ligue 1,France,Reims,,,Nice,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Lens,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Angers,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Lyon,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Saint Etienne,Time to be defined
+2025-01-12T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Marseille,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Strasbourg,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Paris Saint Germain,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Ligue 1,France,Lille,,,Nice,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,Toulouse,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Nantes,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Monaco,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Ligue 1,France,Reims,,,LE Havre,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Ligue 1,France,Angers,,,Auxerre,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Stade Brestois 29,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Lille,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Lyon,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,Rennes,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Montpellier,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Stade Brestois 29,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Saint Etienne,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Angers,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Reims,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Marseille,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Lyon,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Paris Saint Germain,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Lens,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Ligue 1,France,Lille,,,Saint Etienne,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Ligue 1,France,Reims,,,Nantes,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Ligue 1,France,Angers,,,LE Havre,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Nice,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Strasbourg,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,Auxerre,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Toulouse,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Stade Brestois 29,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Montpellier,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Ligue 1,France,Lille,,,LE Havre,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Rennes,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Monaco,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,Reims,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Ligue 1,France,Angers,,,Marseille,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Lens,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Paris Saint Germain,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Saint Etienne,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Lyon,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Strasbourg,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Auxerre,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Lille,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Ligue 1,France,Reims,,,Angers,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Nice,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,Nantes,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Reims,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Toulouse,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Ligue 1,France,Lille,,,Monaco,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Stade Brestois 29,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Lens,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Angers,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Marseille,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Montpellier,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,Paris Saint Germain,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Lille,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Nantes,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,Stade Brestois 29,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Rennes,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Nice,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Ligue 1,France,Lens,,,LE Havre,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Strasbourg,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,Reims,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Ligue 1,France,Angers,,,Toulouse,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Saint Etienne,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Ligue 1,France,Reims,,,Auxerre,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Strasbourg,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Monaco,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Lyon,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Angers,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Ligue 1,France,Lille,,,Montpellier,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Paris Saint Germain,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Lens,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Marseille,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Auxerre,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Saint Etienne,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Reims,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,LE Havre,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Rennes,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Toulouse,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Lille,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Ligue 1,France,Angers,,,Monaco,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Ligue 1,France,Angers,,,Rennes,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Montpellier,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Nantes,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Lyon,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Stade Brestois 29,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Paris Saint Germain,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Ligue 1,France,Reims,,,Marseille,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Ligue 1,France,Lille,,,Lens,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,Nice,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Toulouse,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Nantes,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Monaco,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,LE Havre,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,Lille,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Saint Etienne,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Angers,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Ligue 1,France,Reims,,,Strasbourg,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Auxerre,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Lille,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Rennes,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Lyon,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Paris Saint Germain,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Nice,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Stade Brestois 29,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Ligue 1,France,Angers,,,Montpellier,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Reims,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,Marseille,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Lyon,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Angers,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Lens,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Ligue 1,France,Lille,,,Auxerre,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,LE Havre,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Montpellier,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Ligue 1,France,Reims,,,Toulouse,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,Strasbourg,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Nantes,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Monaco,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Saint Etienne,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Toulouse,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Reims,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Auxerre,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Ligue 1,France,Angers,,,Lille,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Nice,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Stade Brestois 29,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,Rennes,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,Lens,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Ligue 1,France,Lille,,,Marseille,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Reims,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Montpellier,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Monaco,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Angers,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Rennes,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,Paris Saint Germain,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,LE Havre,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Ligue 1,France,Reims,,,Saint Etienne,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Ligue 1,France,Auxerre,,,Nantes,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Ligue 1,France,Angers,,,Strasbourg,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Ligue 1,France,LE Havre,,,Marseille,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Ligue 1,France,Rennes,,,Nice,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Ligue 1,France,Montpellier,,,Paris Saint Germain,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Ligue 1,France,Toulouse,,,Lens,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Ligue 1,France,Stade Brestois 29,,,Lille,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Ligue 1,France,Monaco,,,Lyon,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Ligue 1,France,Marseille,,,Rennes,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Ligue 1,France,Lyon,,,Angers,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Ligue 1,France,Nice,,,Stade Brestois 29,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Ligue 1,France,Saint Etienne,,,Toulouse,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Ligue 1,France,Lille,,,Reims,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Ligue 1,France,Strasbourg,,,LE Havre,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Ligue 1,France,Nantes,,,Montpellier,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Ligue 1,France,Lens,,,Monaco,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Ligue 1,France,Paris Saint Germain,,,Auxerre,Time to be defined

@@ -1,0 +1,478 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-04-10T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sansinena,0,1,Olimpo Bahia Blanca,Match Finished
+2024-03-22T19:00:00+00:00,2024,Torneo Federal A,Argentina,Kimberley Mar del Plata,2,0,Cipolletti,Match Finished
+2024-03-23T19:30:00+00:00,2024,Torneo Federal A,Argentina,Sol de Mayo,1,0,Deportivo Rincon,Match Finished
+2024-03-23T18:00:00+00:00,2024,Torneo Federal A,Argentina,Germinal de Rawson,3,0,Circulo Deportivo,Match Finished
+2024-03-23T20:00:00+00:00,2024,Torneo Federal A,Argentina,Villa Mitre,2,0,Santamarina,Match Finished
+2024-03-30T19:30:00+00:00,2024,Torneo Federal A,Argentina,Villa Mitre,3,2,Sansinena,Match Finished
+2024-03-30T22:00:00+00:00,2024,Torneo Federal A,Argentina,Santamarina,1,1,Germinal de Rawson,Match Finished
+2024-03-31T18:00:00+00:00,2024,Torneo Federal A,Argentina,Circulo Deportivo,2,0,Sol de Mayo,Match Finished
+2024-03-30T19:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Rincon,0,0,Kimberley Mar del Plata,Match Finished
+2024-03-31T21:00:00+00:00,2024,Torneo Federal A,Argentina,Cipolletti,0,0,Olimpo Bahia Blanca,Match Finished
+2024-04-07T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sansinena,2,0,Cipolletti,Match Finished
+2024-04-07T19:30:00+00:00,2024,Torneo Federal A,Argentina,Olimpo Bahia Blanca,1,0,Deportivo Rincon,Match Finished
+2024-04-07T14:00:00+00:00,2024,Torneo Federal A,Argentina,Kimberley Mar del Plata,0,1,Circulo Deportivo,Match Finished
+2024-04-07T18:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de Mayo,2,0,Santamarina,Match Finished
+2024-04-07T18:00:00+00:00,2024,Torneo Federal A,Argentina,Germinal de Rawson,1,0,Villa Mitre,Match Finished
+2024-04-14T18:00:00+00:00,2024,Torneo Federal A,Argentina,Germinal de Rawson,3,1,Sansinena,Match Finished
+2024-04-14T19:00:00+00:00,2024,Torneo Federal A,Argentina,Villa Mitre,3,1,Sol de Mayo,Match Finished
+2024-04-14T22:00:00+00:00,2024,Torneo Federal A,Argentina,Santamarina,1,1,Kimberley Mar del Plata,Match Finished
+2024-04-14T19:00:00+00:00,2024,Torneo Federal A,Argentina,Circulo Deportivo,3,1,Olimpo Bahia Blanca,Match Finished
+2024-04-14T19:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Rincon,1,0,Cipolletti,Match Finished
+2024-04-21T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sansinena,0,0,Deportivo Rincon,Match Finished
+2024-04-21T14:00:00+00:00,2024,Torneo Federal A,Argentina,Cipolletti,2,1,Circulo Deportivo,Match Finished
+2024-04-21T18:30:00+00:00,2024,Torneo Federal A,Argentina,Olimpo Bahia Blanca,1,0,Santamarina,Match Finished
+2024-04-21T14:00:00+00:00,2024,Torneo Federal A,Argentina,Kimberley Mar del Plata,1,0,Villa Mitre,Match Finished
+2024-04-21T14:15:00+00:00,2024,Torneo Federal A,Argentina,Sol de Mayo,2,2,Germinal de Rawson,Match Finished
+2024-04-28T18:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de Mayo,2,1,Sansinena,Match Finished
+2024-04-28T18:00:00+00:00,2024,Torneo Federal A,Argentina,Germinal de Rawson,2,1,Kimberley Mar del Plata,Match Finished
+2024-04-28T18:35:00+00:00,2024,Torneo Federal A,Argentina,Villa Mitre,1,3,Olimpo Bahia Blanca,Match Finished
+2024-04-28T22:00:00+00:00,2024,Torneo Federal A,Argentina,Santamarina,0,0,Cipolletti,Match Finished
+2024-04-28T18:00:00+00:00,2024,Torneo Federal A,Argentina,Circulo Deportivo,3,2,Deportivo Rincon,Match Finished
+2024-05-05T18:30:00+00:00,2024,Torneo Federal A,Argentina,Sansinena,1,1,Circulo Deportivo,Match Finished
+2024-05-04T19:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Rincon,1,0,Santamarina,Match Finished
+2024-05-05T19:00:00+00:00,2024,Torneo Federal A,Argentina,Cipolletti,0,1,Villa Mitre,Match Finished
+2024-05-05T18:30:00+00:00,2024,Torneo Federal A,Argentina,Olimpo Bahia Blanca,0,1,Germinal de Rawson,Match Finished
+2024-05-05T14:00:00+00:00,2024,Torneo Federal A,Argentina,Kimberley Mar del Plata,1,1,Sol de Mayo,Match Finished
+2024-05-11T18:00:00+00:00,2024,Torneo Federal A,Argentina,Kimberley Mar del Plata,1,1,Sansinena,Match Finished
+2024-05-11T18:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de Mayo,0,3,Olimpo Bahia Blanca,Match Finished
+2024-05-11T18:00:00+00:00,2024,Torneo Federal A,Argentina,Germinal de Rawson,1,1,Cipolletti,Match Finished
+2024-05-11T18:30:00+00:00,2024,Torneo Federal A,Argentina,Villa Mitre,2,0,Deportivo Rincon,Match Finished
+2024-05-11T18:00:00+00:00,2024,Torneo Federal A,Argentina,Santamarina,4,1,Circulo Deportivo,Match Finished
+2024-05-15T18:30:00+00:00,2024,Torneo Federal A,Argentina,Sansinena,0,0,Santamarina,Match Finished
+2024-05-15T18:30:00+00:00,2024,Torneo Federal A,Argentina,Circulo Deportivo,1,1,Villa Mitre,Match Finished
+2024-05-15T19:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Rincon,2,2,Germinal de Rawson,Match Finished
+2024-05-15T23:00:00+00:00,2024,Torneo Federal A,Argentina,Cipolletti,2,0,Sol de Mayo,Match Finished
+2024-05-15T18:00:00+00:00,2024,Torneo Federal A,Argentina,Olimpo Bahia Blanca,1,1,Kimberley Mar del Plata,Match Finished
+2024-05-19T18:00:00+00:00,2024,Torneo Federal A,Argentina,Olimpo Bahia Blanca,2,0,Sansinena,Match Finished
+2024-05-19T19:00:00+00:00,2024,Torneo Federal A,Argentina,Cipolletti,0,0,Kimberley Mar del Plata,Match Finished
+2024-05-18T18:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Rincon,2,0,Sol de Mayo,Match Finished
+2024-05-19T18:00:00+00:00,2024,Torneo Federal A,Argentina,Circulo Deportivo,0,0,Germinal de Rawson,Match Finished
+2024-05-19T18:00:00+00:00,2024,Torneo Federal A,Argentina,Santamarina,0,0,Villa Mitre,Match Finished
+2024-05-27T18:00:00+00:00,2024,Torneo Federal A,Argentina,Sansinena,0,2,Villa Mitre,Match Finished
+2024-05-26T18:00:00+00:00,2024,Torneo Federal A,Argentina,Germinal de Rawson,2,0,Santamarina,Match Finished
+2024-05-26T18:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de Mayo,3,0,Circulo Deportivo,Match Finished
+2024-05-26T14:00:00+00:00,2024,Torneo Federal A,Argentina,Kimberley Mar del Plata,2,0,Deportivo Rincon,Match Finished
+2024-05-26T18:00:00+00:00,2024,Torneo Federal A,Argentina,Olimpo Bahia Blanca,1,1,Cipolletti,Match Finished
+2024-06-02T18:30:00+00:00,2024,Torneo Federal A,Argentina,Cipolletti,0,0,Sansinena,Match Finished
+2024-06-02T18:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Rincon,1,2,Olimpo Bahia Blanca,Match Finished
+2024-06-02T18:00:00+00:00,2024,Torneo Federal A,Argentina,Circulo Deportivo,0,1,Kimberley Mar del Plata,Match Finished
+2024-06-02T18:00:00+00:00,2024,Torneo Federal A,Argentina,Santamarina,5,0,Sol de Mayo,Match Finished
+2024-06-02T18:05:00+00:00,2024,Torneo Federal A,Argentina,Villa Mitre,2,0,Germinal de Rawson,Match Finished
+2024-06-09T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sansinena,0,1,Germinal de Rawson,Match Finished
+2024-06-09T18:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de Mayo,0,2,Villa Mitre,Match Finished
+2024-06-09T14:00:00+00:00,2024,Torneo Federal A,Argentina,Kimberley Mar del Plata,1,1,Santamarina,Match Finished
+2024-06-09T18:00:00+00:00,2024,Torneo Federal A,Argentina,Olimpo Bahia Blanca,3,1,Circulo Deportivo,Match Finished
+2024-06-09T18:30:00+00:00,2024,Torneo Federal A,Argentina,Cipolletti,1,0,Deportivo Rincon,Match Finished
+2024-06-16T18:30:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Rincon,,,Sansinena,Match Cancelled
+2024-06-16T18:00:00+00:00,2024,Torneo Federal A,Argentina,Circulo Deportivo,2,1,Cipolletti,Match Finished
+2024-06-16T23:00:00+00:00,2024,Torneo Federal A,Argentina,Santamarina,0,0,Olimpo Bahia Blanca,Match Finished
+2024-06-15T18:00:00+00:00,2024,Torneo Federal A,Argentina,Villa Mitre,0,0,Kimberley Mar del Plata,Match Finished
+2024-06-16T18:00:00+00:00,2024,Torneo Federal A,Argentina,Germinal de Rawson,3,0,Sol de Mayo,Match Finished
+2024-06-23T18:30:00+00:00,2024,Torneo Federal A,Argentina,Sansinena,,,Sol de Mayo,Match Cancelled
+2024-06-23T14:00:00+00:00,2024,Torneo Federal A,Argentina,Kimberley Mar del Plata,0,0,Germinal de Rawson,Match Finished
+2024-06-23T18:05:00+00:00,2024,Torneo Federal A,Argentina,Olimpo Bahia Blanca,2,0,Villa Mitre,Match Finished
+2024-06-23T18:30:00+00:00,2024,Torneo Federal A,Argentina,Cipolletti,0,1,Santamarina,Match Finished
+2024-06-23T18:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Rincon,1,0,Circulo Deportivo,Match Finished
+2024-06-30T18:30:00+00:00,2024,Torneo Federal A,Argentina,Circulo Deportivo,,,Sansinena,Match Cancelled
+2024-06-30T14:00:00+00:00,2024,Torneo Federal A,Argentina,Santamarina,3,2,Deportivo Rincon,Match Finished
+2024-06-30T18:00:00+00:00,2024,Torneo Federal A,Argentina,Villa Mitre,2,0,Cipolletti,Match Finished
+2024-06-30T18:00:00+00:00,2024,Torneo Federal A,Argentina,Germinal de Rawson,1,1,Olimpo Bahia Blanca,Match Finished
+2024-06-30T18:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de Mayo,3,2,Kimberley Mar del Plata,Match Finished
+2024-07-07T18:30:00+00:00,2024,Torneo Federal A,Argentina,Sansinena,,,Kimberley Mar del Plata,Match Cancelled
+2024-07-07T18:00:00+00:00,2024,Torneo Federal A,Argentina,Olimpo Bahia Blanca,1,0,Sol de Mayo,Match Finished
+2024-07-07T18:30:00+00:00,2024,Torneo Federal A,Argentina,Cipolletti,1,1,Germinal de Rawson,Match Finished
+2024-07-07T18:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Rincon,1,1,Villa Mitre,Match Finished
+2024-07-07T18:00:00+00:00,2024,Torneo Federal A,Argentina,Circulo Deportivo,1,3,Santamarina,Match Finished
+2024-07-14T18:30:00+00:00,2024,Torneo Federal A,Argentina,Santamarina,,,Sansinena,Match Cancelled
+2024-07-14T18:30:00+00:00,2024,Torneo Federal A,Argentina,Villa Mitre,2,0,Circulo Deportivo,Match Finished
+2024-07-14T18:30:00+00:00,2024,Torneo Federal A,Argentina,Germinal de Rawson,0,0,Deportivo Rincon,Match Finished
+2024-07-14T18:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de Mayo,1,1,Cipolletti,Match Finished
+2024-07-14T18:30:00+00:00,2024,Torneo Federal A,Argentina,Kimberley Mar del Plata,0,0,Olimpo Bahia Blanca,Match Finished
+2024-03-23T19:00:00+00:00,2024,Torneo Federal A,Argentina,Ferro Carril Oeste LP,0,0,Atenas,Match Finished
+2024-03-23T20:00:00+00:00,2024,Torneo Federal A,Argentina,Huracan Las Heras,2,1,Estudiantes S.l.,Match Finished
+2024-03-23T19:00:00+00:00,2024,Torneo Federal A,Argentina,Ciudad de Bolívar,2,1,Gutiérrez,Match Finished
+2024-03-24T00:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Unida Univ.,0,0,Argentino Monte Maíz,Match Finished
+2024-03-23T19:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Camioneros,0,1,San Martín Mendoza,Match Finished
+2024-03-31T19:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Camioneros,0,1,Ferro Carril Oeste LP,Match Finished
+2024-03-29T00:00:00+00:00,2024,Torneo Federal A,Argentina,San Martín Mendoza,0,0,Juventud Unida Univ.,Match Finished
+2024-03-30T19:30:00+00:00,2024,Torneo Federal A,Argentina,Argentino Monte Maíz,1,1,Ciudad de Bolívar,Match Finished
+2024-04-01T19:30:00+00:00,2024,Torneo Federal A,Argentina,Gutiérrez,0,1,Huracan Las Heras,Match Finished
+2024-03-29T21:00:00+00:00,2024,Torneo Federal A,Argentina,Estudiantes S.l.,2,1,Atenas,Match Finished
+2024-04-06T19:00:00+00:00,2024,Torneo Federal A,Argentina,Ferro Carril Oeste LP,1,2,Estudiantes S.l.,Match Finished
+2024-04-06T00:15:00+00:00,2024,Torneo Federal A,Argentina,Atenas,1,1,Gutiérrez,Match Finished
+2024-04-07T19:30:00+00:00,2024,Torneo Federal A,Argentina,Huracan Las Heras,0,0,Argentino Monte Maíz,Match Finished
+2024-04-06T18:00:00+00:00,2024,Torneo Federal A,Argentina,Ciudad de Bolívar,1,0,San Martín Mendoza,Match Finished
+2024-04-06T19:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Unida Univ.,1,0,Deportivo Camioneros,Match Finished
+2024-04-13T19:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Unida Univ.,2,0,Ferro Carril Oeste LP,Match Finished
+2024-04-14T18:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Camioneros,0,2,Ciudad de Bolívar,Match Finished
+2024-04-14T21:00:00+00:00,2024,Torneo Federal A,Argentina,San Martín Mendoza,1,1,Huracan Las Heras,Match Finished
+2024-04-14T19:30:00+00:00,2024,Torneo Federal A,Argentina,Argentino Monte Maíz,2,3,Atenas,Match Finished
+2024-04-14T19:00:00+00:00,2024,Torneo Federal A,Argentina,Gutiérrez,1,0,Estudiantes S.l.,Match Finished
+2024-04-20T19:00:00+00:00,2024,Torneo Federal A,Argentina,Ferro Carril Oeste LP,1,2,Gutiérrez,Match Finished
+2024-04-21T19:00:00+00:00,2024,Torneo Federal A,Argentina,Estudiantes S.l.,1,2,Argentino Monte Maíz,Match Finished
+2024-04-21T19:00:00+00:00,2024,Torneo Federal A,Argentina,Atenas,0,1,San Martín Mendoza,Match Finished
+2024-04-21T14:30:00+00:00,2024,Torneo Federal A,Argentina,Huracan Las Heras,0,3,Deportivo Camioneros,Match Finished
+2024-04-22T17:30:00+00:00,2024,Torneo Federal A,Argentina,Ciudad de Bolívar,1,0,Juventud Unida Univ.,Match Finished
+2024-04-27T18:00:00+00:00,2024,Torneo Federal A,Argentina,Ciudad de Bolívar,3,0,Ferro Carril Oeste LP,Match Finished
+2024-04-28T18:30:00+00:00,2024,Torneo Federal A,Argentina,Juventud Unida Univ.,1,1,Huracan Las Heras,Match Finished
+2024-04-27T18:30:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Camioneros,2,0,Atenas,Match Finished
+2024-04-28T18:30:00+00:00,2024,Torneo Federal A,Argentina,San Martín Mendoza,2,0,Estudiantes S.l.,Match Finished
+2024-04-28T19:00:00+00:00,2024,Torneo Federal A,Argentina,Argentino Monte Maíz,1,0,Gutiérrez,Match Finished
+2024-05-04T18:00:00+00:00,2024,Torneo Federal A,Argentina,Ferro Carril Oeste LP,0,0,Argentino Monte Maíz,Match Finished
+2024-05-05T19:00:00+00:00,2024,Torneo Federal A,Argentina,Gutiérrez,1,0,San Martín Mendoza,Match Finished
+2024-06-12T18:30:00+00:00,2024,Torneo Federal A,Argentina,Estudiantes S.l.,0,1,Deportivo Camioneros,Match Finished
+2024-05-22T18:00:00+00:00,2024,Torneo Federal A,Argentina,Atenas,4,1,Juventud Unida Univ.,Match Finished
+2024-05-05T19:00:00+00:00,2024,Torneo Federal A,Argentina,Huracan Las Heras,2,1,Ciudad de Bolívar,Match Finished
+2024-05-11T18:30:00+00:00,2024,Torneo Federal A,Argentina,Huracan Las Heras,0,0,Ferro Carril Oeste LP,Match Finished
+2024-05-11T18:00:00+00:00,2024,Torneo Federal A,Argentina,Ciudad de Bolívar,1,0,Atenas,Match Finished
+2024-05-11T18:30:00+00:00,2024,Torneo Federal A,Argentina,Juventud Unida Univ.,0,0,Estudiantes S.l.,Match Finished
+2024-05-10T18:30:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Camioneros,0,0,Gutiérrez,Match Finished
+2024-05-11T17:30:00+00:00,2024,Torneo Federal A,Argentina,San Martín Mendoza,0,1,Argentino Monte Maíz,Match Finished
+2024-05-15T17:00:00+00:00,2024,Torneo Federal A,Argentina,Ferro Carril Oeste LP,1,0,San Martín Mendoza,Match Finished
+2024-05-15T16:00:00+00:00,2024,Torneo Federal A,Argentina,Argentino Monte Maíz,1,1,Deportivo Camioneros,Match Finished
+2024-05-16T00:15:00+00:00,2024,Torneo Federal A,Argentina,Gutiérrez,2,2,Juventud Unida Univ.,Match Finished
+2024-05-15T19:00:00+00:00,2024,Torneo Federal A,Argentina,Estudiantes S.l.,1,1,Ciudad de Bolívar,Match Finished
+2024-05-15T23:00:00+00:00,2024,Torneo Federal A,Argentina,Atenas,1,0,Huracan Las Heras,Match Finished
+2024-05-19T14:00:00+00:00,2024,Torneo Federal A,Argentina,Atenas,1,0,Ferro Carril Oeste LP,Match Finished
+2024-05-19T19:00:00+00:00,2024,Torneo Federal A,Argentina,Estudiantes S.l.,1,1,Huracan Las Heras,Match Finished
+2024-05-19T19:00:00+00:00,2024,Torneo Federal A,Argentina,Gutiérrez,1,0,Ciudad de Bolívar,Match Finished
+2024-05-19T19:00:00+00:00,2024,Torneo Federal A,Argentina,Argentino Monte Maíz,1,0,Juventud Unida Univ.,Match Finished
+2024-05-19T18:30:00+00:00,2024,Torneo Federal A,Argentina,San Martín Mendoza,0,0,Deportivo Camioneros,Match Finished
+2024-05-26T18:00:00+00:00,2024,Torneo Federal A,Argentina,Ferro Carril Oeste LP,1,1,Deportivo Camioneros,Match Finished
+2024-05-26T18:30:00+00:00,2024,Torneo Federal A,Argentina,Juventud Unida Univ.,1,2,San Martín Mendoza,Match Finished
+2024-05-25T18:30:00+00:00,2024,Torneo Federal A,Argentina,Ciudad de Bolívar,1,0,Argentino Monte Maíz,Match Finished
+2024-05-26T18:30:00+00:00,2024,Torneo Federal A,Argentina,Huracan Las Heras,0,1,Gutiérrez,Match Finished
+2024-05-26T19:00:00+00:00,2024,Torneo Federal A,Argentina,Atenas,4,2,Estudiantes S.l.,Match Finished
+2024-06-01T18:30:00+00:00,2024,Torneo Federal A,Argentina,Estudiantes S.l.,1,1,Ferro Carril Oeste LP,Match Finished
+2024-06-02T18:30:00+00:00,2024,Torneo Federal A,Argentina,Gutiérrez,2,1,Atenas,Match Finished
+2024-06-02T19:00:00+00:00,2024,Torneo Federal A,Argentina,Argentino Monte Maíz,0,0,Huracan Las Heras,Match Finished
+2024-06-02T18:30:00+00:00,2024,Torneo Federal A,Argentina,San Martín Mendoza,1,0,Ciudad de Bolívar,Match Finished
+2024-06-01T18:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Camioneros,2,0,Juventud Unida Univ.,Match Finished
+2024-06-08T18:00:00+00:00,2024,Torneo Federal A,Argentina,Ferro Carril Oeste LP,0,1,Juventud Unida Univ.,Match Finished
+2024-06-08T18:30:00+00:00,2024,Torneo Federal A,Argentina,Ciudad de Bolívar,0,1,Deportivo Camioneros,Match Finished
+2024-06-09T19:00:00+00:00,2024,Torneo Federal A,Argentina,Huracan Las Heras,1,0,San Martín Mendoza,Match Finished
+2024-06-09T19:00:00+00:00,2024,Torneo Federal A,Argentina,Atenas,1,0,Argentino Monte Maíz,Match Finished
+2024-06-08T18:30:00+00:00,2024,Torneo Federal A,Argentina,Estudiantes S.l.,1,1,Gutiérrez,Match Finished
+2024-06-15T20:00:00+00:00,2024,Torneo Federal A,Argentina,Gutiérrez,2,1,Ferro Carril Oeste LP,Match Finished
+2024-06-16T18:45:00+00:00,2024,Torneo Federal A,Argentina,Argentino Monte Maíz,2,0,Estudiantes S.l.,Match Finished
+2024-06-17T19:00:00+00:00,2024,Torneo Federal A,Argentina,San Martín Mendoza,1,0,Atenas,Match Finished
+2024-06-16T14:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Camioneros,3,1,Huracan Las Heras,Match Finished
+2024-06-16T19:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Unida Univ.,1,0,Ciudad de Bolívar,Match Finished
+2024-06-22T18:00:00+00:00,2024,Torneo Federal A,Argentina,Ferro Carril Oeste LP,0,4,Ciudad de Bolívar,Match Finished
+2024-06-23T18:30:00+00:00,2024,Torneo Federal A,Argentina,Huracan Las Heras,1,2,Juventud Unida Univ.,Match Finished
+2024-06-24T23:30:00+00:00,2024,Torneo Federal A,Argentina,Atenas,2,2,Deportivo Camioneros,Match Finished
+2024-06-23T18:30:00+00:00,2024,Torneo Federal A,Argentina,Estudiantes S.l.,3,1,San Martín Mendoza,Match Finished
+2024-06-22T21:00:00+00:00,2024,Torneo Federal A,Argentina,Gutiérrez,1,0,Argentino Monte Maíz,Match Finished
+2024-06-29T18:30:00+00:00,2024,Torneo Federal A,Argentina,Argentino Monte Maíz,1,0,Ferro Carril Oeste LP,Match Finished
+2024-06-30T18:30:00+00:00,2024,Torneo Federal A,Argentina,San Martín Mendoza,0,1,Gutiérrez,Match Finished
+2024-06-30T14:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Camioneros,3,1,Estudiantes S.l.,Match Finished
+2024-06-30T14:30:00+00:00,2024,Torneo Federal A,Argentina,Juventud Unida Univ.,0,2,Atenas,Match Finished
+2024-06-29T18:30:00+00:00,2024,Torneo Federal A,Argentina,Ciudad de Bolívar,2,1,Huracan Las Heras,Match Finished
+2024-07-06T18:00:00+00:00,2024,Torneo Federal A,Argentina,Ferro Carril Oeste LP,0,0,Huracan Las Heras,Match Finished
+2024-07-07T18:00:00+00:00,2024,Torneo Federal A,Argentina,Atenas,1,0,Ciudad de Bolívar,Match Finished
+2024-07-07T18:30:00+00:00,2024,Torneo Federal A,Argentina,Estudiantes S.l.,0,1,Juventud Unida Univ.,Match Finished
+2024-07-06T21:00:00+00:00,2024,Torneo Federal A,Argentina,Gutiérrez,1,1,Deportivo Camioneros,Match Finished
+2024-07-06T18:30:00+00:00,2024,Torneo Federal A,Argentina,Argentino Monte Maíz,1,0,San Martín Mendoza,Match Finished
+2024-07-14T18:30:00+00:00,2024,Torneo Federal A,Argentina,San Martín Mendoza,0,0,Ferro Carril Oeste LP,Match Finished
+2024-07-14T18:30:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Camioneros,1,2,Argentino Monte Maíz,Match Finished
+2024-07-14T18:30:00+00:00,2024,Torneo Federal A,Argentina,Juventud Unida Univ.,0,1,Gutiérrez,Match Finished
+2024-07-14T18:30:00+00:00,2024,Torneo Federal A,Argentina,Ciudad de Bolívar,2,1,Estudiantes S.l.,Match Finished
+2024-07-14T18:30:00+00:00,2024,Torneo Federal A,Argentina,Huracan Las Heras,2,0,Atenas,Match Finished
+2024-03-25T23:30:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Belgrano,1,0,Sportivo Las Parejas,Match Finished
+2024-03-23T23:30:00+00:00,2024,Torneo Federal A,Argentina,Douglas Haig,1,1,9 de Julio Rafaela,Match Finished
+2024-03-23T19:00:00+00:00,2024,Torneo Federal A,Argentina,Independiente De Chivilcoy,3,1,Def. de Pronunciamiento,Match Finished
+2024-03-23T19:30:00+00:00,2024,Torneo Federal A,Argentina,Gimnasia Concepción,0,1,El Linqueño,Match Finished
+2024-03-31T19:30:00+00:00,2024,Torneo Federal A,Argentina,El Linqueño,0,0,Independiente De Chivilcoy,Match Finished
+2024-03-31T19:00:00+00:00,2024,Torneo Federal A,Argentina,Def. de Pronunciamiento,0,4,Douglas Haig,Match Finished
+2024-03-31T20:30:00+00:00,2024,Torneo Federal A,Argentina,9 de Julio Rafaela,1,0,Sportivo Belgrano,Match Finished
+2024-04-01T21:00:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Las Parejas,1,2,Defensores de Belgrano VR,Match Finished
+2024-04-07T19:00:00+00:00,2024,Torneo Federal A,Argentina,Defensores de Belgrano VR,2,0,9 de Julio Rafaela,Match Finished
+2024-04-08T23:30:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Belgrano,1,0,Def. de Pronunciamiento,Match Finished
+2024-04-07T20:00:00+00:00,2024,Torneo Federal A,Argentina,Douglas Haig,0,0,El Linqueño,Match Finished
+2024-04-07T19:00:00+00:00,2024,Torneo Federal A,Argentina,Independiente De Chivilcoy,3,0,Gimnasia Concepción,Match Finished
+2024-04-14T19:00:00+00:00,2024,Torneo Federal A,Argentina,Gimnasia Concepción,1,1,Douglas Haig,Match Finished
+2024-04-14T19:00:00+00:00,2024,Torneo Federal A,Argentina,El Linqueño,1,0,Sportivo Belgrano,Match Finished
+2024-04-14T18:30:00+00:00,2024,Torneo Federal A,Argentina,Def. de Pronunciamiento,1,0,Defensores de Belgrano VR,Match Finished
+2024-04-14T20:00:00+00:00,2024,Torneo Federal A,Argentina,9 de Julio Rafaela,0,1,Sportivo Las Parejas,Match Finished
+2024-04-21T22:30:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Las Parejas,1,1,Def. de Pronunciamiento,Match Finished
+2024-04-21T16:00:00+00:00,2024,Torneo Federal A,Argentina,Defensores de Belgrano VR,2,0,El Linqueño,Match Finished
+2024-04-22T23:00:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Belgrano,1,0,Gimnasia Concepción,Match Finished
+2024-04-21T14:30:00+00:00,2024,Torneo Federal A,Argentina,Douglas Haig,0,1,Independiente De Chivilcoy,Match Finished
+2024-04-27T19:00:00+00:00,2024,Torneo Federal A,Argentina,Independiente De Chivilcoy,0,2,Sportivo Belgrano,Match Finished
+2024-04-28T19:00:00+00:00,2024,Torneo Federal A,Argentina,Gimnasia Concepción,0,1,Defensores de Belgrano VR,Match Finished
+2024-04-28T19:00:00+00:00,2024,Torneo Federal A,Argentina,El Linqueño,0,0,Sportivo Las Parejas,Match Finished
+2024-04-28T18:30:00+00:00,2024,Torneo Federal A,Argentina,Def. de Pronunciamiento,3,1,9 de Julio Rafaela,Match Finished
+2024-05-05T14:00:00+00:00,2024,Torneo Federal A,Argentina,9 de Julio Rafaela,2,1,El Linqueño,Match Finished
+2024-05-05T21:00:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Las Parejas,6,1,Gimnasia Concepción,Match Finished
+2024-05-05T22:00:00+00:00,2024,Torneo Federal A,Argentina,Defensores de Belgrano VR,1,1,Independiente De Chivilcoy,Match Finished
+2024-05-06T23:35:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Belgrano,1,1,Douglas Haig,Match Finished
+2024-05-11T17:30:00+00:00,2024,Torneo Federal A,Argentina,Douglas Haig,0,0,Defensores de Belgrano VR,Match Finished
+2024-05-11T18:30:00+00:00,2024,Torneo Federal A,Argentina,Independiente De Chivilcoy,2,4,Sportivo Las Parejas,Match Finished
+2024-05-11T23:00:00+00:00,2024,Torneo Federal A,Argentina,Gimnasia Concepción,1,2,9 de Julio Rafaela,Match Finished
+2024-05-11T17:00:00+00:00,2024,Torneo Federal A,Argentina,El Linqueño,4,0,Def. de Pronunciamiento,Match Finished
+2024-05-15T23:30:00+00:00,2024,Torneo Federal A,Argentina,Def. de Pronunciamiento,1,1,Gimnasia Concepción,Match Finished
+2024-05-15T23:30:00+00:00,2024,Torneo Federal A,Argentina,9 de Julio Rafaela,0,0,Independiente De Chivilcoy,Match Finished
+2024-05-15T22:30:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Las Parejas,1,0,Douglas Haig,Match Finished
+2024-05-15T23:00:00+00:00,2024,Torneo Federal A,Argentina,Defensores de Belgrano VR,1,0,Sportivo Belgrano,Match Finished
+2024-05-19T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Las Parejas,0,0,Sportivo Belgrano,Match Finished
+2024-05-19T19:00:00+00:00,2024,Torneo Federal A,Argentina,9 de Julio Rafaela,4,0,Douglas Haig,Match Finished
+2024-05-19T18:30:00+00:00,2024,Torneo Federal A,Argentina,Def. de Pronunciamiento,0,0,Independiente De Chivilcoy,Match Finished
+2024-05-19T18:30:00+00:00,2024,Torneo Federal A,Argentina,El Linqueño,1,0,Gimnasia Concepción,Match Finished
+2024-05-25T18:30:00+00:00,2024,Torneo Federal A,Argentina,Independiente De Chivilcoy,0,1,El Linqueño,Match Finished
+2024-05-26T18:00:00+00:00,2024,Torneo Federal A,Argentina,Douglas Haig,3,0,Def. de Pronunciamiento,Match Finished
+2024-05-26T20:35:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Belgrano,1,1,9 de Julio Rafaela,Match Finished
+2024-05-25T19:00:00+00:00,2024,Torneo Federal A,Argentina,Defensores de Belgrano VR,1,1,Sportivo Las Parejas,Match Finished
+2024-06-02T19:00:00+00:00,2024,Torneo Federal A,Argentina,9 de Julio Rafaela,0,2,Defensores de Belgrano VR,Match Finished
+2024-06-02T18:00:00+00:00,2024,Torneo Federal A,Argentina,Def. de Pronunciamiento,0,3,Sportivo Belgrano,Match Finished
+2024-06-02T18:30:00+00:00,2024,Torneo Federal A,Argentina,El Linqueño,0,1,Douglas Haig,Match Finished
+2024-06-01T18:30:00+00:00,2024,Torneo Federal A,Argentina,Gimnasia Concepción,0,0,Independiente De Chivilcoy,Match Finished
+2024-06-09T18:00:00+00:00,2024,Torneo Federal A,Argentina,Douglas Haig,0,1,Gimnasia Concepción,Match Finished
+2024-06-09T14:00:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Belgrano,1,0,El Linqueño,Match Finished
+2024-06-09T19:00:00+00:00,2024,Torneo Federal A,Argentina,Defensores de Belgrano VR,3,0,Def. de Pronunciamiento,Match Finished
+2024-06-09T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Las Parejas,1,1,9 de Julio Rafaela,Match Finished
+2024-06-16T18:00:00+00:00,2024,Torneo Federal A,Argentina,Def. de Pronunciamiento,0,1,Sportivo Las Parejas,Match Finished
+2024-06-17T18:30:00+00:00,2024,Torneo Federal A,Argentina,El Linqueño,2,2,Defensores de Belgrano VR,Match Finished
+2024-06-16T19:30:00+00:00,2024,Torneo Federal A,Argentina,Gimnasia Concepción,0,1,Sportivo Belgrano,Match Finished
+2024-06-16T18:30:00+00:00,2024,Torneo Federal A,Argentina,Independiente De Chivilcoy,2,1,Douglas Haig,Match Finished
+2024-06-23T19:30:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Belgrano,1,0,Independiente De Chivilcoy,Match Finished
+2024-06-23T22:00:00+00:00,2024,Torneo Federal A,Argentina,Defensores de Belgrano VR,1,1,Gimnasia Concepción,Match Finished
+2024-06-24T22:30:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Las Parejas,0,1,El Linqueño,Match Finished
+2024-06-23T18:30:00+00:00,2024,Torneo Federal A,Argentina,9 de Julio Rafaela,2,1,Def. de Pronunciamiento,Match Finished
+2024-06-30T18:00:00+00:00,2024,Torneo Federal A,Argentina,El Linqueño,0,2,9 de Julio Rafaela,Match Finished
+2024-06-30T18:30:00+00:00,2024,Torneo Federal A,Argentina,Gimnasia Concepción,1,0,Sportivo Las Parejas,Match Finished
+2024-06-30T18:30:00+00:00,2024,Torneo Federal A,Argentina,Independiente De Chivilcoy,0,0,Defensores de Belgrano VR,Match Finished
+2024-06-30T18:30:00+00:00,2024,Torneo Federal A,Argentina,Douglas Haig,0,0,Sportivo Belgrano,Match Finished
+2024-07-07T19:00:00+00:00,2024,Torneo Federal A,Argentina,Defensores de Belgrano VR,1,1,Douglas Haig,Match Finished
+2024-07-07T14:15:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Las Parejas,2,1,Independiente De Chivilcoy,Match Finished
+2024-07-07T18:30:00+00:00,2024,Torneo Federal A,Argentina,9 de Julio Rafaela,3,1,Gimnasia Concepción,Match Finished
+2024-07-07T18:00:00+00:00,2024,Torneo Federal A,Argentina,Def. de Pronunciamiento,2,1,El Linqueño,Match Finished
+2024-07-14T18:30:00+00:00,2024,Torneo Federal A,Argentina,Gimnasia Concepción,1,1,Def. de Pronunciamiento,Match Finished
+2024-07-13T18:30:00+00:00,2024,Torneo Federal A,Argentina,Independiente De Chivilcoy,0,0,9 de Julio Rafaela,Match Finished
+2024-07-14T18:00:00+00:00,2024,Torneo Federal A,Argentina,Douglas Haig,1,0,Sportivo Las Parejas,Match Finished
+2024-07-14T20:15:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Belgrano,0,0,Defensores de Belgrano VR,Match Finished
+2024-03-23T20:00:00+00:00,2024,Torneo Federal A,Argentina,San Martin Formosa,3,0,Union Sunchales,Match Finished
+2024-03-23T23:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento Resistencia,1,0,Sol de América,Match Finished
+2024-03-23T01:05:00+00:00,2024,Torneo Federal A,Argentina,Juventud Antoniana,0,0,Crucero Del Norte,Match Finished
+2024-03-30T19:30:00+00:00,2024,Torneo Federal A,Argentina,Crucero Del Norte,0,0,Sarmiento Resistencia,Match Finished
+2024-03-31T20:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de América,1,0,San Martin Formosa,Match Finished
+2024-03-31T20:00:00+00:00,2024,Torneo Federal A,Argentina,Boca Unidos,0,0,Central Norte,Match Finished
+2024-04-07T20:30:00+00:00,2024,Torneo Federal A,Argentina,Central Norte,1,0,Union Sunchales,Match Finished
+2024-04-06T20:00:00+00:00,2024,Torneo Federal A,Argentina,San Martin Formosa,2,0,Crucero Del Norte,Match Finished
+2024-04-07T20:30:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento Resistencia,0,0,Juventud Antoniana,Match Finished
+2024-04-15T22:30:00+00:00,2024,Torneo Federal A,Argentina,Juventud Antoniana,1,0,San Martin Formosa,Match Finished
+2024-04-14T19:30:00+00:00,2024,Torneo Federal A,Argentina,Sol de América,0,1,Central Norte,Match Finished
+2024-04-14T20:00:00+00:00,2024,Torneo Federal A,Argentina,Union Sunchales,2,1,Boca Unidos,Match Finished
+2024-04-20T19:00:00+00:00,2024,Torneo Federal A,Argentina,Boca Unidos,0,0,Sol de América,Match Finished
+2024-04-21T22:30:00+00:00,2024,Torneo Federal A,Argentina,Central Norte,2,1,Crucero Del Norte,Match Finished
+2024-04-21T14:00:00+00:00,2024,Torneo Federal A,Argentina,San Martin Formosa,2,0,Sarmiento Resistencia,Match Finished
+2024-04-28T20:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Antoniana,1,1,Central Norte,Match Finished
+2024-04-27T19:00:00+00:00,2024,Torneo Federal A,Argentina,Crucero Del Norte,1,1,Boca Unidos,Match Finished
+2024-04-28T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de América,3,1,Union Sunchales,Match Finished
+2024-05-04T20:00:00+00:00,2024,Torneo Federal A,Argentina,Union Sunchales,0,2,Crucero Del Norte,Match Finished
+2024-05-04T23:30:00+00:00,2024,Torneo Federal A,Argentina,Boca Unidos,1,0,Juventud Antoniana,Match Finished
+2024-05-04T01:00:00+00:00,2024,Torneo Federal A,Argentina,Central Norte,1,0,Sarmiento Resistencia,Match Finished
+2024-05-11T19:30:00+00:00,2024,Torneo Federal A,Argentina,San Martin Formosa,2,1,Central Norte,Match Finished
+2024-05-11T00:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento Resistencia,3,1,Boca Unidos,Match Finished
+2024-05-12T00:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Antoniana,3,0,Union Sunchales,Match Finished
+2024-05-11T19:00:00+00:00,2024,Torneo Federal A,Argentina,Crucero Del Norte,2,0,Sol de América,Match Finished
+2024-05-15T18:15:00+00:00,2024,Torneo Federal A,Argentina,Sol de América,1,0,Juventud Antoniana,Match Finished
+2024-05-15T23:00:00+00:00,2024,Torneo Federal A,Argentina,Union Sunchales,1,1,Sarmiento Resistencia,Match Finished
+2024-05-15T18:30:00+00:00,2024,Torneo Federal A,Argentina,Boca Unidos,2,2,San Martin Formosa,Match Finished
+2024-05-19T18:30:00+00:00,2024,Torneo Federal A,Argentina,Union Sunchales,0,0,San Martin Formosa,Match Finished
+2024-05-19T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de América,1,0,Sarmiento Resistencia,Match Finished
+2024-05-19T18:30:00+00:00,2024,Torneo Federal A,Argentina,Crucero Del Norte,0,0,Juventud Antoniana,Match Finished
+2024-05-25T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento Resistencia,1,1,Crucero Del Norte,Match Finished
+2024-05-26T19:00:00+00:00,2024,Torneo Federal A,Argentina,San Martin Formosa,0,0,Sol de América,Match Finished
+2024-05-26T20:00:00+00:00,2024,Torneo Federal A,Argentina,Central Norte,2,0,Boca Unidos,Match Finished
+2024-06-01T19:00:00+00:00,2024,Torneo Federal A,Argentina,Union Sunchales,1,4,Central Norte,Match Finished
+2024-06-02T18:30:00+00:00,2024,Torneo Federal A,Argentina,Crucero Del Norte,1,3,San Martin Formosa,Match Finished
+2024-06-02T20:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Antoniana,2,0,Sarmiento Resistencia,Match Finished
+2024-06-09T18:30:00+00:00,2024,Torneo Federal A,Argentina,San Martin Formosa,2,0,Juventud Antoniana,Match Finished
+2024-06-09T19:00:00+00:00,2024,Torneo Federal A,Argentina,Central Norte,2,2,Sol de América,Match Finished
+2024-06-09T18:30:00+00:00,2024,Torneo Federal A,Argentina,Boca Unidos,0,1,Union Sunchales,Match Finished
+2024-06-16T19:30:00+00:00,2024,Torneo Federal A,Argentina,Sol de América,2,1,Boca Unidos,Match Finished
+2024-06-15T18:30:00+00:00,2024,Torneo Federal A,Argentina,Crucero Del Norte,0,1,Central Norte,Match Finished
+2024-06-15T00:05:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento Resistencia,0,1,San Martin Formosa,Match Finished
+2024-06-23T19:00:00+00:00,2024,Torneo Federal A,Argentina,Central Norte,2,0,Juventud Antoniana,Match Finished
+2024-06-23T18:30:00+00:00,2024,Torneo Federal A,Argentina,Boca Unidos,2,0,Crucero Del Norte,Match Finished
+2024-06-23T19:00:00+00:00,2024,Torneo Federal A,Argentina,Union Sunchales,0,0,Sol de América,Match Finished
+2024-06-30T18:00:00+00:00,2024,Torneo Federal A,Argentina,Crucero Del Norte,0,0,Union Sunchales,Match Finished
+2024-06-30T20:10:00+00:00,2024,Torneo Federal A,Argentina,Juventud Antoniana,2,0,Boca Unidos,Match Finished
+2024-06-30T18:30:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento Resistencia,0,1,Central Norte,Match Finished
+2024-07-07T19:00:00+00:00,2024,Torneo Federal A,Argentina,Central Norte,2,0,San Martin Formosa,Match Finished
+2024-07-07T18:30:00+00:00,2024,Torneo Federal A,Argentina,Boca Unidos,1,1,Sarmiento Resistencia,Match Finished
+2024-07-07T20:00:00+00:00,2024,Torneo Federal A,Argentina,Union Sunchales,3,2,Juventud Antoniana,Match Finished
+2024-07-07T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de América,3,1,Crucero Del Norte,Match Finished
+2024-07-14T20:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Antoniana,1,2,Sol de América,Match Finished
+2024-07-14T18:30:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento Resistencia,0,1,Union Sunchales,Match Finished
+2024-07-14T18:30:00+00:00,2024,Torneo Federal A,Argentina,San Martin Formosa,1,3,Boca Unidos,Match Finished
+2024-03-23T00:30:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento de La Banda,1,0,Boca Unidos,Match Finished
+2024-03-30T22:00:00+00:00,2024,Torneo Federal A,Argentina,Union Sunchales,1,2,Sarmiento de La Banda,Match Finished
+2024-04-08T22:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento de La Banda,3,1,Sol de América,Match Finished
+2024-04-14T19:00:00+00:00,2024,Torneo Federal A,Argentina,Crucero Del Norte,1,0,Sarmiento de La Banda,Match Finished
+2024-04-21T22:30:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento de La Banda,4,0,Juventud Antoniana,Match Finished
+2024-04-27T23:30:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento Resistencia,1,1,Sarmiento de La Banda,Match Finished
+2024-05-05T01:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento de La Banda,1,0,San Martin Formosa,Match Finished
+2024-05-16T00:15:00+00:00,2024,Torneo Federal A,Argentina,Central Norte,1,1,Sarmiento de La Banda,Match Finished
+2024-05-19T19:00:00+00:00,2024,Torneo Federal A,Argentina,Boca Unidos,0,1,Sarmiento de La Banda,Match Finished
+2024-05-26T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento de La Banda,2,0,Union Sunchales,Match Finished
+2024-06-02T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de América,1,0,Sarmiento de La Banda,Match Finished
+2024-06-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento de La Banda,2,1,Crucero Del Norte,Match Finished
+2024-06-15T01:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Antoniana,2,1,Sarmiento de La Banda,Match Finished
+2024-06-23T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento de La Banda,1,0,Sarmiento Resistencia,Match Finished
+2024-06-30T18:30:00+00:00,2024,Torneo Federal A,Argentina,San Martin Formosa,1,1,Sarmiento de La Banda,Match Finished
+2024-07-14T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento de La Banda,2,1,Central Norte,Match Finished
+2024-07-20T21:00:00+00:00,2024,Torneo Federal A,Argentina,Gutiérrez,2,1,Argentino Monte Maíz,Match Finished
+2024-07-21T14:00:00+00:00,2024,Torneo Federal A,Argentina,Santamarina,2,1,Germinal de Rawson,Match Finished
+2024-07-21T18:05:00+00:00,2024,Torneo Federal A,Argentina,Kimberley Mar del Plata,2,0,Villa Mitre,Match Finished
+2024-07-21T18:30:00+00:00,2024,Torneo Federal A,Argentina,Ciudad de Bolívar,1,0,Deportivo Camioneros,Match Finished
+2024-07-21T18:30:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Las Parejas,2,1,Defensores de Belgrano VR,Match Finished
+2024-07-21T19:00:00+00:00,2024,Torneo Federal A,Argentina,Central Norte,2,0,Sarmiento de La Banda,Match Finished
+2024-07-21T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de América,0,2,San Martin Formosa,Match Finished
+2024-07-21T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Belgrano,1,0,Atenas,Match Finished
+2024-07-28T18:30:00+00:00,2024,Torneo Federal A,Argentina,Villa Mitre,2,1,Ciudad de Bolívar,Match Finished
+2024-07-28T14:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Camioneros,0,0,Gutiérrez,Match Finished
+2024-07-28T18:45:00+00:00,2024,Torneo Federal A,Argentina,Argentino Monte Maíz,3,2,Santamarina,Match Finished
+2024-07-28T18:30:00+00:00,2024,Torneo Federal A,Argentina,Germinal de Rawson,0,1,Olimpo Bahia Blanca,Match Finished
+2024-07-28T18:00:00+00:00,2024,Torneo Federal A,Argentina,Atenas,1,0,Sportivo Las Parejas,Match Finished
+2024-07-27T19:00:00+00:00,2024,Torneo Federal A,Argentina,Defensores de Belgrano VR,0,0,Sol de América,Match Finished
+2024-07-28T18:30:00+00:00,2024,Torneo Federal A,Argentina,San Martin Formosa,2,1,Central Norte,Match Finished
+2024-07-28T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento de La Banda,1,0,9 de Julio Rafaela,Match Finished
+2024-08-04T18:30:00+00:00,2024,Torneo Federal A,Argentina,Olimpo Bahia Blanca,0,1,Argentino Monte Maíz,Match Finished
+2024-08-04T14:00:00+00:00,2024,Torneo Federal A,Argentina,Santamarina,1,0,Deportivo Camioneros,Match Finished
+2024-08-03T19:00:00+00:00,2024,Torneo Federal A,Argentina,Gutiérrez,1,1,Villa Mitre,Match Finished
+2024-08-04T18:30:00+00:00,2024,Torneo Federal A,Argentina,Ciudad de Bolívar,1,0,Kimberley Mar del Plata,Match Finished
+2024-08-04T18:30:00+00:00,2024,Torneo Federal A,Argentina,9 de Julio Rafaela,0,0,San Martin Formosa,Match Finished
+2024-08-04T20:00:00+00:00,2024,Torneo Federal A,Argentina,Central Norte,1,0,Defensores de Belgrano VR,Match Finished
+2024-08-04T18:30:00+00:00,2024,Torneo Federal A,Argentina,Sol de América,1,1,Atenas,Match Finished
+2024-08-04T18:30:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Las Parejas,1,0,Sportivo Belgrano,Match Finished
+2024-08-10T18:30:00+00:00,2024,Torneo Federal A,Argentina,Kimberley Mar del Plata,1,1,Gutiérrez,Match Finished
+2024-08-11T18:30:00+00:00,2024,Torneo Federal A,Argentina,Villa Mitre,1,1,Santamarina,Match Finished
+2024-08-11T14:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Camioneros,0,0,Olimpo Bahia Blanca,Match Finished
+2024-08-11T18:45:00+00:00,2024,Torneo Federal A,Argentina,Argentino Monte Maíz,2,1,Germinal de Rawson,Match Finished
+2024-08-11T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Belgrano,2,1,Sol de América,Match Finished
+2024-08-11T20:00:00+00:00,2024,Torneo Federal A,Argentina,Atenas,1,2,Central Norte,Match Finished
+2024-08-11T19:00:00+00:00,2024,Torneo Federal A,Argentina,Defensores de Belgrano VR,1,1,9 de Julio Rafaela,Match Finished
+2024-08-11T18:30:00+00:00,2024,Torneo Federal A,Argentina,San Martin Formosa,0,0,Sarmiento de La Banda,Match Finished
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Germinal de Rawson,,,Deportivo Camioneros,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Olimpo Bahia Blanca,,,Villa Mitre,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Santamarina,,,Kimberley Mar del Plata,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Gutiérrez,,,Ciudad de Bolívar,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento de La Banda,,,Defensores de Belgrano VR,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,9 de Julio Rafaela,,,Atenas,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Central Norte,,,Sportivo Belgrano,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de América,,,Sportivo Las Parejas,Not Started
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Ciudad de Bolívar,,,Santamarina,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Kimberley Mar del Plata,,,Olimpo Bahia Blanca,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Villa Mitre,,,Germinal de Rawson,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Camioneros,,,Argentino Monte Maíz,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Las Parejas,,,Central Norte,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Belgrano,,,9 de Julio Rafaela,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Atenas,,,Sarmiento de La Banda,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Defensores de Belgrano VR,,,San Martin Formosa,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Argentino Monte Maíz,,,Villa Mitre,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Germinal de Rawson,,,Kimberley Mar del Plata,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Olimpo Bahia Blanca,,,Ciudad de Bolívar,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Santamarina,,,Gutiérrez,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,San Martin Formosa,,,Atenas,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento de La Banda,,,Sportivo Belgrano,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,9 de Julio Rafaela,,,Sportivo Las Parejas,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Central Norte,,,Sol de América,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Gutiérrez,,,Olimpo Bahia Blanca,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Ciudad de Bolívar,,,Germinal de Rawson,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Kimberley Mar del Plata,,,Argentino Monte Maíz,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Villa Mitre,,,Deportivo Camioneros,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de América,,,9 de Julio Rafaela,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Las Parejas,,,Sarmiento de La Banda,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Sportivo Belgrano,,,San Martin Formosa,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Atenas,,,Defensores de Belgrano VR,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Camioneros,,,Kimberley Mar del Plata,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Argentino Monte Maíz,,,Ciudad de Bolívar,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Germinal de Rawson,,,Gutiérrez,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Olimpo Bahia Blanca,,,Santamarina,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Defensores de Belgrano VR,,,Sportivo Belgrano,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,San Martin Formosa,,,Sportivo Las Parejas,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento de La Banda,,,Sol de América,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,9 de Julio Rafaela,,,Central Norte,Time to be defined
+2024-07-20T16:15:00+00:00,2024,Torneo Federal A,Argentina,El Linqueño,0,0,Sarmiento Resistencia,Match Finished
+2024-07-21T17:15:00+00:00,2024,Torneo Federal A,Argentina,Ferro Carril Oeste LP,0,1,Deportivo Rincon,Match Finished
+2024-07-21T18:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de Mayo,2,1,Circulo Deportivo,Match Finished
+2024-07-21T18:00:00+00:00,2024,Torneo Federal A,Argentina,Def. de Pronunciamiento,0,2,Douglas Haig,Match Finished
+2024-07-21T18:00:00+00:00,2024,Torneo Federal A,Argentina,Independiente De Chivilcoy,1,0,Juventud Antoniana,Match Finished
+2024-07-21T18:30:00+00:00,2024,Torneo Federal A,Argentina,San Martín Mendoza,1,1,Huracan Las Heras,Match Finished
+2024-07-21T18:30:00+00:00,2024,Torneo Federal A,Argentina,Boca Unidos,2,1,Gimnasia Concepción,Match Finished
+2024-07-21T19:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Unida Univ.,0,1,Estudiantes S.l.,Match Finished
+2024-07-21T20:00:00+00:00,2024,Torneo Federal A,Argentina,Union Sunchales,5,0,Crucero Del Norte,Match Finished
+2024-07-28T18:30:00+00:00,2024,Torneo Federal A,Argentina,Huracan Las Heras,0,0,Ferro Carril Oeste LP,Match Finished
+2024-07-28T18:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Rincon,2,0,Juventud Unida Univ.,Match Finished
+2024-07-28T19:00:00+00:00,2024,Torneo Federal A,Argentina,Estudiantes S.l.,2,2,Sol de Mayo,Match Finished
+2024-07-28T18:00:00+00:00,2024,Torneo Federal A,Argentina,Circulo Deportivo,1,1,Cipolletti,Match Finished
+2024-07-28T18:30:00+00:00,2024,Torneo Federal A,Argentina,Union Sunchales,1,1,Def. de Pronunciamiento,Match Finished
+2024-07-27T18:00:00+00:00,2024,Torneo Federal A,Argentina,Crucero Del Norte,0,0,Independiente De Chivilcoy,Match Finished
+2024-07-28T19:30:00+00:00,2024,Torneo Federal A,Argentina,Juventud Antoniana,2,1,El Linqueño,Match Finished
+2024-07-28T19:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento Resistencia,0,0,Boca Unidos,Match Finished
+2024-07-28T18:30:00+00:00,2024,Torneo Federal A,Argentina,Gimnasia Concepción,0,1,Douglas Haig,Match Finished
+2024-08-04T18:30:00+00:00,2024,Torneo Federal A,Argentina,Cipolletti,1,1,Estudiantes S.l.,Match Finished
+2024-08-04T18:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de Mayo,0,1,Deportivo Rincon,Match Finished
+2024-08-04T18:45:00+00:00,2024,Torneo Federal A,Argentina,Juventud Unida Univ.,3,0,Huracan Las Heras,Match Finished
+2024-08-03T18:00:00+00:00,2024,Torneo Federal A,Argentina,Ferro Carril Oeste LP,1,1,San Martín Mendoza,Match Finished
+2024-08-04T18:30:00+00:00,2024,Torneo Federal A,Argentina,Def. de Pronunciamiento,0,1,Gimnasia Concepción,Match Finished
+2024-08-04T18:00:00+00:00,2024,Torneo Federal A,Argentina,Douglas Haig,1,0,Sarmiento Resistencia,Match Finished
+2024-08-04T18:30:00+00:00,2024,Torneo Federal A,Argentina,Boca Unidos,2,0,Juventud Antoniana,Match Finished
+2024-08-04T18:30:00+00:00,2024,Torneo Federal A,Argentina,El Linqueño,1,0,Crucero Del Norte,Match Finished
+2024-08-04T18:00:00+00:00,2024,Torneo Federal A,Argentina,Independiente De Chivilcoy,4,2,Union Sunchales,Match Finished
+2024-08-11T18:45:00+00:00,2024,Torneo Federal A,Argentina,San Martín Mendoza,1,2,Juventud Unida Univ.,Match Finished
+2024-08-11T18:30:00+00:00,2024,Torneo Federal A,Argentina,Huracan Las Heras,2,1,Sol de Mayo,Match Finished
+2024-08-11T18:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Rincon,0,0,Cipolletti,Match Finished
+2024-08-11T19:00:00+00:00,2024,Torneo Federal A,Argentina,Estudiantes S.l.,2,1,Circulo Deportivo,Match Finished
+2024-08-11T18:00:00+00:00,2024,Torneo Federal A,Argentina,Independiente De Chivilcoy,1,1,Def. de Pronunciamiento,Match Finished
+2024-08-11T18:30:00+00:00,2024,Torneo Federal A,Argentina,Union Sunchales,0,1,El Linqueño,Match Finished
+2024-08-11T18:15:00+00:00,2024,Torneo Federal A,Argentina,Crucero Del Norte,1,2,Boca Unidos,Match Finished
+2024-08-11T19:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Antoniana,1,1,Douglas Haig,Match Finished
+2024-08-11T18:30:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento Resistencia,1,0,Gimnasia Concepción,Match Finished
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Circulo Deportivo,,,Deportivo Rincon,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Cipolletti,,,Huracan Las Heras,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de Mayo,,,San Martín Mendoza,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Unida Univ.,,,Ferro Carril Oeste LP,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Def. de Pronunciamiento,,,Sarmiento Resistencia,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Gimnasia Concepción,,,Juventud Antoniana,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Douglas Haig,,,Crucero Del Norte,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,Boca Unidos,,,Union Sunchales,Not Started
+2024-08-18T20:00:00+00:00,2024,Torneo Federal A,Argentina,El Linqueño,,,Independiente De Chivilcoy,Not Started
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Ferro Carril Oeste LP,,,Sol de Mayo,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,San Martín Mendoza,,,Cipolletti,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Huracan Las Heras,,,Circulo Deportivo,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Rincon,,,Estudiantes S.l.,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,El Linqueño,,,Def. de Pronunciamiento,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Independiente De Chivilcoy,,,Boca Unidos,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Union Sunchales,,,Douglas Haig,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Crucero Del Norte,,,Gimnasia Concepción,Time to be defined
+2024-08-25T00:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Antoniana,,,Sarmiento Resistencia,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Estudiantes S.l.,,,Huracan Las Heras,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Circulo Deportivo,,,San Martín Mendoza,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Cipolletti,,,Ferro Carril Oeste LP,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Sol de Mayo,,,Juventud Unida Univ.,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Def. de Pronunciamiento,,,Juventud Antoniana,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento Resistencia,,,Crucero Del Norte,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Gimnasia Concepción,,,Union Sunchales,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Douglas Haig,,,Independiente De Chivilcoy,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Torneo Federal A,Argentina,Boca Unidos,,,El Linqueño,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Unida Univ.,,,Cipolletti,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Ferro Carril Oeste LP,,,Circulo Deportivo,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,San Martín Mendoza,,,Estudiantes S.l.,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Huracan Las Heras,,,Deportivo Rincon,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Boca Unidos,,,Def. de Pronunciamiento,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,El Linqueño,,,Douglas Haig,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Independiente De Chivilcoy,,,Gimnasia Concepción,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Union Sunchales,,,Sarmiento Resistencia,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Torneo Federal A,Argentina,Crucero Del Norte,,,Juventud Antoniana,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Deportivo Rincon,,,San Martín Mendoza,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Estudiantes S.l.,,,Ferro Carril Oeste LP,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Circulo Deportivo,,,Juventud Unida Univ.,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Cipolletti,,,Sol de Mayo,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Def. de Pronunciamiento,,,Crucero Del Norte,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Juventud Antoniana,,,Union Sunchales,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Sarmiento Resistencia,,,Independiente De Chivilcoy,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Gimnasia Concepción,,,El Linqueño,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Torneo Federal A,Argentina,Douglas Haig,,,Boca Unidos,Time to be defined

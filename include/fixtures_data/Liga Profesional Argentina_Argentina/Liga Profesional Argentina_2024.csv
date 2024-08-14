@@ -1,0 +1,379 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-05-11T22:45:00+00:00,2024,Liga Profesional Argentina,Argentina,River Plate,3,0,Central Cordoba de Santiago,Match Finished
+2024-05-12T20:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Belgrano Cordoba,4,4,Racing Club,Match Finished
+2024-05-11T00:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Argentinos JRS,3,2,Rosario Central,Match Finished
+2024-05-12T18:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Tigre,0,1,Estudiantes L.P.,Match Finished
+2024-05-12T18:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Deportivo Riestra,1,0,San Lorenzo,Match Finished
+2024-05-12T20:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Lanus,0,2,Independ. Rivadavia,Match Finished
+2024-05-11T18:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Godoy Cruz,0,1,Barracas Central,Match Finished
+2024-05-10T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Sarmiento Junin,1,2,Instituto Cordoba,Match Finished
+2024-05-14T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Union Santa Fe,1,0,Banfield,Match Finished
+2024-05-11T17:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Huracan,3,1,Defensa Y Justicia,Match Finished
+2024-05-13T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Gimnasia L.P.,3,1,Velez Sarsfield,Match Finished
+2024-05-11T00:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Newells Old Boys,2,0,Platense,Match Finished
+2024-05-11T20:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Independiente,1,3,Talleres Cordoba,Match Finished
+2024-05-12T23:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Atletico Tucuman,1,0,Boca Juniors,Match Finished
+2024-05-19T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,2,4,Boca Juniors,Match Finished
+2024-05-19T20:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Talleres Cordoba,2,0,Atletico Tucuman,Match Finished
+2024-05-19T18:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Platense,0,0,Independiente,Match Finished
+2024-05-21T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Velez Sarsfield,1,0,Newells Old Boys,Match Finished
+2024-05-18T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Defensa Y Justicia,1,1,Gimnasia L.P.,Match Finished
+2024-05-19T20:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Banfield,1,1,Huracan,Match Finished
+2024-05-18T23:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Instituto Cordoba,1,1,Union Santa Fe,Match Finished
+2024-05-19T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Barracas Central,1,1,Sarmiento Junin,Match Finished
+2024-05-18T18:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Independ. Rivadavia,0,0,Godoy Cruz,Match Finished
+2024-05-20T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,San Lorenzo,1,1,Lanus,Match Finished
+2024-05-20T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Estudiantes L.P.,2,0,Deportivo Riestra,Match Finished
+2024-05-21T00:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Rosario Central,1,1,Tigre,Match Finished
+2024-05-21T00:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Racing Club,3,0,Argentinos JRS,Match Finished
+2024-05-18T21:00:00+00:00,2024,Liga Profesional Argentina,Argentina,River Plate,3,0,Belgrano Cordoba,Match Finished
+2024-05-25T00:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Belgrano Cordoba,2,1,Central Cordoba de Santiago,Match Finished
+2024-05-25T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Argentinos JRS,1,0,River Plate,Match Finished
+2024-05-24T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Tigre,0,4,Racing Club,Match Finished
+2024-05-24T18:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Deportivo Riestra,0,2,Rosario Central,Match Finished
+2024-05-25T00:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Lanus,2,1,Estudiantes L.P.,Match Finished
+2024-05-25T20:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Godoy Cruz,,,San Lorenzo,Match Postponed
+2024-05-26T20:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Sarmiento Junin,0,1,Independ. Rivadavia,Match Finished
+2024-05-27T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Union Santa Fe,2,0,Barracas Central,Match Finished
+2024-05-26T18:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Huracan,1,0,Instituto Cordoba,Match Finished
+2024-05-26T20:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Gimnasia L.P.,3,0,Banfield,Match Finished
+2024-05-25T20:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Newells Old Boys,1,0,Defensa Y Justicia,Match Finished
+2024-05-26T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independiente,1,1,Velez Sarsfield,Match Finished
+2024-05-28T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Atletico Tucuman,1,1,Platense,Match Finished
+2024-05-25T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Boca Juniors,0,0,Talleres Cordoba,Match Finished
+2024-06-02T21:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,2,4,Talleres Cordoba,Match Finished
+2024-06-02T17:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Platense,1,0,Boca Juniors,Match Finished
+2024-06-01T23:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Velez Sarsfield,1,1,Atletico Tucuman,Match Finished
+2024-06-04T00:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Defensa Y Justicia,0,0,Independiente,Match Finished
+2024-06-04T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Banfield,2,0,Newells Old Boys,Match Finished
+2024-06-02T23:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Instituto Cordoba,2,1,Gimnasia L.P.,Match Finished
+2024-06-04T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Barracas Central,0,2,Huracan,Match Finished
+2024-06-04T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independ. Rivadavia,0,1,Union Santa Fe,Match Finished
+2024-06-03T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,San Lorenzo,0,1,Sarmiento Junin,Match Finished
+2024-06-04T00:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Estudiantes L.P.,1,1,Godoy Cruz,Match Finished
+2024-06-02T21:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Rosario Central,1,1,Lanus,Match Finished
+2024-06-01T21:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Racing Club,1,0,Deportivo Riestra,Match Finished
+2024-06-02T23:15:00+00:00,2024,Liga Profesional Argentina,Argentina,River Plate,3,1,Tigre,Match Finished
+2024-06-01T23:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Belgrano Cordoba,1,0,Argentinos JRS,Match Finished
+2024-06-12T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Argentinos JRS,2,1,Central Cordoba de Santiago,Match Finished
+2024-06-13T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Tigre,1,1,Belgrano Cordoba,Match Finished
+2024-06-13T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Deportivo Riestra,2,0,River Plate,Match Finished
+2024-06-14T00:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Lanus,2,0,Racing Club,Match Finished
+2024-06-12T20:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Godoy Cruz,1,1,Rosario Central,Match Finished
+2024-06-13T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Sarmiento Junin,2,0,Estudiantes L.P.,Match Finished
+2024-06-15T19:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Union Santa Fe,2,1,San Lorenzo,Match Finished
+2024-06-15T21:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Huracan,1,0,Independ. Rivadavia,Match Finished
+2024-06-13T00:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Gimnasia L.P.,2,1,Barracas Central,Match Finished
+2024-06-14T00:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Newells Old Boys,0,2,Instituto Cordoba,Match Finished
+2024-06-13T00:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Independiente,2,1,Banfield,Match Finished
+2024-06-15T23:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Atletico Tucuman,1,1,Defensa Y Justicia,Match Finished
+2024-06-14T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Boca Juniors,1,0,Velez Sarsfield,Match Finished
+2024-06-14T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Talleres Cordoba,2,1,Platense,Match Finished
+2024-07-21T20:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,0,2,Platense,Match Finished
+2024-07-21T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Velez Sarsfield,3,0,Talleres Cordoba,Match Finished
+2024-07-21T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Defensa Y Justicia,2,2,Boca Juniors,Match Finished
+2024-07-20T22:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Banfield,1,1,Atletico Tucuman,Match Finished
+2024-07-19T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Instituto Cordoba,3,1,Independiente,Match Finished
+2024-07-19T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Barracas Central,0,1,Newells Old Boys,Match Finished
+2024-07-18T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independ. Rivadavia,1,0,Gimnasia L.P.,Match Finished
+2024-07-20T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,San Lorenzo,1,1,Huracan,Match Finished
+2024-07-21T20:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Estudiantes L.P.,0,0,Union Santa Fe,Match Finished
+2024-07-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Rosario Central,4,2,Sarmiento Junin,Match Finished
+2024-07-20T20:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Racing Club,3,0,Godoy Cruz,Match Finished
+2024-07-21T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,River Plate,2,2,Lanus,Match Finished
+2024-07-19T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Belgrano Cordoba,2,1,Deportivo Riestra,Match Finished
+2024-07-18T21:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Argentinos JRS,0,2,Tigre,Match Finished
+2024-07-26T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Tigre,1,1,Central Cordoba de Santiago,Match Finished
+2024-07-23T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Deportivo Riestra,2,0,Argentinos JRS,Match Finished
+2024-07-25T21:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Lanus,3,2,Belgrano Cordoba,Match Finished
+2024-07-24T22:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Godoy Cruz,2,1,River Plate,Match Finished
+2024-07-24T20:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Sarmiento Junin,1,0,Racing Club,Match Finished
+2024-07-31T21:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Union Santa Fe,1,0,Rosario Central,Match Finished
+2024-07-24T22:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Huracan,0,0,Estudiantes L.P.,Match Finished
+2024-07-23T21:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Gimnasia L.P.,0,1,San Lorenzo,Match Finished
+2024-07-23T21:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Newells Old Boys,0,0,Independ. Rivadavia,Match Finished
+2024-07-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independiente,0,0,Barracas Central,Match Finished
+2024-07-26T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Atletico Tucuman,1,0,Instituto Cordoba,Match Finished
+2024-07-31T23:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Boca Juniors,3,0,Banfield,Match Finished
+2024-07-24T20:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Talleres Cordoba,1,1,Defensa Y Justicia,Match Finished
+2024-07-25T21:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Platense,0,2,Velez Sarsfield,Match Finished
+2024-07-29T21:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,0,2,Velez Sarsfield,Match Finished
+2024-07-29T19:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Defensa Y Justicia,1,3,Platense,Match Finished
+2024-07-28T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Banfield,1,1,Talleres Cordoba,Match Finished
+2024-07-28T23:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Instituto Cordoba,0,0,Boca Juniors,Match Finished
+2024-07-29T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Barracas Central,0,2,Atletico Tucuman,Match Finished
+2024-07-27T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independ. Rivadavia,1,0,Independiente,Match Finished
+2024-07-27T20:00:00+00:00,2024,Liga Profesional Argentina,Argentina,San Lorenzo,1,1,Newells Old Boys,Match Finished
+2024-07-28T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Estudiantes L.P.,4,1,Gimnasia L.P.,Match Finished
+2024-07-27T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Rosario Central,0,1,Huracan,Match Finished
+2024-07-28T20:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Racing Club,2,1,Union Santa Fe,Match Finished
+2024-07-28T21:30:00+00:00,2024,Liga Profesional Argentina,Argentina,River Plate,1,0,Sarmiento Junin,Match Finished
+2024-07-30T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Belgrano Cordoba,1,0,Godoy Cruz,Match Finished
+2024-07-30T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Argentinos JRS,2,0,Lanus,Match Finished
+2024-07-29T21:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Tigre,2,1,Deportivo Riestra,Match Finished
+2024-08-05T17:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Deportivo Riestra,1,0,Central Cordoba de Santiago,Match Finished
+2024-08-04T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Lanus,3,2,Tigre,Match Finished
+2024-08-03T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Godoy Cruz,1,0,Argentinos JRS,Match Finished
+2024-08-04T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Sarmiento Junin,0,0,Belgrano Cordoba,Match Finished
+2024-08-04T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Union Santa Fe,0,0,River Plate,Match Finished
+2024-08-03T23:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Huracan,0,0,Racing Club,Match Finished
+2024-08-05T20:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Gimnasia L.P.,0,1,Rosario Central,Match Finished
+2024-08-02T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Newells Old Boys,1,4,Estudiantes L.P.,Match Finished
+2024-08-03T22:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Independiente,0,0,San Lorenzo,Match Finished
+2024-08-04T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Atletico Tucuman,2,1,Independ. Rivadavia,Match Finished
+2024-08-04T20:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Boca Juniors,1,1,Barracas Central,Match Finished
+2024-08-03T20:15:00+00:00,2024,Liga Profesional Argentina,Argentina,Talleres Cordoba,1,1,Instituto Cordoba,Match Finished
+2024-08-05T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Platense,0,1,Banfield,Match Finished
+2024-08-03T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Velez Sarsfield,3,0,Defensa Y Justicia,Match Finished
+2024-08-11T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,2,0,Defensa Y Justicia,Match Finished
+2024-08-11T20:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Banfield,2,2,Velez Sarsfield,Match Finished
+2024-08-11T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Instituto Cordoba,2,0,Platense,Match Finished
+2024-08-09T19:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Barracas Central,1,1,Talleres Cordoba,Match Finished
+2024-08-10T21:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Independ. Rivadavia,1,1,Boca Juniors,Match Finished
+2024-08-10T17:30:00+00:00,2024,Liga Profesional Argentina,Argentina,San Lorenzo,0,1,Atletico Tucuman,Match Finished
+2024-08-11T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Estudiantes L.P.,0,2,Independiente,Match Finished
+2024-08-10T19:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Rosario Central,1,0,Newells Old Boys,Match Finished
+2024-08-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Racing Club,0,1,Gimnasia L.P.,Match Finished
+2024-08-10T23:30:00+00:00,2024,Liga Profesional Argentina,Argentina,River Plate,1,1,Huracan,Match Finished
+2024-08-09T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Belgrano Cordoba,1,1,Union Santa Fe,Match Finished
+2024-08-08T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Argentinos JRS,0,0,Sarmiento Junin,Match Finished
+2024-08-12T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Tigre,0,2,Godoy Cruz,Match Finished
+2024-08-09T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Deportivo Riestra,3,1,Lanus,Match Finished
+2024-08-17T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Lanus,,,Central Cordoba de Santiago,Not Started
+2024-08-19T21:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Godoy Cruz,,,Deportivo Riestra,Not Started
+2024-08-18T20:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Sarmiento Junin,,,Tigre,Not Started
+2024-08-19T21:45:00+00:00,2024,Liga Profesional Argentina,Argentina,Union Santa Fe,,,Argentinos JRS,Not Started
+2024-08-18T23:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Huracan,,,Belgrano Cordoba,Not Started
+2024-08-17T20:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Gimnasia L.P.,,,River Plate,Not Started
+2024-08-17T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Newells Old Boys,,,Racing Club,Not Started
+2024-08-17T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independiente,,,Rosario Central,Not Started
+2024-08-18T20:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Atletico Tucuman,,,Estudiantes L.P.,Not Started
+2024-08-18T17:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Boca Juniors,,,San Lorenzo,Not Started
+2024-08-17T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Talleres Cordoba,,,Independ. Rivadavia,Not Started
+2024-08-16T22:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Platense,,,Barracas Central,Not Started
+2024-08-17T23:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Velez Sarsfield,,,Instituto Cordoba,Not Started
+2024-08-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Defensa Y Justicia,,,Banfield,Not Started
+2024-08-26T19:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,,,Banfield,Not Started
+2024-08-24T20:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Instituto Cordoba,,,Defensa Y Justicia,Not Started
+2024-08-26T19:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Barracas Central,,,Velez Sarsfield,Not Started
+2024-08-23T21:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independ. Rivadavia,,,Platense,Not Started
+2024-08-25T17:30:00+00:00,2024,Liga Profesional Argentina,Argentina,San Lorenzo,,,Talleres Cordoba,Not Started
+2024-08-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Estudiantes L.P.,,,Boca Juniors,Not Started
+2024-08-26T21:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Rosario Central,,,Atletico Tucuman,Not Started
+2024-08-25T20:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Racing Club,,,Independiente,Not Started
+2024-08-25T23:30:00+00:00,2024,Liga Profesional Argentina,Argentina,River Plate,,,Newells Old Boys,Not Started
+2024-08-26T21:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Belgrano Cordoba,,,Gimnasia L.P.,Not Started
+2024-08-24T18:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Argentinos JRS,,,Huracan,Not Started
+2024-08-24T22:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Tigre,,,Union Santa Fe,Not Started
+2024-08-24T17:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Deportivo Riestra,,,Sarmiento Junin,Not Started
+2024-08-25T17:30:00+00:00,2024,Liga Profesional Argentina,Argentina,Lanus,,,Godoy Cruz,Not Started
+2024-09-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Godoy Cruz,,,Central Cordoba de Santiago,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Sarmiento Junin,,,Lanus,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Union Santa Fe,,,Deportivo Riestra,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Huracan,,,Tigre,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Gimnasia L.P.,,,Argentinos JRS,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Newells Old Boys,,,Belgrano Cordoba,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independiente,,,River Plate,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Atletico Tucuman,,,Racing Club,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Boca Juniors,,,Rosario Central,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Talleres Cordoba,,,Estudiantes L.P.,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Platense,,,San Lorenzo,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Velez Sarsfield,,,Independ. Rivadavia,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Defensa Y Justicia,,,Barracas Central,Time to be defined
+2024-09-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Banfield,,,Instituto Cordoba,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,,,Instituto Cordoba,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Barracas Central,,,Banfield,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independ. Rivadavia,,,Defensa Y Justicia,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,San Lorenzo,,,Velez Sarsfield,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Estudiantes L.P.,,,Platense,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Rosario Central,,,Talleres Cordoba,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Racing Club,,,Boca Juniors,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,River Plate,,,Atletico Tucuman,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Belgrano Cordoba,,,Independiente,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Argentinos JRS,,,Newells Old Boys,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Tigre,,,Gimnasia L.P.,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Deportivo Riestra,,,Huracan,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Lanus,,,Union Santa Fe,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Godoy Cruz,,,Sarmiento Junin,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Sarmiento Junin,,,Central Cordoba de Santiago,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Union Santa Fe,,,Godoy Cruz,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Huracan,,,Lanus,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Gimnasia L.P.,,,Deportivo Riestra,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Newells Old Boys,,,Tigre,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independiente,,,Argentinos JRS,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Atletico Tucuman,,,Belgrano Cordoba,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Boca Juniors,,,River Plate,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Talleres Cordoba,,,Racing Club,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Platense,,,Rosario Central,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Velez Sarsfield,,,Estudiantes L.P.,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Defensa Y Justicia,,,San Lorenzo,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Banfield,,,Independ. Rivadavia,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Instituto Cordoba,,,Barracas Central,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,,,Barracas Central,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independ. Rivadavia,,,Instituto Cordoba,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,San Lorenzo,,,Banfield,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Estudiantes L.P.,,,Defensa Y Justicia,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Rosario Central,,,Velez Sarsfield,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Racing Club,,,Platense,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,River Plate,,,Talleres Cordoba,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Belgrano Cordoba,,,Boca Juniors,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Argentinos JRS,,,Atletico Tucuman,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Tigre,,,Independiente,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Deportivo Riestra,,,Newells Old Boys,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Lanus,,,Gimnasia L.P.,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Godoy Cruz,,,Huracan,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Sarmiento Junin,,,Union Santa Fe,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Union Santa Fe,,,Central Cordoba de Santiago,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Huracan,,,Sarmiento Junin,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Gimnasia L.P.,,,Godoy Cruz,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Newells Old Boys,,,Lanus,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independiente,,,Deportivo Riestra,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Atletico Tucuman,,,Tigre,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Boca Juniors,,,Argentinos JRS,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Talleres Cordoba,,,Belgrano Cordoba,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Platense,,,River Plate,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Velez Sarsfield,,,Racing Club,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Defensa Y Justicia,,,Rosario Central,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Banfield,,,Estudiantes L.P.,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Instituto Cordoba,,,San Lorenzo,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Barracas Central,,,Independ. Rivadavia,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,,,Independ. Rivadavia,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,San Lorenzo,,,Barracas Central,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Estudiantes L.P.,,,Instituto Cordoba,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Rosario Central,,,Banfield,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Racing Club,,,Defensa Y Justicia,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,River Plate,,,Velez Sarsfield,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Belgrano Cordoba,,,Platense,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Argentinos JRS,,,Talleres Cordoba,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Tigre,,,Boca Juniors,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Deportivo Riestra,,,Atletico Tucuman,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Lanus,,,Independiente,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Godoy Cruz,,,Newells Old Boys,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Sarmiento Junin,,,Gimnasia L.P.,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Union Santa Fe,,,Huracan,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Huracan,,,Central Cordoba de Santiago,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Gimnasia L.P.,,,Union Santa Fe,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Newells Old Boys,,,Sarmiento Junin,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independiente,,,Godoy Cruz,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Atletico Tucuman,,,Lanus,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Boca Juniors,,,Deportivo Riestra,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Talleres Cordoba,,,Tigre,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Platense,,,Argentinos JRS,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Velez Sarsfield,,,Belgrano Cordoba,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Defensa Y Justicia,,,River Plate,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Banfield,,,Racing Club,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Instituto Cordoba,,,Rosario Central,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Barracas Central,,,Estudiantes L.P.,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independ. Rivadavia,,,San Lorenzo,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,,,San Lorenzo,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Estudiantes L.P.,,,Independ. Rivadavia,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Rosario Central,,,Barracas Central,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Racing Club,,,Instituto Cordoba,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,River Plate,,,Banfield,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Belgrano Cordoba,,,Defensa Y Justicia,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Argentinos JRS,,,Velez Sarsfield,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Tigre,,,Platense,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Deportivo Riestra,,,Talleres Cordoba,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Lanus,,,Boca Juniors,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Godoy Cruz,,,Atletico Tucuman,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Sarmiento Junin,,,Independiente,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Union Santa Fe,,,Newells Old Boys,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Huracan,,,Gimnasia L.P.,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Gimnasia L.P.,,,Central Cordoba de Santiago,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Newells Old Boys,,,Huracan,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independiente,,,Union Santa Fe,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Atletico Tucuman,,,Sarmiento Junin,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Boca Juniors,,,Godoy Cruz,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Talleres Cordoba,,,Lanus,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Platense,,,Deportivo Riestra,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Velez Sarsfield,,,Tigre,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Defensa Y Justicia,,,Argentinos JRS,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Banfield,,,Belgrano Cordoba,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Instituto Cordoba,,,River Plate,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Barracas Central,,,Racing Club,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independ. Rivadavia,,,Rosario Central,Time to be defined
+2024-11-06T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,San Lorenzo,,,Estudiantes L.P.,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,,,Estudiantes L.P.,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Rosario Central,,,San Lorenzo,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Racing Club,,,Independ. Rivadavia,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,River Plate,,,Barracas Central,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Belgrano Cordoba,,,Instituto Cordoba,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Argentinos JRS,,,Banfield,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Tigre,,,Defensa Y Justicia,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Deportivo Riestra,,,Velez Sarsfield,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Lanus,,,Platense,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Godoy Cruz,,,Talleres Cordoba,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Sarmiento Junin,,,Boca Juniors,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Union Santa Fe,,,Atletico Tucuman,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Huracan,,,Independiente,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Gimnasia L.P.,,,Newells Old Boys,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Newells Old Boys,,,Central Cordoba de Santiago,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independiente,,,Gimnasia L.P.,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Atletico Tucuman,,,Huracan,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Boca Juniors,,,Union Santa Fe,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Talleres Cordoba,,,Sarmiento Junin,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Platense,,,Godoy Cruz,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Velez Sarsfield,,,Lanus,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Defensa Y Justicia,,,Deportivo Riestra,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Banfield,,,Tigre,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Instituto Cordoba,,,Argentinos JRS,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Barracas Central,,,Belgrano Cordoba,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independ. Rivadavia,,,River Plate,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,San Lorenzo,,,Racing Club,Time to be defined
+2024-11-20T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Estudiantes L.P.,,,Rosario Central,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,,,Rosario Central,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Racing Club,,,Estudiantes L.P.,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,River Plate,,,San Lorenzo,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Belgrano Cordoba,,,Independ. Rivadavia,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Argentinos JRS,,,Barracas Central,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Tigre,,,Instituto Cordoba,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Deportivo Riestra,,,Banfield,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Lanus,,,Defensa Y Justicia,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Godoy Cruz,,,Velez Sarsfield,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Sarmiento Junin,,,Platense,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Union Santa Fe,,,Talleres Cordoba,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Huracan,,,Boca Juniors,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Gimnasia L.P.,,,Atletico Tucuman,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Newells Old Boys,,,Independiente,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independiente,,,Central Cordoba de Santiago,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Atletico Tucuman,,,Newells Old Boys,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Boca Juniors,,,Gimnasia L.P.,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Talleres Cordoba,,,Huracan,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Platense,,,Union Santa Fe,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Velez Sarsfield,,,Sarmiento Junin,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Defensa Y Justicia,,,Godoy Cruz,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Banfield,,,Lanus,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Instituto Cordoba,,,Deportivo Riestra,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Barracas Central,,,Tigre,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independ. Rivadavia,,,Argentinos JRS,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,San Lorenzo,,,Belgrano Cordoba,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Estudiantes L.P.,,,River Plate,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Rosario Central,,,Racing Club,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Central Cordoba de Santiago,,,Racing Club,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,River Plate,,,Rosario Central,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Belgrano Cordoba,,,Estudiantes L.P.,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Argentinos JRS,,,San Lorenzo,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Tigre,,,Independ. Rivadavia,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Deportivo Riestra,,,Barracas Central,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Lanus,,,Instituto Cordoba,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Godoy Cruz,,,Banfield,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Sarmiento Junin,,,Defensa Y Justicia,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Union Santa Fe,,,Velez Sarsfield,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Huracan,,,Platense,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Gimnasia L.P.,,,Talleres Cordoba,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Newells Old Boys,,,Boca Juniors,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independiente,,,Atletico Tucuman,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Atletico Tucuman,,,Central Cordoba de Santiago,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Boca Juniors,,,Independiente,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Talleres Cordoba,,,Newells Old Boys,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Platense,,,Gimnasia L.P.,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Velez Sarsfield,,,Huracan,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Defensa Y Justicia,,,Union Santa Fe,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Banfield,,,Sarmiento Junin,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Instituto Cordoba,,,Godoy Cruz,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Barracas Central,,,Lanus,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Independ. Rivadavia,,,Deportivo Riestra,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,San Lorenzo,,,Tigre,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Estudiantes L.P.,,,Argentinos JRS,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Rosario Central,,,Belgrano Cordoba,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Liga Profesional Argentina,Argentina,Racing Club,,,River Plate,Time to be defined

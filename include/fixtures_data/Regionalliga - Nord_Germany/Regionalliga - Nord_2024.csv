@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-07-26T17:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,2,1,Todesfelde,Match Finished
+2024-07-27T12:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,1,1,Weiche Flensburg,Match Finished
+2024-07-27T14:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,1,0,St. Pauli II,Match Finished
+2024-07-28T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,1,1,BW Lohne,Match Finished
+2024-07-28T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,Kickers Emden,Match Postponed
+2024-07-28T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,2,0,VfB Oldenburg,Match Finished
+2024-07-28T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,4,3,Werder Bremen II,Match Finished
+2024-07-28T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,3,0,Hamburger SV II,Match Finished
+2024-07-28T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,1,1,Holstein Kiel II,Match Finished
+2024-08-02T17:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,1,0,SV Meppen,Match Finished
+2024-08-02T17:30:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,1,0,SV Drochtersen/assel,Match Finished
+2024-08-03T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,1,1,Eintracht Norderstedt,Match Finished
+2024-08-03T14:00:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,2,0,Phönix Lübeck,Match Finished
+2024-08-03T16:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,5,2,Teutonia Ottensen,Match Finished
+2024-08-04T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,1,1,Bremer Sv,Match Finished
+2024-08-04T12:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,VfB Lubeck,Match Postponed
+2024-08-04T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,0,1,Havelse,Match Finished
+2024-09-11T17:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,Hamburger SV II,Not Started
+2024-08-10T14:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,1,0,Hamburger SV II,Match Finished
+2024-08-10T14:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,3,1,Holstein Kiel II,Match Finished
+2024-08-11T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,1,3,Werder Bremen II,Match Finished
+2024-08-11T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,1,0,Todesfelde,Match Finished
+2024-08-11T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,3,1,St. Pauli II,Match Finished
+2024-08-10T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,3,1,VfB Oldenburg,Match Finished
+2024-08-11T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,0,0,SV Drochtersen/assel,Match Finished
+2024-08-11T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,2,4,Weiche Flensburg,Match Finished
+2024-08-11T14:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,1,1,BW Lohne,Match Finished
+2024-08-16T16:30:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,Kickers Emden,Not Started
+2024-08-17T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,SSV Jeddeloh,Not Started
+2024-12-01T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,VfB Lubeck,Not Started
+2024-08-17T13:30:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,Phönix Lübeck,Match Postponed
+2024-08-18T11:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,Havelse,Not Started
+2024-08-18T12:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,Eintracht Norderstedt,Not Started
+2024-08-18T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,Teutonia Ottensen,Match Postponed
+2024-08-18T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,Bremer Sv,Match Postponed
+2024-09-04T17:30:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,SV Meppen,Not Started
+2024-08-20T17:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,Werder Bremen II,Not Started
+2024-08-20T17:30:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,Weiche Flensburg,Not Started
+2024-08-21T17:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,Bremer Sv,Not Started
+2024-09-04T18:15:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,St. Pauli II,Not Started
+2024-08-21T17:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,Hamburger SV II,Not Started
+2024-08-21T17:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,Holstein Kiel II,Not Started
+2024-08-21T17:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,Todesfelde,Not Started
+2024-08-20T17:30:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,SV Drochtersen/assel,Not Started
+2024-08-21T17:30:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,VfB Oldenburg,Not Started
+2024-08-23T17:30:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,VfB Lubeck,Not Started
+2024-08-24T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,Havelse,Not Started
+2024-08-25T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,BW Lohne,Not Started
+2024-08-24T16:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,SV Meppen,Not Started
+2024-08-25T11:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,Teutonia Ottensen,Not Started
+2024-08-25T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,Eintracht Norderstedt,Not Started
+2024-08-25T12:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,Phönix Lübeck,Not Started
+2024-08-25T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,Kickers Emden,Not Started
+2024-08-25T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,SSV Jeddeloh,Not Started
+2024-08-30T16:30:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,Werder Bremen II,Not Started
+2024-08-30T17:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,Hamburger SV II,Not Started
+2024-08-31T12:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,Bremer Sv,Not Started
+2024-08-30T17:30:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,SSV Jeddeloh,Not Started
+2024-08-30T17:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,St. Pauli II,Not Started
+2024-08-31T16:00:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,Todesfelde,Not Started
+2024-09-01T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,Holstein Kiel II,Not Started
+2024-09-01T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,Weiche Flensburg,Not Started
+2024-09-01T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,SV Drochtersen/assel,Not Started
+2024-09-07T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,Teutonia Ottensen,Not Started
+2024-09-07T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,Kickers Emden,Not Started
+2024-09-07T14:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,VfB Lubeck,Not Started
+2024-09-08T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,Phönix Lübeck,Not Started
+2024-09-08T12:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,BW Lohne,Not Started
+2024-09-07T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,VfB Oldenburg,Not Started
+2024-09-08T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,SV Meppen,Not Started
+2024-09-08T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,Havelse,Not Started
+2024-09-08T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,Eintracht Norderstedt,Not Started
+2024-09-13T17:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,Weiche Flensburg,Not Started
+2024-09-14T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,Todesfelde,Not Started
+2024-09-14T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,VfB Lubeck,Not Started
+2024-09-14T14:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,Holstein Kiel II,Not Started
+2024-09-14T16:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,St. Pauli II,Not Started
+2024-09-14T16:00:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,Hamburger SV II,Not Started
+2024-09-15T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,SV Drochtersen/assel,Not Started
+2024-09-15T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,Bremer Sv,Not Started
+2024-09-15T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,SSV Jeddeloh,Not Started
+2024-09-20T17:00:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,Kickers Emden,Not Started
+2024-09-21T12:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,Havelse,Not Started
+2024-09-21T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,Eintracht Norderstedt,Not Started
+2024-09-21T15:30:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,Phönix Lübeck,Not Started
+2024-09-22T11:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,VfB Oldenburg,Not Started
+2024-09-22T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,BW Lohne,Not Started
+2024-09-22T12:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,Werder Bremen II,Not Started
+2024-09-22T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,SV Meppen,Not Started
+2024-09-22T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,Teutonia Ottensen,Not Started
+2024-09-27T17:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,SV Drochtersen/assel,Not Started
+2024-09-27T17:30:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,Weiche Flensburg,Not Started
+2024-09-28T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,Hamburger SV II,Not Started
+2024-09-28T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,Havelse,Not Started
+2024-09-29T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,SSV Jeddeloh,Not Started
+2024-09-29T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,VfB Lubeck,Not Started
+2024-09-28T14:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,St. Pauli II,Not Started
+2024-09-29T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,Bremer Sv,Not Started
+2024-09-29T13:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,Holstein Kiel II,Not Started
+2024-10-02T11:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,Todesfelde,Not Started
+2024-10-02T17:30:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,Kickers Emden,Not Started
+2024-10-02T17:30:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,BW Lohne,Not Started
+2024-10-03T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,Werder Bremen II,Not Started
+2024-10-03T12:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,SV Meppen,Not Started
+2024-10-03T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,Eintracht Norderstedt,Not Started
+2024-10-03T12:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,Teutonia Ottensen,Not Started
+2024-10-03T12:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,Phönix Lübeck,Not Started
+2024-10-03T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,VfB Oldenburg,Not Started
+2024-10-05T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,Eintracht Norderstedt,Not Started
+2024-10-05T16:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,SSV Jeddeloh,Not Started
+2024-10-06T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,Havelse,Not Started
+2024-10-06T12:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,Hamburger SV II,Not Started
+2024-10-06T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,Holstein Kiel II,Not Started
+2024-10-06T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,Weiche Flensburg,Not Started
+2024-10-06T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,VfB Lubeck,Not Started
+2024-10-06T13:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,SV Drochtersen/assel,Not Started
+2024-10-06T13:00:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,Bremer Sv,Not Started
+2024-10-11T17:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,Werder Bremen II,Not Started
+2024-10-11T17:30:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,Kickers Emden,Not Started
+2024-10-11T17:30:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,BW Lohne,Not Started
+2024-10-12T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,Todesfelde,Not Started
+2024-10-12T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,SV Meppen,Not Started
+2024-10-13T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,St. Pauli II,Not Started
+2024-10-13T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,Teutonia Ottensen,Not Started
+2024-10-13T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,Phönix Lübeck,Not Started
+2024-10-13T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,VfB Oldenburg,Not Started
+2024-10-18T16:30:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,SSV Jeddeloh,Not Started
+2024-10-18T17:30:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,VfB Lubeck,Not Started
+2024-10-19T11:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,Holstein Kiel II,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,Bremer Sv,Not Started
+2024-10-19T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,Eintracht Norderstedt,Not Started
+2024-10-19T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,Teutonia Ottensen,Not Started
+2024-10-19T16:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,Havelse,Not Started
+2024-10-20T12:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,Weiche Flensburg,Not Started
+2024-10-20T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,SV Drochtersen/assel,Not Started
+2024-10-25T17:00:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,Hamburger SV II,Not Started
+2024-10-25T17:30:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,VfB Oldenburg,Not Started
+2024-10-26T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,Holstein Kiel II,Not Started
+2024-10-26T14:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,Werder Bremen II,Not Started
+2024-10-27T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,Phönix Lübeck,Not Started
+2024-10-27T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,Kickers Emden,Not Started
+2024-10-27T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,BW Lohne,Not Started
+2024-10-27T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,Todesfelde,Not Started
+2024-10-27T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,St. Pauli II,Not Started
+2024-11-01T17:30:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,VfB Lubeck,Not Started
+2024-11-02T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,SV Drochtersen/assel,Not Started
+2024-11-02T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,SV Meppen,Not Started
+2024-11-02T15:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,Teutonia Ottensen,Not Started
+2024-11-02T17:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,Havelse,Not Started
+2024-11-02T17:00:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,Eintracht Norderstedt,Not Started
+2024-11-03T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,Weiche Flensburg,Not Started
+2024-11-03T13:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,Bremer Sv,Not Started
+2024-11-03T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,SSV Jeddeloh,Not Started
+2024-11-08T17:30:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,Havelse,Not Started
+2024-11-08T18:30:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,Teutonia Ottensen,Not Started
+2024-11-09T12:30:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,SV Meppen,Not Started
+2024-11-09T15:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,Phönix Lübeck,Not Started
+2024-11-09T17:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,Eintracht Norderstedt,Not Started
+2024-11-10T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,Bremer Sv,Not Started
+2024-11-10T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,VfB Lubeck,Not Started
+2024-11-10T13:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,SSV Jeddeloh,Not Started
+2024-11-10T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,SV Drochtersen/assel,Not Started
+2024-11-15T18:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,Kickers Emden,Not Started
+2024-11-15T18:30:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,Weiche Flensburg,Not Started
+2024-11-16T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,SSV Jeddeloh,Not Started
+2024-11-16T13:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,St. Pauli II,Not Started
+2024-11-16T15:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,BW Lohne,Not Started
+2024-11-17T12:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,VfB Oldenburg,Not Started
+2024-11-17T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,Todesfelde,Not Started
+2024-11-17T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,Werder Bremen II,Not Started
+2024-11-17T14:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,Holstein Kiel II,Not Started
+2024-11-22T18:30:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,SV Meppen,Not Started
+2024-11-22T18:30:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,Kickers Emden,Not Started
+2024-11-23T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,VfB Lubeck,Not Started
+2024-11-23T12:30:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,Bremer Sv,Not Started
+2024-11-23T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,Teutonia Ottensen,Not Started
+2024-11-23T17:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,Phönix Lübeck,Not Started
+2024-11-24T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,Eintracht Norderstedt,Not Started
+2024-11-24T13:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,Havelse,Not Started
+2024-11-24T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,SSV Jeddeloh,Not Started
+2024-11-29T18:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,VfB Oldenburg,Not Started
+2024-11-29T18:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,BW Lohne,Not Started
+2024-08-17T14:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,Holstein Kiel II,Not Started
+2024-11-30T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,Werder Bremen II,Not Started
+2024-11-30T15:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,Weiche Flensburg,Not Started
+2024-12-01T12:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,Todesfelde,Not Started
+2024-12-01T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,Hamburger SV II,Not Started
+2024-12-01T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,St. Pauli II,Not Started
+2024-12-01T14:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,SV Drochtersen/assel,Not Started
+2024-12-06T18:30:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,VfB Lubeck,Not Started
+2024-12-07T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,Kickers Emden,Not Started
+2024-12-07T16:30:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,SSV Jeddeloh,Not Started
+2024-12-07T17:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,BW Lohne,Not Started
+2024-12-08T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,Eintracht Norderstedt,Not Started
+2024-12-08T13:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,Teutonia Ottensen,Not Started
+2024-12-08T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,Havelse,Not Started
+2024-12-08T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,Phönix Lübeck,Not Started
+2024-12-08T14:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,SV Meppen,Not Started
+2025-02-21T18:30:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,Werder Bremen II,Not Started
+2025-02-21T18:30:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,SV Drochtersen/assel,Not Started
+2025-02-22T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,St. Pauli II,Not Started
+2025-02-22T14:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,VfB Oldenburg,Not Started
+2025-02-22T15:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,Bremer Sv,Not Started
+2025-02-22T17:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,Todesfelde,Not Started
+2025-02-23T12:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,Hamburger SV II,Not Started
+2025-02-23T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,Holstein Kiel II,Not Started
+2025-02-23T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,Weiche Flensburg,Not Started
+2025-03-01T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,Phönix Lübeck,Not Started
+2025-03-01T12:30:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,Eintracht Norderstedt,Not Started
+2025-03-01T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,VfB Oldenburg,Not Started
+2025-03-01T15:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,SV Meppen,Not Started
+2025-03-01T16:30:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,Havelse,Not Started
+2025-03-02T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,Teutonia Ottensen,Not Started
+2025-03-02T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,BW Lohne,Not Started
+2025-03-02T13:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,Kickers Emden,Not Started
+2025-03-02T14:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,VfB Lubeck,Not Started
+2025-03-07T18:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,Hamburger SV II,Not Started
+2025-03-08T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,Holstein Kiel II,Not Started
+2025-03-08T13:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,SSV Jeddeloh,Not Started
+2025-03-08T14:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,Werder Bremen II,Not Started
+2025-03-08T15:00:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,St. Pauli II,Not Started
+2025-03-09T12:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,Weiche Flensburg,Not Started
+2025-03-09T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,Bremer Sv,Not Started
+2025-03-09T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,SV Drochtersen/assel,Not Started
+2025-03-09T14:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,Todesfelde,Not Started
+2025-03-14T18:00:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,Phönix Lübeck,Not Started
+2025-03-14T18:30:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,Teutonia Ottensen,Not Started
+2025-03-15T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,BW Lohne,Not Started
+2025-03-15T13:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,SV Meppen,Not Started
+2025-03-15T15:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,Havelse,Not Started
+2025-03-16T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,Werder Bremen II,Not Started
+2025-03-16T13:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,VfB Oldenburg,Not Started
+2025-03-16T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,Kickers Emden,Not Started
+2025-03-16T14:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,Eintracht Norderstedt,Not Started
+2025-03-21T18:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,Weiche Flensburg,Not Started
+2025-03-22T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,SV Drochtersen/assel,Not Started
+2025-03-22T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,St. Pauli II,Not Started
+2025-03-22T14:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,Todesfelde,Not Started
+2025-03-22T15:00:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,Holstein Kiel II,Not Started
+2025-03-23T12:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,Bremer Sv,Not Started
+2025-03-23T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,VfB Lubeck,Not Started
+2025-03-23T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,SSV Jeddeloh,Not Started
+2025-03-23T14:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,Hamburger SV II,Not Started
+2025-03-28T18:30:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,BW Lohne,Not Started
+2025-03-28T18:30:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,Kickers Emden,Not Started
+2025-03-29T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,Werder Bremen II,Not Started
+2025-03-29T13:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,Eintracht Norderstedt,Not Started
+2025-03-29T15:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,Teutonia Ottensen,Not Started
+2025-03-30T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,SV Meppen,Not Started
+2025-03-30T13:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,Todesfelde,Not Started
+2025-03-30T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,VfB Oldenburg,Not Started
+2025-03-30T14:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,Phönix Lübeck,Not Started
+2025-04-05T11:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,SSV Jeddeloh,Not Started
+2025-04-05T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,Holstein Kiel II,Not Started
+2025-04-05T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,St. Pauli II,Not Started
+2025-04-05T14:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,Bremer Sv,Not Started
+2025-04-05T14:00:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,SV Drochtersen/assel,Not Started
+2025-04-06T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,VfB Lubeck,Not Started
+2025-04-06T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,Hamburger SV II,Not Started
+2025-04-06T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,Havelse,Not Started
+2025-04-06T13:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,Weiche Flensburg,Not Started
+2025-04-11T17:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,Kickers Emden,Not Started
+2025-04-12T11:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,St. Pauli II,Not Started
+2025-04-12T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,Werder Bremen II,Not Started
+2025-04-12T12:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,Phönix Lübeck,Not Started
+2025-04-12T15:30:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,VfB Oldenburg,Not Started
+2025-04-13T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,SV Meppen,Not Started
+2025-04-13T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,Teutonia Ottensen,Not Started
+2025-04-13T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,Todesfelde,Not Started
+2025-04-13T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,BW Lohne,Not Started
+2025-04-25T17:30:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,VfB Lubeck,Not Started
+2025-04-26T11:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,Havelse,Not Started
+2025-04-26T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,SV Drochtersen/assel,Not Started
+2025-04-26T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,Hamburger SV II,Not Started
+2025-04-26T14:00:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,SSV Jeddeloh,Not Started
+2025-04-27T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,Eintracht Norderstedt,Not Started
+2025-04-27T12:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,Holstein Kiel II,Not Started
+2025-04-27T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,Weiche Flensburg,Not Started
+2025-04-27T13:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,Bremer Sv,Not Started
+2025-05-02T17:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,Kickers Emden,Not Started
+2025-05-02T17:30:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,BW Lohne,Not Started
+2025-05-03T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,St. Pauli II,Not Started
+2025-05-03T14:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,VfB Oldenburg,Not Started
+2025-05-04T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,SV Meppen,Not Started
+2025-05-04T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,Hamburger SV II,Not Started
+2025-05-04T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,Phönix Lübeck,Not Started
+2025-05-04T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,Todesfelde,Not Started
+2025-05-04T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,Werder Bremen II,Not Started
+2025-05-10T11:00:00+00:00,2024,Regionalliga - Nord,Germany,Phönix Lübeck,,,Teutonia Ottensen,Not Started
+2025-05-10T11:00:00+00:00,2024,Regionalliga - Nord,Germany,Hamburger SV II,,,Weiche Flensburg,Not Started
+2025-05-10T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Werder Bremen II,,,SSV Jeddeloh,Not Started
+2025-05-10T14:00:00+00:00,2024,Regionalliga - Nord,Germany,BW Lohne,,,Havelse,Not Started
+2025-05-10T16:00:00+00:00,2024,Regionalliga - Nord,Germany,Kickers Emden,,,Eintracht Norderstedt,Not Started
+2025-05-11T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Holstein Kiel II,,,SV Meppen,Not Started
+2025-05-11T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Todesfelde,,,Bremer Sv,Not Started
+2025-05-11T12:00:00+00:00,2024,Regionalliga - Nord,Germany,St. Pauli II,,,SV Drochtersen/assel,Not Started
+2025-05-11T13:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Oldenburg,,,VfB Lubeck,Not Started
+2025-05-17T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Weiche Flensburg,,,Holstein Kiel II,Not Started
+2025-05-17T12:00:00+00:00,2024,Regionalliga - Nord,Germany,VfB Lubeck,,,Werder Bremen II,Not Started
+2025-05-17T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Meppen,,,Phönix Lübeck,Not Started
+2025-05-17T14:00:00+00:00,2024,Regionalliga - Nord,Germany,SSV Jeddeloh,,,Todesfelde,Not Started
+2025-05-18T11:30:00+00:00,2024,Regionalliga - Nord,Germany,Teutonia Ottensen,,,Kickers Emden,Not Started
+2025-05-18T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Havelse,,,VfB Oldenburg,Not Started
+2025-05-18T12:00:00+00:00,2024,Regionalliga - Nord,Germany,Eintracht Norderstedt,,,BW Lohne,Not Started
+2025-05-18T13:00:00+00:00,2024,Regionalliga - Nord,Germany,SV Drochtersen/assel,,,Hamburger SV II,Not Started
+2025-05-18T13:00:00+00:00,2024,Regionalliga - Nord,Germany,Bremer Sv,,,St. Pauli II,Not Started

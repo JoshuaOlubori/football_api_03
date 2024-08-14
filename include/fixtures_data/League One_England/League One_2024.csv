@@ -1,0 +1,553 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-09T19:00:00+00:00,2024,League One,England,Barnsley,1,2,Mansfield Town,Match Finished
+2024-08-10T16:30:00+00:00,2024,League One,England,Birmingham,1,1,Reading,Match Finished
+2024-08-10T16:30:00+00:00,2024,League One,England,Bristol Rovers,1,0,Northampton,Match Finished
+2024-08-10T16:30:00+00:00,2024,League One,England,Burton Albion,2,3,Lincoln,Match Finished
+2024-08-10T16:30:00+00:00,2024,League One,England,Crawley Town,2,1,Blackpool,Match Finished
+2024-08-10T16:30:00+00:00,2024,League One,England,Exeter City,1,0,Rotherham,Match Finished
+2024-08-10T16:30:00+00:00,2024,League One,England,Leyton Orient,1,2,Bolton,Match Finished
+2024-08-10T16:30:00+00:00,2024,League One,England,Peterborough,0,2,Huddersfield,Match Finished
+2024-08-10T16:30:00+00:00,2024,League One,England,Stevenage,1,0,Shrewsbury,Match Finished
+2024-08-10T16:30:00+00:00,2024,League One,England,Stockport County,2,0,Cambridge United,Match Finished
+2024-08-10T16:30:00+00:00,2024,League One,England,Wigan,0,1,Charlton,Match Finished
+2024-08-10T16:30:00+00:00,2024,League One,England,Wrexham,3,2,Wycombe,Match Finished
+2024-08-17T14:00:00+00:00,2024,League One,England,Blackpool,,,Stockport County,Not Started
+2024-08-18T14:00:00+00:00,2024,League One,England,Bolton,,,Wrexham,Not Started
+2024-08-17T14:00:00+00:00,2024,League One,England,Cambridge United,,,Crawley Town,Not Started
+2024-08-17T11:30:00+00:00,2024,League One,England,Charlton,,,Leyton Orient,Not Started
+2024-08-17T14:00:00+00:00,2024,League One,England,Huddersfield,,,Stevenage,Not Started
+2024-08-17T14:00:00+00:00,2024,League One,England,Lincoln,,,Barnsley,Not Started
+2024-08-17T14:00:00+00:00,2024,League One,England,Mansfield Town,,,Burton Albion,Not Started
+2024-08-17T14:00:00+00:00,2024,League One,England,Northampton,,,Exeter City,Not Started
+2024-08-17T14:00:00+00:00,2024,League One,England,Reading,,,Wigan,Not Started
+2024-08-17T14:00:00+00:00,2024,League One,England,Rotherham,,,Bristol Rovers,Not Started
+2024-08-17T11:30:00+00:00,2024,League One,England,Shrewsbury,,,Peterborough,Not Started
+2024-08-17T14:00:00+00:00,2024,League One,England,Wycombe,,,Birmingham,Not Started
+2024-08-24T14:00:00+00:00,2024,League One,England,Barnsley,,,Northampton,Not Started
+2024-08-24T11:30:00+00:00,2024,League One,England,Burton Albion,,,Stevenage,Not Started
+2024-08-24T14:00:00+00:00,2024,League One,England,Cambridge United,,,Blackpool,Not Started
+2024-08-24T14:00:00+00:00,2024,League One,England,Charlton,,,Bolton,Not Started
+2024-08-24T14:00:00+00:00,2024,League One,England,Exeter City,,,Peterborough,Not Started
+2024-08-24T14:00:00+00:00,2024,League One,England,Huddersfield,,,Shrewsbury,Not Started
+2024-08-24T14:00:00+00:00,2024,League One,England,Leyton Orient,,,Birmingham,Not Started
+2024-08-24T14:00:00+00:00,2024,League One,England,Lincoln,,,Mansfield Town,Not Started
+2024-08-24T11:30:00+00:00,2024,League One,England,Stockport County,,,Bristol Rovers,Not Started
+2024-08-24T14:00:00+00:00,2024,League One,England,Wigan,,,Crawley Town,Not Started
+2024-08-24T14:00:00+00:00,2024,League One,England,Wrexham,,,Reading,Not Started
+2024-08-24T14:00:00+00:00,2024,League One,England,Wycombe,,,Rotherham,Not Started
+2024-08-31T14:00:00+00:00,2024,League One,England,Birmingham,,,Wigan,Not Started
+2024-08-31T11:30:00+00:00,2024,League One,England,Blackpool,,,Wycombe,Not Started
+2024-08-31T14:00:00+00:00,2024,League One,England,Bolton,,,Exeter City,Not Started
+2024-08-31T14:00:00+00:00,2024,League One,England,Bristol Rovers,,,Cambridge United,Not Started
+2024-08-31T14:00:00+00:00,2024,League One,England,Crawley Town,,,Barnsley,Not Started
+2024-08-31T14:00:00+00:00,2024,League One,England,Mansfield Town,,,Stockport County,Not Started
+2024-08-31T14:00:00+00:00,2024,League One,England,Northampton,,,Burton Albion,Not Started
+2024-08-31T14:00:00+00:00,2024,League One,England,Peterborough,,,Wrexham,Not Started
+2024-08-31T14:00:00+00:00,2024,League One,England,Reading,,,Charlton,Not Started
+2024-08-31T11:30:00+00:00,2024,League One,England,Rotherham,,,Huddersfield,Not Started
+2024-08-31T14:00:00+00:00,2024,League One,England,Shrewsbury,,,Leyton Orient,Not Started
+2024-08-31T14:00:00+00:00,2024,League One,England,Stevenage,,,Lincoln,Not Started
+2024-09-07T14:00:00+00:00,2024,League One,England,Barnsley,,,Bristol Rovers,Not Started
+2024-09-07T11:30:00+00:00,2024,League One,England,Burton Albion,,,Crawley Town,Not Started
+2024-09-07T14:00:00+00:00,2024,League One,England,Cambridge United,,,Bolton,Not Started
+2024-09-07T14:00:00+00:00,2024,League One,England,Charlton,,,Rotherham,Not Started
+2024-09-07T14:00:00+00:00,2024,League One,England,Exeter City,,,Birmingham,Not Started
+2024-09-07T14:00:00+00:00,2024,League One,England,Huddersfield,,,Blackpool,Not Started
+2024-09-07T14:00:00+00:00,2024,League One,England,Leyton Orient,,,Peterborough,Not Started
+2024-09-07T14:00:00+00:00,2024,League One,England,Lincoln,,,Northampton,Not Started
+2024-09-07T14:00:00+00:00,2024,League One,England,Stockport County,,,Reading,Not Started
+2024-09-07T14:00:00+00:00,2024,League One,England,Wigan,,,Stevenage,Not Started
+2024-09-07T14:00:00+00:00,2024,League One,England,Wrexham,,,Shrewsbury,Not Started
+2024-09-07T14:00:00+00:00,2024,League One,England,Wycombe,,,Mansfield Town,Not Started
+2024-09-16T19:00:00+00:00,2024,League One,England,Birmingham,,,Wrexham,Not Started
+2024-09-14T14:00:00+00:00,2024,League One,England,Blackpool,,,Exeter City,Not Started
+2024-09-14T14:00:00+00:00,2024,League One,England,Bolton,,,Huddersfield,Not Started
+2024-09-14T14:00:00+00:00,2024,League One,England,Bristol Rovers,,,Wigan,Not Started
+2024-09-14T14:00:00+00:00,2024,League One,England,Crawley Town,,,Stockport County,Not Started
+2024-09-14T11:30:00+00:00,2024,League One,England,Mansfield Town,,,Cambridge United,Not Started
+2024-09-14T11:30:00+00:00,2024,League One,England,Northampton,,,Wycombe,Not Started
+2024-09-14T14:00:00+00:00,2024,League One,England,Peterborough,,,Lincoln,Not Started
+2024-09-14T14:00:00+00:00,2024,League One,England,Reading,,,Leyton Orient,Not Started
+2024-09-14T14:00:00+00:00,2024,League One,England,Rotherham,,,Burton Albion,Not Started
+2024-09-14T14:00:00+00:00,2024,League One,England,Shrewsbury,,,Charlton,Not Started
+2024-09-14T14:00:00+00:00,2024,League One,England,Stevenage,,,Barnsley,Not Started
+2024-09-21T14:00:00+00:00,2024,League One,England,Bolton,,,Reading,Not Started
+2024-09-21T14:00:00+00:00,2024,League One,England,Burton Albion,,,Barnsley,Not Started
+2024-09-21T14:00:00+00:00,2024,League One,England,Charlton,,,Blackpool,Not Started
+2024-09-21T11:30:00+00:00,2024,League One,England,Exeter City,,,Stevenage,Not Started
+2024-09-21T14:00:00+00:00,2024,League One,England,Huddersfield,,,Northampton,Not Started
+2024-09-21T11:30:00+00:00,2024,League One,England,Lincoln,,,Wigan,Not Started
+2024-09-21T14:00:00+00:00,2024,League One,England,Mansfield Town,,,Shrewsbury,Not Started
+2024-09-21T14:00:00+00:00,2024,League One,England,Peterborough,,,Bristol Rovers,Not Started
+2024-09-21T14:00:00+00:00,2024,League One,England,Rotherham,,,Birmingham,Not Started
+2024-09-21T14:00:00+00:00,2024,League One,England,Stockport County,,,Leyton Orient,Not Started
+2024-09-21T14:00:00+00:00,2024,League One,England,Wrexham,,,Crawley Town,Not Started
+2024-09-21T14:00:00+00:00,2024,League One,England,Wycombe,,,Cambridge United,Not Started
+2024-09-28T18:45:00+00:00,2024,League One,England,Barnsley,,,Stockport County,Not Started
+2024-09-28T14:00:00+00:00,2024,League One,England,Birmingham,,,Peterborough,Not Started
+2024-09-28T14:00:00+00:00,2024,League One,England,Blackpool,,,Burton Albion,Not Started
+2024-09-28T14:00:00+00:00,2024,League One,England,Bristol Rovers,,,Wycombe,Not Started
+2024-09-28T14:00:00+00:00,2024,League One,England,Cambridge United,,,Lincoln,Not Started
+2024-09-28T11:30:00+00:00,2024,League One,England,Crawley Town,,,Bolton,Not Started
+2024-09-28T14:00:00+00:00,2024,League One,England,Leyton Orient,,,Wrexham,Not Started
+2024-09-28T14:00:00+00:00,2024,League One,England,Northampton,,,Mansfield Town,Not Started
+2024-09-28T11:30:00+00:00,2024,League One,England,Reading,,,Huddersfield,Not Started
+2024-09-28T14:00:00+00:00,2024,League One,England,Shrewsbury,,,Rotherham,Not Started
+2024-09-28T14:00:00+00:00,2024,League One,England,Stevenage,,,Charlton,Not Started
+2024-09-28T14:00:00+00:00,2024,League One,England,Wigan,,,Exeter City,Not Started
+2024-10-01T18:45:00+00:00,2024,League One,England,Barnsley,,,Wycombe,Not Started
+2024-10-01T18:45:00+00:00,2024,League One,England,Birmingham,,,Huddersfield,Not Started
+2024-10-01T18:45:00+00:00,2024,League One,England,Blackpool,,,Lincoln,Not Started
+2024-10-01T18:45:00+00:00,2024,League One,England,Bristol Rovers,,,Charlton,Not Started
+2024-10-01T18:45:00+00:00,2024,League One,England,Cambridge United,,,Rotherham,Not Started
+2024-10-01T18:45:00+00:00,2024,League One,England,Crawley Town,,,Mansfield Town,Not Started
+2024-10-01T18:45:00+00:00,2024,League One,England,Leyton Orient,,,Exeter City,Not Started
+2024-10-01T18:45:00+00:00,2024,League One,England,Northampton,,,Bolton,Not Started
+2024-10-01T18:45:00+00:00,2024,League One,England,Shrewsbury,,,Stockport County,Not Started
+2024-10-01T18:45:00+00:00,2024,League One,England,Stevenage,,,Wrexham,Not Started
+2024-10-01T18:45:00+00:00,2024,League One,England,Wigan,,,Peterborough,Not Started
+2024-10-01T19:00:00+00:00,2024,League One,England,Reading,,,Burton Albion,Not Started
+2024-10-05T14:00:00+00:00,2024,League One,England,Bolton,,,Shrewsbury,Not Started
+2024-10-05T14:00:00+00:00,2024,League One,England,Burton Albion,,,Bristol Rovers,Not Started
+2024-10-05T14:00:00+00:00,2024,League One,England,Charlton,,,Birmingham,Not Started
+2024-10-05T14:00:00+00:00,2024,League One,England,Exeter City,,,Cambridge United,Not Started
+2024-10-05T11:30:00+00:00,2024,League One,England,Huddersfield,,,Barnsley,Not Started
+2024-10-05T14:00:00+00:00,2024,League One,England,Lincoln,,,Leyton Orient,Not Started
+2024-10-05T14:00:00+00:00,2024,League One,England,Mansfield Town,,,Blackpool,Not Started
+2024-10-05T11:30:00+00:00,2024,League One,England,Peterborough,,,Stevenage,Not Started
+2024-10-05T14:00:00+00:00,2024,League One,England,Rotherham,,,Reading,Not Started
+2024-10-05T14:00:00+00:00,2024,League One,England,Stockport County,,,Wigan,Not Started
+2024-10-05T14:00:00+00:00,2024,League One,England,Wrexham,,,Northampton,Not Started
+2024-10-05T14:00:00+00:00,2024,League One,England,Wycombe,,,Crawley Town,Not Started
+2024-10-12T14:00:00+00:00,2024,League One,England,Barnsley,,,Reading,Not Started
+2024-10-12T14:00:00+00:00,2024,League One,England,Birmingham,,,Cambridge United,Not Started
+2024-10-12T14:00:00+00:00,2024,League One,England,Bristol Rovers,,,Blackpool,Not Started
+2024-10-12T14:00:00+00:00,2024,League One,England,Burton Albion,,,Charlton,Not Started
+2024-10-12T14:00:00+00:00,2024,League One,England,Crawley Town,,,Shrewsbury,Not Started
+2024-10-12T14:00:00+00:00,2024,League One,England,Exeter City,,,Mansfield Town,Not Started
+2024-10-12T14:00:00+00:00,2024,League One,England,Leyton Orient,,,Huddersfield,Not Started
+2024-10-12T14:00:00+00:00,2024,League One,England,Peterborough,,,Rotherham,Not Started
+2024-10-12T14:00:00+00:00,2024,League One,England,Stevenage,,,Bolton,Not Started
+2024-10-12T14:00:00+00:00,2024,League One,England,Stockport County,,,Wycombe,Not Started
+2024-10-12T14:00:00+00:00,2024,League One,England,Wigan,,,Northampton,Not Started
+2024-10-12T14:00:00+00:00,2024,League One,England,Wrexham,,,Lincoln,Not Started
+2024-10-19T14:00:00+00:00,2024,League One,England,Blackpool,,,Barnsley,Not Started
+2024-10-19T14:00:00+00:00,2024,League One,England,Bolton,,,Burton Albion,Not Started
+2024-10-19T14:00:00+00:00,2024,League One,England,Cambridge United,,,Wigan,Not Started
+2024-10-19T14:00:00+00:00,2024,League One,England,Charlton,,,Stockport County,Not Started
+2024-10-19T14:00:00+00:00,2024,League One,England,Huddersfield,,,Bristol Rovers,Not Started
+2024-10-19T14:00:00+00:00,2024,League One,England,Lincoln,,,Birmingham,Not Started
+2024-10-19T14:00:00+00:00,2024,League One,England,Mansfield Town,,,Stevenage,Not Started
+2024-10-19T14:00:00+00:00,2024,League One,England,Northampton,,,Leyton Orient,Not Started
+2024-10-19T11:30:00+00:00,2024,League One,England,Reading,,,Crawley Town,Not Started
+2024-10-19T14:00:00+00:00,2024,League One,England,Rotherham,,,Wrexham,Not Started
+2024-10-17T19:00:00+00:00,2024,League One,England,Shrewsbury,,,Exeter City,Not Started
+2024-10-19T11:30:00+00:00,2024,League One,England,Wycombe,,,Peterborough,Not Started
+2024-10-22T18:45:00+00:00,2024,League One,England,Barnsley,,,Charlton,Not Started
+2024-10-22T18:45:00+00:00,2024,League One,England,Birmingham,,,Bolton,Not Started
+2024-10-22T18:45:00+00:00,2024,League One,England,Bristol Rovers,,,Shrewsbury,Not Started
+2024-10-22T18:45:00+00:00,2024,League One,England,Burton Albion,,,Wycombe,Not Started
+2024-10-22T18:45:00+00:00,2024,League One,England,Crawley Town,,,Lincoln,Not Started
+2024-10-22T18:45:00+00:00,2024,League One,England,Exeter City,,,Reading,Not Started
+2024-10-22T18:45:00+00:00,2024,League One,England,Leyton Orient,,,Rotherham,Not Started
+2024-10-22T18:45:00+00:00,2024,League One,England,Peterborough,,,Blackpool,Not Started
+2024-10-22T18:45:00+00:00,2024,League One,England,Stevenage,,,Cambridge United,Not Started
+2024-10-22T18:45:00+00:00,2024,League One,England,Stockport County,,,Northampton,Not Started
+2024-10-22T18:45:00+00:00,2024,League One,England,Wigan,,,Mansfield Town,Not Started
+2024-10-22T18:45:00+00:00,2024,League One,England,Wrexham,,,Huddersfield,Not Started
+2024-10-28T19:00:00+00:00,2024,League One,England,Blackpool,,,Wigan,Not Started
+2024-10-26T14:00:00+00:00,2024,League One,England,Bolton,,,Peterborough,Not Started
+2024-10-26T14:00:00+00:00,2024,League One,England,Cambridge United,,,Burton Albion,Not Started
+2024-10-26T14:00:00+00:00,2024,League One,England,Charlton,,,Wrexham,Not Started
+2024-10-26T14:00:00+00:00,2024,League One,England,Huddersfield,,,Exeter City,Not Started
+2024-10-26T14:00:00+00:00,2024,League One,England,Lincoln,,,Stockport County,Not Started
+2024-10-26T11:30:00+00:00,2024,League One,England,Mansfield Town,,,Birmingham,Not Started
+2024-10-26T14:00:00+00:00,2024,League One,England,Northampton,,,Crawley Town,Not Started
+2024-10-26T11:30:00+00:00,2024,League One,England,Reading,,,Bristol Rovers,Not Started
+2024-10-26T14:00:00+00:00,2024,League One,England,Rotherham,,,Stevenage,Not Started
+2024-10-26T14:00:00+00:00,2024,League One,England,Shrewsbury,,,Barnsley,Not Started
+2024-10-26T14:00:00+00:00,2024,League One,England,Wycombe,,,Leyton Orient,Not Started
+2024-11-11T20:00:00+00:00,2024,League One,England,Barnsley,,,Rotherham,Not Started
+2024-11-09T15:00:00+00:00,2024,League One,England,Birmingham,,,Northampton,Not Started
+2024-11-09T15:00:00+00:00,2024,League One,England,Bristol Rovers,,,Lincoln,Not Started
+2024-11-09T12:30:00+00:00,2024,League One,England,Burton Albion,,,Shrewsbury,Not Started
+2024-11-09T15:00:00+00:00,2024,League One,England,Crawley Town,,,Huddersfield,Not Started
+2024-11-09T15:00:00+00:00,2024,League One,England,Exeter City,,,Charlton,Not Started
+2024-11-09T15:00:00+00:00,2024,League One,England,Leyton Orient,,,Blackpool,Not Started
+2024-11-09T15:00:00+00:00,2024,League One,England,Peterborough,,,Cambridge United,Not Started
+2024-11-09T15:00:00+00:00,2024,League One,England,Stevenage,,,Reading,Not Started
+2024-11-09T15:00:00+00:00,2024,League One,England,Stockport County,,,Bolton,Not Started
+2024-11-09T15:00:00+00:00,2024,League One,England,Wigan,,,Wycombe,Not Started
+2024-11-09T12:30:00+00:00,2024,League One,England,Wrexham,,,Mansfield Town,Not Started
+2024-11-16T15:00:00+00:00,2024,League One,England,Birmingham,,,Stevenage,Not Started
+2024-11-16T15:00:00+00:00,2024,League One,England,Blackpool,,,Northampton,Not Started
+2024-11-16T15:00:00+00:00,2024,League One,England,Bristol Rovers,,,Crawley Town,Not Started
+2024-11-16T15:00:00+00:00,2024,League One,England,Cambridge United,,,Barnsley,Not Started
+2024-11-16T15:00:00+00:00,2024,League One,England,Charlton,,,Peterborough,Not Started
+2024-11-16T12:30:00+00:00,2024,League One,England,Exeter City,,,Lincoln,Not Started
+2024-11-16T15:00:00+00:00,2024,League One,England,Leyton Orient,,,Mansfield Town,Not Started
+2024-11-16T15:00:00+00:00,2024,League One,England,Reading,,,Shrewsbury,Not Started
+2024-11-16T15:00:00+00:00,2024,League One,England,Rotherham,,,Bolton,Not Started
+2024-11-16T15:00:00+00:00,2024,League One,England,Stockport County,,,Wrexham,Not Started
+2024-11-16T15:00:00+00:00,2024,League One,England,Wigan,,,Burton Albion,Not Started
+2024-11-16T15:00:00+00:00,2024,League One,England,Wycombe,,,Huddersfield,Not Started
+2024-11-23T15:00:00+00:00,2024,League One,England,Barnsley,,,Wigan,Not Started
+2024-11-23T12:30:00+00:00,2024,League One,England,Bolton,,,Blackpool,Not Started
+2024-11-23T15:00:00+00:00,2024,League One,England,Burton Albion,,,Stockport County,Not Started
+2024-11-23T15:00:00+00:00,2024,League One,England,Crawley Town,,,Rotherham,Not Started
+2024-11-23T15:00:00+00:00,2024,League One,England,Huddersfield,,,Charlton,Not Started
+2024-11-23T15:00:00+00:00,2024,League One,England,Lincoln,,,Wycombe,Not Started
+2024-11-23T15:00:00+00:00,2024,League One,England,Mansfield Town,,,Bristol Rovers,Not Started
+2024-11-23T15:00:00+00:00,2024,League One,England,Northampton,,,Cambridge United,Not Started
+2024-11-23T15:00:00+00:00,2024,League One,England,Peterborough,,,Reading,Not Started
+2024-11-23T15:00:00+00:00,2024,League One,England,Shrewsbury,,,Birmingham,Not Started
+2024-11-23T12:30:00+00:00,2024,League One,England,Stevenage,,,Leyton Orient,Not Started
+2024-11-23T15:00:00+00:00,2024,League One,England,Wrexham,,,Exeter City,Not Started
+2024-12-03T19:45:00+00:00,2024,League One,England,Birmingham,,,Stockport County,Not Started
+2024-12-03T19:45:00+00:00,2024,League One,England,Bolton,,,Mansfield Town,Not Started
+2024-12-03T19:45:00+00:00,2024,League One,England,Charlton,,,Crawley Town,Not Started
+2024-12-03T19:45:00+00:00,2024,League One,England,Exeter City,,,Wycombe,Not Started
+2024-12-03T20:00:00+00:00,2024,League One,England,Huddersfield,,,Wigan,Not Started
+2024-12-03T19:45:00+00:00,2024,League One,England,Leyton Orient,,,Bristol Rovers,Not Started
+2024-12-03T19:45:00+00:00,2024,League One,England,Peterborough,,,Burton Albion,Not Started
+2024-12-03T19:45:00+00:00,2024,League One,England,Rotherham,,,Lincoln,Not Started
+2024-12-03T19:45:00+00:00,2024,League One,England,Shrewsbury,,,Blackpool,Not Started
+2024-12-03T19:45:00+00:00,2024,League One,England,Stevenage,,,Northampton,Not Started
+2024-12-03T19:45:00+00:00,2024,League One,England,Wrexham,,,Barnsley,Not Started
+2024-12-03T20:00:00+00:00,2024,League One,England,Reading,,,Cambridge United,Not Started
+2024-12-07T15:00:00+00:00,2024,League One,England,Barnsley,,,Birmingham,Not Started
+2024-12-07T15:00:00+00:00,2024,League One,England,Blackpool,,,Rotherham,Not Started
+2024-12-07T15:00:00+00:00,2024,League One,England,Bristol Rovers,,,Bolton,Not Started
+2024-12-07T15:00:00+00:00,2024,League One,England,Burton Albion,,,Wrexham,Not Started
+2024-12-07T15:00:00+00:00,2024,League One,England,Cambridge United,,,Shrewsbury,Not Started
+2024-12-07T15:00:00+00:00,2024,League One,England,Crawley Town,,,Stevenage,Not Started
+2024-12-07T12:30:00+00:00,2024,League One,England,Lincoln,,,Charlton,Not Started
+2024-12-07T15:00:00+00:00,2024,League One,England,Mansfield Town,,,Huddersfield,Not Started
+2024-12-09T20:00:00+00:00,2024,League One,England,Northampton,,,Peterborough,Not Started
+2024-12-07T15:00:00+00:00,2024,League One,England,Stockport County,,,Exeter City,Not Started
+2024-12-07T12:30:00+00:00,2024,League One,England,Wigan,,,Leyton Orient,Not Started
+2024-12-07T15:00:00+00:00,2024,League One,England,Wycombe,,,Reading,Not Started
+2024-12-14T15:00:00+00:00,2024,League One,England,Birmingham,,,Bristol Rovers,Not Started
+2024-12-14T12:30:00+00:00,2024,League One,England,Bolton,,,Wigan,Not Started
+2024-12-14T15:00:00+00:00,2024,League One,England,Charlton,,,Mansfield Town,Not Started
+2024-12-14T15:00:00+00:00,2024,League One,England,Exeter City,,,Barnsley,Not Started
+2024-12-14T15:00:00+00:00,2024,League One,England,Huddersfield,,,Lincoln,Not Started
+2024-12-14T12:30:00+00:00,2024,League One,England,Leyton Orient,,,Burton Albion,Not Started
+2024-12-14T15:00:00+00:00,2024,League One,England,Peterborough,,,Crawley Town,Not Started
+2024-12-14T15:00:00+00:00,2024,League One,England,Reading,,,Blackpool,Not Started
+2024-12-14T15:00:00+00:00,2024,League One,England,Rotherham,,,Northampton,Not Started
+2024-12-14T15:00:00+00:00,2024,League One,England,Shrewsbury,,,Wycombe,Not Started
+2024-12-14T15:00:00+00:00,2024,League One,England,Stevenage,,,Stockport County,Not Started
+2024-12-14T15:00:00+00:00,2024,League One,England,Wrexham,,,Cambridge United,Not Started
+2024-12-21T15:00:00+00:00,2024,League One,England,Barnsley,,,Leyton Orient,Not Started
+2024-12-21T15:00:00+00:00,2024,League One,England,Blackpool,,,Stevenage,Not Started
+2024-12-21T12:30:00+00:00,2024,League One,England,Bristol Rovers,,,Wrexham,Not Started
+2024-12-21T15:00:00+00:00,2024,League One,England,Burton Albion,,,Exeter City,Not Started
+2024-12-20T19:45:00+00:00,2024,League One,England,Cambridge United,,,Huddersfield,Not Started
+2024-12-23T20:00:00+00:00,2024,League One,England,Crawley Town,,,Birmingham,Not Started
+2024-12-21T12:30:00+00:00,2024,League One,England,Lincoln,,,Reading,Not Started
+2024-12-21T15:00:00+00:00,2024,League One,England,Mansfield Town,,,Rotherham,Not Started
+2024-12-21T15:00:00+00:00,2024,League One,England,Northampton,,,Charlton,Not Started
+2024-12-20T19:45:00+00:00,2024,League One,England,Stockport County,,,Peterborough,Not Started
+2024-12-21T15:00:00+00:00,2024,League One,England,Wigan,,,Shrewsbury,Not Started
+2024-12-20T19:45:00+00:00,2024,League One,England,Wycombe,,,Bolton,Not Started
+2024-12-26T15:00:00+00:00,2024,League One,England,Birmingham,,,Burton Albion,Not Started
+2024-12-26T15:00:00+00:00,2024,League One,England,Bolton,,,Barnsley,Not Started
+2024-12-26T15:00:00+00:00,2024,League One,England,Charlton,,,Cambridge United,Not Started
+2024-12-26T15:00:00+00:00,2024,League One,England,Exeter City,,,Bristol Rovers,Not Started
+2024-12-26T15:00:00+00:00,2024,League One,England,Huddersfield,,,Stockport County,Not Started
+2024-12-26T13:00:00+00:00,2024,League One,England,Leyton Orient,,,Crawley Town,Not Started
+2024-12-26T15:00:00+00:00,2024,League One,England,Peterborough,,,Mansfield Town,Not Started
+2024-12-26T15:00:00+00:00,2024,League One,England,Reading,,,Northampton,Not Started
+2024-12-26T15:00:00+00:00,2024,League One,England,Rotherham,,,Wigan,Not Started
+2024-12-26T15:00:00+00:00,2024,League One,England,Shrewsbury,,,Lincoln,Not Started
+2024-12-26T15:00:00+00:00,2024,League One,England,Stevenage,,,Wycombe,Not Started
+2024-12-26T15:00:00+00:00,2024,League One,England,Wrexham,,,Blackpool,Not Started
+2024-12-29T15:00:00+00:00,2024,League One,England,Birmingham,,,Blackpool,Not Started
+2024-12-29T15:00:00+00:00,2024,League One,England,Bolton,,,Lincoln,Not Started
+2024-12-29T12:30:00+00:00,2024,League One,England,Charlton,,,Wycombe,Not Started
+2024-12-29T15:00:00+00:00,2024,League One,England,Exeter City,,,Crawley Town,Not Started
+2024-12-29T15:00:00+00:00,2024,League One,England,Huddersfield,,,Burton Albion,Not Started
+2024-12-29T15:00:00+00:00,2024,League One,England,Leyton Orient,,,Cambridge United,Not Started
+2024-12-29T15:00:00+00:00,2024,League One,England,Peterborough,,,Barnsley,Not Started
+2024-12-29T15:00:00+00:00,2024,League One,England,Reading,,,Mansfield Town,Not Started
+2024-12-29T12:30:00+00:00,2024,League One,England,Rotherham,,,Stockport County,Not Started
+2024-12-29T15:00:00+00:00,2024,League One,England,Shrewsbury,,,Northampton,Not Started
+2024-12-29T15:00:00+00:00,2024,League One,England,Stevenage,,,Bristol Rovers,Not Started
+2024-12-29T15:00:00+00:00,2024,League One,England,Wrexham,,,Wigan,Not Started
+2025-01-01T15:00:00+00:00,2024,League One,England,Barnsley,,,Wrexham,Not Started
+2025-01-01T15:00:00+00:00,2024,League One,England,Blackpool,,,Shrewsbury,Not Started
+2025-01-01T15:00:00+00:00,2024,League One,England,Bristol Rovers,,,Leyton Orient,Not Started
+2025-01-01T15:00:00+00:00,2024,League One,England,Burton Albion,,,Peterborough,Not Started
+2025-01-01T15:00:00+00:00,2024,League One,England,Cambridge United,,,Reading,Not Started
+2025-01-01T15:00:00+00:00,2024,League One,England,Crawley Town,,,Charlton,Not Started
+2025-01-01T15:00:00+00:00,2024,League One,England,Lincoln,,,Rotherham,Not Started
+2025-01-01T15:00:00+00:00,2024,League One,England,Mansfield Town,,,Bolton,Not Started
+2025-01-01T15:00:00+00:00,2024,League One,England,Northampton,,,Stevenage,Not Started
+2025-01-01T15:00:00+00:00,2024,League One,England,Stockport County,,,Birmingham,Not Started
+2025-01-01T15:00:00+00:00,2024,League One,England,Wigan,,,Huddersfield,Not Started
+2025-01-01T15:00:00+00:00,2024,League One,England,Wycombe,,,Exeter City,Not Started
+2025-01-04T15:00:00+00:00,2024,League One,England,Barnsley,,,Crawley Town,Not Started
+2025-01-04T12:30:00+00:00,2024,League One,England,Burton Albion,,,Northampton,Not Started
+2025-01-04T12:30:00+00:00,2024,League One,England,Cambridge United,,,Bristol Rovers,Not Started
+2025-01-04T15:00:00+00:00,2024,League One,England,Charlton,,,Reading,Not Started
+2025-01-04T15:00:00+00:00,2024,League One,England,Exeter City,,,Bolton,Not Started
+2025-01-04T15:00:00+00:00,2024,League One,England,Huddersfield,,,Rotherham,Not Started
+2025-01-04T15:00:00+00:00,2024,League One,England,Leyton Orient,,,Shrewsbury,Not Started
+2025-01-04T15:00:00+00:00,2024,League One,England,Lincoln,,,Stevenage,Not Started
+2025-01-04T15:00:00+00:00,2024,League One,England,Stockport County,,,Mansfield Town,Not Started
+2025-01-04T15:00:00+00:00,2024,League One,England,Wigan,,,Birmingham,Not Started
+2025-01-04T15:00:00+00:00,2024,League One,England,Wrexham,,,Peterborough,Not Started
+2025-01-04T15:00:00+00:00,2024,League One,England,Wycombe,,,Blackpool,Not Started
+2025-01-11T15:00:00+00:00,2024,League One,England,Birmingham,,,Leyton Orient,Not Started
+2025-01-11T15:00:00+00:00,2024,League One,England,Blackpool,,,Cambridge United,Not Started
+2025-01-11T15:00:00+00:00,2024,League One,England,Bolton,,,Charlton,Not Started
+2025-01-11T15:00:00+00:00,2024,League One,England,Bristol Rovers,,,Stockport County,Not Started
+2025-01-11T15:00:00+00:00,2024,League One,England,Crawley Town,,,Wigan,Not Started
+2025-01-11T15:00:00+00:00,2024,League One,England,Mansfield Town,,,Lincoln,Not Started
+2025-01-11T15:00:00+00:00,2024,League One,England,Northampton,,,Barnsley,Not Started
+2025-01-11T15:00:00+00:00,2024,League One,England,Peterborough,,,Exeter City,Not Started
+2025-01-11T15:00:00+00:00,2024,League One,England,Reading,,,Wrexham,Not Started
+2025-01-11T15:00:00+00:00,2024,League One,England,Rotherham,,,Wycombe,Not Started
+2025-01-11T15:00:00+00:00,2024,League One,England,Shrewsbury,,,Huddersfield,Not Started
+2025-01-11T15:00:00+00:00,2024,League One,England,Stevenage,,,Burton Albion,Not Started
+2025-01-18T15:00:00+00:00,2024,League One,England,Birmingham,,,Exeter City,Not Started
+2025-01-18T15:00:00+00:00,2024,League One,England,Blackpool,,,Huddersfield,Not Started
+2025-01-18T15:00:00+00:00,2024,League One,England,Bolton,,,Cambridge United,Not Started
+2025-01-18T15:00:00+00:00,2024,League One,England,Bristol Rovers,,,Barnsley,Not Started
+2025-01-18T15:00:00+00:00,2024,League One,England,Crawley Town,,,Burton Albion,Not Started
+2025-01-18T15:00:00+00:00,2024,League One,England,Mansfield Town,,,Wycombe,Not Started
+2025-01-18T15:00:00+00:00,2024,League One,England,Northampton,,,Lincoln,Not Started
+2025-01-18T15:00:00+00:00,2024,League One,England,Peterborough,,,Leyton Orient,Not Started
+2025-01-18T15:00:00+00:00,2024,League One,England,Reading,,,Stockport County,Not Started
+2025-01-18T15:00:00+00:00,2024,League One,England,Rotherham,,,Charlton,Not Started
+2025-01-18T15:00:00+00:00,2024,League One,England,Shrewsbury,,,Wrexham,Not Started
+2025-01-18T15:00:00+00:00,2024,League One,England,Stevenage,,,Wigan,Not Started
+2025-01-25T15:00:00+00:00,2024,League One,England,Barnsley,,,Stevenage,Not Started
+2025-01-25T15:00:00+00:00,2024,League One,England,Burton Albion,,,Rotherham,Not Started
+2025-01-25T15:00:00+00:00,2024,League One,England,Cambridge United,,,Mansfield Town,Not Started
+2025-01-25T15:00:00+00:00,2024,League One,England,Charlton,,,Shrewsbury,Not Started
+2025-01-25T15:00:00+00:00,2024,League One,England,Exeter City,,,Blackpool,Not Started
+2025-01-25T15:00:00+00:00,2024,League One,England,Huddersfield,,,Bolton,Not Started
+2025-01-25T15:00:00+00:00,2024,League One,England,Leyton Orient,,,Reading,Not Started
+2025-01-25T15:00:00+00:00,2024,League One,England,Lincoln,,,Peterborough,Not Started
+2025-01-25T15:00:00+00:00,2024,League One,England,Stockport County,,,Crawley Town,Not Started
+2025-01-25T15:00:00+00:00,2024,League One,England,Wigan,,,Bristol Rovers,Not Started
+2025-01-25T15:00:00+00:00,2024,League One,England,Wrexham,,,Birmingham,Not Started
+2025-01-25T15:00:00+00:00,2024,League One,England,Wycombe,,,Northampton,Not Started
+2025-01-28T19:45:00+00:00,2024,League One,England,Bolton,,,Northampton,Not Started
+2025-01-28T19:45:00+00:00,2024,League One,England,Burton Albion,,,Reading,Not Started
+2025-01-28T19:45:00+00:00,2024,League One,England,Charlton,,,Bristol Rovers,Not Started
+2025-01-28T19:45:00+00:00,2024,League One,England,Exeter City,,,Leyton Orient,Not Started
+2025-01-28T19:45:00+00:00,2024,League One,England,Huddersfield,,,Birmingham,Not Started
+2025-01-28T19:45:00+00:00,2024,League One,England,Lincoln,,,Blackpool,Not Started
+2025-01-28T19:45:00+00:00,2024,League One,England,Mansfield Town,,,Crawley Town,Not Started
+2025-01-28T19:45:00+00:00,2024,League One,England,Peterborough,,,Wigan,Not Started
+2025-01-28T19:45:00+00:00,2024,League One,England,Rotherham,,,Cambridge United,Not Started
+2025-01-28T19:45:00+00:00,2024,League One,England,Stockport County,,,Shrewsbury,Not Started
+2025-01-28T19:45:00+00:00,2024,League One,England,Wrexham,,,Stevenage,Not Started
+2025-01-28T19:45:00+00:00,2024,League One,England,Wycombe,,,Barnsley,Not Started
+2025-02-01T15:00:00+00:00,2024,League One,England,Barnsley,,,Burton Albion,Not Started
+2025-02-01T15:00:00+00:00,2024,League One,England,Birmingham,,,Rotherham,Not Started
+2025-02-01T15:00:00+00:00,2024,League One,England,Blackpool,,,Charlton,Not Started
+2025-02-01T15:00:00+00:00,2024,League One,England,Bristol Rovers,,,Peterborough,Not Started
+2025-02-01T15:00:00+00:00,2024,League One,England,Cambridge United,,,Wycombe,Not Started
+2025-02-01T15:00:00+00:00,2024,League One,England,Crawley Town,,,Wrexham,Not Started
+2025-02-01T15:00:00+00:00,2024,League One,England,Leyton Orient,,,Stockport County,Not Started
+2025-02-01T15:00:00+00:00,2024,League One,England,Northampton,,,Huddersfield,Not Started
+2025-02-01T15:00:00+00:00,2024,League One,England,Reading,,,Bolton,Not Started
+2025-02-01T15:00:00+00:00,2024,League One,England,Shrewsbury,,,Mansfield Town,Not Started
+2025-02-01T15:00:00+00:00,2024,League One,England,Stevenage,,,Exeter City,Not Started
+2025-02-01T15:00:00+00:00,2024,League One,England,Wigan,,,Lincoln,Not Started
+2025-02-08T15:00:00+00:00,2024,League One,England,Bolton,,,Crawley Town,Not Started
+2025-02-08T15:00:00+00:00,2024,League One,England,Burton Albion,,,Blackpool,Not Started
+2025-02-08T15:00:00+00:00,2024,League One,England,Charlton,,,Stevenage,Not Started
+2025-02-08T15:00:00+00:00,2024,League One,England,Exeter City,,,Wigan,Not Started
+2025-02-08T15:00:00+00:00,2024,League One,England,Huddersfield,,,Reading,Not Started
+2025-02-08T15:00:00+00:00,2024,League One,England,Lincoln,,,Cambridge United,Not Started
+2025-02-08T15:00:00+00:00,2024,League One,England,Mansfield Town,,,Northampton,Not Started
+2025-02-08T15:00:00+00:00,2024,League One,England,Peterborough,,,Birmingham,Not Started
+2025-02-08T15:00:00+00:00,2024,League One,England,Rotherham,,,Shrewsbury,Not Started
+2025-02-08T15:00:00+00:00,2024,League One,England,Stockport County,,,Barnsley,Not Started
+2025-02-08T15:00:00+00:00,2024,League One,England,Wrexham,,,Leyton Orient,Not Started
+2025-02-08T15:00:00+00:00,2024,League One,England,Wycombe,,,Bristol Rovers,Not Started
+2025-02-15T15:00:00+00:00,2024,League One,England,Barnsley,,,Huddersfield,Not Started
+2025-02-15T15:00:00+00:00,2024,League One,England,Birmingham,,,Charlton,Not Started
+2025-02-15T15:00:00+00:00,2024,League One,England,Blackpool,,,Mansfield Town,Not Started
+2025-02-15T15:00:00+00:00,2024,League One,England,Bristol Rovers,,,Burton Albion,Not Started
+2025-02-15T15:00:00+00:00,2024,League One,England,Cambridge United,,,Exeter City,Not Started
+2025-02-15T15:00:00+00:00,2024,League One,England,Crawley Town,,,Wycombe,Not Started
+2025-02-15T15:00:00+00:00,2024,League One,England,Leyton Orient,,,Lincoln,Not Started
+2025-02-15T15:00:00+00:00,2024,League One,England,Northampton,,,Wrexham,Not Started
+2025-02-15T15:00:00+00:00,2024,League One,England,Reading,,,Rotherham,Not Started
+2025-02-15T15:00:00+00:00,2024,League One,England,Shrewsbury,,,Bolton,Not Started
+2025-02-15T15:00:00+00:00,2024,League One,England,Stevenage,,,Peterborough,Not Started
+2025-02-15T15:00:00+00:00,2024,League One,England,Wigan,,,Stockport County,Not Started
+2025-02-22T15:00:00+00:00,2024,League One,England,Blackpool,,,Crawley Town,Not Started
+2025-02-22T15:00:00+00:00,2024,League One,England,Bolton,,,Leyton Orient,Not Started
+2025-02-22T15:00:00+00:00,2024,League One,England,Cambridge United,,,Stockport County,Not Started
+2025-02-22T15:00:00+00:00,2024,League One,England,Charlton,,,Exeter City,Not Started
+2025-02-22T15:00:00+00:00,2024,League One,England,Huddersfield,,,Peterborough,Not Started
+2025-02-22T15:00:00+00:00,2024,League One,England,Lincoln,,,Burton Albion,Not Started
+2025-02-22T15:00:00+00:00,2024,League One,England,Mansfield Town,,,Wrexham,Not Started
+2025-02-22T15:00:00+00:00,2024,League One,England,Northampton,,,Bristol Rovers,Not Started
+2025-02-22T15:00:00+00:00,2024,League One,England,Reading,,,Birmingham,Not Started
+2025-02-22T15:00:00+00:00,2024,League One,England,Rotherham,,,Barnsley,Not Started
+2025-02-22T15:00:00+00:00,2024,League One,England,Shrewsbury,,,Stevenage,Not Started
+2025-02-22T15:00:00+00:00,2024,League One,England,Wycombe,,,Wigan,Not Started
+2025-03-01T15:00:00+00:00,2024,League One,England,Barnsley,,,Lincoln,Not Started
+2025-03-01T15:00:00+00:00,2024,League One,England,Birmingham,,,Wycombe,Not Started
+2025-03-01T15:00:00+00:00,2024,League One,England,Bristol Rovers,,,Rotherham,Not Started
+2025-03-01T15:00:00+00:00,2024,League One,England,Burton Albion,,,Mansfield Town,Not Started
+2025-03-01T15:00:00+00:00,2024,League One,England,Crawley Town,,,Cambridge United,Not Started
+2025-03-01T15:00:00+00:00,2024,League One,England,Exeter City,,,Northampton,Not Started
+2025-03-01T15:00:00+00:00,2024,League One,England,Leyton Orient,,,Charlton,Not Started
+2025-03-01T15:00:00+00:00,2024,League One,England,Peterborough,,,Shrewsbury,Not Started
+2025-03-01T15:00:00+00:00,2024,League One,England,Stevenage,,,Huddersfield,Not Started
+2025-03-01T15:00:00+00:00,2024,League One,England,Stockport County,,,Blackpool,Not Started
+2025-03-01T15:00:00+00:00,2024,League One,England,Wigan,,,Reading,Not Started
+2025-03-01T15:00:00+00:00,2024,League One,England,Wrexham,,,Bolton,Not Started
+2025-03-04T19:45:00+00:00,2024,League One,England,Blackpool,,,Peterborough,Not Started
+2025-03-04T19:45:00+00:00,2024,League One,England,Bolton,,,Birmingham,Not Started
+2025-03-04T19:45:00+00:00,2024,League One,England,Cambridge United,,,Stevenage,Not Started
+2025-03-04T19:45:00+00:00,2024,League One,England,Charlton,,,Barnsley,Not Started
+2025-03-04T19:45:00+00:00,2024,League One,England,Huddersfield,,,Wrexham,Not Started
+2025-03-04T19:45:00+00:00,2024,League One,England,Lincoln,,,Crawley Town,Not Started
+2025-03-04T19:45:00+00:00,2024,League One,England,Mansfield Town,,,Wigan,Not Started
+2025-03-04T19:45:00+00:00,2024,League One,England,Northampton,,,Stockport County,Not Started
+2025-03-04T19:45:00+00:00,2024,League One,England,Rotherham,,,Leyton Orient,Not Started
+2025-03-04T19:45:00+00:00,2024,League One,England,Shrewsbury,,,Bristol Rovers,Not Started
+2025-03-04T19:45:00+00:00,2024,League One,England,Wycombe,,,Burton Albion,Not Started
+2025-03-04T20:00:00+00:00,2024,League One,England,Reading,,,Exeter City,Not Started
+2025-03-08T15:00:00+00:00,2024,League One,England,Barnsley,,,Blackpool,Not Started
+2025-03-08T15:00:00+00:00,2024,League One,England,Birmingham,,,Lincoln,Not Started
+2025-03-08T15:00:00+00:00,2024,League One,England,Bristol Rovers,,,Huddersfield,Not Started
+2025-03-08T15:00:00+00:00,2024,League One,England,Burton Albion,,,Bolton,Not Started
+2025-03-08T15:00:00+00:00,2024,League One,England,Crawley Town,,,Reading,Not Started
+2025-03-08T15:00:00+00:00,2024,League One,England,Exeter City,,,Shrewsbury,Not Started
+2025-03-08T15:00:00+00:00,2024,League One,England,Leyton Orient,,,Northampton,Not Started
+2025-03-08T15:00:00+00:00,2024,League One,England,Peterborough,,,Wycombe,Not Started
+2025-03-08T15:00:00+00:00,2024,League One,England,Stevenage,,,Mansfield Town,Not Started
+2025-03-08T15:00:00+00:00,2024,League One,England,Stockport County,,,Charlton,Not Started
+2025-03-08T15:00:00+00:00,2024,League One,England,Wigan,,,Cambridge United,Not Started
+2025-03-08T15:00:00+00:00,2024,League One,England,Wrexham,,,Rotherham,Not Started
+2025-03-15T15:00:00+00:00,2024,League One,England,Blackpool,,,Leyton Orient,Not Started
+2025-03-15T15:00:00+00:00,2024,League One,England,Bolton,,,Stockport County,Not Started
+2025-03-15T15:00:00+00:00,2024,League One,England,Cambridge United,,,Peterborough,Not Started
+2025-03-15T15:00:00+00:00,2024,League One,England,Charlton,,,Wigan,Not Started
+2025-03-15T15:00:00+00:00,2024,League One,England,Huddersfield,,,Crawley Town,Not Started
+2025-03-15T15:00:00+00:00,2024,League One,England,Lincoln,,,Bristol Rovers,Not Started
+2025-03-15T15:00:00+00:00,2024,League One,England,Mansfield Town,,,Barnsley,Not Started
+2025-03-15T15:00:00+00:00,2024,League One,England,Northampton,,,Birmingham,Not Started
+2025-03-15T15:00:00+00:00,2024,League One,England,Reading,,,Stevenage,Not Started
+2025-03-15T15:00:00+00:00,2024,League One,England,Rotherham,,,Exeter City,Not Started
+2025-03-15T15:00:00+00:00,2024,League One,England,Shrewsbury,,,Burton Albion,Not Started
+2025-03-15T15:00:00+00:00,2024,League One,England,Wycombe,,,Wrexham,Not Started
+2025-03-22T15:00:00+00:00,2024,League One,England,Barnsley,,,Cambridge United,Not Started
+2025-03-22T15:00:00+00:00,2024,League One,England,Bolton,,,Rotherham,Not Started
+2025-03-22T15:00:00+00:00,2024,League One,England,Burton Albion,,,Wigan,Not Started
+2025-03-22T15:00:00+00:00,2024,League One,England,Crawley Town,,,Bristol Rovers,Not Started
+2025-03-22T15:00:00+00:00,2024,League One,England,Huddersfield,,,Wycombe,Not Started
+2025-03-22T15:00:00+00:00,2024,League One,England,Lincoln,,,Exeter City,Not Started
+2025-03-22T15:00:00+00:00,2024,League One,England,Mansfield Town,,,Leyton Orient,Not Started
+2025-03-22T15:00:00+00:00,2024,League One,England,Northampton,,,Blackpool,Not Started
+2025-03-22T15:00:00+00:00,2024,League One,England,Peterborough,,,Charlton,Not Started
+2025-03-22T15:00:00+00:00,2024,League One,England,Shrewsbury,,,Reading,Not Started
+2025-03-22T15:00:00+00:00,2024,League One,England,Stevenage,,,Birmingham,Not Started
+2025-03-22T15:00:00+00:00,2024,League One,England,Wrexham,,,Stockport County,Not Started
+2025-03-29T15:00:00+00:00,2024,League One,England,Birmingham,,,Shrewsbury,Not Started
+2025-03-29T15:00:00+00:00,2024,League One,England,Blackpool,,,Bolton,Not Started
+2025-03-29T15:00:00+00:00,2024,League One,England,Bristol Rovers,,,Mansfield Town,Not Started
+2025-03-29T15:00:00+00:00,2024,League One,England,Cambridge United,,,Northampton,Not Started
+2025-03-29T15:00:00+00:00,2024,League One,England,Charlton,,,Huddersfield,Not Started
+2025-03-29T15:00:00+00:00,2024,League One,England,Exeter City,,,Wrexham,Not Started
+2025-03-29T15:00:00+00:00,2024,League One,England,Leyton Orient,,,Stevenage,Not Started
+2025-03-29T15:00:00+00:00,2024,League One,England,Reading,,,Peterborough,Not Started
+2025-03-29T15:00:00+00:00,2024,League One,England,Rotherham,,,Crawley Town,Not Started
+2025-03-29T15:00:00+00:00,2024,League One,England,Stockport County,,,Burton Albion,Not Started
+2025-03-29T15:00:00+00:00,2024,League One,England,Wigan,,,Barnsley,Not Started
+2025-03-29T15:00:00+00:00,2024,League One,England,Wycombe,,,Lincoln,Not Started
+2025-04-01T18:45:00+00:00,2024,League One,England,Barnsley,,,Exeter City,Not Started
+2025-04-01T18:45:00+00:00,2024,League One,England,Blackpool,,,Reading,Not Started
+2025-04-01T18:45:00+00:00,2024,League One,England,Bristol Rovers,,,Birmingham,Not Started
+2025-04-01T18:45:00+00:00,2024,League One,England,Burton Albion,,,Leyton Orient,Not Started
+2025-04-01T18:45:00+00:00,2024,League One,England,Cambridge United,,,Wrexham,Not Started
+2025-04-01T18:45:00+00:00,2024,League One,England,Crawley Town,,,Peterborough,Not Started
+2025-04-01T18:45:00+00:00,2024,League One,England,Lincoln,,,Huddersfield,Not Started
+2025-04-01T18:45:00+00:00,2024,League One,England,Mansfield Town,,,Charlton,Not Started
+2025-04-01T18:45:00+00:00,2024,League One,England,Northampton,,,Rotherham,Not Started
+2025-04-01T18:45:00+00:00,2024,League One,England,Stockport County,,,Stevenage,Not Started
+2025-04-01T18:45:00+00:00,2024,League One,England,Wigan,,,Bolton,Not Started
+2025-04-01T18:45:00+00:00,2024,League One,England,Wycombe,,,Shrewsbury,Not Started
+2025-04-05T14:00:00+00:00,2024,League One,England,Birmingham,,,Barnsley,Not Started
+2025-04-05T14:00:00+00:00,2024,League One,England,Bolton,,,Bristol Rovers,Not Started
+2025-04-05T14:00:00+00:00,2024,League One,England,Charlton,,,Lincoln,Not Started
+2025-04-05T14:00:00+00:00,2024,League One,England,Exeter City,,,Stockport County,Not Started
+2025-04-05T14:00:00+00:00,2024,League One,England,Huddersfield,,,Mansfield Town,Not Started
+2025-04-05T14:00:00+00:00,2024,League One,England,Leyton Orient,,,Wigan,Not Started
+2025-04-05T14:00:00+00:00,2024,League One,England,Peterborough,,,Northampton,Not Started
+2025-04-05T14:00:00+00:00,2024,League One,England,Reading,,,Wycombe,Not Started
+2025-04-05T14:00:00+00:00,2024,League One,England,Rotherham,,,Blackpool,Not Started
+2025-04-05T14:00:00+00:00,2024,League One,England,Shrewsbury,,,Cambridge United,Not Started
+2025-04-05T14:00:00+00:00,2024,League One,England,Stevenage,,,Crawley Town,Not Started
+2025-04-05T14:00:00+00:00,2024,League One,England,Wrexham,,,Burton Albion,Not Started
+2025-04-12T14:00:00+00:00,2024,League One,England,Barnsley,,,Bolton,Not Started
+2025-04-12T14:00:00+00:00,2024,League One,England,Blackpool,,,Birmingham,Not Started
+2025-04-12T14:00:00+00:00,2024,League One,England,Bristol Rovers,,,Exeter City,Not Started
+2025-04-12T14:00:00+00:00,2024,League One,England,Burton Albion,,,Huddersfield,Not Started
+2025-04-12T14:00:00+00:00,2024,League One,England,Cambridge United,,,Charlton,Not Started
+2025-04-12T14:00:00+00:00,2024,League One,England,Crawley Town,,,Leyton Orient,Not Started
+2025-04-12T14:00:00+00:00,2024,League One,England,Lincoln,,,Shrewsbury,Not Started
+2025-04-12T14:00:00+00:00,2024,League One,England,Mansfield Town,,,Peterborough,Not Started
+2025-04-12T14:00:00+00:00,2024,League One,England,Northampton,,,Reading,Not Started
+2025-04-12T14:00:00+00:00,2024,League One,England,Stockport County,,,Rotherham,Not Started
+2025-04-12T14:00:00+00:00,2024,League One,England,Wigan,,,Wrexham,Not Started
+2025-04-12T14:00:00+00:00,2024,League One,England,Wycombe,,,Stevenage,Not Started
+2025-04-18T14:00:00+00:00,2024,League One,England,Birmingham,,,Crawley Town,Not Started
+2025-04-18T14:00:00+00:00,2024,League One,England,Bolton,,,Wycombe,Not Started
+2025-04-18T14:00:00+00:00,2024,League One,England,Charlton,,,Northampton,Not Started
+2025-04-18T12:00:00+00:00,2024,League One,England,Exeter City,,,Burton Albion,Not Started
+2025-04-18T14:00:00+00:00,2024,League One,England,Huddersfield,,,Cambridge United,Not Started
+2025-04-18T14:00:00+00:00,2024,League One,England,Leyton Orient,,,Barnsley,Not Started
+2025-04-18T14:00:00+00:00,2024,League One,England,Peterborough,,,Stockport County,Not Started
+2025-04-18T14:00:00+00:00,2024,League One,England,Reading,,,Lincoln,Not Started
+2025-04-18T14:00:00+00:00,2024,League One,England,Rotherham,,,Mansfield Town,Not Started
+2025-04-18T14:00:00+00:00,2024,League One,England,Shrewsbury,,,Wigan,Not Started
+2025-04-18T14:00:00+00:00,2024,League One,England,Stevenage,,,Blackpool,Not Started
+2025-04-18T14:00:00+00:00,2024,League One,England,Wrexham,,,Bristol Rovers,Not Started
+2025-04-21T14:00:00+00:00,2024,League One,England,Barnsley,,,Peterborough,Not Started
+2025-04-21T14:00:00+00:00,2024,League One,England,Blackpool,,,Wrexham,Not Started
+2025-04-21T14:00:00+00:00,2024,League One,England,Bristol Rovers,,,Stevenage,Not Started
+2025-04-21T14:00:00+00:00,2024,League One,England,Burton Albion,,,Birmingham,Not Started
+2025-04-21T14:00:00+00:00,2024,League One,England,Cambridge United,,,Leyton Orient,Not Started
+2025-04-21T14:00:00+00:00,2024,League One,England,Crawley Town,,,Exeter City,Not Started
+2025-04-21T14:00:00+00:00,2024,League One,England,Lincoln,,,Bolton,Not Started
+2025-04-21T14:00:00+00:00,2024,League One,England,Mansfield Town,,,Reading,Not Started
+2025-04-21T14:00:00+00:00,2024,League One,England,Northampton,,,Shrewsbury,Not Started
+2025-04-21T14:00:00+00:00,2024,League One,England,Stockport County,,,Huddersfield,Not Started
+2025-04-21T14:00:00+00:00,2024,League One,England,Wigan,,,Rotherham,Not Started
+2025-04-21T14:00:00+00:00,2024,League One,England,Wycombe,,,Charlton,Not Started
+2025-04-26T14:00:00+00:00,2024,League One,England,Barnsley,,,Shrewsbury,Not Started
+2025-04-26T14:00:00+00:00,2024,League One,England,Birmingham,,,Mansfield Town,Not Started
+2025-04-26T14:00:00+00:00,2024,League One,England,Bristol Rovers,,,Reading,Not Started
+2025-04-26T14:00:00+00:00,2024,League One,England,Burton Albion,,,Cambridge United,Not Started
+2025-04-26T14:00:00+00:00,2024,League One,England,Crawley Town,,,Northampton,Not Started
+2025-04-26T14:00:00+00:00,2024,League One,England,Exeter City,,,Huddersfield,Not Started
+2025-04-26T14:00:00+00:00,2024,League One,England,Leyton Orient,,,Wycombe,Not Started
+2025-04-26T14:00:00+00:00,2024,League One,England,Peterborough,,,Bolton,Not Started
+2025-04-26T14:00:00+00:00,2024,League One,England,Stevenage,,,Rotherham,Not Started
+2025-04-26T14:00:00+00:00,2024,League One,England,Stockport County,,,Lincoln,Not Started
+2025-04-26T14:00:00+00:00,2024,League One,England,Wigan,,,Blackpool,Not Started
+2025-04-26T14:00:00+00:00,2024,League One,England,Wrexham,,,Charlton,Not Started
+2025-05-03T14:00:00+00:00,2024,League One,England,Blackpool,,,Bristol Rovers,Not Started
+2025-05-03T14:00:00+00:00,2024,League One,England,Bolton,,,Stevenage,Not Started
+2025-05-03T14:00:00+00:00,2024,League One,England,Cambridge United,,,Birmingham,Not Started
+2025-05-03T14:00:00+00:00,2024,League One,England,Charlton,,,Burton Albion,Not Started
+2025-05-03T14:00:00+00:00,2024,League One,England,Huddersfield,,,Leyton Orient,Not Started
+2025-05-03T14:00:00+00:00,2024,League One,England,Lincoln,,,Wrexham,Not Started
+2025-05-03T14:00:00+00:00,2024,League One,England,Mansfield Town,,,Exeter City,Not Started
+2025-05-03T14:00:00+00:00,2024,League One,England,Northampton,,,Wigan,Not Started
+2025-05-03T14:00:00+00:00,2024,League One,England,Reading,,,Barnsley,Not Started
+2025-05-03T14:00:00+00:00,2024,League One,England,Rotherham,,,Peterborough,Not Started
+2025-05-03T14:00:00+00:00,2024,League One,England,Shrewsbury,,,Crawley Town,Not Started
+2025-05-03T14:00:00+00:00,2024,League One,England,Wycombe,,,Stockport County,Not Started

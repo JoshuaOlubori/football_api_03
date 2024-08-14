@@ -1,0 +1,181 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-02T18:45:00+00:00,2024,Championship,Scotland,Falkirk,2,1,Queen's Park,Match Finished
+2024-08-03T14:00:00+00:00,2024,Championship,Scotland,Airdrie United,1,0,Raith Rovers,Match Finished
+2024-08-03T14:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,0,2,Ayr Utd,Match Finished
+2024-08-03T14:00:00+00:00,2024,Championship,Scotland,Livingston,2,0,Dunfermline,Match Finished
+2024-08-03T14:00:00+00:00,2024,Championship,Scotland,Partick,0,0,Morton,Match Finished
+2024-08-09T18:45:00+00:00,2024,Championship,Scotland,Ayr Utd,5,0,Airdrie United,Match Finished
+2024-08-10T14:00:00+00:00,2024,Championship,Scotland,Dunfermline,0,2,Falkirk,Match Finished
+2024-08-10T14:00:00+00:00,2024,Championship,Scotland,Morton,0,0,Hamilton Academical,Match Finished
+2024-08-09T18:45:00+00:00,2024,Championship,Scotland,Queen's Park,1,1,Livingston,Match Finished
+2024-08-10T14:00:00+00:00,2024,Championship,Scotland,Raith Rovers,1,0,Partick,Match Finished
+2024-08-24T14:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Queen's Park,Not Started
+2024-08-24T14:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Raith Rovers,Not Started
+2024-08-24T14:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Partick,Not Started
+2024-08-24T14:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Dunfermline,Not Started
+2024-08-24T14:00:00+00:00,2024,Championship,Scotland,Livingston,,,Morton,Not Started
+2024-08-31T14:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Ayr Utd,Not Started
+2024-08-31T14:00:00+00:00,2024,Championship,Scotland,Morton,,,Falkirk,Not Started
+2024-08-31T14:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Airdrie United,Not Started
+2024-08-31T14:00:00+00:00,2024,Championship,Scotland,Partick,,,Queen's Park,Not Started
+2024-08-31T14:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Livingston,Not Started
+2024-09-14T14:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Falkirk,Not Started
+2024-09-14T14:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Partick,Not Started
+2024-09-14T14:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Raith Rovers,Not Started
+2024-09-14T14:00:00+00:00,2024,Championship,Scotland,Livingston,,,Hamilton Academical,Not Started
+2024-09-14T14:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Morton,Not Started
+2024-09-21T14:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Livingston,Not Started
+2024-09-21T14:00:00+00:00,2024,Championship,Scotland,Morton,,,Airdrie United,Not Started
+2024-09-21T14:00:00+00:00,2024,Championship,Scotland,Partick,,,Dunfermline,Not Started
+2024-09-21T14:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Ayr Utd,Not Started
+2024-09-21T14:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Hamilton Academical,Not Started
+2024-09-28T14:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Morton,Not Started
+2024-09-28T14:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Queen's Park,Not Started
+2024-09-28T14:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Partick,Not Started
+2024-09-28T14:00:00+00:00,2024,Championship,Scotland,Livingston,,,Airdrie United,Not Started
+2024-09-28T14:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Falkirk,Not Started
+2024-10-05T14:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Dunfermline,Not Started
+2024-10-05T14:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Ayr Utd,Not Started
+2024-10-05T14:00:00+00:00,2024,Championship,Scotland,Morton,,,Raith Rovers,Not Started
+2024-10-05T14:00:00+00:00,2024,Championship,Scotland,Partick,,,Livingston,Not Started
+2024-10-05T14:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Hamilton Academical,Not Started
+2024-10-19T14:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Livingston,Not Started
+2024-10-19T14:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Morton,Not Started
+2024-10-19T14:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Falkirk,Not Started
+2024-10-19T14:00:00+00:00,2024,Championship,Scotland,Partick,,,Airdrie United,Not Started
+2024-10-19T14:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Queen's Park,Not Started
+2024-10-26T14:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Ayr Utd,Not Started
+2024-10-26T14:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Dunfermline,Not Started
+2024-10-26T14:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Morton,Not Started
+2024-10-26T14:00:00+00:00,2024,Championship,Scotland,Livingston,,,Raith Rovers,Not Started
+2024-10-26T14:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Partick,Not Started
+2024-08-17T14:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Hamilton Academical,Not Started
+2024-10-29T19:45:00+00:00,2024,Championship,Scotland,Dunfermline,,,Livingston,Not Started
+2024-10-29T19:45:00+00:00,2024,Championship,Scotland,Morton,,,Queen's Park,Not Started
+2024-10-29T19:45:00+00:00,2024,Championship,Scotland,Partick,,,Falkirk,Not Started
+2024-10-29T19:45:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Airdrie United,Not Started
+2024-11-02T15:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Hamilton Academical,Not Started
+2024-11-02T15:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Partick,Not Started
+2024-11-02T15:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Morton,Not Started
+2024-11-02T15:00:00+00:00,2024,Championship,Scotland,Livingston,,,Queen's Park,Not Started
+2024-11-02T15:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Ayr Utd,Not Started
+2024-11-09T15:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Airdrie United,Not Started
+2024-11-09T15:00:00+00:00,2024,Championship,Scotland,Morton,,,Ayr Utd,Not Started
+2024-11-09T15:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Livingston,Not Started
+2024-11-09T15:00:00+00:00,2024,Championship,Scotland,Partick,,,Raith Rovers,Not Started
+2024-11-09T15:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Dunfermline,Not Started
+2024-11-16T15:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Queen's Park,Not Started
+2024-11-16T15:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Airdrie United,Not Started
+2024-11-16T15:00:00+00:00,2024,Championship,Scotland,Livingston,,,Falkirk,Not Started
+2024-11-16T15:00:00+00:00,2024,Championship,Scotland,Partick,,,Hamilton Academical,Not Started
+2024-11-16T15:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Morton,Not Started
+2024-11-23T15:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Livingston,Not Started
+2024-11-23T15:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Dunfermline,Not Started
+2024-11-23T15:00:00+00:00,2024,Championship,Scotland,Morton,,,Partick,Not Started
+2024-11-23T15:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Raith Rovers,Not Started
+2024-11-23T15:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Falkirk,Not Started
+2024-12-07T15:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Hamilton Academical,Not Started
+2024-12-07T15:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Raith Rovers,Not Started
+2024-12-07T15:00:00+00:00,2024,Championship,Scotland,Morton,,,Livingston,Not Started
+2024-12-07T15:00:00+00:00,2024,Championship,Scotland,Partick,,,Ayr Utd,Not Started
+2024-12-07T15:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Airdrie United,Not Started
+2024-12-14T15:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Morton,Not Started
+2024-12-14T15:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Falkirk,Not Started
+2024-12-14T15:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Queen's Park,Not Started
+2024-12-14T15:00:00+00:00,2024,Championship,Scotland,Livingston,,,Partick,Not Started
+2024-12-14T15:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Dunfermline,Not Started
+2024-12-21T15:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Partick,Not Started
+2024-12-21T15:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Hamilton Academical,Not Started
+2024-12-21T15:00:00+00:00,2024,Championship,Scotland,Morton,,,Dunfermline,Not Started
+2024-12-21T15:00:00+00:00,2024,Championship,Scotland,Livingston,,,Ayr Utd,Not Started
+2024-12-21T15:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Raith Rovers,Not Started
+2024-12-28T15:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Morton,Not Started
+2024-12-28T15:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Falkirk,Not Started
+2024-12-28T15:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Airdrie United,Not Started
+2024-12-28T15:00:00+00:00,2024,Championship,Scotland,Partick,,,Queen's Park,Not Started
+2024-12-28T15:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Livingston,Not Started
+2025-01-04T15:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Falkirk,Not Started
+2025-01-04T15:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Raith Rovers,Not Started
+2025-01-04T15:00:00+00:00,2024,Championship,Scotland,Morton,,,Hamilton Academical,Not Started
+2025-01-04T15:00:00+00:00,2024,Championship,Scotland,Partick,,,Dunfermline,Not Started
+2025-01-04T15:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Livingston,Not Started
+2025-01-11T15:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Ayr Utd,Not Started
+2025-01-11T15:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Queen's Park,Not Started
+2025-01-11T15:00:00+00:00,2024,Championship,Scotland,Morton,,,Raith Rovers,Not Started
+2025-01-11T15:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Partick,Not Started
+2025-01-11T15:00:00+00:00,2024,Championship,Scotland,Livingston,,,Airdrie United,Not Started
+2025-01-25T15:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Dunfermline,Not Started
+2025-01-25T15:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Partick,Not Started
+2025-01-25T15:00:00+00:00,2024,Championship,Scotland,Livingston,,,Hamilton Academical,Not Started
+2025-01-25T15:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Morton,Not Started
+2025-01-25T15:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Falkirk,Not Started
+2025-02-01T15:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Queen's Park,Not Started
+2025-02-01T15:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Raith Rovers,Not Started
+2025-02-01T15:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Livingston,Not Started
+2025-02-01T15:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Ayr Utd,Not Started
+2025-02-01T15:00:00+00:00,2024,Championship,Scotland,Partick,,,Morton,Not Started
+2025-02-15T15:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Ayr Utd,Not Started
+2025-02-15T15:00:00+00:00,2024,Championship,Scotland,Morton,,,Airdrie United,Not Started
+2025-02-15T15:00:00+00:00,2024,Championship,Scotland,Livingston,,,Dunfermline,Not Started
+2025-02-15T15:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Hamilton Academical,Not Started
+2025-02-15T15:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Partick,Not Started
+2025-02-22T15:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Livingston,Not Started
+2025-02-22T15:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Queen's Park,Not Started
+2025-02-22T15:00:00+00:00,2024,Championship,Scotland,Morton,,,Falkirk,Not Started
+2025-02-22T15:00:00+00:00,2024,Championship,Scotland,Partick,,,Airdrie United,Not Started
+2025-02-22T15:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Hamilton Academical,Not Started
+2025-02-25T19:45:00+00:00,2024,Championship,Scotland,Airdrie United,,,Raith Rovers,Not Started
+2025-02-25T19:45:00+00:00,2024,Championship,Scotland,Falkirk,,,Partick,Not Started
+2025-02-25T19:45:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Dunfermline,Not Started
+2025-02-25T19:45:00+00:00,2024,Championship,Scotland,Livingston,,,Morton,Not Started
+2025-02-25T19:45:00+00:00,2024,Championship,Scotland,Queen's Park,,,Ayr Utd,Not Started
+2025-03-01T15:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Airdrie United,Not Started
+2025-03-01T15:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Morton,Not Started
+2025-03-01T15:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Falkirk,Not Started
+2025-03-01T15:00:00+00:00,2024,Championship,Scotland,Partick,,,Livingston,Not Started
+2025-03-01T15:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Queen's Park,Not Started
+2025-03-08T15:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Hamilton Academical,Not Started
+2025-03-08T15:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Dunfermline,Not Started
+2025-03-08T15:00:00+00:00,2024,Championship,Scotland,Morton,,,Ayr Utd,Not Started
+2025-03-08T15:00:00+00:00,2024,Championship,Scotland,Livingston,,,Raith Rovers,Not Started
+2025-03-08T15:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Partick,Not Started
+2025-03-15T15:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Livingston,Not Started
+2025-03-15T15:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Morton,Not Started
+2025-03-15T15:00:00+00:00,2024,Championship,Scotland,Partick,,,Ayr Utd,Not Started
+2025-03-15T15:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Falkirk,Not Started
+2025-03-15T15:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Dunfermline,Not Started
+2025-03-22T15:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Hamilton Academical,Not Started
+2025-03-22T15:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Livingston,Not Started
+2025-03-22T15:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Airdrie United,Not Started
+2025-03-22T15:00:00+00:00,2024,Championship,Scotland,Morton,,,Queen's Park,Not Started
+2025-03-22T15:00:00+00:00,2024,Championship,Scotland,Partick,,,Raith Rovers,Not Started
+2025-03-29T15:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Dunfermline,Not Started
+2025-03-29T15:00:00+00:00,2024,Championship,Scotland,Morton,,,Partick,Not Started
+2025-03-29T15:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Raith Rovers,Not Started
+2025-03-29T15:00:00+00:00,2024,Championship,Scotland,Livingston,,,Falkirk,Not Started
+2025-03-29T15:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Airdrie United,Not Started
+2025-04-05T14:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Partick,Not Started
+2025-04-05T14:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Hamilton Academical,Not Started
+2025-04-05T14:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Morton,Not Started
+2025-04-05T14:00:00+00:00,2024,Championship,Scotland,Livingston,,,Queen's Park,Not Started
+2025-04-05T14:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Ayr Utd,Not Started
+2025-04-12T14:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Falkirk,Not Started
+2025-04-12T14:00:00+00:00,2024,Championship,Scotland,Morton,,,Livingston,Not Started
+2025-04-12T14:00:00+00:00,2024,Championship,Scotland,Partick,,,Hamilton Academical,Not Started
+2025-04-12T14:00:00+00:00,2024,Championship,Scotland,Queen's Park,,,Dunfermline,Not Started
+2025-04-12T14:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Airdrie United,Not Started
+2025-04-19T14:00:00+00:00,2024,Championship,Scotland,Airdrie United,,,Morton,Not Started
+2025-04-19T14:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Partick,Not Started
+2025-04-19T14:00:00+00:00,2024,Championship,Scotland,Falkirk,,,Raith Rovers,Not Started
+2025-04-19T14:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Queen's Park,Not Started
+2025-04-19T14:00:00+00:00,2024,Championship,Scotland,Livingston,,,Ayr Utd,Not Started
+2025-04-26T14:00:00+00:00,2024,Championship,Scotland,Ayr Utd,,,Queen's Park,Not Started
+2025-04-26T14:00:00+00:00,2024,Championship,Scotland,Dunfermline,,,Airdrie United,Not Started
+2025-04-26T14:00:00+00:00,2024,Championship,Scotland,Hamilton Academical,,,Livingston,Not Started
+2025-04-26T14:00:00+00:00,2024,Championship,Scotland,Partick,,,Falkirk,Not Started
+2025-04-26T14:00:00+00:00,2024,Championship,Scotland,Raith Rovers,,,Morton,Not Started
+2025-05-02T18:45:00+00:00,2024,Championship,Scotland,Airdrie United,,,Ayr Utd,Not Started
+2025-05-02T18:45:00+00:00,2024,Championship,Scotland,Falkirk,,,Hamilton Academical,Not Started
+2025-05-02T18:45:00+00:00,2024,Championship,Scotland,Morton,,,Dunfermline,Not Started
+2025-05-02T18:45:00+00:00,2024,Championship,Scotland,Livingston,,,Partick,Not Started
+2025-05-02T18:45:00+00:00,2024,Championship,Scotland,Queen's Park,,,Raith Rovers,Not Started

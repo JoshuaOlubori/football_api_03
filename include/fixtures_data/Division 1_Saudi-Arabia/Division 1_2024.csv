@@ -1,0 +1,154 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-21T16:10:00+00:00,2024,Division 1,Saudi-Arabia,Abha,,,Al Zulfi,Not Started
+2024-08-20T16:20:00+00:00,2024,Division 1,Saudi-Arabia,Al-Faisaly FC,,,Al-Ain,Not Started
+2024-08-21T16:10:00+00:00,2024,Division 1,Saudi-Arabia,Al-Hazm,,,Al Suqoor,Not Started
+2024-08-21T17:50:00+00:00,2024,Division 1,Saudi-Arabia,Ohod,,,Al Arabi SC,Not Started
+2024-08-20T16:20:00+00:00,2024,Division 1,Saudi-Arabia,Al Jabalain,,,Al Jandal,Not Started
+2024-08-19T17:50:00+00:00,2024,Division 1,Saudi-Arabia,Al Baten,,,Jeddah Club,Not Started
+2024-08-20T17:50:00+00:00,2024,Division 1,Saudi-Arabia,Al Jubail,,,Al Taee,Not Started
+2024-08-19T16:15:00+00:00,2024,Division 1,Saudi-Arabia,Al Safa,,,Al Najma,Not Started
+2024-08-19T15:50:00+00:00,2024,Division 1,Saudi-Arabia,Al-Adalah,,,Al Bukayriyah,Not Started
+2024-08-25T15:45:00+00:00,2024,Division 1,Saudi-Arabia,Al Safa,,,Al-Ain,Not Started
+2024-08-25T16:00:00+00:00,2024,Division 1,Saudi-Arabia,Al-Faisaly FC,,,Al-Adalah,Not Started
+2024-08-25T17:50:00+00:00,2024,Division 1,Saudi-Arabia,Al Taee,,,Jeddah Club,Not Started
+2024-08-26T16:05:00+00:00,2024,Division 1,Saudi-Arabia,Al Baten,,,Al-Hazm,Not Started
+2024-08-26T16:05:00+00:00,2024,Division 1,Saudi-Arabia,Al Bukayriyah,,,Al Jubail,Not Started
+2024-08-26T17:50:00+00:00,2024,Division 1,Saudi-Arabia,Al Zulfi,,,Al Najma,Not Started
+2024-08-27T16:10:00+00:00,2024,Division 1,Saudi-Arabia,Al Arabi SC,,,Abha,Not Started
+2024-08-27T16:25:00+00:00,2024,Division 1,Saudi-Arabia,Ohod,,,Al Jabalain,Not Started
+2024-08-27T17:50:00+00:00,2024,Division 1,Saudi-Arabia,Al Suqoor,,,Al Jandal,Not Started
+2024-08-30T15:40:00+00:00,2024,Division 1,Saudi-Arabia,Al-Adalah,,,Al Safa,Not Started
+2024-08-30T16:10:00+00:00,2024,Division 1,Saudi-Arabia,Al-Ain,,,Al Taee,Not Started
+2024-08-31T16:05:00+00:00,2024,Division 1,Saudi-Arabia,Al-Hazm,,,Al-Faisaly FC,Not Started
+2024-08-31T16:05:00+00:00,2024,Division 1,Saudi-Arabia,Al Najma,,,Al Baten,Not Started
+2024-08-31T17:45:00+00:00,2024,Division 1,Saudi-Arabia,Jeddah Club,,,Al Zulfi,Not Started
+2024-09-01T15:40:00+00:00,2024,Division 1,Saudi-Arabia,Al Jubail,,,Al Suqoor,Not Started
+2024-09-01T16:05:00+00:00,2024,Division 1,Saudi-Arabia,Abha,,,Ohod,Not Started
+2024-09-01T16:20:00+00:00,2024,Division 1,Saudi-Arabia,Al Jandal,,,Al Arabi SC,Not Started
+2024-09-01T17:45:00+00:00,2024,Division 1,Saudi-Arabia,Al Jabalain,,,Al Bukayriyah,Not Started
+2024-09-16T15:40:00+00:00,2024,Division 1,Saudi-Arabia,Al Zulfi,,,Al-Adalah,Not Started
+2024-09-16T15:40:00+00:00,2024,Division 1,Saudi-Arabia,Al Bukayriyah,,,Abha,Not Started
+2024-09-16T17:30:00+00:00,2024,Division 1,Saudi-Arabia,Al Arabi SC,,,Al Jabalain,Not Started
+2024-09-17T15:40:00+00:00,2024,Division 1,Saudi-Arabia,Al-Faisaly FC,,,Al Jubail,Not Started
+2024-09-17T15:55:00+00:00,2024,Division 1,Saudi-Arabia,Al Taee,,,Al-Hazm,Not Started
+2024-09-17T17:30:00+00:00,2024,Division 1,Saudi-Arabia,Al Suqoor,,,Al-Ain,Not Started
+2024-09-18T15:20:00+00:00,2024,Division 1,Saudi-Arabia,Al Safa,,,Al Najma,Not Started
+2024-09-18T15:35:00+00:00,2024,Division 1,Saudi-Arabia,Al Baten,,,Jeddah Club,Not Started
+2024-09-18T17:30:00+00:00,2024,Division 1,Saudi-Arabia,Ohod,,,Al Jandal,Not Started
+2024-09-29T15:40:00+00:00,2024,Division 1,Saudi-Arabia,Al Taee,,,Ohod,Not Started
+2024-09-29T15:40:00+00:00,2024,Division 1,Saudi-Arabia,Al-Ain,,,Al Bukayriyah,Not Started
+2024-09-29T17:15:00+00:00,2024,Division 1,Saudi-Arabia,Al Jubail,,,Al Arabi SC,Not Started
+2024-09-30T15:35:00+00:00,2024,Division 1,Saudi-Arabia,Al-Hazm,,,Al-Adalah,Not Started
+2024-09-30T15:35:00+00:00,2024,Division 1,Saudi-Arabia,Al Jabalain,,,Al Zulfi,Not Started
+2024-09-30T17:15:00+00:00,2024,Division 1,Saudi-Arabia,Jeddah Club,,,Al Safa,Not Started
+2024-10-01T15:40:00+00:00,2024,Division 1,Saudi-Arabia,Al Jandal,,,Al Baten,Not Started
+2024-10-01T15:40:00+00:00,2024,Division 1,Saudi-Arabia,Abha,,,Al-Faisaly FC,Not Started
+2024-10-01T17:15:00+00:00,2024,Division 1,Saudi-Arabia,Al Najma,,,Al Suqoor,Not Started
+2024-10-04T15:25:00+00:00,2024,Division 1,Saudi-Arabia,Al Arabi SC,,,Al-Ain,Not Started
+2024-10-04T15:25:00+00:00,2024,Division 1,Saudi-Arabia,Al Bukayriyah,,,Al Taee,Not Started
+2024-10-05T15:05:00+00:00,2024,Division 1,Saudi-Arabia,Al-Adalah,,,Al Jabalain,Not Started
+2024-10-05T15:15:00+00:00,2024,Division 1,Saudi-Arabia,Al Zulfi,,,Al Jubail,Not Started
+2024-10-05T15:50:00+00:00,2024,Division 1,Saudi-Arabia,Al Suqoor,,,Al-Hazm,Not Started
+2024-10-05T17:00:00+00:00,2024,Division 1,Saudi-Arabia,Ohod,,,Jeddah Club,Not Started
+2024-10-06T15:00:00+00:00,2024,Division 1,Saudi-Arabia,Al Safa,,,Al Jandal,Not Started
+2024-10-06T15:15:00+00:00,2024,Division 1,Saudi-Arabia,Al Baten,,,Abha,Not Started
+2024-10-06T17:00:00+00:00,2024,Division 1,Saudi-Arabia,Al-Faisaly FC,,,Al Najma,Not Started
+2024-10-21T14:45:00+00:00,2024,Division 1,Saudi-Arabia,Al Safa,,,Al Suqoor,Not Started
+2024-10-21T15:00:00+00:00,2024,Division 1,Saudi-Arabia,Al Baten,,,Al Zulfi,Not Started
+2024-10-21T16:50:00+00:00,2024,Division 1,Saudi-Arabia,Al Najma,,,Al Arabi SC,Not Started
+2024-10-22T15:20:00+00:00,2024,Division 1,Saudi-Arabia,Al Jandal,,,Al-Ain,Not Started
+2024-10-22T15:20:00+00:00,2024,Division 1,Saudi-Arabia,Ohod,,,Al Bukayriyah,Not Started
+2024-10-22T16:50:00+00:00,2024,Division 1,Saudi-Arabia,Al Jubail,,,Al-Adalah,Not Started
+2024-10-23T15:05:00+00:00,2024,Division 1,Saudi-Arabia,Al-Faisaly FC,,,Al Taee,Not Started
+2024-10-23T15:05:00+00:00,2024,Division 1,Saudi-Arabia,Al-Hazm,,,Abha,Not Started
+2024-10-23T16:50:00+00:00,2024,Division 1,Saudi-Arabia,Jeddah Club,,,Al Jabalain,Not Started
+2024-10-28T11:50:00+00:00,2024,Division 1,Saudi-Arabia,Al Suqoor,,,Ohod,Not Started
+2024-10-28T13:45:00+00:00,2024,Division 1,Saudi-Arabia,Al-Adalah,,,Al Najma,Not Started
+2024-10-28T14:05:00+00:00,2024,Division 1,Saudi-Arabia,Al Bukayriyah,,,Al Jandal,Not Started
+2024-10-29T15:05:00+00:00,2024,Division 1,Saudi-Arabia,Al Arabi SC,,,Al Baten,Not Started
+2024-10-29T15:05:00+00:00,2024,Division 1,Saudi-Arabia,Al Taee,,,Al Safa,Not Started
+2024-10-29T16:15:00+00:00,2024,Division 1,Saudi-Arabia,Al Zulfi,,,Al-Faisaly FC,Not Started
+2024-10-30T12:40:00+00:00,2024,Division 1,Saudi-Arabia,Abha,,,Jeddah Club,Not Started
+2024-10-30T12:40:00+00:00,2024,Division 1,Saudi-Arabia,Al-Ain,,,Al Jubail,Not Started
+2024-10-30T15:10:00+00:00,2024,Division 1,Saudi-Arabia,Al Jabalain,,,Al-Hazm,Not Started
+2024-11-03T14:35:00+00:00,2024,Division 1,Saudi-Arabia,Al Safa,,,Al Baten,Not Started
+2024-11-03T15:20:00+00:00,2024,Division 1,Saudi-Arabia,Ohod,,,Al Arabi SC,Not Started
+2024-11-03T16:15:00+00:00,2024,Division 1,Saudi-Arabia,Al-Faisaly FC,,,Al Bukayriyah,Not Started
+2024-11-04T12:30:00+00:00,2024,Division 1,Saudi-Arabia,Al Jandal,,,Al Taee,Not Started
+2024-11-04T15:00:00+00:00,2024,Division 1,Saudi-Arabia,Al-Hazm,,,Al Zulfi,Not Started
+2024-11-04T15:25:00+00:00,2024,Division 1,Saudi-Arabia,Jeddah Club,,,Al-Adalah,Not Started
+2024-11-05T12:25:00+00:00,2024,Division 1,Saudi-Arabia,Al Jabalain,,,Al Suqoor,Not Started
+2024-11-05T14:35:00+00:00,2024,Division 1,Saudi-Arabia,Al Jubail,,,Abha,Not Started
+2024-11-05T15:00:00+00:00,2024,Division 1,Saudi-Arabia,Al Najma,,,Al-Ain,Not Started
+2024-11-08T14:30:00+00:00,2024,Division 1,Saudi-Arabia,Al Safa,,,Ohod,Not Started
+2024-11-08T14:45:00+00:00,2024,Division 1,Saudi-Arabia,Al Baten,,,Al Bukayriyah,Not Started
+2024-11-08T16:15:00+00:00,2024,Division 1,Saudi-Arabia,Al Arabi SC,,,Al-Faisaly FC,Not Started
+2024-11-09T12:25:00+00:00,2024,Division 1,Saudi-Arabia,Al Jandal,,,Al Zulfi,Not Started
+2024-11-09T15:00:00+00:00,2024,Division 1,Saudi-Arabia,Al-Hazm,,,Jeddah Club,Not Started
+2024-11-10T12:35:00+00:00,2024,Division 1,Saudi-Arabia,Al-Ain,,,Al Jabalain,Not Started
+2024-11-10T12:35:00+00:00,2024,Division 1,Saudi-Arabia,Abha,,,Al-Adalah,Not Started
+2024-11-10T14:30:00+00:00,2024,Division 1,Saudi-Arabia,Al Jubail,,,Al Najma,Not Started
+2024-11-10T15:05:00+00:00,2024,Division 1,Saudi-Arabia,Al Taee,,,Al Suqoor,Not Started
+2024-11-25T12:15:00+00:00,2024,Division 1,Saudi-Arabia,Al Najma,,,Al-Hazm,Not Started
+2024-11-25T15:00:00+00:00,2024,Division 1,Saudi-Arabia,Al Jabalain,,,Al Taee,Not Started
+2024-11-25T15:20:00+00:00,2024,Division 1,Saudi-Arabia,Jeddah Club,,,Al Jubail,Not Started
+2024-11-26T12:10:00+00:00,2024,Division 1,Saudi-Arabia,Al-Faisaly FC,,,Al Safa,Not Started
+2024-11-26T12:40:00+00:00,2024,Division 1,Saudi-Arabia,Al Suqoor,,,Al Baten,Not Started
+2024-11-26T14:30:00+00:00,2024,Division 1,Saudi-Arabia,Al-Adalah,,,Al Jandal,Not Started
+2024-11-27T12:10:00+00:00,2024,Division 1,Saudi-Arabia,Al Zulfi,,,Abha,Not Started
+2024-11-27T12:35:00+00:00,2024,Division 1,Saudi-Arabia,Ohod,,,Al-Ain,Not Started
+2024-11-27T14:50:00+00:00,2024,Division 1,Saudi-Arabia,Al Bukayriyah,,,Al Arabi SC,Not Started
+2024-12-02T12:10:00+00:00,2024,Division 1,Saudi-Arabia,Al-Faisaly FC,,,Al Jandal,Not Started
+2024-12-02T12:10:00+00:00,2024,Division 1,Saudi-Arabia,Al Najma,,,Jeddah Club,Not Started
+2024-12-02T14:25:00+00:00,2024,Division 1,Saudi-Arabia,Al Jubail,,,Al Jabalain,Not Started
+2024-12-03T12:35:00+00:00,2024,Division 1,Saudi-Arabia,Ohod,,,Al Zulfi,Not Started
+2024-12-03T12:35:00+00:00,2024,Division 1,Saudi-Arabia,Al-Ain,,,Al-Adalah,Not Started
+2024-12-03T14:50:00+00:00,2024,Division 1,Saudi-Arabia,Al Arabi SC,,,Al-Hazm,Not Started
+2024-12-04T12:20:00+00:00,2024,Division 1,Saudi-Arabia,Al Taee,,,Al Baten,Not Started
+2024-12-04T12:30:00+00:00,2024,Division 1,Saudi-Arabia,Abha,,,Al Safa,Not Started
+2024-12-04T14:50:00+00:00,2024,Division 1,Saudi-Arabia,Al Bukayriyah,,,Al Suqoor,Not Started
+2024-12-09T12:10:00+00:00,2024,Division 1,Saudi-Arabia,Al Zulfi,,,Al-Ain,Not Started
+2024-12-09T12:20:00+00:00,2024,Division 1,Saudi-Arabia,Al Jabalain,,,Al Najma,Not Started
+2024-12-09T15:20:00+00:00,2024,Division 1,Saudi-Arabia,Jeddah Club,,,Al-Faisaly FC,Not Started
+2024-12-10T12:00:00+00:00,2024,Division 1,Saudi-Arabia,Al Baten,,,Ohod,Not Started
+2024-12-10T12:40:00+00:00,2024,Division 1,Saudi-Arabia,Al Suqoor,,,Al Arabi SC,Not Started
+2024-12-10T14:30:00+00:00,2024,Division 1,Saudi-Arabia,Al-Adalah,,,Al Taee,Not Started
+2024-12-11T12:20:00+00:00,2024,Division 1,Saudi-Arabia,Al Jandal,,,Abha,Not Started
+2024-12-11T12:20:00+00:00,2024,Division 1,Saudi-Arabia,Al-Hazm,,,Al Jubail,Not Started
+2024-12-11T14:25:00+00:00,2024,Division 1,Saudi-Arabia,Al Safa,,,Al Bukayriyah,Not Started
+2024-12-16T12:25:00+00:00,2024,Division 1,Saudi-Arabia,Al Taee,,,Al Arabi SC,Not Started
+2024-12-16T12:45:00+00:00,2024,Division 1,Saudi-Arabia,Al Suqoor,,,Jeddah Club,Not Started
+2024-12-16T15:15:00+00:00,2024,Division 1,Saudi-Arabia,Ohod,,,Al-Adalah,Not Started
+2024-12-17T12:25:00+00:00,2024,Division 1,Saudi-Arabia,Al Jandal,,,Al Jubail,Not Started
+2024-12-17T12:40:00+00:00,2024,Division 1,Saudi-Arabia,Al-Ain,,,Al-Hazm,Not Started
+2024-12-17T14:30:00+00:00,2024,Division 1,Saudi-Arabia,Al Safa,,,Al Zulfi,Not Started
+2024-12-18T12:05:00+00:00,2024,Division 1,Saudi-Arabia,Al Baten,,,Al-Faisaly FC,Not Started
+2024-12-18T12:35:00+00:00,2024,Division 1,Saudi-Arabia,Abha,,,Al Jabalain,Not Started
+2024-12-18T14:55:00+00:00,2024,Division 1,Saudi-Arabia,Al Bukayriyah,,,Al Najma,Not Started
+2025-01-04T12:30:00+00:00,2024,Division 1,Saudi-Arabia,Al Zulfi,,,Al Taee,Not Started
+2025-01-04T12:30:00+00:00,2024,Division 1,Saudi-Arabia,Al-Hazm,,,Al Bukayriyah,Not Started
+2025-01-04T15:30:00+00:00,2024,Division 1,Saudi-Arabia,Jeddah Club,,,Al-Ain,Not Started
+2025-01-05T12:35:00+00:00,2024,Division 1,Saudi-Arabia,Al Arabi SC,,,Al Safa,Not Started
+2025-01-05T12:35:00+00:00,2024,Division 1,Saudi-Arabia,Al Jabalain,,,Al Jandal,Not Started
+2025-01-05T14:45:00+00:00,2024,Division 1,Saudi-Arabia,Al-Adalah,,,Al Baten,Not Started
+2025-01-06T12:25:00+00:00,2024,Division 1,Saudi-Arabia,Al-Faisaly FC,,,Al Suqoor,Not Started
+2025-01-06T12:25:00+00:00,2024,Division 1,Saudi-Arabia,Al Najma,,,Abha,Not Started
+2025-01-06T14:40:00+00:00,2024,Division 1,Saudi-Arabia,Al Jubail,,,Ohod,Not Started
+2025-01-10T12:30:00+00:00,2024,Division 1,Saudi-Arabia,Al Jandal,,,Al-Hazm,Not Started
+2025-01-10T12:30:00+00:00,2024,Division 1,Saudi-Arabia,Al Bukayriyah,,,Al Zulfi,Not Started
+2025-01-10T14:40:00+00:00,2024,Division 1,Saudi-Arabia,Al Safa,,,Al Jabalain,Not Started
+2025-01-11T12:35:00+00:00,2024,Division 1,Saudi-Arabia,Al Arabi SC,,,Jeddah Club,Not Started
+2025-01-11T12:55:00+00:00,2024,Division 1,Saudi-Arabia,Al Suqoor,,,Al-Adalah,Not Started
+2025-01-11T12:55:00+00:00,2024,Division 1,Saudi-Arabia,Ohod,,,Al Najma,Not Started
+2025-01-12T12:20:00+00:00,2024,Division 1,Saudi-Arabia,Al Baten,,,Al Jubail,Not Started
+2025-01-12T12:40:00+00:00,2024,Division 1,Saudi-Arabia,Al Taee,,,Abha,Not Started
+2025-01-12T12:50:00+00:00,2024,Division 1,Saudi-Arabia,Al-Ain,,,Al-Faisaly FC,Not Started
+2025-01-15T12:35:00+00:00,2024,Division 1,Saudi-Arabia,Al Najma,,,Al Jandal,Not Started
+2025-01-15T12:35:00+00:00,2024,Division 1,Saudi-Arabia,Al-Hazm,,,Al Safa,Not Started
+2025-01-15T15:40:00+00:00,2024,Division 1,Saudi-Arabia,Jeddah Club,,,Al Bukayriyah,Not Started
+2025-01-16T12:30:00+00:00,2024,Division 1,Saudi-Arabia,Al Zulfi,,,Al Suqoor,Not Started
+2025-01-16T12:45:00+00:00,2024,Division 1,Saudi-Arabia,Al Jabalain,,,Al Baten,Not Started
+2025-01-16T14:50:00+00:00,2024,Division 1,Saudi-Arabia,Al-Adalah,,,Al Arabi SC,Not Started
+2025-01-17T12:30:00+00:00,2024,Division 1,Saudi-Arabia,Al-Faisaly FC,,,Ohod,Not Started
+2025-01-17T12:55:00+00:00,2024,Division 1,Saudi-Arabia,Abha,,,Al-Ain,Not Started
+2025-01-17T14:50:00+00:00,2024,Division 1,Saudi-Arabia,Al Jubail,,,Al Taee,Not Started

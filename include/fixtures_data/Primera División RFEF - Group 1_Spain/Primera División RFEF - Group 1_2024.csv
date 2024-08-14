@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2024-08-24T18:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Lugo,Not Started
+2024-08-24T16:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Gimnástica Segoviana,Not Started
+2024-08-24T19:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Zamora,Not Started
+2024-08-25T18:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Real Unión,Not Started
+2024-08-24T18:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Ourense CF,Not Started
+2024-08-25T18:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Arenteiro,Not Started
+2024-08-25T16:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Barakaldo,Not Started
+2024-08-25T16:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,FC Andorra,Not Started
+2024-08-25T16:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Unionistas de Salamanca,Not Started
+2024-08-31T16:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Cultural Leonesa,Not Started
+2024-08-31T16:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Real Sociedad II,Not Started
+2024-08-31T17:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Barcelona B,Not Started
+2024-09-01T16:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Sestao River,Not Started
+2024-09-01T16:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Celta de Vigo II,Not Started
+2024-09-01T18:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Ponferradina,Not Started
+2024-08-31T19:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Athletic Club II,Not Started
+2024-09-01T18:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Amorebieta,Not Started
+2024-09-01T16:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Osasuna II,Not Started
+2024-09-01T18:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Tarazona,Not Started
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Real Sociedad II,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Unionistas de Salamanca,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Zamora,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Gimnástica Segoviana,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Gimnastic,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Real Unión,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Ourense CF,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Arenteiro,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Lugo,Time to be defined
+2024-09-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,FC Andorra,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Athletic Club II,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Sestao River,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Ponferradina,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Tarazona,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Celta de Vigo II,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Cultural Leonesa,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Barakaldo,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Amorebieta,Time to be defined
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Barcelona B,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Unionistas de Salamanca,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Osasuna II,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Gimnastic,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Ourense CF,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Zamora,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Arenteiro,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Lugo,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Athletic Club II,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Real Unión,Time to be defined
+2024-09-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,FC Andorra,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Gimnástica Segoviana,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Celta de Vigo II,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Sestao River,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Ponferradina,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Real Sociedad II,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Cultural Leonesa,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Barakaldo,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Amorebieta,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,FC Andorra,Time to be defined
+2024-09-29T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Barcelona B,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Unionistas de Salamanca,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Gimnastic,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Tarazona,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Athletic Club II,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Real Unión,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Zamora,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Arenteiro,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Celta de Vigo II,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Osasuna II,Time to be defined
+2024-10-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Barcelona B,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Gimnastic,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Ourense CF,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Ponferradina,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Gimnástica Segoviana,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Real Sociedad II,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Barakaldo,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Amorebieta,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Sestao River,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,FC Andorra,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Zamora,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Unionistas de Salamanca,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Tarazona,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Cultural Leonesa,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Osasuna II,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Arenteiro,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Celta de Vigo II,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Athletic Club II,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Real Unión,Time to be defined
+2024-10-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Barcelona B,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Unionistas de Salamanca,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Gimnástica Segoviana,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Ponferradina,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Ourense CF,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Real Sociedad II,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Lugo,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Barakaldo,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Amorebieta,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Sestao River,Time to be defined
+2024-10-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Gimnastic,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Zamora,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Tarazona,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Cultural Leonesa,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Arenteiro,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Celta de Vigo II,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Athletic Club II,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Real Unión,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Osasuna II,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,FC Andorra,Time to be defined
+2024-11-03T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Barcelona B,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Ourense CF,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Sestao River,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Gimnastic,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Unionistas de Salamanca,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Barakaldo,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Lugo,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Ponferradina,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Amorebieta,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Real Sociedad II,Time to be defined
+2024-11-10T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Gimnástica Segoviana,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Tarazona,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Cultural Leonesa,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Osasuna II,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Ponferradina,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Barcelona B,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Real Unión,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Sestao River,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Zamora,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Arenteiro,Time to be defined
+2024-11-17T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,FC Andorra,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Osasuna II,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Gimnástica Segoviana,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Unionistas de Salamanca,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Gimnastic,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Ourense CF,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Celta de Vigo II,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Lugo,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Athletic Club II,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Barakaldo,Time to be defined
+2024-11-24T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Amorebieta,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Ponferradina,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Barcelona B,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Zamora,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Real Unión,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Real Sociedad II,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Sestao River,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Tarazona,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Cultural Leonesa,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Barakaldo,Time to be defined
+2024-12-01T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,FC Andorra,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Cultural Leonesa,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Osasuna II,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Celta de Vigo II,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Ourense CF,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Arenteiro,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Lugo,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Athletic Club II,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Amorebieta,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Gimnastic,Time to be defined
+2024-12-08T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Unionistas de Salamanca,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Sestao River,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Real Unión,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Ponferradina,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Gimnástica Segoviana,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Tarazona,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Barakaldo,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Zamora,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Real Sociedad II,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,FC Andorra,Time to be defined
+2024-12-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Barcelona B,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Tarazona,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Osasuna II,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Ourense CF,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Arenteiro,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Celta de Vigo II,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Lugo,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Cultural Leonesa,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Athletic Club II,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Amorebieta,Time to be defined
+2024-12-22T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Gimnastic,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Real Sociedad II,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Sestao River,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Barakaldo,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Zamora,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Gimnástica Segoviana,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Lugo,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Amorebieta,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,FC Andorra,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Barcelona B,Time to be defined
+2025-01-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Unionistas de Salamanca,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Ourense CF,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Tarazona,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Athletic Club II,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Ponferradina,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Arenteiro,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Celta de Vigo II,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Cultural Leonesa,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Real Unión,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Osasuna II,Time to be defined
+2025-01-19T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Gimnastic,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Barakaldo,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Unionistas de Salamanca,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Sestao River,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Gimnástica Segoviana,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Real Sociedad II,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Zamora,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Amorebieta,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,FC Andorra,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Barcelona B,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Gimnastic,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Osasuna II,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Real Unión,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Arenteiro,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Ourense CF,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Tarazona,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Cultural Leonesa,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Ponferradina,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Athletic Club II,Time to be defined
+2025-02-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Barcelona B,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Zamora,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Unionistas de Salamanca,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Lugo,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Gimnástica Segoviana,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Arenteiro,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Celta de Vigo II,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Barakaldo,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Amorebieta,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Real Sociedad II,Time to be defined
+2025-02-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Gimnastic,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Tarazona,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Real Unión,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Sestao River,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Ponferradina,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Ourense CF,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Cultural Leonesa,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Athletic Club II,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Osasuna II,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,FC Andorra,Time to be defined
+2025-02-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Barcelona B,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Gimnástica Segoviana,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Lugo,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Unionistas de Salamanca,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Zamora,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Arenteiro,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Celta de Vigo II,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Amorebieta,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Real Sociedad II,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Osasuna II,Time to be defined
+2025-02-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Gimnastic,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Sestao River,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Ponferradina,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Tarazona,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Real Unión,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Ourense CF,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Cultural Leonesa,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Athletic Club II,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Barakaldo,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,FC Andorra,Time to be defined
+2025-03-02T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Barcelona B,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Zamora,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Gimnástica Segoviana,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Lugo,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Celta de Vigo II,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Osasuna II,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Ourense CF,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Arenteiro,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Amorebieta,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Real Sociedad II,Time to be defined
+2025-03-09T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Gimnastic,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Real Unión,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Ponferradina,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Sestao River,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Unionistas de Salamanca,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,FC Andorra,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Zamora,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Tarazona,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Cultural Leonesa,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Athletic Club II,Time to be defined
+2025-03-16T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Barakaldo,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Real Sociedad II,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Real Unión,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Barcelona B,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Celta de Vigo II,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Osasuna II,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Tarazona,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Arenteiro,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Gimnástica Segoviana,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Lugo,Time to be defined
+2025-03-23T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Gimnastic,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Celta de Vigo II,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Ourense CF,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Sestao River,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Cultural Leonesa,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Ponferradina,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Athletic Club II,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Barakaldo,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Amorebieta,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,FC Andorra,Time to be defined
+2025-03-30T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Unionistas de Salamanca,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Zamora,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Gimnástica Segoviana,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Real Unión,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Real Sociedad II,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Tarazona,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Arenteiro,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Athletic Club II,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Osasuna II,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Barcelona B,Time to be defined
+2025-04-06T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Gimnastic,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Ourense CF,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Sestao River,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Unionistas de Salamanca,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Celta de Vigo II,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Lugo,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Cultural Leonesa,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Ponferradina,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Barakaldo,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Amorebieta,Time to be defined
+2025-04-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,FC Andorra,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Tarazona,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Real Sociedad II,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Gimnastic,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Sestao River,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Zamora,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Gimnástica Segoviana,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Arenteiro,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Athletic Club II,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Osasuna II,Time to be defined
+2025-04-20T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Barcelona B,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Lugo,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Cultural Leonesa,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Unionistas de Salamanca,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Real Unión,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Ourense CF,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Celta de Vigo II,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Ponferradina,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Barakaldo,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Amorebieta,Time to be defined
+2025-04-27T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,FC Andorra,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Zamora,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Osasuna II,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Tarazona,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Gimnastic,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Sestao River,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Cultural Leonesa,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Athletic Club II,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Amorebieta,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Real Sociedad II,Time to be defined
+2025-05-04T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Barcelona B,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Unionistas de Salamanca,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Celta de Vigo II,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Ourense CF,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Arenteiro,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Lugo,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Ponferradina,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Barakaldo,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Real Unión,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,FC Andorra,Time to be defined
+2025-05-11T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Gimnástica Segoviana,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Arenteiro,,,Real Sociedad II,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Lugo,,,Zamora,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barakaldo,,,Barcelona B,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,FC Andorra,,,Sestao River,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Tarazona,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Cultural Leonesa,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Athletic Club II,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Amorebieta,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Unión,,,Osasuna II,Time to be defined
+2025-05-18T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnástica Segoviana,,,Gimnastic,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Athletic Club II,,,Real Unión,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Amorebieta,,,Lugo,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Osasuna II,,,Ourense CF,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Barcelona B,,,Unionistas de Salamanca,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Gimnastic,,,Arenteiro,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Celta de Vigo II,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Sestao River,,,Ponferradina,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Tarazona,,,Barakaldo,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,FC Andorra,Time to be defined
+2025-05-25T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Zamora,,,Gimnástica Segoviana,Time to be defined
+2024-08-25T17:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ponferradina,,,Real Sociedad II,Not Started
+2024-09-15T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Ourense CF,,,Gimnástica Segoviana,Time to be defined
+2024-10-13T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Lugo,Time to be defined
+2025-01-26T00:00:00+00:00,2024,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Lugo,Time to be defined
